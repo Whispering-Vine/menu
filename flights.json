@@ -1,0 +1,279 @@
+{
+  "menu": {
+    "title": "Flights & Glasses",
+    "description": "Enjoy your choice of three 3oz. Glasses and/or 8oz. Glass",
+    "notes": "** Denotes 'Weekly Bottle Specials'",
+    "categories": [
+      {
+        "name": "White Variety Flight",
+        "price": 10.75,
+        "items": [
+          {
+            "name": "Guerra Albano",
+            "location": "Italy",
+            "variety": "Sauvignon Blanc",
+            "glassSize": "8oz",
+            "price": 10.75
+          },
+          {
+            "name": "Marietta",
+            "location": "Sonoma",
+            "variety": "Dry Riesling",
+            "glassSize": "8oz",
+            "price": 7.75
+          },
+          {
+            "name": "Meyer Näkel",
+            "location": "Germany",
+            "variety": "Dry Rosé",
+            "glassSize": "8oz",
+            "price": 13.75
+          }
+        ]
+      },
+      {
+        "name": "Bubbles Flight",
+        "price": 14.75,
+        "items": [
+          {
+            "name": "J Vineyards Cuvee",
+            "location": "Sonoma",
+            "variety": "Brut",
+            "glassSize": "8oz",
+            "price": 9.75
+          },
+          {
+            "name": "G.H. Mumm",
+            "location": "Champagne, France",
+            "variety": "Brut",
+            "glassSize": "8oz",
+            "price": 15.75
+          },
+          {
+            "name": "PerrierJouët",
+            "location": "Champagne, France",
+            "variety": "Brut",
+            "glassSize": "8oz",
+            "price": 17.75
+          }
+        ]
+      },
+      {
+        "name": "Chardonnay Flight",
+        "price": 11.75,
+        "items": [
+          {
+            "name": "Peju",
+            "location": "Napa",
+            "variety": "Chardonnay",
+            "glassSize": "8oz",
+            "price": 10.75
+          },
+          {
+            "name": "Chateau Chardonnay",
+            "location": "California",
+            "variety": "Chardonnay",
+            "glassSize": "8oz",
+            "price": 8.75
+          },
+          {
+            "name": "Far Niente Post & Beam",
+            "location": "Napa",
+            "variety": "Chardonnay",
+            "glassSize": "8oz",
+            "price": 13.75
+          }
+        ]
+      },
+      {
+        "name": "Pinot Noir Flight",
+        "price": 16.75,
+        "items": [
+          {
+            "name": "Martin Ray",
+            "location": "Sonoma",
+            "variety": "Pinot Noir",
+            "glassSize": "8oz",
+            "price": 8.75
+          },
+          {
+            "name": "Emeritus",
+            "location": "Russian River",
+            "variety": "Pinot Noir",
+            "glassSize": "8oz",
+            "price": 17.75
+          },
+          {
+            "name": "Æquitas",
+            "location": "Gap's Crown, Sonoma",
+            "variety": "Pinot Noir",
+            "glassSize": "8oz",
+            "price": 21.75
+          }
+        ]
+      },
+      {
+        "name": "Cabernet Flight",
+        "price": 14.75,
+        "items": [
+          {
+            "name": "Educated Guess",
+            "location": "Napa",
+            "variety": "Cabernet",
+            "glassSize": "8oz",
+            "price": 14.75
+          },
+          {
+            "name": "Mount Veeder",
+            "location": "Napa",
+            "variety": "Cabernet",
+            "glassSize": "8oz",
+            "price": 19.75
+          },
+          {
+            "name": "Charles Krug",
+            "location": "Napa",
+            "variety": "Cabernet",
+            "glassSize": "8oz",
+            "price": 12.75
+          }
+        ]
+      },
+      {
+        "name": "Premium Napa Red Flight",
+        "price": 24.75,
+        "items": [
+          {
+            "name": "Far Niente Bella Union",
+            "location": "Napa",
+            "variety": "Cabernet",
+            "glassSize": "8oz",
+            "price": 21.75
+          },
+          {
+            "name": "Immortal",
+            "location": "Napa",
+            "variety": "Cabernet",
+            "glassSize": "8oz",
+            "price": 21.75
+          },
+          {
+            "name": "Double Diamond",
+            "location": "Napa",
+            "variety": "Red Blend",
+            "glassSize": "8oz",
+            "price": 33.75
+          }
+        ]
+      },
+      {
+        "name": "Red Blend Flight",
+        "price": 16.75,
+        "items": [
+          {
+            "name": "Smith & Hook Reserve",
+            "location": "Central Coast",
+            "variety": "Cab, Merlot, Cab Franc",
+            "glassSize": "8oz",
+            "price": 12.75
+          },
+          {
+            "name": "Kipsun",
+            "location": "Red Mountain",
+            "variety": "Cabernet, Syrah, Merlot",
+            "glassSize": "8oz",
+            "price": 21.75
+          },
+          {
+            "name": "Trefethen Dragon's Tooth",
+            "location": "Napa",
+            "variety": "Malbec, Cabernet, Merlot",
+            "glassSize": "8oz",
+            "price": 17.75
+          }
+        ]
+      },
+      {
+        "name": "International Red Flight",
+        "price": 16.75,
+        "items": [
+          {
+            "name": "Domaine Du Vieux",
+            "location": "Burgundy, France",
+            "variety": "Pinot Noir",
+            "glassSize": "8oz",
+            "price": 19.75
+          },
+          {
+            "name": "Madera 5",
+            "location": "Baja, Mexico",
+            "variety": "Nebbiolo",
+            "glassSize": "8oz",
+            "price": 12.75
+          },
+          {
+            "name": "Penfolds Bin 389",
+            "location": "Australia",
+            "variety": "Shiraz, Cabernet",
+            "glassSize": "8oz",
+            "price": 16.75
+          }
+        ]
+      },
+      {
+        "name": "Red Variety Flight",
+        "price": 13.75,
+        "items": [
+          {
+            "name": "Blaire Payton",
+            "location": "Sonoma",
+            "variety": "Grenache",
+            "glassSize": "8oz",
+            "price": 12.75
+          },
+          {
+            "name": "Brecca",
+            "location": "Spain",
+            "variety": "Grenacha",
+            "glassSize": "8oz",
+            "price": 7.75
+          },
+          {
+            "name": "Laird",
+            "location": "Napa",
+            "variety": "Merlot",
+            "glassSize": "8oz",
+            "price": 19.75
+          }
+        ]
+      }
+    ],
+    "weeklySpecials": [
+      {
+        "name": "Schrader 'Double Diamond' Napa Red Blend",
+        "price": 85.99,
+        "notes": "94pts Jeb Dunnuck"
+      },
+      {
+        "name": "Immortal Estate Slope Cabernet Sale",
+        "price": 59.99,
+        "wineryPrice": 85,
+        "notes": "94pts Jeb Dunnuck"
+      },
+      {
+        "name": "Emeritus Hallberg Ranch Pinot Noir",
+        "price": 44.99,
+        "notes": "94pts Tasting Panel"
+      },
+      {
+        "name": "Smith & Hook Reserve Cabernet Sauvignon Sale",
+        "price": 29.99,
+        "wineryPrice": 45
+      },
+      {
+        "name": "Peju Winery Legacy Collection Chardonnay",
+        "price": 25.99
+      }
+    ]
+  }
+}
