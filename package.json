@@ -2,13 +2,13 @@
   "name": "pdf-generator",
   "version": "1.0.0",
   "description": "A project to generate PDFs using Puppeteer and PDF-lib.",
-  "main": "generate-pdf.js",
+  "main": "puppet-action.js",
   "scripts": {
-    "start": "node generate-pdf.js"  // Optional: You can run your script using npm start
+    "start": "node puppet-action.js"
   },
   "dependencies": {
-    "puppeteer": "^23.5.2",  // Check for the latest version
-    "pdf-lib": "^1.17.1"  // Check for the latest version
+    "puppeteer": "^23.5.2",
+    "pdf-lib": "^1.17.1"
   },
   "devDependencies": {},
   "keywords": [],
