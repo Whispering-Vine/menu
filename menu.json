@@ -1,0 +1,1045 @@
+{
+    "menu": {
+      "signature": {
+        "categories": {
+          "signature": {
+            "name": "Signature Selection",
+            "caption": "Enjoy an 8 oz glass",
+            "items": [
+              {
+                "name": "Beau Joie Brut",
+                "description": "Champagne, France | Brut",
+                "price": {
+                  "glass": 14.75,
+                  "bottle": 44.99,
+                  "sale": true
+                }
+              },
+              {
+                "name": "Scharffenberger",
+                "description": "Mendocino | Brut Rosé",
+                "price": {
+                  "glass": 10.75,
+                  "bottle": 24.99
+                }
+              },
+              {
+                "name": "Long Meadow Ranch",
+                "description": "Napa | Sauvignon Blanc",
+                "price": {
+                  "glass": 8.75,
+                  "bottle": 19.99,
+                  "sale": true
+                }
+              },
+              {
+                "name": "Whispering Vine",
+                "description": "Oregon | Pinot Gris",
+                "price": {
+                  "glass": 7.75,
+                  "bottle": 16.99
+                }
+              },
+              {
+                "name": "Whispering Vine",
+                "description": "Oregon | Chardonnay",
+                "price": {
+                  "glass": 8.75,
+                  "bottle": 19.99
+                }
+              },
+              {
+                "name": "Elouan",
+                "description": "Oregon | Chardonnay",
+                "price": {
+                  "glass": 6.75,
+                  "bottle": 15.75
+                }
+              },
+              {
+                "name": "Whispering Vine",
+                "description": "Oregon | Rosé",
+                "price": {
+                  "glass": 7.75,
+                  "bottle": 16.99
+                }
+              },
+              {
+                "name": "Benton Lane",
+                "description": "Oregon | Pinot Noir",
+                "price": {
+                  "glass": 7.75,
+                  "bottle": 16.99
+                }
+              },
+              {
+                "name": "Martinelli \"Bella Vigna\"",
+                "description": "Sonoma Coast | Pinot Noir",
+                "price": {
+                  "glass": 17.75,
+                  "bottle": 45.99
+                }
+              },
+              {
+                "name": "Duckhorn",
+                "description": "Napa | Merlot",
+                "price": {
+                  "glass": 17.75,
+                  "bottle": 49.99,
+                  "sale": true
+                }
+              },
+              {
+                "name": "Quilt \"Threadcount\"",
+                "description": "Paso Robles | Cabernet",
+                "price": {
+                  "glass": 9.75,
+                  "bottle": 24.99
+                }
+              },
+              {
+                "name": "Miner",
+                "description": "Napa | Cabernet",
+                "price": {
+                  "glass": 14.75,
+                  "bottle": 39.99
+                }
+              },
+              {
+                "name": "Harvey & Harriet",
+                "description": "Paso Robles | Cabernet, Syrah",
+                "price": {
+                  "glass": 12.75,
+                  "bottle": 29.99
+                }
+              },
+              {
+                "name": "Marietta Old Vine Red",
+                "description": "Sonoma | Zin, Petite Syrah",
+                "price": {
+                  "glass": 6.75,
+                  "bottle": 15.99
+                }
+              },
+              {
+                "name": "Klinker Brick",
+                "description": "Lodi | Old Vine Zinfandel",
+                "price": {
+                  "glass": 6.75,
+                  "bottle": 17.99
+                }
+              },
+              {
+                "name": "Cala Civetta",
+                "description": "Italy | Sangiovese di Toscana",
+                "price": {
+                  "glass": 6.75,
+                  "bottle": 15.99
+                }
+              },
+              {
+                "name": "Giesen 0% Alcohol Rosé",
+                "description": "New Zealand",
+                "price": {
+                  "glass": 5.75,
+                  "bottle": 13.99
+                }
+              },
+              {
+                "name": "Fritz Muller 0% Alcohol White Blend",
+                "description": "Germany",
+                "price": {
+                  "glass": 6.75,
+                  "bottle": 16.99
+                }
+              },
+              {
+                "name": "Hollow Leg 0% Alcohol Cabernet",
+                "description": "Spain",
+                "price": {
+                  "glass": 8.75,
+                  "bottle": 18.99
+                }
+              }
+            ]
+          },
+          "special-flight": {
+            "name": "Special Flight",
+            "caption": "Special Flight of FOUR Belle Glos Pinot Noirs",
+            "items": [
+              {
+                "name": "Belle Glos Pinot Noirs",
+                "description": "Las Alturas | Dairyman | Balade | Clark & Telephone",
+                "price": 17.75
+              }
+            ]
+          }
+        }
+      },
+      "flights": {
+        "categories": {
+          "flights": {
+            "title": "Flights & Glasses",
+            "caption": "Choose from our range of flights",
+            "items": [
+                {
+                "name": "White Variety Flight",
+                "price": 10.75,
+                "items": [
+                    {
+                    "name": "Guerra Albano",
+                    "location": "Italy",
+                    "variety": "Sauvignon Blanc",
+                    "glassSize": "8oz",
+                    "price": 10.75
+                    },
+                    {
+                    "name": "Marietta",
+                    "location": "Sonoma",
+                    "variety": "Dry Riesling",
+                    "glassSize": "8oz",
+                    "price": 7.75
+                    },
+                    {
+                    "name": "Meyer Näkel",
+                    "location": "Germany",
+                    "variety": "Dry Rosé",
+                    "glassSize": "8oz",
+                    "price": 13.75
+                    }
+                ]
+                },
+                {
+                "name": "Bubbles Flight",
+                "price": 14.75,
+                "items": [
+                    {
+                    "name": "J Vineyards Cuvee",
+                    "location": "Sonoma",
+                    "variety": "Brut",
+                    "glassSize": "8oz",
+                    "price": 9.75
+                    },
+                    {
+                    "name": "G.H. Mumm",
+                    "location": "Champagne, France",
+                    "variety": "Brut",
+                    "glassSize": "8oz",
+                    "price": 15.75
+                    },
+                    {
+                    "name": "PerrierJouët",
+                    "location": "Champagne, France",
+                    "variety": "Brut",
+                    "glassSize": "8oz",
+                    "price": 17.75
+                    }
+                ]
+                },
+                {
+                "name": "Chardonnay Flight",
+                "price": 11.75,
+                "items": [
+                    {
+                    "name": "Peju",
+                    "location": "Napa",
+                    "variety": "Chardonnay",
+                    "glassSize": "8oz",
+                    "price": 10.75
+                    },
+                    {
+                    "name": "Chateau Chardonnay",
+                    "location": "California",
+                    "variety": "Chardonnay",
+                    "glassSize": "8oz",
+                    "price": 8.75
+                    },
+                    {
+                    "name": "Far Niente Post & Beam",
+                    "location": "Napa",
+                    "variety": "Chardonnay",
+                    "glassSize": "8oz",
+                    "price": 13.75
+                    }
+                ]
+                },
+                {
+                "name": "Pinot Noir Flight",
+                "price": 16.75,
+                "items": [
+                    {
+                    "name": "Martin Ray",
+                    "location": "Sonoma",
+                    "variety": "Pinot Noir",
+                    "glassSize": "8oz",
+                    "price": 8.75
+                    },
+                    {
+                    "name": "Emeritus",
+                    "location": "Russian River",
+                    "variety": "Pinot Noir",
+                    "glassSize": "8oz",
+                    "price": 17.75
+                    },
+                    {
+                    "name": "Æquitas",
+                    "location": "Gap's Crown, Sonoma",
+                    "variety": "Pinot Noir",
+                    "glassSize": "8oz",
+                    "price": 21.75
+                    }
+                ]
+                },
+                {
+                "name": "Cabernet Flight",
+                "price": 14.75,
+                "items": [
+                    {
+                    "name": "Educated Guess",
+                    "location": "Napa",
+                    "variety": "Cabernet",
+                    "glassSize": "8oz",
+                    "price": 14.75
+                    },
+                    {
+                    "name": "Mount Veeder",
+                    "location": "Napa",
+                    "variety": "Cabernet",
+                    "glassSize": "8oz",
+                    "price": 19.75
+                    },
+                    {
+                    "name": "Charles Krug",
+                    "location": "Napa",
+                    "variety": "Cabernet",
+                    "glassSize": "8oz",
+                    "price": 12.75
+                    }
+                ]
+                },
+                {
+                "name": "Premium Napa Red Flight",
+                "price": 24.75,
+                "items": [
+                    {
+                    "name": "Far Niente Bella Union",
+                    "location": "Napa",
+                    "variety": "Cabernet",
+                    "glassSize": "8oz",
+                    "price": 21.75
+                    },
+                    {
+                    "name": "Immortal",
+                    "location": "Napa",
+                    "variety": "Cabernet",
+                    "glassSize": "8oz",
+                    "price": 21.75
+                    },
+                    {
+                    "name": "Double Diamond",
+                    "location": "Napa",
+                    "variety": "Red Blend",
+                    "glassSize": "8oz",
+                    "price": 33.75
+                    }
+                ]
+                },
+                {
+                "name": "Red Blend Flight",
+                "price": 16.75,
+                "items": [
+                    {
+                    "name": "Smith & Hook Reserve",
+                    "location": "Central Coast",
+                    "variety": "Cab, Merlot, Cab Franc",
+                    "glassSize": "8oz",
+                    "price": 12.75
+                    },
+                    {
+                    "name": "Kipsun",
+                    "location": "Red Mountain",
+                    "variety": "Cabernet, Syrah, Merlot",
+                    "glassSize": "8oz",
+                    "price": 21.75
+                    },
+                    {
+                    "name": "Trefethen Dragon's Tooth",
+                    "location": "Napa",
+                    "variety": "Malbec, Cabernet, Merlot",
+                    "glassSize": "8oz",
+                    "price": 17.75
+                    }
+                ]
+                },
+                {
+                "name": "International Red Flight",
+                "price": 16.75,
+                "items": [
+                    {
+                    "name": "Domaine Du Vieux",
+                    "location": "Burgundy, France",
+                    "variety": "Pinot Noir",
+                    "glassSize": "8oz",
+                    "price": 19.75
+                    },
+                    {
+                    "name": "Madera 5",
+                    "location": "Baja, Mexico",
+                    "variety": "Nebbiolo",
+                    "glassSize": "8oz",
+                    "price": 12.75
+                    },
+                    {
+                    "name": "Penfolds Bin 389",
+                    "location": "Australia",
+                    "variety": "Shiraz, Cabernet",
+                    "glassSize": "8oz",
+                    "price": 16.75
+                    }
+                ]
+                },
+                {
+                "name": "Red Variety Flight",
+                "price": 13.75,
+                "items": [
+                    {
+                    "name": "Blaire Payton",
+                    "location": "Sonoma",
+                    "variety": "Grenache",
+                    "glassSize": "8oz",
+                    "price": 12.75
+                    },
+                    {
+                    "name": "Brecca",
+                    "location": "Spain",
+                    "variety": "Grenacha",
+                    "glassSize": "8oz",
+                    "price": 7.75
+                    },
+                    {
+                    "name": "Laird",
+                    "location": "Napa",
+                    "variety": "Merlot",
+                    "glassSize": "8oz",
+                    "price": 19.75
+                    }
+                ]
+                }
+            ]
+        },
+          "specials": {
+            "items": [
+                {
+                    "name": "Schrader 'Double Diamond' Napa Red Blend",
+                    "price": 85.99,
+                    "notes": "94pts Jeb Dunnuck"
+                },
+                {
+                    "name": "Immortal Estate Slope Cabernet Sale",
+                    "price": 59.99,
+                    "wineryPrice": 85,
+                    "notes": "94pts Jeb Dunnuck"
+                },
+                {
+                    "name": "Emeritus Hallberg Ranch Pinot Noir",
+                    "price": 44.99,
+                    "notes": "94pts Tasting Panel"
+                },
+                {
+                    "name": "Smith & Hook Reserve Cabernet Sauvignon Sale",
+                    "price": 29.99,
+                    "wineryPrice": 45
+                },
+                {
+                    "name": "Peju Winery Legacy Collection Chardonnay",
+                    "price": 25.99
+                }
+            ]
+          }
+        }
+      },
+      "cocktails": {
+        "categories": {
+          "seasonal": {
+            "items": [
+                {
+                    "name": "BLACK HIBISCUS MANHATTAN",
+                    "price": 12,
+                    "description": "Rye Whiskey | Averna Amaro\nHibiscus Syrup | Angostura",
+                    "serving": "Served Up with Hibiscus Flower"
+                },
+                {
+                    "name": "THE VINE OLD FASHIONED",
+                    "price": 12,
+                    "description": "Premium Bourbon | Simple Syrup\nOrange Bitters | Angostura Bitters",
+                    "serving": "On a Large Clear Cube"
+                },
+                {
+                    "name": "CHAMPS-ELYSEES",
+                    "price": 12,
+                    "description": "Cognac | Benedictine\nLemon Juice | Simple Syrup",
+                    "serving": "Served Up"
+                },
+                {
+                    "name": "FRENCH 75",
+                    "price": 11,
+                    "description": "Gin | Lemon Juice\nSimple Syrup | Bubbles",
+                    "serving": "Served Up"
+                },
+                {
+                    "name": "LIMONCELLO SPRITZ",
+                    "price": 11,
+                    "description": "Limoncello | Lemon Juice\nSparkling Wine | Club Soda",
+                    "serving": "On the Rocks"
+                },
+                {
+                    "name": "WV ESPRESSO MARTINI",
+                    "price": 12,
+                    "description": "Vodka | Cardamaro\nCoffee | Grind Espresso Liqueur\nSimple Syrup",
+                    "serving": "Served Up with Pressed Mint"
+                },
+                {
+                    "name": "CURTIS GOES CARIBBEAN",
+                    "price": 12,
+                    "description": "Oak-Aged Rum | Banana Liqueur\nDry Curaçao | Lime Juice\nPineapple Juice | Angostura",
+                    "serving": "On the Rocks"
+                },
+                {
+                    "name": "SOLEROL SOUR",
+                    "price": 12,
+                    "description": "Rye Whiskey | Peach Tarragon Syrup\nAperol | Lemon\nAngostura | Orange Bitters",
+                    "serving": "On a Large Clear Cube"
+                },
+                {
+                    "name": "GRAPEFRUIT LAVENDER GIMLET",
+                    "price": 11,
+                    "description": "St George Botanivore Gin | Lime Juice\nGrapefruit Juice | Simple Syrup\nLavender Bitters",
+                    "serving": "Served Up"
+                },
+                {
+                    "name": "PEACH PARTY VODKA SODA",
+                    "price": 12,
+                    "description": "Peach Vodka | Grapefruit Juice\nLemon Juice | Cinnamon Simple Syrup\nSoda",
+                    "serving": "On the Rocks"
+                }
+        ]
+          },
+          "house": {
+            "caption": "Our signature cocktails",
+            "items": [
+              {
+                "name": "VINE PALOMA",
+                "price": 11,
+                "description": "Astral Tequila | Lime Juice\nGrapefruit Juice | Q Grapefruit Soda",
+                "serving": "On the Rocks | Salted Rim"
+              },
+              {
+                "name": "CLASSIC MARGARITA",
+                "price": 11,
+                "description": "WV Fogonero Tequila | Cointreau\nAgave | Lime",
+                "serving": "On the Rocks | Salted Rim"
+              },
+              {
+                "name": "VINE MANHATTAN",
+                "price": 11,
+                "description": "Premium Rye | Antica Sweet Vermouth\nGran Marnier | Angostura\nPeychaud's Bitters",
+                "serving": "Served Up"
+              },
+              {
+                "name": "BLUE CHEESE STUFFED DIRTY MARTINI",
+                "price": 11,
+                "description": "Vodka | Filthy Olive Brine\nBlue Cheese Stuffed Olives",
+                "serving": "Served Up"
+              }
+            ]
+          },
+          "non": {
+            "name": "NON ALCOHOLIC COCKTAILS AVAILABLE",
+            "description": "Made with \"Clean Co\" Non-Alcoholic Spirits"
+          },
+          "kitchen": {
+                "name": "BUY THE KITCHEN AN \"END OF NIGHT\" ROUND OF COCKTAILS",
+                "price": 20
+          }
+        }
+      },
+      "beer": {
+        "categories": {
+          "tap": {
+            "name": "Craft Beers on Tap",
+            "items": [
+                {
+                "name": "Revision Reno AS F*ck IPA",
+                "brewery": "Sparks",
+                "abv": "8.4%",
+                "ibu": "23",
+                "price": "$7.25",
+                "local": true
+                },
+                {
+                "name": "Sierra Nevada Hazy Little Thing IPA",
+                "brewery": "Chico",
+                "abv": "6.7%",
+                "ibu": "35",
+                "price": "$6.25",
+                "local": false
+                },
+                {
+                "name": "Pigeon Head Lager",
+                "brewery": "Reno",
+                "abv": "4.9%",
+                "ibu": "14",
+                "price": "$6.25",
+                "local": true
+                },
+                {
+                "name": "Pliny the Elder Double IPA",
+                "brewery": "Russian River",
+                "abv": "8.0%",
+                "ibu": "HIGH",
+                "price": "$7.25",
+                "local": false
+                },
+                {
+                "name": "FiftyFifty Tahoe Lager",
+                "brewery": "Truckee",
+                "abv": "5.0%",
+                "ibu": "N/A",
+                "price": "$6.25",
+                "local": true
+                },
+                {
+                "name": "Fall River Irish Coffee Stout Nitro",
+                "brewery": "Redding",
+                "abv": "6.0%",
+                "ibu": "45",
+                "price": "$6.25",
+                "local": false
+                },
+                {
+                "name": "Rogue Dead Guy Ale",
+                "brewery": "Oregon",
+                "abv": "6.6%",
+                "ibu": "40",
+                "price": "$6.25",
+                "local": false
+                },
+                {
+                "name": "STS Pilsner",
+                "brewery": "Russian River",
+                "abv": "5.4%",
+                "ibu": "MED",
+                "price": "$6.25",
+                "local": false
+                },
+                {
+                "name": "FiftyFifty Octoberfest",
+                "brewery": "Truckee",
+                "abv": "5.4%",
+                "ibu": "N/A",
+                "price": "$6.25",
+                "local": true
+                },
+                {
+                "name": "Pilsner Urquell",
+                "brewery": "Czech Republic",
+                "abv": "4.4%",
+                "ibu": "N/A",
+                "price": "$6.25",
+                "local": false
+                },
+                {
+                "name": "Dogfish Head Punkin Brown Ale",
+                "brewery": "Delaware",
+                "abv": "7.0%",
+                "ibu": "N/A",
+                "price": "$7.25",
+                "local": false
+                },
+                {
+                "name": "Ballast Point Sculpin Grapefruit IPA",
+                "brewery": "N/A",
+                "abv": "7.0%",
+                "ibu": "70",
+                "price": "$6.25",
+                "local": false
+                }
+            ]
+          },
+          "bottled": {
+            "name": "Russian River Brewing Co. Bottled Beers",
+            "items": [
+                {
+                "name": "Pliny the Elder Double IPA",
+                "abv": "8.0%",
+                "ibu": "HIGH",
+                "price": "$5.99",
+                "local": false
+                },
+                {
+                "name": "Blind Pig IPA",
+                "abv": "6.3%",
+                "ibu": "MED",
+                "price": "$5.99",
+                "local": false
+                },
+                {
+                "name": "Mosaic Stack IPA",
+                "abv": "6.6%",
+                "ibu": "MED",
+                "price": "$5.99",
+                "local": false
+                },
+                {
+                "name": "Fonio Belgian Blonde Ale",
+                "abv": "5.7%",
+                "ibu": "WCS",
+                "price": "$5.99",
+                "local": false
+                }
+            ],
+            "notes": "Check out our front fridge for other Russian River Brewing Co bottles not listed here."
+          },
+          "qr": {
+            "title": "Whispering Vine Spirits Bible",
+            "caption": "Ask to see our 4th St Spirits Bible 150+ Whiskies, Scotches & Spirits Create a Custom Flight of 3 Spirits",
+            "url": "qr.wvwine.co/qr2"
+          },
+          "whiskey-flight": {
+            "title": "Broadbent Madeira",
+            "caption": "Flight of Four 1oz. Pours",
+            "description": "Broadbent Boal 10 Year\nBroadbent Malmsey 10 Year\nBroadbent Sercial 10 Year\nBroadbent Verdelho",
+            "price": "$18.75 for the flight / $13.75 for One 3oz. Glass"
+          },
+          "note": "Check out our liquor room for a large selection of whiskies, scotches and other spirits, including our own special barrel-select collection"
+        }
+      },
+      "food-1": {
+          "categories": {
+            "starters": {
+              "name": "STARTERS",
+              "caption": "SERVED ALL DAY",
+              "items": [
+                {
+                  "name": "HOUSE MARINATED OLIVE VARIETY",
+                  "description": "",
+                  "gluten_free": true,
+                  "new": false,
+                  "warning": false,
+                  "price": 5
+                },
+                {
+                  "name": "VIRGINIA GOURMET PEANUT ASSORTMENT",
+                  "description": "",
+                  "gluten_free": false,
+                  "new": false,
+                  "warning": false,
+                  "price": 4
+                },
+                {
+                  "name": "HUMMUS WITH PAPPADUM",
+                  "description": "",
+                  "gluten_free": true,
+                  "new": false,
+                  "warning": false,
+                  "price": 6
+                },
+                {
+                  "name": "CHARCUTERIE BOARD",
+                  "description": "IL Numero Uno 600 Day Parma Prociutto, Fra'mani Rosemary Ham, Garlic & Herb Eurocreme Cheese, Manchego D.O.P. Sheep's Milk Cheese, Shaft's Bleu Cheese, Mini French Baguette, Pickled Vegetables, Marcona Almonds, Grapes, Olives",
+                  "gluten_free": false,
+                  "new": false,
+                  "warning": false,
+                  "price": 25
+                }
+              ]
+            },
+            "sides": {
+              "name": "SOUPS, SALADS & SIDES",
+              "caption": "",
+              "items": [
+                {
+                  "name": "SEASONAL CITRUS & GOAT CHEESE SALAD",
+                  "description": "(GF) Mixed Greens, Candied Pecans, Verjus Vinaigrette",
+                  "gluten_free": true,
+                  "new": false,
+                  "warning": false,
+                  "price": 14
+                },
+                {
+                  "name": "BLUE GODDESS WEDGE SALAD",
+                  "description": "Baby Romaine, Applewood Smoked Bacon, Grape Tomatoes, Crisp Onion, Creamy Dill Blue Goddess Dressing",
+                  "gluten_free": false,
+                  "new": false,
+                  "warning": false,
+                  "price": 14
+                },
+                {
+                  "name": "SHAVED BRUSSELS SALAD",
+                  "description": "Creamy Caesar, Garlic Croutons, Frico, Pomegranate",
+                  "gluten_free": false,
+                  "new": false,
+                  "warning": false,
+                  "price": 14
+                },
+                {
+                  "name": "HEIRLOOM TOMATO SALAD",
+                  "description": "Local \"Backyard Farms\" Tomatoes, Persian Cucumbers, Halloumi Croutons, Lemongrass Vinaigrette",
+                  "gluten_free": false,
+                  "new": true,
+                  "warning": false,
+                  "price": 14
+                },
+                {
+                  "name": "GRILLED CHEESE & TOMATO SOUP",
+                  "description": "Irish Cheddar, Dutch Gouda, Rustic Baguette",
+                  "gluten_free": false,
+                  "new": false,
+                  "warning": false,
+                  "price": 14
+                },
+                {
+                  "name": "TATER TOTS",
+                  "description": "Your Choice of: Truffle Salt or Salt & Vinegar, Served with House Buttermilk Dipping Sauce",
+                  "gluten_free": false,
+                  "new": false,
+                  "warning": false,
+                  "price": 7
+                },
+                {
+                  "name": "FRENCH FRIES",
+                  "description": "Choice of Ketchup and/or House Buttermilk Dipping Sauce",
+                  "gluten_free": false,
+                  "new": false,
+                  "warning": false,
+                  "price": 7
+                }
+              ]
+            },
+            "burgers": {
+              "name": "BURGERS & SANDWICHES",
+              "caption": "Sub Tater Tots $3 (Truffle or Salt & Vinegar)",
+              "items": [
+                {
+                  "name": "GOURMET ANGUS BURGER",
+                  "description": "Mushroom Brie, Bacon Jam, Arugula, Mayo, Mustard, Brioche Bun, Fries",
+                  "gluten_free": false,
+                  "new": false,
+                  "warning": true,
+                  "price": 23
+                },
+                {
+                  "name": "VEGGIE BURGER",
+                  "description": "Mixed Veggie Burger, Irish Cheddar, Dutch Gouda, Tomato, Arugula, Mayo, Mustard, Brioche Bun, Fries",
+                  "gluten_free": false,
+                  "new": false,
+                  "warning": false,
+                  "price": 22
+                },
+                {
+                  "name": "THE CUBANO",
+                  "description": "Roasted Pork Butt, Rosemary Ham, Bread & Butter Pickles, Gruyere, Dijon, Brioche Bun, Fries",
+                  "gluten_free": false,
+                  "new": false,
+                  "warning": false,
+                  "price": 23
+                },
+                {
+                  "name": "CRAB ROLL",
+                  "description": "Atlantic Red Crab & Jumbo Lump Crab Salad, Brioche Bun, Fries",
+                  "gluten_free": false,
+                  "new": false,
+                  "warning": false,
+                  "price": 24
+                }
+              ]
+            }
+          },
+          "footer": "18% Gratuity added to parties of 8 or more",
+          "warning": "* Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodbourne illness."
+      },
+      "food-2": {
+            "categories": {
+            "mains": {
+                "name": "ENTRÉES & SHAREABLES",
+                "caption": "",
+                "items": [
+                {
+                    "name": "AHI TUNA POKE",
+                    "description": "Soy Sauce, Ginger, Spicy Sambal Sauce, Sesame Rice Crisps",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": true,
+                    "price": 23
+                },
+                {
+                    "name": "ESCARGOT WITH COGNAC & GARLIC",
+                    "description": "Served with Grilled Bread",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 21
+                },
+                {
+                    "name": "SMOKED CHILI GLAZED FLANK STEAK",
+                    "description": "Sweet Corn Succotash, Poblano, Tobacco Onions",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": true,
+                    "price": 24
+                },
+                {
+                    "name": "CIOPPINO",
+                    "description": "Clams, Mussels, Shrimp, Scallops, Ling Cod, Braised Fennel, Shell Pasta, Grilled Bread with Garlic Oil",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 27
+                },
+                {
+                    "name": "STEAMED MANILA CLAMS & MUSSELS",
+                    "description": "Thai Red Curry Sauce, Grilled Bread with Garlic Oil",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 25
+                },
+                {
+                    "name": "3 COCONUT SHRIMP",
+                    "description": "Served over Asian Slaw with Sweet & Spicy Chili Sauce",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 18
+                },
+                {
+                    "name": "PAN SEARED SALMON",
+                    "description": "Israeli Couscous, Chardonnay Beurre Blanc",
+                    "gluten_free": false,
+                    "new": true,
+                    "warning": true,
+                    "price": 23
+                },
+                {
+                    "name": "STEWED ITALIAN MEATBALLS",
+                    "description": "Beef, Pork & Veal, Roasted Vegetables, Marinara, Parmesan",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 23
+                },
+                {
+                    "name": "WILD MUSHROOM FLATBREAD",
+                    "description": "Hedgehog & Black Trumpet Mushrooms, Carmelized Onions, Sherry Mascarpone Cream, Arugula",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 18
+                },
+                {
+                    "name": "BRUSSELS BACON FLATBREAD",
+                    "description": "Sherry Mascarpone Cream, Quattro Fromaggio, Pickled Red Onion",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 18
+                },
+                {
+                    "name": "SCHNITZEL & SPAETZLE",
+                    "description": "White Marble Farms Pork, Herbed Truffle Spaetzle, Mushroom Gravy, Pickled Red Cabbage",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 25
+                },
+                {
+                    "name": "2 BRAISED BISON SHORT RIB SLIDERS",
+                    "description": "Pretzel Buns with Gorgonzola & Slaw",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 17
+                }
+                ]
+            },
+            "tacos": {
+                "name": "TACOS",
+                "caption": "",
+                "items": [
+                {
+                    "name": "DUCK CONFIT",
+                    "description": "3 Corn Tortillas, Hatch Chili Cream, Pickled Shallots, Cotija Cheese",
+                    "gluten_free": true,
+                    "new": false,
+                    "warning": false,
+                    "price": 18
+                },
+                {
+                    "name": "INDIAN-SPICED LENTIL",
+                    "description": "3 Corn Tortillas, Hatch Chili Cream, Pickled Shallots, Cotija Cheese",
+                    "gluten_free": true,
+                    "new": false,
+                    "warning": false,
+                    "price": 18
+                },
+                {
+                    "name": "KOREAN BRAISED SHORT RIB",
+                    "description": "3 Flour Tortillas, Gochujang, Seasonal Pickled Vegetables",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 18
+                }
+                ]
+            },
+            "desserts": {
+                "name": "DESSERTS",
+                "caption": "",
+                "items": [
+                {
+                    "name": "CHOCOLATE MOUSSE",
+                    "description": "With Shaved Valrhona Chocolate",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 9
+                },
+                {
+                    "name": "ICE CREAM / SORBET",
+                    "description": "(Home-Spun) See Server for Daily Flavors",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": {
+                    "One Scoop": 5,
+                    "2 Scoops": 8,
+                    "3 Scoops": 10
+                    }
+                },
+                {
+                    "name": "ICE CREAM SANDWICH",
+                    "description": "Your Choice of Ice Cream Between Two White Chocolate Macadamia Cookies",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 8
+                },
+                {
+                    "name": "COINTREAU CRÈME BRULEE",
+                    "description": "With Fresh Raspberries",
+                    "gluten_free": false,
+                    "new": false,
+                    "warning": false,
+                    "price": 9
+                }
+                ]
+            }
+            },
+            "footer": "",
+            "warning": "* Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodbourne illness."
+      }
+    }
+}
+  
+
+  
