@@ -434,28 +434,34 @@
             "items": [
                 {
                     "name": "Schrader 'Double Diamond' Napa Red Blend",
-                    "price": 85.99,
+                    "bottle": 85.99,
+                    "glass": 33.75,
+                    "favorites": true'
                     "notes": "94pts Jeb Dunnuck"
                 },
                 {
                     "name": "Immortal Estate Slope Cabernet Sale",
-                    "price": 59.99,
+                    "bottle": 59.99,
+                    "glass": 21.75,
                     "wineryPrice": 85,
                     "notes": "94pts Jeb Dunnuck"
                 },
                 {
                     "name": "Emeritus Hallberg Ranch Pinot Noir",
-                    "price": 44.99,
+                    "bottle": 44.99,
+                    "glass": 17.75,
                     "notes": "94pts Tasting Panel"
                 },
                 {
                     "name": "Smith & Hook Reserve Cabernet Sauvignon Sale",
-                    "price": 29.99,
+                    "bottle": 29.99,
+                    "glass": 12.75,
                     "wineryPrice": 45
                 },
                 {
                     "name": "Peju Winery Legacy Collection Chardonnay",
-                    "price": 25.99
+                    "bottle": 25.99,
+                    "glass": 10.75,
                 }
             ]
           }
