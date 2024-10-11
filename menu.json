@@ -294,6 +294,7 @@
                 {
                 "name": "Cabernet Flight",
                 "price": 14.75,
+                "favorites": true,
                 "items": [
                     {
                     "name": "Educated Guess",
@@ -402,6 +403,7 @@
                 {
                 "name": "Red Variety Flight",
                 "price": 13.75,
+                "favorites": true,
                 "items": [
                     {
                     "name": "Blaire Payton",
