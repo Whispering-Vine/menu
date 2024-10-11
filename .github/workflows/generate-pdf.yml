@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Generate PDF
-        run: node generate-pdf.js  # Run your PDF generation script
+        run: node puppet-action.js  # Run your PDF generation script
 
       - name: Commit and push PDF
         run: |
