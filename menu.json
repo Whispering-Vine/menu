@@ -349,6 +349,7 @@
                 {
                 "name": "Red Blend Flight",
                 "price": 16.75,
+                "favorites": true,
                 "items": [
                     {
                     "name": "Smith & Hook Reserve",
@@ -403,7 +404,6 @@
                 {
                 "name": "Red Variety Flight",
                 "price": 13.75,
-                "favorites": true,
                 "items": [
                     {
                     "name": "Blaire Payton",
