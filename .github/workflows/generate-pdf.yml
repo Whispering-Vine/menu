@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output.pdf
+          git add menu.pdf
           git commit -m "Update generated PDF"
           git push
         env:
