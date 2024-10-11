@@ -239,6 +239,7 @@
                 {
                 "name": "Chardonnay Flight",
                 "price": 11.75,
+                "favorites": true,
                 "items": [
                     {
                     "name": "Peju",
