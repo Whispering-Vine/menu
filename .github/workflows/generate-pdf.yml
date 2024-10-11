@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Generate PDF
-        run: node puppet.js  # Replace with the actual path to your script
+        run: node puppet-action.js  # Replace with the actual path to your script
 
       - name: Commit and push PDF
         run: |
