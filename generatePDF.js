@@ -57,8 +57,8 @@ async function generatePDF() {
 async function main() {
     try {
         const pdfBytes = await generatePDF();
-        fs.writeFileSync('output.pdf', pdfBytes); // Save the PDF to the repository
-        console.log('PDF generated and saved as output.pdf');
+        fs.writeFileSync('menu.pdf', pdfBytes); // Save the PDF to the repository
+        console.log('PDF generated and saved as menu.pdf');
     } catch (error) {
         console.error('Error generating PDF:', error);
         process.exit(1); // Exit with error code
