@@ -9,6 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:  # Set permissions for the GITHUB_TOKEN
+      contents: write  # Allow the action to write to the repository
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3  # Update to v3
