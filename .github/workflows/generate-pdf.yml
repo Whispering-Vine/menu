@@ -11,18 +11,18 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Update to v3
 
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3  # Update to v3
         with:
-          node-version: '22.7.0'  # Use the version of Node.js you need
+          node-version: '20'  # Use Node.js 20
 
       - name: Install dependencies
         run: npm install
 
       - name: Generate PDF
-        run: node puppet-action.js  # Replace with the actual path to your script
+        run: node generate-pdf.js  # Run your PDF generation script
 
       - name: Commit and push PDF
         run: |
