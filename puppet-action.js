@@ -3,7 +3,9 @@ const { PDFDocument } = require('pdf-lib');
 const fs = require('fs');
 
 async function generatePDF() {
-    const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch({
+        args: ['--no-sandbox', '--disable-setuid-sandbox'],
+    });
     const pdfDocuments = [];
 
     const urls = [
