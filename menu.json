@@ -835,6 +835,7 @@
                 "gluten_free": false,
                 "new": false,
                 "warning": true,
+                "favorites": true,
                 "price": 23
               },
               {
@@ -1049,6 +1050,3 @@
     }
   }
 }
-
-
-
