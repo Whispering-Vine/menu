@@ -25,14 +25,13 @@ async function generatePDF() {
 
         console.log(`Generating PDF for ${url}...`);
         const pdfBuffer = await page.pdf({
-            width: '612px',
-            height: '792px',
+            format: 'letter', // Use 'letter' format for 8.5 x 11 in (612 x 792 points)
             printBackground: true,
             margin: {
-                top: 1,
-                right: 1,
-                bottom: 1,
-                left: 1,
+                top: '1in',
+                right: '1in',
+                bottom: '1in',
+                left: '1in',
             },
         });
 
