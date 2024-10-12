@@ -27,7 +27,7 @@ async function generatePDF() {
         const pdfBuffer = await page.pdf({
             format: 'letter', // This sets the PDF to 8.5 x 11 inches (612 x 792 points)
             printBackground: true, // Include background graphics
-            scale: 1.33;
+            scale: 1.33,
             margin: {
                 top: '0in',   // You can adjust this if you need margins
                 right: '0in',
