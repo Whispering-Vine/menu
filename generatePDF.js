@@ -20,19 +20,25 @@ async function generatePDF() {
     for (const url of urls) {
         const page = await browser.newPage();
 
+        // Set the viewport to match the webpage's exact dimensions (612 x 792 pixels)
+        await page.setViewport({
+            width: 612,
+            height: 792,
+        });
+
         console.log(`Loading URL: ${url}`);
         await page.goto(url, { waitUntil: 'networkidle0' });
 
         console.log(`Generating PDF for ${url}...`);
         const pdfBuffer = await page.pdf({
-            format: 'letter', // Use 'letter' format for 8.5 x 11 in (612 x 792 points)
-            printBackground: true,
-            scale: 1.3333,
+            width: 612,  // Match the width of your webpage in points
+            height: 792, // Match the height of your webpage in points
+            printBackground: true, // Ensures background images/colors are included
             margin: {
-                top: '1in',
-                right: '1in',
-                bottom: '1in',
-                left: '1in',
+                top: '0in',    // Set margins to '0' to ensure full page capture
+                right: '0in',
+                bottom: '0in',
+                left: '0in',
             },
         });
 
