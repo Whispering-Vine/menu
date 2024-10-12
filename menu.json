@@ -759,6 +759,7 @@
                 "gluten_free": false,
                 "new": false,
                 "warning": false,
+                "favorites": true,
                 "price": 25
               }
             ]
@@ -773,6 +774,7 @@
                 "gluten_free": true,
                 "new": false,
                 "warning": false,
+                "favorites": true,
                 "price": 14
               },
               {
@@ -809,10 +811,11 @@
               },
               {
                 "name": "TATER TOTS",
-                "description": "Your Choice of: Truffle Salt or Salt & Vinegar, Served with House Buttermilk Dipping Sauce",
+                "description": "Your Choice of Truffle Salt or Salt & Vinegar, Served with House Buttermilk Dipping Sauce",
                 "gluten_free": false,
                 "new": false,
                 "warning": false,
+                "favorites": true,
                 "price": 7
               },
               {
@@ -879,6 +882,7 @@
                   "description": "Soy Sauce, Ginger, Spicy Sambal Sauce, Sesame Rice Crisps",
                   "gluten_free": false,
                   "new": false,
+                  "favorites": true,
                   "warning": true,
                   "price": 23
               },
@@ -944,6 +948,7 @@
                   "gluten_free": false,
                   "new": false,
                   "warning": false,
+                  "favorites": true,
                   "price": 18
               },
               {
@@ -998,6 +1003,7 @@
                   "gluten_free": false,
                   "new": false,
                   "warning": false,
+                  "favorites": true,
                   "price": 18
               }
               ]
@@ -1020,6 +1026,7 @@
                   "gluten_free": false,
                   "new": false,
                   "warning": false,
+                  "favorites": true,
                   "price": "5/8/10"
               },
               {
