@@ -1020,11 +1020,7 @@
                   "gluten_free": false,
                   "new": false,
                   "warning": false,
-                  "price": {
-                  "One Scoop": 5,
-                  "2 Scoops": 8,
-                  "3 Scoops": 10
-                  }
+                  "price": "5/8/10"
               },
               {
                   "name": "ICE CREAM SANDWICH",
