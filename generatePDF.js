@@ -20,22 +20,15 @@ async function generatePDF() {
     for (const url of urls) {
         const page = await browser.newPage();
 
-        // Set the viewport to match the webpage's exact dimensions (612 x 792 pixels)
-        await page.setViewport({
-            width: 612,
-            height: 792,
-        });
-
         console.log(`Loading URL: ${url}`);
         await page.goto(url, { waitUntil: 'networkidle0' });
 
         console.log(`Generating PDF for ${url}...`);
         const pdfBuffer = await page.pdf({
-            width: 612,  // Match the width of your webpage in points
-            height: 792, // Match the height of your webpage in points
-            printBackground: true, // Ensures background images/colors are included
+            format: 'letter', // This sets the PDF to 8.5 x 11 inches (612 x 792 points)
+            printBackground: true, // Include background graphics
             margin: {
-                top: '0in',    // Set margins to '0' to ensure full page capture
+                top: '0in',   // You can adjust this if you need margins
                 right: '0in',
                 bottom: '0in',
                 left: '0in',
