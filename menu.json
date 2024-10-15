@@ -932,6 +932,7 @@
                   "gluten_free": false,
                   "new": true,
                   "warning": true,
+                  "favorites": true,
                   "price": 23
               },
               {
@@ -948,7 +949,6 @@
                   "gluten_free": false,
                   "new": false,
                   "warning": false,
-                  "favorites": true,
                   "price": 18
               },
               {
@@ -957,6 +957,7 @@
                   "gluten_free": false,
                   "new": false,
                   "warning": false,
+                  "favorites": true,
                   "price": 18
               },
               {
@@ -987,6 +988,7 @@
                   "gluten_free": true,
                   "new": false,
                   "warning": false,
+                  "favorites": true,
                   "price": 18
               },
               {
@@ -1003,7 +1005,6 @@
                   "gluten_free": false,
                   "new": false,
                   "warning": false,
-                  "favorites": true,
                   "price": 18
               }
               ]
