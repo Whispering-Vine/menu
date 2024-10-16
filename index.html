@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Whispering Vine Spirits Bible</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap">
+  <style>
+    body {
+        font-family: 'Montserrat', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f5f5f5;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    header {
+        background-color: #fff;
+        padding: 16px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+        border-radius: 10px;
+        margin-top: 20px;
+    }
+    header h1 {
+        font-size: 24px;
+        margin: 0;
+    }
+    .search-bar {
+        margin-top: 8px;
+        display: flex;
+        justify-content: center;
+    }
+    .search-bar input {
+        width: 80%;
+        padding: 10px;
+        border: 2px solid #ddd;
+        border-radius: 8px;
+        font-size: 16px;
+    }
+    .container {
+        padding: 20px;
+        max-width: 800px;
+        width: 80%;
+    }
+    .category {
+        margin-bottom: 40px;
+    }
+    .category h2 {
+        font-size: 20px;
+        background-color: #333;
+        color: #fff;
+        padding: 8px;
+        border-radius: 8px;
+    }
+    .category-subtitle, .category-notes {
+        font-size: 14px;
+        margin-bottom: 10px;
+        color: #666;
+    }
+    .category-buttons-container {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .category-buttons {
+        display: flex;
+        width: 100%;
+        gap: 10px;
+        justify-content: center;
+        margin: 16px 0;
+        flex-wrap: wrap;
+        }
+
+        .category-buttons button {
+        padding: 8px 16px;
+        font-size: 16px;
+        background-color: #333;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+        }
+
+        .category-buttons button:hover {
+        background-color: #555;
+        }
+    .item-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+    
+    /* Subcategory styles */
+    .subcategories-container {
+        display: block;
+    }
+    
+    .subcategory {
+        flex: 1 1 45%; /* Two subcategories per row */
+        margin-bottom: 30px;
+    }
+    
+    .subcategory h3 {
+        font-size: 1.4em;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 5px;
+        color: #333;
+    }
+    
+    .item {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 5px;
+        border-bottom: 1px solid #ddd;
+    }
+    
+    .item span {
+        font-size: 1em;
+    }
+    
+    .item span:last-child {
+        font-weight: bold;
+    }
+    
+    /* "No results" message style */
+    #no-results {
+        display: none;
+        text-align: center;
+        font-size: 1.2em;
+        margin-top: 20px;
+        color: red;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Whispering Vine Spirits Bible</h1>
+    <div class="category-buttons-container">
+    <div class="category-buttons" id="category-buttons">
+        <!-- Dynamic buttons will be added here -->
+      </div>
+    </div>
+    <div class="search-bar">
+      <input type="text" id="search" placeholder="Search for a product..." oninput="searchItems()">
+    </div>
+  </header>
+
+  <div id="no-results" style="display: none; text-align: center; font-size: 1.2em; margin-top: 20px; color: red;">
+    No results found.
+  </div>
+
+  <div class="container" id="menu-container">
+    <!-- Dynamic content will be injected here -->
+  </div>
+
+  <script>
+    let jsonData = {};
+    
+    // Function to dynamically generate category buttons
+    function createCategoryButtons() {
+      const categoryButtonsContainer = document.getElementById('category-buttons');
+      
+      jsonData.items.forEach(category => {
+        const button = document.createElement('button');
+        button.textContent = category.category;
+        button.onclick = () => scrollToCategory(category.category);
+        categoryButtonsContainer.appendChild(button);
+      });
+    }
+
+    // Function to scroll to the appropriate category with an offset to account for the header
+    function scrollToCategory(categoryName) {
+    const categoryElement = document.getElementById(categoryName);
+    if (categoryElement) {
+        const headerHeight = document.querySelector('header').offsetHeight; // Get the header height
+        const categoryPosition = categoryElement.getBoundingClientRect().top + window.scrollY; // Get the top position of the category relative to the document
+        const offsetPosition = categoryPosition - headerHeight - 10; // Subtract the header height and add some padding
+
+        window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
+        });
+    }
+    }
+  
+    // Load the JSON data from file
+    async function loadJSONFile() {
+      try {
+        const response = await fetch('https://menu.wvwine.co/spirits-bible.json'); // Adjust this path when serving via local server
+        jsonData = await response.json(); // Log the JSON data to inspect its structure
+        createCategoryButtons();
+        displayMenu(jsonData);
+      } catch (error) {
+        console.error("Error loading the JSON file:", error);
+      }
+    }
+  
+    function displayMenu(menuData) {
+        const menuContainer = document.getElementById('menu-container');
+        menuContainer.innerHTML = ''; // Clear the container first
+
+        menuData.items.forEach(category => {
+            // Create category title
+            const categoryDiv = document.createElement('div');
+            categoryDiv.classList.add('category');
+            categoryDiv.id = category.category; // Set the category ID for scrolling
+            const categoryTitle = document.createElement('h2');
+            categoryTitle.textContent = category.category;
+            categoryDiv.appendChild(categoryTitle);
+
+            // Handle the case where the category has a subtitle
+            if (category.subtitle) {
+            const categorySubtitle = document.createElement('p');
+            categorySubtitle.classList.add('category-subtitle');
+            categorySubtitle.textContent = category.subtitle;
+            categoryDiv.appendChild(categorySubtitle);
+            }
+
+            // Display subcategories if present
+            if (category.subcategories && Array.isArray(category.subcategories)) {
+            const subcategoriesContainer = document.createElement('div');
+            subcategoriesContainer.classList.add('subcategories-container');
+
+            category.subcategories.forEach(subcategory => {
+                // Create subcategory div
+                const subcategoryDiv = document.createElement('div');
+                subcategoryDiv.classList.add('subcategory');
+
+                // Add subcategory title
+                const subcategoryTitle = document.createElement('h3');
+                subcategoryTitle.textContent = subcategory.name;
+                subcategoryDiv.appendChild(subcategoryTitle);
+
+                // Create items list for subcategory
+                subcategory.items.forEach(item => {
+                const itemDiv = document.createElement('div');
+                itemDiv.classList.add('item');
+                itemDiv.innerHTML = `<span>${item.title}</span><span>${item.price}</span>`;
+                subcategoryDiv.appendChild(itemDiv);
+                });
+
+                // Append subcategory div to subcategories container
+                subcategoriesContainer.appendChild(subcategoryDiv);
+            });
+
+            categoryDiv.appendChild(subcategoriesContainer);
+            }
+
+            // Display category items (if there are any outside subcategories)
+            if (category.items && Array.isArray(category.items)) {
+            category.items.forEach(item => {
+                const itemDiv = document.createElement('div');
+                itemDiv.classList.add('item');
+                itemDiv.innerHTML = `<span>${item.title}</span><span>${item.price}</span>`;
+                categoryDiv.appendChild(itemDiv);
+            });
+            }
+
+            if (category.notes) {
+            const categoryNotes = document.createElement('p');
+            categoryNotes.classList.add('category-notes');
+            categoryNotes.textContent = category.notes;
+            categoryDiv.appendChild(categoryNotes);
+            }
+
+            menuContainer.appendChild(categoryDiv);
+            
+        });
+        }
+
+    function createItemCard(item) {
+      const itemCard = document.createElement('div');
+      itemCard.classList.add('item-card');
+  
+      const itemTitle = document.createElement('h4');
+      itemTitle.textContent = item.title || 'Unnamed Item';
+      itemCard.appendChild(itemTitle);
+  
+      const itemPrice = document.createElement('p');
+      itemPrice.textContent = item.price || 'Price not available';
+      itemCard.appendChild(itemPrice);
+  
+      return itemCard;
+    }
+  
+    function searchItems() {
+  const query = document.getElementById('search').value.toLowerCase();
+  const filteredData = JSON.parse(JSON.stringify(jsonData)); // Deep copy the data
+
+  if (!filteredData.items || !Array.isArray(filteredData.items)) {
+    console.error("Invalid JSON structure during search: 'items' should be an array");
+    return;
+  }
+
+  // Show all items if the search box is empty
+  if (query.trim() === "") {
+    displayMenu(filteredData); // Redisplay all items when search is empty
+    const noResultsElement = document.getElementById('no-results');
+    if (noResultsElement) {
+      noResultsElement.style.display = 'none'; // Hide 'No Results' box
+    }
+    return;
+  }
+
+  let hasResults = false; // Flag to track if there are any matching results
+
+  filteredData.items.forEach(category => {
+    let categoryMatch = category.category && category.category.toLowerCase().includes(query);
+
+    if (categoryMatch) {
+      hasResults = true; // Category matches, so there are results
+      return; // If the category matches, we don't filter its items
+    }
+
+    // Filter items in the category, if they exist
+    if (category.items && Array.isArray(category.items)) {
+      category.items = category.items.filter(item => item.title.toLowerCase().includes(query));
+      if (category.items.length > 0) hasResults = true; // There are matching items in the category
+    }
+
+    // Check for subcategories
+    if (category.subcategories && Array.isArray(category.subcategories)) {
+      category.subcategories.forEach(subcategory => {
+        let subcategoryMatch = subcategory.name && subcategory.name.toLowerCase().includes(query);
+        if (subcategoryMatch) {
+          hasResults = true; // Subcategory matches, so there are results
+          return; // If the subcategory matches, include all its items
+        }
+        if (subcategory.items && Array.isArray(subcategory.items)) {
+          subcategory.items = subcategory.items.filter(item => item.title.toLowerCase().includes(query));
+          if (subcategory.items.length > 0) hasResults = true; // There are matching items in the subcategory
+        }
+      });
+
+      // Filter out subcategories with no matching items or subcategory names
+      category.subcategories = category.subcategories.filter(subcategory => subcategory.items.length > 0 || (subcategory.name && subcategory.name.toLowerCase().includes(query)));
+    }
+
+    // Remove categories with no items or subcategories
+    if ((!category.items || category.items.length === 0) && (!category.subcategories || category.subcategories.length === 0)) {
+      category.items = [];
+    }
+  });
+
+  // Filter out categories with no matching items or subcategories
+  filteredData.items = filteredData.items.filter(category => (category.items && category.items.length > 0) || (category.subcategories && category.subcategories.length > 0) || (category.category && category.category.toLowerCase().includes(query)));
+
+  // If no results, display the 'No Results' message
+  const noResultsElement = document.getElementById('no-results');
+  if (!hasResults && noResultsElement) {
+    noResultsElement.style.display = 'block';
+  } else if (noResultsElement) {
+    noResultsElement.style.display = 'none'; // Hide 'No Results' box if there are matches
+  }
+
+  displayMenu(filteredData); // Redisplay the filtered menu
+}
+    // Load JSON on page load
+    window.onload = loadJSONFile;
+  </script>
+</body>
+</html>
