@@ -1016,7 +1016,7 @@
               {
                   "name": "CHOCOLATE MOUSSE",
                   "description": "With Shaved Valrhona Chocolate",
-                  "gluten_free": true,
+                  "gluten_free": false,
                   "new": false,
                   "warning": false,
                   "price": 9
