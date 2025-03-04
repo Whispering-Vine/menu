@@ -36,7 +36,8 @@
             "description": "Oregon | Pinot Gris",
             "price": {
               "glass": 7.75,
-              "bottle": 16.99
+              "bottle": 16.99,
+              "sale": true
             }
           },
           {
