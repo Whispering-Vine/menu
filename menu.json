@@ -235,7 +235,8 @@
                   "glassSize": "8oz",
                   "price": 17.75
                 }
-              ]
+              ],
+              "favorites": false
             },
             {
               "name": "Chardonnay Flight",
@@ -384,7 +385,7 @@
                   "location": "Burgundy, France",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": 19.75
+                  "price": "19.75"
                 },
                 {
                   "name": "Madera 5",
@@ -473,8 +474,8 @@
         "seasonal": {
           "items": [
             {
-              "name": "BLACK HIBISCUS MANHATTAN",
-              "price": 12,
+              "name": "BLACK HIBISCUS MANHATT",
+              "price": "14",
               "description": "Rye Whiskey | Averna Amaro\nHibiscus Syrup | Angostura",
               "serving": "Served Up with Hibiscus Flower"
             },
