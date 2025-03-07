@@ -36,3 +36,9 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Automatically provided by GitHub Actions
+          
+      - name: Notify webhook
+        run: |
+          curl -X POST -H "Content-Type: application/json" \
+          -d "{\"status\": \"success\", \"message\": \"PDF generated successfully\", \"timestamp\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\"}" \
+          "${{ secrets.PDF_WEBHOOK_URL }}"
