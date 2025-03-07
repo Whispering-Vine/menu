@@ -37,7 +37,7 @@ jobs:
           }')
     
           # Compute the HMAC-SHA256 signature using the secret
-          SIGNATURE=$(echo -n "$PAYLOAD" | openssl dgst -sha256 -hmac "$GITHUB_WEBHOOK_SECRET" | awk '{print $2}')
+          SIGNATURE=$(echo -n "$PAYLOAD" | openssl dgst -sha256 -hmac "$WEBHOOK_SECRET" | awk '{print $2}')
           SIGNATURE="sha256=$SIGNATURE"
           
           echo "Signature: $SIGNATURE"
