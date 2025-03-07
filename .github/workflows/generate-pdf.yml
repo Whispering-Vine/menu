@@ -29,16 +29,22 @@ jobs:
 
       - name: Commit and push PDF
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add menu.pdf
-          git commit -m "Update generated PDF"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Automatically provided by GitHub Actions
+          # Create the JSON payload
+          PAYLOAD=$(jq -n --arg timestamp "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" '{
+            status: "success",
+            message: "PDF generated successfully",
+            timestamp: $timestamp
+          }')
+    
+          # Compute the HMAC-SHA256 signature using the secret
+          SIGNATURE=$(echo -n "$PAYLOAD" | openssl dgst -sha256 -hmac "$GITHUB_WEBHOOK_SECRET" | awk '{print $2}')
+          SIGNATURE="sha256=$SIGNATURE"
           
-      - name: Notify webhook
-        run: |
-          curl -X POST -H "Content-Type: application/json" \
-          -d "{\"status\": \"success\", \"message\": \"PDF generated successfully\", \"timestamp\": \"$(date -u +'%Y-%m-%dT%H:%M:%SZ')\"}" \
-          "${{ secrets.PDF_WEBHOOK_URL }}"
+          echo "Signature: $SIGNATURE"
+          
+          # Send the POST request with the computed signature
+          curl -X POST \
+            -H "Content-Type: application/json" \
+            -H "x-hub-signature-256: $SIGNATURE" \
+            -d "$PAYLOAD" \
+            "${{ secrets.PDF_WEBHOOK_URL }}"
