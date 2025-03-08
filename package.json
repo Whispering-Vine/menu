@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "puppeteer": "^23.5.2",
-    "pdf-lib": "^1.17.1"
+    "pdf-lib": "^1.17.1",
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "keywords": [],
