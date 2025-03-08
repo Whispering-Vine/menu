@@ -783,7 +783,7 @@
               "name": "BLUE GODDESS WEDGE SALAD",
               "description": "Baby Romaine, Applewood Smoked Bacon, Grape Tomatoes, Crisp Onion, Creamy Dill Blue Goddess Dressing",
               "gluten_free": false,
-              "new": true,
+              "new": false,
               "warning": false,
               "price": 14
             },
