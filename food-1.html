@@ -533,7 +533,7 @@ async function replaceContentFromMenu() {
                   console.log(`Value for favorites key ${newKey} is undefined.`);
                 }
               } else if (typeof value === 'boolean') {
-                keyElement.style.display = value ? '' : 'none'; // Handle visibility
+                keyElement.style.visibility = value ? '' : 'hidden'; // Handle visibility
                 console.log(`Set visibility for key: ${newKey} to ${value}`);
               } else {
                 keyElement.textContent = value || ''; // Set text content for non-boolean values
