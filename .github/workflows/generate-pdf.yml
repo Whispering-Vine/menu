@@ -12,13 +12,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Add any build steps needed for your JSON file here
+      # (Optional) Build or process your JSON if needed here
 
       - name: Deploy updated JSON to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: ./.github/workflows/static.yml
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./   # Adjust if your site builds to a specific folder
+          publish_dir: '.'   # Adjust if your site builds to a specific folder
           
   generate_pdf:
     runs-on: ubuntu-latest
@@ -56,11 +55,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      # Call the reusable static deployment workflow again, now with the generated PDF included
+      - name: Deploy site with PDF to GitHub Pages
+        uses: ./.github/workflows/static.yml
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./  # Adjust this to the directory to deploy (e.g., the build folder)
+          publish_dir: '.'   # Adjust if necessary
           
       - name: Notify Client
         env:
