@@ -436,7 +436,7 @@
 async function replaceContentFromMenu() {
   try {
     // Fetch the JSON file from the URL
-    const response = await fetch('https://menu.wvwine.co/menu.json');
+    const response = await fetch('./menu.json');
     const menuData = await response.json();
     console.log('Fetched menu data:', menuData); // Log the fetched menu data
     // Select all elements with the custom 'data-array' attribute
