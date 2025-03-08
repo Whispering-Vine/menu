@@ -7,10 +7,10 @@
           "caption": "Enjoy an 8 oz glass",
           "items": [
             {
-              "name": "Beau Joie Brut",
+              "name": "Beau Joie",
               "description": "Champagne, France | Brut",
               "price": {
-                "glass": 14.75,
+                "glass": 13.75,
                 "bottle": 44.99,
                 "sale": true
               }
@@ -582,7 +582,7 @@
             {
               "name": "Revision Reno AS F*ck IPA",
               "brewery": "Sparks",
-              "abv": "8.4%",
+              "abv": "8.5%",
               "ibu": "23",
               "price": "$7.25",
               "local": true
