@@ -34,32 +34,3 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  deploy_pages:
-    needs: generate_pdf
-    # Call the reusable workflow as a job to deploy the final site (including the generated PDF)
-    uses: ./.github/workflows/static.yml
-    with:
-      publish_dir: '.'  # Adjust if necessary
-
-  notify_client:
-    needs: deploy_pages
-    runs-on: ubuntu-latest
-    steps:
-      - name: Notify Client
-        env:
-          WEBHOOK_SECRET: ${{ secrets.WEBHOOK_SECRET }}
-        run: |
-          PAYLOAD=$(jq -n --arg timestamp "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" '{
-            status: "success",
-            message: "PDF generated successfully",
-            timestamp: $timestamp
-          }')
-          SIGNATURE=$(echo -n "$PAYLOAD" | openssl dgst -sha256 -hmac "$WEBHOOK_SECRET" | awk '{print $2}')
-          SIGNATURE="sha256=$SIGNATURE"
-          echo "Signature: $SIGNATURE"
-          curl -X POST \
-            -H "Content-Type: application/json" \
-            -H "x-hub-signature-256: $SIGNATURE" \
-            -d "$PAYLOAD" \
-            "${{ secrets.PDF_WEBHOOK_URL }}"
