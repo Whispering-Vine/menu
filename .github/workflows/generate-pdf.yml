@@ -6,14 +6,7 @@ on:
       - main
 
 jobs:
-  deploy_json:
-    # Call your reusable static deployment workflow as a job to deploy your JSON
-    uses: ./.github/workflows/static.yml
-    with:
-      publish_dir: '.'  # Adjust if your site builds to a specific folder
-
   generate_pdf:
-    needs: deploy_json
     runs-on: ubuntu-latest
     permissions:
       contents: write
