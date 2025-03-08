@@ -15,7 +15,7 @@ jobs:
       # (Optional) Build or process your JSON if needed here
 
       - name: Deploy updated JSON to GitHub Pages
-        uses: ./.github/workflows/static.yml@main
+        uses: ./.github/workflows/static.yml
         with:
           publish_dir: '.'   # Adjust if your site builds to a specific folder
           
@@ -57,7 +57,7 @@ jobs:
 
       # Call the reusable static deployment workflow again, now with the generated PDF included
       - name: Deploy site with PDF to GitHub Pages
-        uses: ./.github/workflows/static.yml@main
+        uses: ./.github/workflows/static.yml
         with:
           publish_dir: '.'   # Adjust if necessary
           
