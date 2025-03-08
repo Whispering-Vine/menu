@@ -7,19 +7,13 @@ on:
 
 jobs:
   deploy_json:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+    # Call your reusable static deployment workflow as a job to deploy your JSON
+    uses: ./.github/workflows/static.yml
+    with:
+      publish_dir: '.'  # Adjust if your site builds to a specific folder
 
-      # (Optional) Build or process your JSON if needed here
-
-      - name: Deploy updated JSON to GitHub Pages
-        uses: ./.github/workflows/static.yml
-        with:
-          publish_dir: '.'   # Adjust if your site builds to a specific folder
-          
   generate_pdf:
+    needs: deploy_json
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -50,17 +44,15 @@ jobs:
 
   deploy_pages:
     needs: generate_pdf
+    # Call the reusable workflow as a job to deploy the final site (including the generated PDF)
+    uses: ./.github/workflows/static.yml
+    with:
+      publish_dir: '.'  # Adjust if necessary
+
+  notify_client:
+    needs: deploy_pages
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      # Call the reusable static deployment workflow again, now with the generated PDF included
-      - name: Deploy site with PDF to GitHub Pages
-        uses: ./.github/workflows/static.yml
-        with:
-          publish_dir: '.'   # Adjust if necessary
-          
       - name: Notify Client
         env:
           WEBHOOK_SECRET: ${{ secrets.WEBHOOK_SECRET }}
