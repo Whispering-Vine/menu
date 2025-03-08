@@ -1,31 +1,29 @@
-name: Generate PDF
+name: Generate PDF and Deploy Pages
 
 on:
   push:
     branches:
-      - main  # Change to your default branch if necessary
+      - main
 
 jobs:
-  build:
+  generate_pdf:
     runs-on: ubuntu-latest
-
-    permissions:  # Set permissions for the GITHUB_TOKEN
-      contents: write  # Allow the action to write to the repository
-
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3  # Update to v3
+        uses: actions/checkout@v3
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3  # Update to v3
+        uses: actions/setup-node@v3
         with:
-          node-version: '20'  # Use Node.js 20
+          node-version: '20'
 
       - name: Install dependencies
         run: npm install
 
       - name: Generate PDF
-        run: node generatePDF.js  # Run your PDF generation script
+        run: node generatePDF.js
 
       - name: Commit and push PDF
         run: |
@@ -41,22 +39,29 @@ jobs:
         env:
           WEBHOOK_SECRET: ${{ secrets.WEBHOOK_SECRET }}
         run: |
-          # Create the JSON payload
           PAYLOAD=$(jq -n --arg timestamp "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" '{
             status: "success",
             message: "PDF generated successfully",
             timestamp: $timestamp
           }')
-    
-          # Compute the HMAC-SHA256 signature using the secret
           SIGNATURE=$(echo -n "$PAYLOAD" | openssl dgst -sha256 -hmac "$WEBHOOK_SECRET" | awk '{print $2}')
           SIGNATURE="sha256=$SIGNATURE"
-          
           echo "Signature: $SIGNATURE"
-          
-          # Send the POST request with the computed signature
           curl -X POST \
             -H "Content-Type: application/json" \
             -H "x-hub-signature-256: $SIGNATURE" \
             -d "$PAYLOAD" \
             "${{ secrets.PDF_WEBHOOK_URL }}"
+
+  deploy_pages:
+    needs: generate_pdf
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./  # Adjust this to the directory to deploy (e.g., the build folder)
