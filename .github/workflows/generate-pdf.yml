@@ -1,4 +1,4 @@
-name: Generate PDF and Deploy Pages
+name: Generate PDF
 
 on:
   push:
