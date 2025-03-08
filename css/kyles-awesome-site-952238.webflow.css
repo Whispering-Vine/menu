@@ -3046,7 +3046,6 @@
 
 .frame-127 {
   grid-row-gap: 8px;
-  white-space: break-spaces;
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
