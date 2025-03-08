@@ -6,6 +6,20 @@ on:
       - main
 
 jobs:
+  deploy_json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Add any build steps needed for your JSON file here
+
+      - name: Deploy updated JSON to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./   # Adjust if your site builds to a specific folder
+          
   generate_pdf:
     runs-on: ubuntu-latest
     permissions:
@@ -35,6 +49,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+  deploy_pages:
+    needs: generate_pdf
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./  # Adjust this to the directory to deploy (e.g., the build folder)
+          
       - name: Notify Client
         env:
           WEBHOOK_SECRET: ${{ secrets.WEBHOOK_SECRET }}
@@ -52,16 +79,3 @@ jobs:
             -H "x-hub-signature-256: $SIGNATURE" \
             -d "$PAYLOAD" \
             "${{ secrets.PDF_WEBHOOK_URL }}"
-
-  deploy_pages:
-    needs: generate_pdf
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./  # Adjust this to the directory to deploy (e.g., the build folder)
