@@ -7,7 +7,7 @@
           "caption": "Enjoy an 8 oz glass",
           "items": [
             {
-              "name": "Beau Joie",
+              "name": "Beau Joie Brut",
               "description": "Champagne, France | Brut",
               "price": {
                 "glass": 14.75,
@@ -792,6 +792,14 @@
               "description": "Creamy Caesar, Garlic Croutons, Frico, Pomegranate",
               "gluten_free": false,
               "new": false,
+              "warning": false,
+              "price": 14
+            },
+            {
+              "name": "HEIRLOOM TOMATO SALAD",
+              "description": "Local \"Backyard Farms\" Tomatoes, Persian Cucumbers, Halloumi Croutons, Lemongrass Vinaigrette",
+              "gluten_free": false,
+              "new": true,
               "warning": false,
               "price": 14
             },
