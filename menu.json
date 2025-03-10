@@ -7,29 +7,21 @@
           "caption": "Enjoy an 8 oz glass",
           "items": [
             {
-              "name": "Beau Joie Brut",
-              "description": "Champagne, France | Brut",
+              "name": "G.H Mumm",
+              "description": "Champagne, France | Brut Rosé",
               "price": {
-                "glass": 13.75,
-                "bottle": 44.99,
+                "glass": 15.75,
+                "bottle": 39.99,
                 "sale": true
               }
             },
             {
-              "name": "Scharffenberger",
-              "description": "Mendocino | Brut Rosé",
-              "price": {
-                "glass": 10.75,
-                "bottle": 24.99
-              }
-            },
-            {
-              "name": "Long Meadow Ranch",
+              "name": "Coquerel \"Terroir\"",
               "description": "Napa | Sauvignon Blanc",
               "price": {
-                "glass": 8.75,
-                "bottle": 19.99,
-                "sale": true
+                "glass": 9.75,
+                "bottle": 24.99,
+                "sale": false
               }
             },
             {
@@ -38,7 +30,7 @@
               "price": {
                 "glass": 7.75,
                 "bottle": 16.99,
-                "sale": true
+                "sale": false
               }
             },
             {
@@ -50,11 +42,11 @@
               }
             },
             {
-              "name": "Elouan",
-              "description": "Oregon | Chardonnay",
+              "name": "The Calling",
+              "description": "Russian River | Chardonnay",
               "price": {
-                "glass": 6.75,
-                "bottle": 15.75
+                "glass": 13.75,
+                "bottle": 34.99
               }
             },
             {
@@ -66,81 +58,83 @@
               }
             },
             {
-              "name": "Benton Lane",
-              "description": "Oregon | Pinot Noir",
+              "name": "Domaine Vieux College",
+              "description": "Burgundy, France | Pinot Noir",
               "price": {
-                "glass": 7.75,
-                "bottle": 16.99
+                "glass": 15.75,
+                "bottle": 44.99
               }
             },
             {
-              "name": "Martinelli \"Bella Vigna\"",
-              "description": "Sonoma Coast | Pinot Noir",
+              "name": "Lucia By Pisoni",
+              "description": "Santa Lucia Highlands | Pinot Noir",
               "price": {
-                "glass": 17.75,
-                "bottle": 45.99
-              }
-            },
-            {
-              "name": "Duckhorn",
-              "description": "Napa | Merlot",
-              "price": {
-                "glass": 17.75,
-                "bottle": 49.99,
+                "glass": 15.75,
+                "bottle": 39.99,
                 "sale": true
               }
             },
             {
-              "name": "Quilt \"Threadcount\"",
-              "description": "Paso Robles | Cabernet",
+              "name": "Truchard",
+              "description": "Napa | Merlot",
               "price": {
                 "glass": 9.75,
-                "bottle": 24.99
+                "bottle": 24.99,
+                "sale": true
               }
             },
             {
-              "name": "Miner",
+              "name": "Clos Du Val",
               "description": "Napa | Cabernet",
               "price": {
-                "glass": 14.75,
-                "bottle": 39.99
+                "glass": 16.75,
+                "bottle": 39.99,
+                "sale": true
               }
             },
             {
-              "name": "Harvey & Harriet",
-              "description": "Paso Robles | Cabernet, Syrah",
+              "name": "La Crema",
+              "description": "Sonoma | Cabernet",
               "price": {
                 "glass": 12.75,
                 "bottle": 29.99
               }
             },
             {
-              "name": "Marietta Old Vine Red",
-              "description": "Sonoma | Zin, Petite Syrah",
+              "name": "Intercept",
+              "description": "Paso Robles | Cabernet Blend",
               "price": {
-                "glass": 6.75,
-                "bottle": 15.99
+                "glass": 8.75,
+                "bottle": 21.99
               }
             },
             {
-              "name": "Klinker Brick",
-              "description": "Lodi | Old Vine Zinfandel",
+              "name": "Chateau De Crouseilles",
+              "description": "France | Cabernet Blend",
+              "price": {
+                "glass": 14.75,
+                "bottle": 34.99
+              }
+            },
+            {
+              "name": "Opolo \"Summit\"",
+              "description": "Paso Robles | Zinfandel",
               "price": {
                 "glass": 6.75,
                 "bottle": 17.99
               }
             },
             {
-              "name": "Cala Civetta",
-              "description": "Italy | Sangiovese di Toscana",
+              "name": "Barone di Bernaj",
+              "description": "Sicily,Italy | Frappato",
               "price": {
                 "glass": 6.75,
                 "bottle": 15.99
               }
             },
             {
-              "name": "Giesen 0% Alcohol Rosé",
-              "description": "New Zealand",
+              "name": "Giesen 0% Alcohol ",
+              "description": "New Zealand | Sauvignon Blanc",
               "price": {
                 "glass": 5.75,
                 "bottle": 13.99
@@ -155,11 +149,11 @@
               }
             },
             {
-              "name": "Hollow Leg 0% Alcohol Cabernet",
-              "description": "Spain",
+              "name": "Giesen 0% Alcohol",
+              "description": "New Zealand | Red Blend",
               "price": {
-                "glass": 8.75,
-                "bottle": 18.99
+                "glass": 5.75,
+                "bottle": 14.99
               }
             }
           ]
@@ -167,13 +161,7 @@
         "special-flight": {
           "name": "Special Flight",
           "caption": "Special Flight of FOUR Belle Glos Pinot Noirs",
-          "items": [
-            {
-              "name": "Belle Glos Pinot Noirs",
-              "description": "Las Alturas | Dairyman | Balade | Clark & Telephone",
-              "price": 17.75
-            }
-          ]
+          "items": []
         }
       }
     },
@@ -185,51 +173,51 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": 10.75,
+              "price": "11.75",
               "items": [
                 {
-                  "name": "Guerra Albano",
-                  "location": "Italy",
+                  "name": "Miner",
+                  "location": "Napa",
+                  "variety": "Viognier",
+                  "glassSize": "8oz",
+                  "price": "8.75"
+                },
+                {
+                  "name": "Quintessa Illumination",
+                  "location": "Napa",
                   "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": 10.75
+                  "price": "15.75"
                 },
                 {
-                  "name": "Marietta",
+                  "name": "Blaire Payton",
                   "location": "Sonoma",
-                  "variety": "Dry Riesling",
-                  "glassSize": "8oz",
-                  "price": 7.75
-                },
-                {
-                  "name": "Meyer Näkel",
-                  "location": "Germany",
                   "variety": "Dry Rosé",
                   "glassSize": "8oz",
-                  "price": 13.75
+                  "price": "8.75"
                 }
               ]
             },
             {
               "name": "Bubbles Flight",
-              "price": 14.75,
+              "price": "11.75",
               "items": [
                 {
-                  "name": "J Vineyards Cuvee",
+                  "name": "Piper Sonoma",
                   "location": "Sonoma",
-                  "variety": "Brut",
+                  "variety": "Blanc de Blanc",
                   "glassSize": "8oz",
-                  "price": 9.75
+                  "price": "7.75"
                 },
                 {
-                  "name": "G.H. Mumm",
-                  "location": "Champagne, France",
+                  "name": "Tobin James",
+                  "location": "Paso Robles",
                   "variety": "Brut",
                   "glassSize": "8oz",
-                  "price": 15.75
+                  "price": "7.75"
                 },
                 {
-                  "name": "PerrierJouët",
+                  "name": "Piper Heidsieck",
                   "location": "Champagne, France",
                   "variety": "Brut",
                   "glassSize": "8oz",
@@ -240,29 +228,29 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": 11.75,
+              "price": "13.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Peju",
+                  "name": "Martin Ray",
+                  "location": "Sonoma",
+                  "variety": "Chardonnay",
+                  "glassSize": "8oz",
+                  "price": "8.75"
+                },
+                {
+                  "name": "Sojourn",
+                  "location": "Sonoma Coast",
+                  "variety": "Chardonnay",
+                  "glassSize": "8oz",
+                  "price": "13.75"
+                },
+                {
+                  "name": "Miner",
                   "location": "Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": 10.75
-                },
-                {
-                  "name": "Chateau Chardonnay",
-                  "location": "California",
-                  "variety": "Chardonnay",
-                  "glassSize": "8oz",
-                  "price": 8.75
-                },
-                {
-                  "name": "Far Niente Post & Beam",
-                  "location": "Napa",
-                  "variety": "Chardonnay",
-                  "glassSize": "8oz",
-                  "price": 13.75
+                  "price": "14.75"
                 }
               ]
             },
@@ -271,80 +259,80 @@
               "price": 16.75,
               "items": [
                 {
-                  "name": "Martin Ray",
-                  "location": "Sonoma",
+                  "name": "Black Kite \"Kites Rest\"",
+                  "location": "Anderson Valley",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": 8.75
+                  "price": "16.75"
                 },
                 {
-                  "name": "Emeritus",
+                  "name": "Bricoleur",
                   "location": "Russian River",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": 17.75
+                  "price": "19.75"
                 },
                 {
-                  "name": "Æquitas",
-                  "location": "Gap's Crown, Sonoma",
+                  "name": "Boen Reserve",
+                  "location": "Santa Maria",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": 21.75
+                  "price": "14.75"
                 }
               ]
             },
             {
               "name": "Cabernet Flight",
-              "price": 14.75,
+              "price": "13.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Educated Guess",
+                  "name": "Emblem",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": 14.75
+                  "price": "13.75"
                 },
                 {
-                  "name": "Mount Veeder",
-                  "location": "Napa",
+                  "name": "Kendall Jackson Reserve",
+                  "location": "Sonoma",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": 19.75
+                  "price": "8.75"
                 },
                 {
-                  "name": "Charles Krug",
+                  "name": "JAX",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": 12.75
+                  "price": "17.75"
                 }
               ]
             },
             {
               "name": "Premium Napa Red Flight",
-              "price": 24.75,
+              "price": "22.75",
               "items": [
                 {
-                  "name": "Far Niente Bella Union",
+                  "name": "Beringer Reserve",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": 21.75
+                  "price": "26.75"
                 },
                 {
-                  "name": "Immortal",
+                  "name": "Burley \"Sciandi\"",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": 21.75
+                  "price": "23.75"
                 },
                 {
-                  "name": "Double Diamond",
+                  "name": "Duckhorn",
                   "location": "Napa",
                   "variety": "Red Blend",
                   "glassSize": "8oz",
-                  "price": 33.75
+                  "price": "18.75"
                 }
               ]
             },
@@ -354,79 +342,79 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Smith & Hook Reserve",
-                  "location": "Central Coast",
-                  "variety": "Cab, Merlot, Cab Franc",
-                  "glassSize": "8oz",
-                  "price": 12.75
-                },
-                {
-                  "name": "Kipsun",
-                  "location": "Red Mountain",
-                  "variety": "Cabernet, Syrah, Merlot",
-                  "glassSize": "8oz",
-                  "price": 21.75
-                },
-                {
-                  "name": "Trefethen Dragon's Tooth",
-                  "location": "Napa",
-                  "variety": "Malbec, Cabernet, Merlot",
-                  "glassSize": "8oz",
-                  "price": 17.75
-                }
-              ]
-            },
-            {
-              "name": "International Red Flight",
-              "price": 16.75,
-              "items": [
-                {
-                  "name": "Domaine Du Vieux",
-                  "location": "Burgundy, France",
-                  "variety": "Pinot Noir",
+                  "name": "Cinq Cepages",
+                  "location": "Sonoma",
+                  "variety": "Cab, Merlot, Petite Verdot",
                   "glassSize": "8oz",
                   "price": "19.75"
                 },
                 {
-                  "name": "Madera 5",
-                  "location": "Baja, Mexico",
-                  "variety": "Nebbiolo",
+                  "name": "Elizabeth Rose",
+                  "location": "Napa",
+                  "variety": "Cab, Merlot, Petite Verdot",
                   "glassSize": "8oz",
-                  "price": 12.75
+                  "price": "9.75"
                 },
                 {
-                  "name": "Penfolds Bin 389",
-                  "location": "Australia",
-                  "variety": "Shiraz, Cabernet",
+                  "name": "Justin Isosceles",
+                  "location": "Paso Robles",
+                  "variety": "Cab, Merlot, Petite Verdot",
                   "glassSize": "8oz",
-                  "price": 16.75
+                  "price": "22.75"
+                }
+              ]
+            },
+            {
+              "name": "Premium International Red Flight",
+              "price": "15.75",
+              "items": [
+                {
+                  "name": "Brecca",
+                  "location": "Spain",
+                  "variety": "Old Vine Grenache",
+                  "glassSize": "8oz",
+                  "price": "5.75"
+                },
+                {
+                  "name": "Martoccia",
+                  "location": "Brunello, Italy",
+                  "variety": "Sangiovese",
+                  "glassSize": "8oz",
+                  "price": "19.75"
+                },
+                {
+                  "name": "Telegramme",
+                  "location": "Chateauneuf, France",
+                  "variety": "Greanche, Syrah, Mourved",
+                  "glassSize": "8oz",
+                  "price": "17.75"
                 }
               ]
             },
             {
               "name": "Red Variety Flight",
-              "price": 13.75,
+              "price": "10.75",
               "items": [
                 {
-                  "name": "Blaire Payton",
-                  "location": "Sonoma",
-                  "variety": "Grenache",
-                  "glassSize": "8oz",
-                  "price": 12.75
-                },
-                {
-                  "name": "Brecca",
-                  "location": "Spain",
-                  "variety": "Grenacha",
-                  "glassSize": "8oz",
-                  "price": 7.75
-                },
-                {
-                  "name": "Laird",
-                  "location": "Napa",
+                  "name": "L'Ecole 41",
+                  "location": "Washington",
                   "variety": "Merlot",
                   "glassSize": "8oz",
-                  "price": 19.75
+                  "price": "10.75"
+                },
+                {
+                  "name": "Opolo",
+                  "location": "Paso Robles",
+                  "variety": "Petite Syrah",
+                  "glassSize": "8oz",
+                  "price": "8.75"
+                },
+                {
+                  "name": "Carol Shelton \"Monga\"",
+                  "location": "Sonoma",
+                  "variety": "Zinfandel",
+                  "glassSize": "8oz",
+                  "price": "11.75"
                 }
               ]
             }
@@ -612,11 +600,11 @@
               "local": false
             },
             {
-              "name": "FiftyFifty Tahoe Lager",
-              "brewery": "Truckee",
-              "abv": "5.0%",
-              "ibu": "N/A",
-              "price": "$6.25",
+              "name": "Blind Pig IPA",
+              "brewery": "Russian River",
+              "abv": "6.3%",
+              "ibu": "70",
+              "price": "$8.25",
               "local": true
             },
             {
@@ -636,20 +624,12 @@
               "local": false
             },
             {
-              "name": "STS Pilsner",
-              "brewery": "Russian River",
-              "abv": "5.4%",
-              "ibu": "MED",
-              "price": "$6.25",
-              "local": false
-            },
-            {
-              "name": "FiftyFifty Octoberfest",
+              "name": "FiftyFifty Pilsner",
               "brewery": "Truckee",
-              "abv": "5.4%",
+              "abv": "4.6%",
               "ibu": "N/A",
               "price": "$6.25",
-              "local": true
+              "local": false
             },
             {
               "name": "Pilsner Urquell",
@@ -660,19 +640,27 @@
               "local": false
             },
             {
-              "name": "Dogfish Head Punkin Brown Ale",
-              "brewery": "Delaware",
-              "abv": "7.0%",
-              "ibu": "N/A",
+              "name": "Dogfish Head Grateful Dead Juicy Pale Ale",
+              "brewery": "",
+              "abv": "5.3%",
+              "ibu": "30",
               "price": "$7.25",
               "local": false
             },
             {
-              "name": "Ballast Point Sculpin Grapefruit IPA",
-              "brewery": "N/A",
-              "abv": "7.0%",
-              "ibu": "70",
-              "price": "$6.25",
+              "name": "Duvel 666 Blonde Ale",
+              "brewery": "Belgium",
+              "abv": "6.6%",
+              "ibu": "20",
+              "price": "$9.25",
+              "local": false
+            },
+            {
+              "name": "Deschutes Black Butte Porter",
+              "brewery": "Oregon",
+              "abv": "5.5%",
+              "ibu": "30",
+              "price": "$7.25",
               "local": false
             }
           ]
