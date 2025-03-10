@@ -161,7 +161,18 @@
         "special-flight": {
           "name": "Special Flight",
           "caption": "Special Flight of FOUR Belle Glos Pinot Noirs",
-          "items": []
+          "items": [
+            {
+              "name": "",
+              "description": "",
+              "price": {
+                "glass": 0,
+                "bottle": 0,
+                "sale": false
+              }
+            }
+          ],
+          "hidden": true
         }
       }
     },
