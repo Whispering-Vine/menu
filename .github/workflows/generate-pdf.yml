@@ -2,7 +2,7 @@ name: Generate PDF
 
 on:
   workflow_run:
-    workflows: ["Non Generate PDF"]
+    workflows: ["Deploy Pages and Notify Client"]
     types: [completed]
 
 jobs:
