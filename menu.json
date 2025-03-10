@@ -172,7 +172,7 @@
               }
             }
           ],
-          "hidden": true
+          "hidden": false
         }
       }
     },
