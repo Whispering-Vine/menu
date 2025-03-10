@@ -605,7 +605,7 @@
               "abv": "6.3%",
               "ibu": "70",
               "price": "$8.25",
-              "local": true
+              "local": false
             },
             {
               "name": "Fall River Irish Coffee Stout Nitro",
@@ -629,7 +629,7 @@
               "abv": "4.6%",
               "ibu": "N/A",
               "price": "$6.25",
-              "local": false
+              "local": true
             },
             {
               "name": "Pilsner Urquell",
