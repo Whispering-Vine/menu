@@ -1,9 +1,9 @@
 name: Generate PDF
 
 on:
-  workflow_run:
-    workflows: ["NONE Generate PDF"]
-    types: [completed]
+  push:
+    branches:
+      - main
 
 jobs:
   generate_pdf:
