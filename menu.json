@@ -796,6 +796,14 @@
               "price": 14
             },
             {
+              "name": "HEIRLOOM TOMATO SALAD",
+              "description": "Local \"Backyard Farms\" Tomatoes, Persian Cucumbers, Halloumi Croutons, Lemongrass Vinaigrette",
+              "gluten_free": false,
+              "new": true,
+              "warning": false,
+              "price": 14
+            },
+            {
               "name": "GRILLED CHEESE & TOMATO SOUP",
               "description": "Irish Cheddar, Dutch Gouda, Rustic Baguette",
               "gluten_free": false,
