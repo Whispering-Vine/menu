@@ -4,8 +4,7 @@ on:
   workflow_run:
     workflows: ["Deploy Pages and Notify Client"]
     types: [completed]
-
-jobs:
+jobs: 
   generate_pdf:
     runs-on: ubuntu-latest
     permissions:
@@ -34,3 +33,10 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+  deploy:
+    needs: generate_pdf
+   # Call your reusable static deployment workflow as a job to deploy your JSON
+    uses: ./.github/workflows/static.yml
+    with:
+      publish_dir: '.'  # Adjust if your site builds to a specific folder
