@@ -38,7 +38,8 @@
               "description": "Oregon | Chardonnay",
               "price": {
                 "glass": 8.75,
-                "bottle": 19.99
+                "bottle": 19.99,
+                "sale": false
               }
             },
             {
