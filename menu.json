@@ -38,8 +38,7 @@
               "description": "Oregon | Chardonnay",
               "price": {
                 "glass": 8.75,
-                "bottle": 19.99,
-                "sale": false
+                "bottle": 19.99
               }
             },
             {
@@ -164,7 +163,7 @@
           "caption": "Special Flight of FOUR Belle Glos Pinot Noirs",
           "items": [
             {
-              "name": "",
+              "name": "item",
               "description": "",
               "price": {
                 "glass": 0,
@@ -173,7 +172,7 @@
               }
             }
           ],
-          "hidden": false
+          "hidden": true
         }
       }
     },
