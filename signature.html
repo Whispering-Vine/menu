@@ -272,10 +272,10 @@ async function replaceContentFromMenu() {
       const value = key.split('.').reduce((acc, part) => acc && acc[part], menuData);
       // Handle boolean visibility and text content
       if (typeof value === 'boolean') {
-        keyElement.style.visibility = value ? '' : 'hidden'; // Handle visibility
+        keyElement.style.display = value ? '' : 'none'; // Handle visibility
       } else {
         keyElement.textContent = value || ''; // Set text content for non-boolean values
-        keyElement.style.visibility = ''; // Reset visibility if needed
+        keyElement.style.display = ''; // Reset visibility if needed
       }
     });
   } catch (error) {
