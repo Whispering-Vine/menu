@@ -161,18 +161,7 @@
         "special-flight": {
           "name": "Special Flight",
           "caption": "Special Flight of FOUR Belle Glos Pinot Noirs",
-          "items": [
-            {
-              "name": "item",
-              "description": "",
-              "price": {
-                "glass": 0,
-                "bottle": 0,
-                "sale": false
-              }
-            }
-          ],
-          "hidden": false
+          "items": []
         }
       }
     },
@@ -473,10 +462,10 @@
         "seasonal": {
           "items": [
             {
-              "name": "BLACK HIBISCUS MANHATTAN",
+              "name": "SPRINGTIME SPRITZ",
               "price": "14",
-              "description": "Rye Whiskey | Averna Amaro\nHibiscus Syrup | Angostura",
-              "serving": "Served Up with Hibiscus Flower"
+              "description": "Crème de Violette | Lemon Juice Elderflower Liqueur | Bubbles | Soda",
+              "serving": "On the Rocks"
             },
             {
               "name": "THE VINE OLD FASHIONED",
@@ -492,19 +481,19 @@
             },
             {
               "name": "FRENCH 75",
-              "price": 11,
+              "price": "12",
               "description": "Gin | Lemon Juice\nSimple Syrup | Bubbles",
               "serving": "Served Up"
             },
             {
               "name": "LIMONCELLO SPRITZ",
-              "price": 11,
+              "price": "13",
               "description": "Limoncello | Lemon Juice\nSparkling Wine | Club Soda",
               "serving": "On the Rocks"
             },
             {
               "name": "WV ESPRESSO MARTINI",
-              "price": 12,
+              "price": "13",
               "description": "Vodka | Cardamaro\nCoffee | Grind Espresso Liqueur\nSimple Syrup",
               "serving": "Served Up with Pressed Mint"
             },
@@ -527,9 +516,9 @@
               "serving": "Served Up"
             },
             {
-              "name": "PEACH PARTY VODKA SODA",
+              "name": "",
               "price": 12,
-              "description": "Peach Vodka | Grapefruit Juice\nLemon Juice | Cinnamon Simple Syrup\nSoda",
+              "description": "",
               "serving": "On the Rocks"
             }
           ]
@@ -539,25 +528,25 @@
           "items": [
             {
               "name": "VINE PALOMA",
-              "price": 11,
+              "price": "12",
               "description": "Astral Tequila | Lime Juice\nGrapefruit Juice | Q Grapefruit Soda",
               "serving": "On the Rocks | Salted Rim"
             },
             {
               "name": "CLASSIC MARGARITA",
-              "price": 11,
+              "price": "12",
               "description": "WV Fogonero Tequila | Cointreau\nAgave | Lime",
               "serving": "On the Rocks | Salted Rim"
             },
             {
               "name": "VINE MANHATTAN",
-              "price": 11,
+              "price": "12",
               "description": "Premium Rye | Antica Sweet Vermouth\nGran Marnier | Angostura\nPeychaud's Bitters",
               "serving": "Served Up"
             },
             {
               "name": "BLUE CHEESE STUFFED DIRTY MARTINI",
-              "price": 11,
+              "price": "12",
               "description": "Vodka | Filthy Olive Brine\nBlue Cheese Stuffed Olives",
               "serving": "Served Up"
             }
