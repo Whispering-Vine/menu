@@ -934,7 +934,8 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 18
+              "price": 18,
+              "favorites": true
             },
             {
               "name": "BRUSSELS BACON FLATBREAD",
@@ -942,7 +943,7 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "favorites": true,
+              "favorites": false,
               "price": 18
             },
             {
