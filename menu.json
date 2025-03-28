@@ -161,18 +161,7 @@
         "special-flight": {
           "name": "Special Flight",
           "caption": "Special Flight of FOUR Belle Glos Pinot Noirs",
-          "items": [
-            {
-              "name": "item",
-              "description": "",
-              "price": {
-                "glass": 0,
-                "bottle": 0,
-                "sale": false
-              }
-            }
-          ],
-          "hidden": false
+          "items": []
         }
       }
     },
@@ -184,8 +173,15 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "11.75",
+              "price": "9.75",
               "items": [
+                {
+                  "name": "Truchard",
+                  "location": "Napa",
+                  "variety": "Roussanne",
+                  "glassSize": "8oz",
+                  "price": "10.75"
+                },
                 {
                   "name": "Miner",
                   "location": "Napa",
@@ -194,25 +190,17 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Quintessa Illumination",
-                  "location": "Napa",
-                  "variety": "Sauvignon Blanc",
-                  "glassSize": "8oz",
-                  "price": "15.75"
-                },
-                {
                   "name": "Blaire Payton",
                   "location": "Sonoma",
                   "variety": "Dry Rosé",
                   "glassSize": "8oz",
                   "price": "8.75"
                 }
-              ],
-              "favorites": true
+              ]
             },
             {
               "name": "Bubbles Flight",
-              "price": "11.75",
+              "price": "13.75",
               "items": [
                 {
                   "name": "Piper Sonoma",
@@ -222,11 +210,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Tobin James",
-                  "location": "Paso Robles",
+                  "name": "G.H. Mumm",
+                  "location": "Champagne, France",
                   "variety": "Brut",
                   "glassSize": "8oz",
-                  "price": "7.75"
+                  "price": "14.75"
                 },
                 {
                   "name": "Piper Heidsieck",
@@ -240,22 +228,22 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "13.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Martin Ray",
-                  "location": "Sonoma",
+                  "name": "Paul Lato",
+                  "location": "Santa Barbara",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "19.75"
                 },
                 {
-                  "name": "Sojourn",
-                  "location": "Sonoma Coast",
-                  "variety": "Chardonnay",
+                  "name": "Domaine Roland",
+                  "location": "France",
+                  "variety": "Chablis",
                   "glassSize": "8oz",
-                  "price": "13.75"
+                  "price": "14.75"
                 },
                 {
                   "name": "Miner",
@@ -268,21 +256,21 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": 16.75,
+              "price": "13.75",
               "items": [
                 {
-                  "name": "Black Kite \"Kites Rest\"",
-                  "location": "Anderson Valley",
+                  "name": "Saxon \"Fighting Brothers\"",
+                  "location": "Sonoma Coast",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "15.75"
                 },
                 {
-                  "name": "Bricoleur",
-                  "location": "Russian River",
+                  "name": "Sean Minor",
+                  "location": "Sonoma",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "8.75"
                 },
                 {
                   "name": "Boen Reserve",
@@ -299,13 +287,6 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Emblem",
-                  "location": "Napa",
-                  "variety": "Cabernet",
-                  "glassSize": "8oz",
-                  "price": "13.75"
-                },
-                {
                   "name": "Kendall Jackson Reserve",
                   "location": "Sonoma",
                   "variety": "Cabernet",
@@ -313,11 +294,18 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "JAX",
+                  "name": "Laird",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "24.75"
+                },
+                {
+                  "name": "Martin Ray \"Synthesis\"",
+                  "location": "Napa",
+                  "variety": "Cabernet",
+                  "glassSize": "8oz",
+                  "price": "16.75"
                 }
               ]
             },
@@ -350,22 +338,22 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": 16.75,
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Cinq Cepages",
-                  "location": "Sonoma",
-                  "variety": "Cab, Merlot, Petite Verdot",
-                  "glassSize": "8oz",
-                  "price": "19.75"
-                },
-                {
-                  "name": "Elizabeth Rose",
+                  "name": "JAX Y3",
                   "location": "Napa",
                   "variety": "Cab, Merlot, Petite Verdot",
                   "glassSize": "8oz",
                   "price": "9.75"
+                },
+                {
+                  "name": "Harvey Harriet",
+                  "location": "Paso Robles",
+                  "variety": "Cab, Syrah, Petite Syrah",
+                  "glassSize": "8oz",
+                  "price": "12.75"
                 },
                 {
                   "name": "Justin Isosceles",
@@ -405,7 +393,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "10.75",
+              "price": "12.75",
               "items": [
                 {
                   "name": "L'Ecole 41",
@@ -422,48 +410,48 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Carol Shelton \"Monga\"",
+                  "name": "Seghesio \"Old Vine\"",
                   "location": "Sonoma",
                   "variety": "Zinfandel",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "16.75"
                 }
-              ],
-              "favorites": true
+              ]
             }
           ]
         },
         "specials": {
           "items": [
             {
-              "name": "Schrader 'Double Diamond' Napa Red Blend",
-              "bottle": 85.99,
-              "glass": 33.75,
-              "favorites": true,
-              "notes": "94pts Jeb Dunnuck"
+              "name": "Laird Cabernet",
+              "bottle": "59.99",
+              "glass": "24.75",
+              "favorites": false,
+              "notes": "93pts Wine Spectator"
             },
             {
-              "name": "Immortal Estate Slope Cabernet Sale",
-              "bottle": 59.99,
-              "glass": 21.75,
+              "name": "Seghesio \"Old Vine\" Zinfandel",
+              "bottle": "39.99",
+              "glass": "16.75",
               "wineryPrice": 85,
-              "notes": "94pts Jeb Dunnuck"
+              "notes": "93pts Wine Spectator"
             },
             {
-              "name": "Emeritus Hallberg Ranch Pinot Noir",
-              "bottle": 44.99,
-              "glass": 17.75,
-              "notes": "94pts Tasting Panel"
+              "name": "Harvey Harriet Red Blend",
+              "bottle": "29.99",
+              "glass": "12.75",
+              "notes": "93pts James Suckling"
             },
             {
-              "name": "Smith & Hook Reserve Cabernet Sauvignon Sale",
-              "bottle": 29.99,
-              "glass": 12.75,
-              "wineryPrice": 45
+              "name": "Sean Minor Pinot Noir",
+              "bottle": "21.99",
+              "glass": "8.75",
+              "wineryPrice": 45,
+              "notes": "92pts Wine Spectator"
             },
             {
-              "name": "Peju Winery Legacy Collection Chardonnay",
-              "bottle": 25.99,
+              "name": "Truchard Rousanne",
+              "bottle": "24.99",
               "glass": 10.75
             }
           ]
@@ -475,10 +463,10 @@
         "seasonal": {
           "items": [
             {
-              "name": "BLACK HIBISCUS MANHATTAN",
-              "price": "14",
-              "description": "Rye Whiskey | Averna Amaro\nHibiscus Syrup | Angostura",
-              "serving": "Served Up with Hibiscus Flower"
+              "name": "SPRINGTIME SPRITZ",
+              "price": "13",
+              "description": "Crème de Violette | Lemon Juice Elderflower Liqueur | Bubbles | Soda",
+              "serving": "On the Rocks"
             },
             {
               "name": "THE VINE OLD FASHIONED",
@@ -487,51 +475,51 @@
               "serving": "On a Large Clear Cube"
             },
             {
-              "name": "CHAMPS-ELYSEES",
-              "price": 12,
-              "description": "Cognac | Benedictine\nLemon Juice | Simple Syrup",
-              "serving": "Served Up"
+              "name": "FALLON BUCK",
+              "price": "14",
+              "description": "Frey Ranch Bourbon | Simple Syrup | Crème de Cassis | Lemon Juice | Angostura",
+              "serving": "On a Large Clear Cube"
             },
             {
               "name": "FRENCH 75",
-              "price": 11,
+              "price": "12",
               "description": "Gin | Lemon Juice\nSimple Syrup | Bubbles",
               "serving": "Served Up"
             },
             {
               "name": "LIMONCELLO SPRITZ",
-              "price": 11,
+              "price": "13",
               "description": "Limoncello | Lemon Juice\nSparkling Wine | Club Soda",
               "serving": "On the Rocks"
             },
             {
               "name": "WV ESPRESSO MARTINI",
-              "price": 12,
+              "price": "13",
               "description": "Vodka | Cardamaro\nCoffee | Grind Espresso Liqueur\nSimple Syrup",
               "serving": "Served Up with Pressed Mint"
             },
             {
-              "name": "CURTIS GOES CARIBBEAN",
-              "price": 12,
-              "description": "Oak-Aged Rum | Banana Liqueur\nDry Curaçao | Lime Juice\nPineapple Juice | Angostura",
+              "name": "CARAJILLO SOL",
+              "price": "13",
+              "description": "WV Malahat Rum | Licor 43 | Golden Moon Kümmel | Walnut Bitters | Fee Foam \t\t\t\t\t\t\t\t\t\t\n",
               "serving": "On the Rocks"
             },
             {
-              "name": "SOLEROL SOUR",
-              "price": 12,
-              "description": "Rye Whiskey | Peach Tarragon Syrup\nAperol | Lemon\nAngostura | Orange Bitters",
-              "serving": "On a Large Clear Cube"
+              "name": "PISCO BREEZE",
+              "price": "13",
+              "description": "Pisco | Agwa Coca Herbal Liqueur | Leopold Sour Lime | Simple Syrup | Scrappy's Chocolate Bitters | Fee Foam",
+              "serving": "On the Rocks"
             },
             {
               "name": "GRAPEFRUIT LAVENDER GIMLET",
-              "price": 11,
+              "price": "12",
               "description": "St George Botanivore Gin | Lime Juice\nGrapefruit Juice | Simple Syrup\nLavender Bitters",
               "serving": "Served Up"
             },
             {
-              "name": "PEACH PARTY VODKA SODA",
-              "price": 12,
-              "description": "Peach Vodka | Grapefruit Juice\nLemon Juice | Cinnamon Simple Syrup\nSoda",
+              "name": "PEACH MULE",
+              "price": "13",
+              "description": "Wild Roots Peach Vodka | Intense Ginger Ligueur | Lemon Juice | Ginger Beer\n",
               "serving": "On the Rocks"
             }
           ]
@@ -541,25 +529,25 @@
           "items": [
             {
               "name": "VINE PALOMA",
-              "price": 11,
+              "price": "12",
               "description": "Astral Tequila | Lime Juice\nGrapefruit Juice | Q Grapefruit Soda",
               "serving": "On the Rocks | Salted Rim"
             },
             {
               "name": "CLASSIC MARGARITA",
-              "price": 11,
+              "price": "12",
               "description": "WV Fogonero Tequila | Cointreau\nAgave | Lime",
               "serving": "On the Rocks | Salted Rim"
             },
             {
               "name": "VINE MANHATTAN",
-              "price": 11,
+              "price": "12",
               "description": "Premium Rye | Antica Sweet Vermouth\nGran Marnier | Angostura\nPeychaud's Bitters",
               "serving": "Served Up"
             },
             {
               "name": "BLUE CHEESE STUFFED DIRTY MARTINI",
-              "price": 11,
+              "price": "12",
               "description": "Vodka | Filthy Olive Brine\nBlue Cheese Stuffed Olives",
               "serving": "Served Up"
             }
