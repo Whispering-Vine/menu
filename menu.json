@@ -161,7 +161,18 @@
         "special-flight": {
           "name": "Special Flight",
           "caption": "Special Flight of FOUR Belle Glos Pinot Noirs",
-          "items": []
+          "items": [
+            {
+              "name": "item",
+              "description": "",
+              "price": {
+                "glass": 0,
+                "bottle": 0,
+                "sale": false
+              }
+            }
+          ],
+          "hidden": false
         }
       }
     },
@@ -196,7 +207,8 @@
                   "glassSize": "8oz",
                   "price": "8.75"
                 }
-              ]
+              ],
+              "favorites": true
             },
             {
               "name": "Bubbles Flight",
@@ -229,7 +241,7 @@
             {
               "name": "Chardonnay Flight",
               "price": "13.75",
-              "favorites": false,
+              "favorites": true,
               "items": [
                 {
                   "name": "Martin Ray",
@@ -284,7 +296,7 @@
             {
               "name": "Cabernet Flight",
               "price": "13.75",
-              "favorites": false,
+              "favorites": true,
               "items": [
                 {
                   "name": "Emblem",
@@ -416,7 +428,8 @@
                   "glassSize": "8oz",
                   "price": "11.75"
                 }
-              ]
+              ],
+              "favorites": true
             }
           ]
         },
@@ -462,10 +475,10 @@
         "seasonal": {
           "items": [
             {
-              "name": "SPRINGTIME SPRITZ",
-              "price": "13",
-              "description": "Crème de Violette | Lemon Juice Elderflower Liqueur | Bubbles | Soda",
-              "serving": "On the Rocks"
+              "name": "BLACK HIBISCUS MANHATTAN",
+              "price": "14",
+              "description": "Rye Whiskey | Averna Amaro\nHibiscus Syrup | Angostura",
+              "serving": "Served Up with Hibiscus Flower"
             },
             {
               "name": "THE VINE OLD FASHIONED",
@@ -474,51 +487,51 @@
               "serving": "On a Large Clear Cube"
             },
             {
-              "name": "FALLON BUCK",
-              "price": "14",
-              "description": "Frey Ranch Bourbon | Simple Syrup | Crème de Cassis | Lemon Juice | Angostura",
-              "serving": "On a Large Clear Cube"
+              "name": "CHAMPS-ELYSEES",
+              "price": 12,
+              "description": "Cognac | Benedictine\nLemon Juice | Simple Syrup",
+              "serving": "Served Up"
             },
             {
               "name": "FRENCH 75",
-              "price": "12",
+              "price": 11,
               "description": "Gin | Lemon Juice\nSimple Syrup | Bubbles",
               "serving": "Served Up"
             },
             {
               "name": "LIMONCELLO SPRITZ",
-              "price": "13",
+              "price": 11,
               "description": "Limoncello | Lemon Juice\nSparkling Wine | Club Soda",
               "serving": "On the Rocks"
             },
             {
               "name": "WV ESPRESSO MARTINI",
-              "price": "13",
+              "price": 12,
               "description": "Vodka | Cardamaro\nCoffee | Grind Espresso Liqueur\nSimple Syrup",
               "serving": "Served Up with Pressed Mint"
             },
             {
-              "name": "CARAJILLO SOL",
-              "price": "13",
-              "description": "WV Malahat Rum | Licor 43 | Golden Moon Kümmel | Grind Espresso Liquer| Walnut Bitters | Fee Foam ",
+              "name": "CURTIS GOES CARIBBEAN",
+              "price": 12,
+              "description": "Oak-Aged Rum | Banana Liqueur\nDry Curaçao | Lime Juice\nPineapple Juice | Angostura",
               "serving": "On the Rocks"
             },
             {
-              "name": "PISCO BREEZE",
-              "price": "13",
-              "description": "Pisco | Agwa Coca Herbal Liqueur | Leopold Sour Lime | Simple Syrup | Scrappy's Chocolate Bitters | Fee Foam",
-              "serving": "On the Rocks"
+              "name": "SOLEROL SOUR",
+              "price": 12,
+              "description": "Rye Whiskey | Peach Tarragon Syrup\nAperol | Lemon\nAngostura | Orange Bitters",
+              "serving": "On a Large Clear Cube"
             },
             {
               "name": "GRAPEFRUIT LAVENDER GIMLET",
-              "price": "12",
+              "price": 11,
               "description": "St George Botanivore Gin | Lime Juice\nGrapefruit Juice | Simple Syrup\nLavender Bitters",
               "serving": "Served Up"
             },
             {
-              "name": "PEACH MULE",
-              "price": "13",
-              "description": "Wild Roots Peach Vodka | Intense Ginger Ligueur | Lemon Juice | Ginger Beer",
+              "name": "PEACH PARTY VODKA SODA",
+              "price": 12,
+              "description": "Peach Vodka | Grapefruit Juice\nLemon Juice | Cinnamon Simple Syrup\nSoda",
               "serving": "On the Rocks"
             }
           ]
@@ -528,25 +541,25 @@
           "items": [
             {
               "name": "VINE PALOMA",
-              "price": "12",
+              "price": 11,
               "description": "Astral Tequila | Lime Juice\nGrapefruit Juice | Q Grapefruit Soda",
               "serving": "On the Rocks | Salted Rim"
             },
             {
               "name": "CLASSIC MARGARITA",
-              "price": "12",
+              "price": 11,
               "description": "WV Fogonero Tequila | Cointreau\nAgave | Lime",
               "serving": "On the Rocks | Salted Rim"
             },
             {
               "name": "VINE MANHATTAN",
-              "price": "12",
+              "price": 11,
               "description": "Premium Rye | Antica Sweet Vermouth\nGran Marnier | Angostura\nPeychaud's Bitters",
               "serving": "Served Up"
             },
             {
               "name": "BLUE CHEESE STUFFED DIRTY MARTINI",
-              "price": "12",
+              "price": 11,
               "description": "Vodka | Filthy Olive Brine\nBlue Cheese Stuffed Olives",
               "serving": "Served Up"
             }
@@ -554,7 +567,7 @@
         },
         "non": {
           "name": "NON ALCOHOLIC COCKTAILS AVAILABLE",
-          "description": "Made with \"LYRE\" Non-Alcoholic Spirits"
+          "description": "Made with \"Clean Co\" Non-Alcoholic Spirits"
         },
         "kitchen": {
           "name": "BUY THE KITCHEN AN \"END OF NIGHT\" ROUND OF COCKTAILS",
