@@ -196,7 +196,8 @@
                   "glassSize": "8oz",
                   "price": "8.75"
                 }
-              ]
+              ],
+              "favorites": true
             },
             {
               "name": "Bubbles Flight",
@@ -416,7 +417,8 @@
                   "glassSize": "8oz",
                   "price": "16.75"
                 }
-              ]
+              ],
+              "favorites": true
             }
           ]
         },
