@@ -467,7 +467,7 @@
             {
               "name": "SPRINGTIME SPRITZ",
               "price": "13",
-              "description": "Crème de Violette | Lemon Juice Elderflower Liqueur | Bubbles | Soda",
+              "description": "Crème de Violette | Lemon Juice Elderflower Liqueur | Sparkling Wine |  Club Soda",
               "serving": "On the Rocks"
             },
             {
@@ -485,7 +485,7 @@
             {
               "name": "FRENCH 75",
               "price": "12",
-              "description": "Gin | Lemon Juice\nSimple Syrup | Bubbles",
+              "description": "Gin | Lemon Juice\nSimple Syrup | Sparkling Wine",
               "serving": "Served Up"
             },
             {
@@ -532,13 +532,13 @@
             {
               "name": "VINE PALOMA",
               "price": "12",
-              "description": "Astral Tequila | Lime Juice\nGrapefruit Juice | Q Grapefruit Soda",
+              "description": "Mi Campo Tequila | Lime Juice\nGrapefruit Juice | Q Grapefruit Soda",
               "serving": "On the Rocks | Salted Rim"
             },
             {
               "name": "CLASSIC MARGARITA",
               "price": "12",
-              "description": "WV Fogonero Tequila | Cointreau\nAgave | Lime",
+              "description": "Mi Campo Tequila | Cointreau\nAgave | Lime",
               "serving": "On the Rocks | Salted Rim"
             },
             {
