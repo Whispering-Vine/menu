@@ -686,16 +686,16 @@
               "local": false
             },
             {
-              "name": "Mosaic Stack IPA",
-              "abv": "6.6%",
+              "name": "Citra Flash Mob IPA",
+              "abv": "7.0%",
               "ibu": "MED",
               "price": "$5.99",
               "local": false
             },
             {
-              "name": "Fonio Belgian Blonde Ale",
-              "abv": "5.7%",
-              "ibu": "WCS",
+              "name": "Happy Hops IPA",
+              "abv": "6.5%",
+              "ibu": "LOW",
               "price": "$5.99",
               "local": false
             }
