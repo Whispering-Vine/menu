@@ -229,7 +229,7 @@
             {
               "name": "Chardonnay Flight",
               "price": "13.75",
-              "favorites": true,
+              "favorites": false,
               "items": [
                 {
                   "name": "Martin Ray",
@@ -284,7 +284,7 @@
             {
               "name": "Cabernet Flight",
               "price": "13.75",
-              "favorites": true,
+              "favorites": false,
               "items": [
                 {
                   "name": "Emblem",
@@ -500,7 +500,7 @@
             {
               "name": "CARAJILLO SOL",
               "price": "13",
-              "description": "WV Malahat Rum | Licor 43 | Golden Moon Kümmel | Walnut Bitters | Fee Foam \t\t\t\t\t\t\t\t\t\t\n",
+              "description": "WV Malahat Rum | Licor 43 | Golden Moon Kümmel | Grind Espresso Liquer| Walnut Bitters | Fee Foam \t\t\t\t\t\t\t\t\t\t\n",
               "serving": "On the Rocks"
             },
             {
