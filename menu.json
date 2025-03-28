@@ -500,7 +500,7 @@
             {
               "name": "CARAJILLO SOL",
               "price": "13",
-              "description": "WV Malahat Rum | Licor 43 | Golden Moon Kümmel | Grind Espresso Liquer| Walnut Bitters | Fee Foam \t\t\t\t\t\t\t\t\t\t\n",
+              "description": "WV Malahat Rum | Licor 43 | Golden Moon Kümmel | Grind Espresso Liquer| Walnut Bitters | Fee Foam ",
               "serving": "On the Rocks"
             },
             {
@@ -518,7 +518,7 @@
             {
               "name": "PEACH MULE",
               "price": "13",
-              "description": "Wild Roots Peach Vodka | Intense Ginger Ligueur | Lemon Juice | Ginger Beer\n",
+              "description": "Wild Roots Peach Vodka | Intense Ginger Ligueur | Lemon Juice | Ginger Beer",
               "serving": "On the Rocks"
             }
           ]
@@ -554,7 +554,7 @@
         },
         "non": {
           "name": "NON ALCOHOLIC COCKTAILS AVAILABLE",
-          "description": "Made with \"Clean Co\" Non-Alcoholic Spirits"
+          "description": "Made with \"LYRE\" Non-Alcoholic Spirits"
         },
         "kitchen": {
           "name": "BUY THE KITCHEN AN \"END OF NIGHT\" ROUND OF COCKTAILS",
