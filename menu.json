@@ -280,8 +280,7 @@
                   "glassSize": "8oz",
                   "price": "14.75"
                 }
-              ],
-              "favorites": false
+              ]
             },
             {
               "name": "Cabernet Flight",
@@ -336,8 +335,7 @@
                   "glassSize": "8oz",
                   "price": "18.75"
                 }
-              ],
-              "favorites": false
+              ]
             },
             {
               "name": "Red Blend Flight",
@@ -392,8 +390,7 @@
                   "glassSize": "8oz",
                   "price": "17.75"
                 }
-              ],
-              "favorites": false
+              ]
             },
             {
               "name": "Red Variety Flight",
@@ -751,7 +748,7 @@
             },
             {
               "name": "CHARCUTERIE BOARD",
-              "description": "IL Numero Uno 600 Day Parma Prociutto, Fra'mani Rosemary Ham, Garlic & Herb Eurocreme Cheese, Manchego D.O.P. Sheep's Milk Cheese, Shaft's Bleu Cheese, Mini French Baguette, Pickled Vegetables, Marcona Almonds, Grapes, Olives",
+              "description": "IL Numero Uno 600 Day Parma Prociutto, Fra'mani Rosemary Ham, Garlic & Herb Eurocreme Cheese, Iowa Breeze Prairie Cheese, Shaft's Bleu Cheese, Mini French Baguette, Pickled Vegetables, Marcona Almonds, Grapes, Olives",
               "gluten_free": false,
               "new": false,
               "warning": false,
@@ -856,7 +853,7 @@
           ]
         }
       },
-      "footer": "18% Gratuity added to parties of 8 or more",
+      "footer": "20% Gratuity added to parties of 8 or more",
       "warning": "* Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodbourne illness."
     },
     "food-2": {
