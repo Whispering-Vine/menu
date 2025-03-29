@@ -197,7 +197,7 @@
                   "price": "8.75"
                 }
               ],
-              "favorites": false
+              "favorites": true
             },
             {
               "name": "Bubbles Flight",
@@ -230,7 +230,7 @@
             {
               "name": "Chardonnay Flight",
               "price": "16.75",
-              "favorites": false,
+              "favorites": true,
               "items": [
                 {
                   "name": "Paul Lato",
@@ -285,7 +285,7 @@
             {
               "name": "Cabernet Flight",
               "price": "13.75",
-              "favorites": false,
+              "favorites": true,
               "items": [
                 {
                   "name": "Kendall Jackson Reserve",
@@ -340,7 +340,7 @@
             {
               "name": "Red Blend Flight",
               "price": "15.75",
-              "favorites": false,
+              "favorites": true,
               "items": [
                 {
                   "name": "JAX Y3",
@@ -418,7 +418,7 @@
                   "price": "16.75"
                 }
               ],
-              "favorites": false
+              "favorites": true
             }
           ]
         },
