@@ -34,11 +34,11 @@
               }
             },
             {
-              "name": "Carol Shelton \"Wild Thing\"",
-              "description": "Sonoma | Chardonnay",
+              "name": "Whispering Vine",
+              "description": "Oregon | Chardonnay",
               "price": {
-                "glass": 9.75,
-                "bottle": 23.99
+                "glass": 8.75,
+                "bottle": 19.99
               }
             },
             {
@@ -66,12 +66,12 @@
               }
             },
             {
-              "name": "Martinelli \"Bella Vigna\"",
-              "description": "Sonoma Coast | Pinot Noir",
+              "name": "Lucia By Pisoni",
+              "description": "Santa Lucia Highlands | Pinot Noir",
               "price": {
                 "glass": 15.75,
-                "bottle": 45.99,
-                "sale": false
+                "bottle": 39.99,
+                "sale": true
               }
             },
             {
@@ -93,8 +93,8 @@
               }
             },
             {
-              "name": "Bonterra Estate",
-              "description": "Monterey | Cabernet",
+              "name": "Bonterra",
+              "description": " | Cabernet",
               "price": {
                 "glass": 12.75,
                 "bottle": 24.99
@@ -141,8 +141,8 @@
               }
             },
             {
-              "name": "Fritz Muller 0% Alcohol White Blend",
-              "description": "German",
+              "name": "Fritz Muller 0% Alcohol",
+              "description": "German | White Blend",
               "price": {
                 "glass": 6.75,
                 "bottle": 16.99
@@ -197,7 +197,7 @@
                   "price": "8.75"
                 }
               ],
-              "favorites": true
+              "favorites": false
             },
             {
               "name": "Bubbles Flight",
@@ -230,7 +230,7 @@
             {
               "name": "Chardonnay Flight",
               "price": "16.75",
-              "favorites": true,
+              "favorites": false,
               "items": [
                 {
                   "name": "Paul Lato",
@@ -285,7 +285,7 @@
             {
               "name": "Cabernet Flight",
               "price": "13.75",
-              "favorites": true,
+              "favorites": false,
               "items": [
                 {
                   "name": "Kendall Jackson Reserve",
@@ -340,7 +340,7 @@
             {
               "name": "Red Blend Flight",
               "price": "15.75",
-              "favorites": true,
+              "favorites": false,
               "items": [
                 {
                   "name": "JAX Y3",
@@ -418,7 +418,7 @@
                   "price": "16.75"
                 }
               ],
-              "favorites": true
+              "favorites": false
             }
           ]
         },
@@ -674,28 +674,28 @@
             {
               "name": "Pliny the Elder Double IPA",
               "abv": "8.0%",
-              "ibu": "HIGH",
+              "ibu": "",
               "price": "$5.99",
               "local": false
             },
             {
               "name": "Blind Pig IPA",
               "abv": "6.3%",
-              "ibu": "MED",
+              "ibu": "",
               "price": "$5.99",
               "local": false
             },
             {
               "name": "Citra Flash Mob IPA",
               "abv": "7.0%",
-              "ibu": "MED",
+              "ibu": "",
               "price": "$5.99",
               "local": false
             },
             {
               "name": "Happy Hops IPA",
               "abv": "6.5%",
-              "ibu": "LOW",
+              "ibu": "",
               "price": "$5.99",
               "local": false
             }
