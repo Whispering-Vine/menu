@@ -101,27 +101,28 @@
               }
             },
             {
-              "name": "Intercept",
-              "description": "Paso Robles | Cabernet Blend",
+              "name": "Educated Guess",
+              "description": "Napa | Cabernet Blend",
+              "price": {
+                "glass": 8.75,
+                "bottle": 19.99
+              }
+            },
+            {
+              "name": "Tolaini Al Passo",
+              "description": "Tuscany, Italy | Sangiovese Blend",
               "price": {
                 "glass": 8.75,
                 "bottle": 21.99
               }
             },
             {
-              "name": "Chateau De Crouseilles",
-              "description": "France | Cabernet Blend",
+              "name": "Ridge Three Valley",
+              "description": "Sonoma | Zinfandel",
               "price": {
-                "glass": 14.75,
-                "bottle": 34.99
-              }
-            },
-            {
-              "name": "Opolo \"Summit\"",
-              "description": "Paso Robles | Zinfandel",
-              "price": {
-                "glass": 6.75,
-                "bottle": 17.99
+                "glass": 13.75,
+                "bottle": 32.99,
+                "sale": true
               }
             },
             {
