@@ -173,7 +173,7 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "9.75",
+              "price": "10.75",
               "items": [
                 {
                   "name": "Truchard",
@@ -190,11 +190,11 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Blaire Payton",
+                  "name": "Martinelli",
                   "location": "Sonoma",
                   "variety": "Dry Rosé",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "10.75"
                 }
               ],
               "favorites": true
@@ -229,7 +229,7 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
@@ -240,11 +240,11 @@
                   "price": "19.75"
                 },
                 {
-                  "name": "Domaine Roland",
-                  "location": "France",
-                  "variety": "Chablis",
+                  "name": "Neyers",
+                  "location": "Sonoma",
+                  "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Miner",
@@ -295,11 +295,11 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Laird",
+                  "name": "BACA",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "24.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Martin Ray \"Synthesis\"",
@@ -322,11 +322,11 @@
                   "price": "26.75"
                 },
                 {
-                  "name": "Burley \"Sciandi\"",
+                  "name": "Dominus \"Othello\"",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "23.75"
+                  "price": "21.75"
                 },
                 {
                   "name": "Duckhorn",
@@ -339,7 +339,7 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "15.75",
+              "price": "12.75",
               "favorites": true,
               "items": [
                 {
@@ -357,11 +357,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Justin Isosceles",
-                  "location": "Paso Robles",
-                  "variety": "Cab, Merlot, Petite Verdot",
+                  "name": "Saxon Brown",
+                  "location": "Sonoma",
+                  "variety": "Grenache,Syrah,Mourvedre",
                   "glassSize": "8oz",
-                  "price": "22.75"
+                  "price": "15.75"
                 }
               ]
             },
@@ -394,7 +394,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "12.75",
+              "price": "10.75",
               "items": [
                 {
                   "name": "L'Ecole 41",
@@ -411,11 +411,11 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Seghesio \"Old Vine\"",
-                  "location": "Sonoma",
+                  "name": "Turley \"Old Vine\"",
+                  "location": "California",
                   "variety": "Zinfandel",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "12.75"
                 }
               ],
               "favorites": true
@@ -425,35 +425,35 @@
         "specials": {
           "items": [
             {
-              "name": "Laird Cabernet",
-              "bottle": "59.99",
-              "glass": "24.75",
-              "favorites": false,
-              "notes": "93pts Wine Spectator"
-            },
-            {
-              "name": "Seghesio \"Old Vine\" Zinfandel",
+              "name": "Saxon Brown GSM",
               "bottle": "39.99",
-              "glass": "16.75",
-              "wineryPrice": 85,
-              "notes": "93pts Wine Spectator"
+              "glass": "15.75",
+              "favorites": false,
+              "notes": "94 Jeb Dunnuck"
             },
             {
-              "name": "Harvey Harriet Red Blend",
+              "name": "Dominus \"Othello\"",
+              "bottle": "54.99",
+              "glass": "21.75",
+              "wineryPrice": 85,
+              "notes": "96 James Suckling"
+            },
+            {
+              "name": "BACA Cabernet",
               "bottle": "29.99",
               "glass": "12.75",
-              "notes": "93pts James Suckling"
+              "notes": ""
             },
             {
-              "name": "Sean Minor Pinot Noir",
-              "bottle": "21.99",
-              "glass": "8.75",
+              "name": "Turley \"Old Vine\" Zinfandel",
+              "bottle": "28.99",
+              "glass": "12.75",
               "wineryPrice": 45,
               "notes": "92pts Wine Spectator"
             },
             {
-              "name": "Truchard Rousanne",
-              "bottle": "24.99",
+              "name": "Neyers Chardonnay",
+              "bottle": "26.99",
               "glass": 10.75
             }
           ]
@@ -644,7 +644,7 @@
             },
             {
               "name": "Dogfish Head Grateful Dead Juicy Pale Ale",
-              "brewery": "Delaware",
+              "brewery": "",
               "abv": "5.3%",
               "ibu": "30",
               "price": "$7.25",
