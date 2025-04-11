@@ -85,11 +85,11 @@
               }
             },
             {
-              "name": "Miner",
-              "description": "Napa | Cabernet",
+              "name": "Opolo",
+              "description": "Paso Robles | Cabernet",
               "price": {
-                "glass": 16.75,
-                "bottle": 39.99,
+                "glass": 12.75,
+                "bottle": 29.99,
                 "sale": false
               }
             },
