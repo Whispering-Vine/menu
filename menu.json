@@ -21,7 +21,7 @@
               "price": {
                 "glass": 8.75,
                 "bottle": 19.99,
-                "sale": false
+                "sale": true
               }
             },
             {
@@ -51,11 +51,11 @@
               }
             },
             {
-              "name": "Whispering Vine",
-              "description": "Oregon | Rosé",
+              "name": "Miner",
+              "description": "Napa | Rosé",
               "price": {
-                "glass": 7.75,
-                "bottle": 16.99
+                "glass": 9.75,
+                "bottle": 24.99
               }
             },
             {
@@ -259,7 +259,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "13.75",
+              "price": "14.75",
               "items": [
                 {
                   "name": "Saxon \"Fighting Brothers\"",
@@ -269,11 +269,11 @@
                   "price": "15.75"
                 },
                 {
-                  "name": "Sean Minor",
-                  "location": "Sonoma",
+                  "name": "Failla",
+                  "location": "Willamette Valley",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Boen Reserve",
@@ -317,11 +317,11 @@
               "price": "22.75",
               "items": [
                 {
-                  "name": "Beringer Reserve",
+                  "name": "Duckhorn",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "26.75"
+                  "price": "18.75"
                 },
                 {
                   "name": "Dominus \"Othello\"",
@@ -331,11 +331,11 @@
                   "price": "21.75"
                 },
                 {
-                  "name": "Duckhorn",
+                  "name": "Burley",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "18.75"
+                  "price": "24.75"
                 }
               ]
             },
@@ -352,11 +352,11 @@
                   "price": "9.75"
                 },
                 {
-                  "name": "Harvey Harriet",
+                  "name": "Renegade",
                   "location": "Paso Robles",
-                  "variety": "Cab, Syrah, Petite Syrah",
+                  "variety": "Syrah,Grenache,Mourvedre",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "9.75"
                 },
                 {
                   "name": "Saxon Brown",
@@ -765,7 +765,7 @@
           "items": [
             {
               "name": "SEASONAL CITRUS & GOAT CHEESE SALAD",
-              "description": "Mixed Greens, Candied Pecans, Verjus Vinaigrette",
+              "description": "(GF) Mixed Greens, Candied Pecans, Verjus Vinaigrette",
               "gluten_free": true,
               "new": false,
               "warning": false,
