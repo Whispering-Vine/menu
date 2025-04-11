@@ -16,29 +16,30 @@
               }
             },
             {
-              "name": "Coquerel \"Terroir\"",
+              "name": "Silverado",
               "description": "Napa | Sauvignon Blanc",
               "price": {
-                "glass": 9.75,
-                "bottle": 24.99,
+                "glass": 8.75,
+                "bottle": 19.99,
                 "sale": false
               }
             },
             {
-              "name": "Whispering Vine",
-              "description": "Oregon | Pinot Gris",
+              "name": "Giogato",
+              "description": "Slovenia | Pinot Gris",
               "price": {
-                "glass": 7.75,
-                "bottle": 16.99,
+                "glass": 5.75,
+                "bottle": 11.99,
                 "sale": false
               }
             },
             {
-              "name": "Weather",
-              "description": "Sonoma | Chardonnay",
+              "name": "Elouan",
+              "description": "Oregon | Chardonnay",
               "price": {
-                "glass": 9.75,
-                "bottle": 23.99
+                "glass": 6.75,
+                "bottle": 15.99,
+                "sale": true
               }
             },
             {
@@ -118,7 +119,7 @@
             },
             {
               "name": "Ridge Three Valley",
-              "description": "Sonoma | Zinfandel",
+              "description": "Sonoma | Zinfandel Blend",
               "price": {
                 "glass": 13.75,
                 "bottle": 32.99,
@@ -360,7 +361,7 @@
                 {
                   "name": "Saxon Brown",
                   "location": "Sonoma",
-                  "variety": "Grenache, Syrah, Mourvedre",
+                  "variety": "Grenache,Syrah,Mourvedre",
                   "glassSize": "8oz",
                   "price": "15.75"
                 }
@@ -387,7 +388,7 @@
                 {
                   "name": "Telegramme",
                   "location": "Chateauneuf, France",
-                  "variety": "Grenache, Syrah, Mourvedre",
+                  "variety": "Greanche, Syrah, Mourved",
                   "glassSize": "8oz",
                   "price": "17.75"
                 }
