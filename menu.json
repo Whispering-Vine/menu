@@ -175,14 +175,14 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "10.75",
+              "price": "9.75",
               "items": [
                 {
-                  "name": "Truchard",
-                  "location": "Napa",
-                  "variety": "Roussanne",
+                  "name": "Columna",
+                  "location": "Spain",
+                  "variety": "Albarino",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "8.75"
                 },
                 {
                   "name": "Miner",
@@ -333,7 +333,7 @@
                 {
                   "name": "Duckhorn",
                   "location": "Napa",
-                  "variety": "Red Blend",
+                  "variety": "Cabernet",
                   "glassSize": "8oz",
                   "price": "18.75"
                 }
