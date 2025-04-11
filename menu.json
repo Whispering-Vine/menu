@@ -203,7 +203,7 @@
             },
             {
               "name": "Bubbles Flight",
-              "price": "13.75",
+              "price": "14.75",
               "items": [
                 {
                   "name": "Piper Sonoma",
@@ -220,7 +220,7 @@
                   "price": "14.75"
                 },
                 {
-                  "name": "Piper Heidsieck",
+                  "name": "Taittinger",
                   "location": "Champagne, France",
                   "variety": "Brut",
                   "glassSize": "8oz",
