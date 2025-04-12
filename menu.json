@@ -163,9 +163,7 @@
         "special-flight": {
           "name": "Special Flight",
           "caption": "Special Flight of FOUR Belle Glos Pinot Noirs",
-          "items": [
-            null
-          ]
+          "items": []
         }
       }
     },
@@ -767,7 +765,7 @@
           "items": [
             {
               "name": "SEASONAL CITRUS & GOAT CHEESE SALAD",
-              "description": "Mixed Greens, Candied Pecans, Verjus Vinaigrette",
+              "description": "(GF) Mixed Greens, Candied Pecans, Verjus Vinaigrette",
               "gluten_free": true,
               "new": false,
               "warning": false,
