@@ -163,7 +163,9 @@
         "special-flight": {
           "name": "Special Flight",
           "caption": "Special Flight of FOUR Belle Glos Pinot Noirs",
-          "items": []
+          "items": [
+            null
+          ]
         }
       }
     },
@@ -765,7 +767,7 @@
           "items": [
             {
               "name": "SEASONAL CITRUS & GOAT CHEESE SALAD",
-              "description": "(GF) Mixed Greens, Candied Pecans, Verjus Vinaigrette",
+              "description": "Mixed Greens, Candied Pecans, Verjus Vinaigrette",
               "gluten_free": true,
               "new": false,
               "warning": false,
@@ -950,7 +952,7 @@
             },
             {
               "name": "SCHNITZEL & SPAETZLE",
-              "description": "White Marble Farms Pork, Herbed Truffle Spaetzle, Mushroom Gravy, Pickled Red Cabbage",
+              "description": "White Marble Farms Pork, Herbed Truffle Spaetzle, Mushroom Gravy, Pickled Red Cabbage (Extra side of mushroom gravy $3)",
               "gluten_free": false,
               "new": false,
               "warning": false,
