@@ -356,14 +356,14 @@
                 {
                   "name": "Renegade",
                   "location": "Paso Robles",
-                  "variety": "Syrah,Grenache,Mourvedre",
+                  "variety": "Syrah, Grenache, Mourvedre",
                   "glassSize": "8oz",
                   "price": "9.75"
                 },
                 {
                   "name": "Saxon Brown",
                   "location": "Sonoma",
-                  "variety": "Grenache,Syrah,Mourvedre",
+                  "variety": "Grenache, Syrah, Mourvedre",
                   "glassSize": "8oz",
                   "price": "15.75"
                 }
@@ -390,7 +390,7 @@
                 {
                   "name": "Telegramme",
                   "location": "Chateauneuf, France",
-                  "variety": "Greanche, Syrah, Mourved",
+                  "variety": "Greanche, Syrah, Mourvedre",
                   "glassSize": "8oz",
                   "price": "17.75"
                 }
@@ -767,7 +767,7 @@
           "items": [
             {
               "name": "SEASONAL CITRUS & GOAT CHEESE SALAD",
-              "description": "Mixed Greens, Candied Pecans, Verjus Vinaigrette",
+              "description": "(GF) Mixed Greens, Candied Pecans, Verjus Vinaigrette",
               "gluten_free": true,
               "new": false,
               "warning": false,
@@ -952,7 +952,7 @@
             },
             {
               "name": "SCHNITZEL & SPAETZLE",
-              "description": "White Marble Farms Pork, Herbed Truffle Spaetzle, Mushroom Gravy, Pickled Red Cabbage \n(Extra side of mushroom gravy $3)",
+              "description": "White Marble Farms Pork, Herbed Truffle Spaetzle, Mushroom Gravy, Pickled Red Cabbage",
               "gluten_free": false,
               "new": false,
               "warning": false,
