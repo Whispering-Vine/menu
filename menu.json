@@ -16,30 +16,29 @@
               }
             },
             {
-              "name": "Silverado",
+              "name": "Emmolo",
               "description": "Napa | Sauvignon Blanc",
               "price": {
-                "glass": 8.75,
-                "bottle": 19.99,
-                "sale": true
-              }
-            },
-            {
-              "name": "Giogato",
-              "description": "Slovenia | Pinot Gris",
-              "price": {
-                "glass": 5.75,
-                "bottle": 11.99,
+                "glass": 6.75,
+                "bottle": 16.99,
                 "sale": false
               }
             },
             {
-              "name": "Elouan",
-              "description": "Oregon | Chardonnay",
+              "name": "Zenato",
+              "description": "Italy | Pinot Grigio",
               "price": {
-                "glass": 6.75,
-                "bottle": 15.99,
-                "sale": true
+                "glass": 5.75,
+                "bottle": 12.99,
+                "sale": false
+              }
+            },
+            {
+              "name": "Bread & Butter",
+              "description": "California | Chardonnay",
+              "price": {
+                "glass": 5.75,
+                "bottle": 12.99
               }
             },
             {
@@ -119,7 +118,7 @@
             },
             {
               "name": "Ridge Three Valley",
-              "description": "Sonoma | Zinfandel Blend",
+              "description": "Sonoma | Zinfandel",
               "price": {
                 "glass": 13.75,
                 "bottle": 32.99,
@@ -163,9 +162,7 @@
         "special-flight": {
           "name": "Special Flight",
           "caption": "Special Flight of FOUR Belle Glos Pinot Noirs",
-          "items": [
-            null
-          ]
+          "items": []
         }
       }
     },
@@ -177,14 +174,14 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "9.75",
+              "price": "10.75",
               "items": [
                 {
-                  "name": "Columna",
-                  "location": "Spain",
-                  "variety": "Albarino",
+                  "name": "Truchard",
+                  "location": "Napa",
+                  "variety": "Roussanne",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Miner",
@@ -205,7 +202,7 @@
             },
             {
               "name": "Bubbles Flight",
-              "price": "14.75",
+              "price": "13.75",
               "items": [
                 {
                   "name": "Piper Sonoma",
@@ -222,7 +219,7 @@
                   "price": "14.75"
                 },
                 {
-                  "name": "Taittinger",
+                  "name": "Piper Heidsieck",
                   "location": "Champagne, France",
                   "variety": "Brut",
                   "glassSize": "8oz",
@@ -261,7 +258,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "14.75",
+              "price": "13.75",
               "items": [
                 {
                   "name": "Saxon \"Fighting Brothers\"",
@@ -271,11 +268,11 @@
                   "price": "15.75"
                 },
                 {
-                  "name": "Failla",
-                  "location": "Willamette Valley",
+                  "name": "Sean Minor",
+                  "location": "Sonoma",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "8.75"
                 },
                 {
                   "name": "Boen Reserve",
@@ -319,11 +316,11 @@
               "price": "22.75",
               "items": [
                 {
-                  "name": "Duckhorn",
+                  "name": "Beringer Reserve",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "18.75"
+                  "price": "26.75"
                 },
                 {
                   "name": "Dominus \"Othello\"",
@@ -333,11 +330,11 @@
                   "price": "21.75"
                 },
                 {
-                  "name": "Burley",
+                  "name": "Duckhorn",
                   "location": "Napa",
-                  "variety": "Cabernet",
+                  "variety": "Red Blend",
                   "glassSize": "8oz",
-                  "price": "24.75"
+                  "price": "18.75"
                 }
               ]
             },
@@ -354,16 +351,16 @@
                   "price": "9.75"
                 },
                 {
-                  "name": "Renegade",
+                  "name": "Harvey Harriet",
                   "location": "Paso Robles",
-                  "variety": "Syrah, Grenache, Mourvedre",
+                  "variety": "Cab, Syrah, Petite Syrah",
                   "glassSize": "8oz",
-                  "price": "9.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Saxon Brown",
                   "location": "Sonoma",
-                  "variety": "Grenache, Syrah, Mourvedre",
+                  "variety": "Grenache,Syrah,Mourvedre",
                   "glassSize": "8oz",
                   "price": "15.75"
                 }
@@ -390,7 +387,7 @@
                 {
                   "name": "Telegramme",
                   "location": "Chateauneuf, France",
-                  "variety": "Greanche, Syrah, Mourvedre",
+                  "variety": "Greanche, Syrah, Mourved",
                   "glassSize": "8oz",
                   "price": "17.75"
                 }
@@ -623,11 +620,11 @@
               "local": false
             },
             {
-              "name": "21st Amendment Watermelon Wheat",
-              "brewery": "San Leandro",
-              "abv": "4.9%",
-              "ibu": "17",
-              "price": "$7.25",
+              "name": "Rogue Dead Guy Ale",
+              "brewery": "Oregon",
+              "abv": "6.6%",
+              "ibu": "40",
+              "price": "$6.25",
               "local": false
             },
             {
@@ -714,7 +711,7 @@
         "whiskey-flight": {
           "title": "Broadbent Madeira",
           "caption": "Flight of Four 1oz. Pours",
-          "description": "Broadbent Boal 10 Year\nBroadbent Malmsey 10 Year\nBroadbent Sercial 10 Year\nBroadbent Verdelho 10 Year",
+          "description": "Broadbent Boal 10 Year\nBroadbent Malmsey 10 Year\nBroadbent Sercial 10 Year\nBroadbent Verdelho",
           "price": "$18.75 for the flight / $13.75 for One 3oz. Glass"
         },
         "note": "Check out our liquor room for a large selection of whiskies, scotches and other spirits, including our own special barrel-select collection"
