@@ -174,14 +174,14 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "10.75",
+              "price": "8.75",
               "items": [
                 {
-                  "name": "Truchard",
-                  "location": "Napa",
-                  "variety": "Roussanne",
+                  "name": "Allan Scott",
+                  "location": "New Zealand ",
+                  "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "6.75"
                 },
                 {
                   "name": "Miner",
@@ -202,12 +202,12 @@
             },
             {
               "name": "Bubbles Flight",
-              "price": "13.75",
+              "price": "16.75",
               "items": [
                 {
-                  "name": "Piper Sonoma",
-                  "location": "Sonoma",
-                  "variety": "Blanc de Blanc",
+                  "name": "Gerard Bertrand",
+                  "location": "France",
+                  "variety": "Brut Rose",
                   "glassSize": "8oz",
                   "price": "7.75"
                 },
