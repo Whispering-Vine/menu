@@ -219,11 +219,11 @@
                   "price": "14.75"
                 },
                 {
-                  "name": "Piper Heidsieck",
+                  "name": "Taittinger",
                   "location": "Champagne, France",
                   "variety": "Brut",
                   "glassSize": "8oz",
-                  "price": 17.75
+                  "price": "19.75"
                 }
               ],
               "favorites": false
@@ -241,11 +241,11 @@
                   "price": "19.75"
                 },
                 {
-                  "name": "Neyers",
-                  "location": "Sonoma",
+                  "name": "Trefethen",
+                  "location": "Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "11.75"
                 },
                 {
                   "name": "Miner",
@@ -285,7 +285,7 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "13.75",
+              "price": "14.75",
               "favorites": true,
               "items": [
                 {
@@ -303,38 +303,38 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Martin Ray \"Synthesis\"",
+                  "name": "Turnbull",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "17.75"
                 }
               ]
             },
             {
-              "name": "Premium Napa Red Flight",
-              "price": "22.75",
+              "name": "Premium Napa Cabernet Flight",
+              "price": "21.75",
               "items": [
-                {
-                  "name": "Beringer Reserve",
-                  "location": "Napa",
-                  "variety": "Cabernet",
-                  "glassSize": "8oz",
-                  "price": "26.75"
-                },
-                {
-                  "name": "Dominus \"Othello\"",
-                  "location": "Napa",
-                  "variety": "Cabernet",
-                  "glassSize": "8oz",
-                  "price": "21.75"
-                },
                 {
                   "name": "Duckhorn",
                   "location": "Napa",
-                  "variety": "Red Blend",
+                  "variety": "Cabernet",
                   "glassSize": "8oz",
                   "price": "18.75"
+                },
+                {
+                  "name": "Bella Union By Far Niente",
+                  "location": "Napa",
+                  "variety": "Cabernet",
+                  "glassSize": "8oz",
+                  "price": "18.75"
+                },
+                {
+                  "name": "Burley",
+                  "location": "Napa",
+                  "variety": "Cabernet",
+                  "glassSize": "8oz",
+                  "price": "24.75"
                 }
               ]
             },
@@ -426,36 +426,36 @@
         "specials": {
           "items": [
             {
-              "name": "Saxon Brown GSM",
-              "bottle": "39.99",
-              "glass": "15.75",
+              "name": "Taittinger Champagne",
+              "bottle": "49.99",
+              "glass": "19.75",
               "favorites": false,
-              "notes": "94 Jeb Dunnuck"
+              "notes": ""
             },
             {
-              "name": "Dominus \"Othello\"",
-              "bottle": "54.99",
-              "glass": "21.75",
+              "name": "Turnbull Cabernet Sauvignon",
+              "bottle": "44.99",
+              "glass": "17.75",
               "wineryPrice": 85,
-              "notes": "96 James Suckling"
+              "notes": ""
             },
             {
-              "name": "BACA Cabernet",
+              "name": "The Calling Pinot Noir",
               "bottle": "29.99",
               "glass": "12.75",
               "notes": ""
             },
             {
-              "name": "Turley \"Old Vine\" Zinfandel",
-              "bottle": "28.99",
-              "glass": "12.75",
+              "name": "Trefethen Chardonnay",
+              "bottle": "26.99",
+              "glass": "11.75",
               "wineryPrice": 45,
-              "notes": "92pts Wine Spectator"
+              "notes": ""
             },
             {
-              "name": "Neyers Chardonnay",
-              "bottle": "26.99",
-              "glass": 10.75
+              "name": "Silverado Sauvignon Blanc",
+              "bottle": "19.99",
+              "glass": "12.75"
             }
           ]
         }
