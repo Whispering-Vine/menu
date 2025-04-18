@@ -353,14 +353,14 @@
                 {
                   "name": "Saxon Browne",
                   "location": "Sonoma",
-                  "variety": "Grenache,Syrah,Mourvedre",
+                  "variety": "Grenache, Syrah, Mourvedre",
                   "glassSize": "8oz",
                   "price": "15.75"
                 },
                 {
                   "name": "Laird \"Jillian's\"",
                   "location": "Napa",
-                  "variety": "Cabernet,Syrah,Merot",
+                  "variety": "Cabernet, Syrah, Merlot",
                   "glassSize": "8oz",
                   "price": "15.75"
                 }
@@ -387,7 +387,7 @@
                 {
                   "name": "Telegramme",
                   "location": "Chateauneuf, France",
-                  "variety": "Greanche, Syrah, Mourved",
+                  "variety": "Greanche, Syrah, Mourvedre",
                   "glassSize": "8oz",
                   "price": "17.75"
                 }
