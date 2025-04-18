@@ -395,14 +395,14 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "10.75",
+              "price": "13.75",
               "items": [
                 {
-                  "name": "A",
-                  "location": "Washington",
+                  "name": "Duckhorn",
+                  "location": "Napa",
                   "variety": "Merlot",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "15.75"
                 },
                 {
                   "name": "Truchard",
