@@ -430,14 +430,14 @@
               "bottle": "49.99",
               "glass": "19.75",
               "favorites": false,
-              "notes": ""
+              "notes": "Winery Price $70"
             },
             {
               "name": "Turnbull Cabernet Sauvignon",
               "bottle": "44.99",
               "glass": "17.75",
               "wineryPrice": 85,
-              "notes": ""
+              "notes": "Winery Price $60"
             },
             {
               "name": "The Calling Pinot Noir",
@@ -450,12 +450,13 @@
               "bottle": "26.99",
               "glass": "11.75",
               "wineryPrice": 45,
-              "notes": ""
+              "notes": "Winery Price $40"
             },
             {
               "name": "Silverado Sauvignon Blanc",
               "bottle": "19.99",
-              "glass": "12.75"
+              "glass": "12.75",
+              "notes": "Winery Price $30"
             }
           ]
         }
