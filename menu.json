@@ -258,7 +258,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "13.75",
+              "price": "14.75",
               "items": [
                 {
                   "name": "Saxon \"Fighting Brothers\"",
@@ -268,11 +268,11 @@
                   "price": "15.75"
                 },
                 {
-                  "name": "Sean Minor",
-                  "location": "Sonoma",
+                  "name": "Failla",
+                  "location": "Willamette Valley",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Boen Reserve",
@@ -285,7 +285,7 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "14.75",
+              "price": "12.75",
               "favorites": true,
               "items": [
                 {
@@ -296,11 +296,11 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "BACA",
-                  "location": "Napa",
+                  "name": "Martin Ray",
+                  "location": "Napa / Sonoma",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "8.75"
                 },
                 {
                   "name": "Turnbull",
@@ -340,7 +340,7 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "12.75",
+              "price": "14.75",
               "favorites": true,
               "items": [
                 {
@@ -351,16 +351,16 @@
                   "price": "9.75"
                 },
                 {
-                  "name": "Harvey Harriet",
-                  "location": "Paso Robles",
-                  "variety": "Cab, Syrah, Petite Syrah",
-                  "glassSize": "8oz",
-                  "price": "12.75"
-                },
-                {
-                  "name": "Saxon Brown",
+                  "name": "Saxon Browne",
                   "location": "Sonoma",
                   "variety": "Grenache,Syrah,Mourvedre",
+                  "glassSize": "8oz",
+                  "price": "15.75"
+                },
+                {
+                  "name": "Laird \"Jillian's\"",
+                  "location": "Napa",
+                  "variety": "Cabernet,Syrah,Merot",
                   "glassSize": "8oz",
                   "price": "15.75"
                 }
@@ -398,18 +398,18 @@
               "price": "10.75",
               "items": [
                 {
-                  "name": "L'Ecole 41",
+                  "name": "A",
                   "location": "Washington",
                   "variety": "Merlot",
                   "glassSize": "8oz",
                   "price": "10.75"
                 },
                 {
-                  "name": "Opolo",
-                  "location": "Paso Robles",
-                  "variety": "Petite Syrah",
+                  "name": "Truchard",
+                  "location": "Napa",
+                  "variety": "Syrah",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Turley \"Old Vine\"",
