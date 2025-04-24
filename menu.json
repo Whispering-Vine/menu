@@ -176,14 +176,14 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "8.75",
+              "price": "9.75",
               "items": [
                 {
                   "name": "Allan Scott",
                   "location": "New Zealand ",
                   "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "6.75"
+                  "price": "7.75"
                 },
                 {
                   "name": "Miner",
@@ -197,14 +197,14 @@
                   "location": "Sonoma",
                   "variety": "Dry Rosé",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "12.75"
                 }
               ],
               "favorites": true
             },
             {
-              "name": "Bubbles Flight",
-              "price": "16.75",
+              "name": "French Rose Bubbles Flight",
+              "price": "15.75",
               "items": [
                 {
                   "name": "Gerard Bertrand",
@@ -216,14 +216,14 @@
                 {
                   "name": "G.H. Mumm",
                   "location": "Champagne, France",
-                  "variety": "Brut",
+                  "variety": "Brut Rose",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "16.75"
                 },
                 {
-                  "name": "Taittinger",
+                  "name": "Beau Joie",
                   "location": "Champagne, France",
-                  "variety": "Brut",
+                  "variety": "Brut Rose",
                   "glassSize": "8oz",
                   "price": "19.75"
                 }
