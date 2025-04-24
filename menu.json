@@ -10,7 +10,7 @@
               "name": "G.H Mumm",
               "description": "Champagne, France | Brut Rosé",
               "price": {
-                "glass": 15.75,
+                "glass": 16.75,
                 "bottle": 39.99,
                 "sale": true
               }
@@ -58,11 +58,11 @@
               }
             },
             {
-              "name": "Telegramme",
-              "description": "Chateauneuf, France | Grenache Blend",
+              "name": "Boen Reserve",
+              "description": "Santa Maria | Pinot Noir",
               "price": {
-                "glass": 17.75,
-                "bottle": 44.99,
+                "glass": 14.75,
+                "bottle": 49.99,
                 "sale": true
               }
             },
@@ -79,7 +79,7 @@
               "name": "Ancient Peaks",
               "description": "Paso Robles | Merlot",
               "price": {
-                "glass": 7.75,
+                "glass": 8.75,
                 "bottle": 17.99,
                 "sale": false
               }
@@ -97,7 +97,7 @@
               "name": "Bonterra Estate",
               "description": "Monterey | Cabernet",
               "price": {
-                "glass": 12.75,
+                "glass": 10.75,
                 "bottle": 24.99
               }
             },
@@ -113,7 +113,7 @@
               "name": "Tolaini Al Passo",
               "description": "Tuscany, Italy | Sangiovese Blend",
               "price": {
-                "glass": 8.75,
+                "glass": 9.75,
                 "bottle": 21.99
               }
             },
@@ -121,17 +121,18 @@
               "name": "Ridge Three Valley",
               "description": "Sonoma | Zinfandel",
               "price": {
-                "glass": 13.75,
+                "glass": 14.75,
                 "bottle": 32.99,
                 "sale": true
               }
             },
             {
-              "name": "Barone di Bernaj",
-              "description": "Sicily,Italy | Frappato",
+              "name": "Telegramme",
+              "description": "Chateauneuf, France | Grenache Blend",
               "price": {
-                "glass": 6.75,
-                "bottle": 15.99
+                "glass": 17.75,
+                "bottle": 44.99,
+                "sale": true
               }
             },
             {
