@@ -16,20 +16,20 @@
               }
             },
             {
-              "name": "Emmolo",
-              "description": "Napa | Sauvignon Blanc",
+              "name": "De Lille Metier",
+              "description": "Washington | Sauvignon Blanc",
               "price": {
-                "glass": 6.75,
-                "bottle": 16.99,
+                "glass": 8.75,
+                "bottle": 19.99,
                 "sale": false
               }
             },
             {
-              "name": "Zenato",
-              "description": "Italy | Pinot Grigio",
+              "name": "Whispering Vine",
+              "description": "Oregon | Pinot Gris",
               "price": {
-                "glass": 5.75,
-                "bottle": 12.99,
+                "glass": 7.75,
+                "bottle": 16.99,
                 "sale": false
               }
             },
@@ -58,19 +58,20 @@
               }
             },
             {
-              "name": "Domaine Vieux College",
-              "description": "Burgundy, France | Pinot Noir",
+              "name": "Telegramme",
+              "description": "Chateauneuf, France | Grenache Blend",
               "price": {
-                "glass": 15.75,
-                "bottle": 44.99
+                "glass": 17.75,
+                "bottle": 44.99,
+                "sale": true
               }
             },
             {
-              "name": "Martinelli \"Bella Vigna\"",
-              "description": "Sonoma Coast | Pinot Noir",
+              "name": "Whispering Vine",
+              "description": "Oregon | Pinot Noir",
               "price": {
-                "glass": 15.75,
-                "bottle": 45.99,
+                "glass": 8.75,
+                "bottle": 19.99,
                 "sale": false
               }
             },
@@ -353,14 +354,14 @@
                 {
                   "name": "Saxon Browne",
                   "location": "Sonoma",
-                  "variety": "Grenache, Syrah, Mourvedre",
+                  "variety": "Grenache,Syrah,Mourvedre",
                   "glassSize": "8oz",
                   "price": "15.75"
                 },
                 {
                   "name": "Laird \"Jillian's\"",
                   "location": "Napa",
-                  "variety": "Cabernet, Syrah, Merlot",
+                  "variety": "Cabernet,Syrah,Merot",
                   "glassSize": "8oz",
                   "price": "15.75"
                 }
@@ -387,7 +388,7 @@
                 {
                   "name": "Telegramme",
                   "location": "Chateauneuf, France",
-                  "variety": "Greanche, Syrah, Mourvedre",
+                  "variety": "Greanche, Syrah, Mourved",
                   "glassSize": "8oz",
                   "price": "17.75"
                 }
@@ -430,14 +431,14 @@
               "bottle": "49.99",
               "glass": "19.75",
               "favorites": false,
-              "notes": "Winery Price $70"
+              "notes": ""
             },
             {
               "name": "Turnbull Cabernet Sauvignon",
               "bottle": "44.99",
               "glass": "17.75",
               "wineryPrice": 85,
-              "notes": "Winery Price $60"
+              "notes": ""
             },
             {
               "name": "The Calling Pinot Noir",
@@ -450,13 +451,12 @@
               "bottle": "26.99",
               "glass": "11.75",
               "wineryPrice": 45,
-              "notes": "Winery Price $40"
+              "notes": ""
             },
             {
               "name": "Silverado Sauvignon Blanc",
               "bottle": "19.99",
-              "glass": "12.75",
-              "notes": "Winery Price $30"
+              "glass": "12.75"
             }
           ]
         }
