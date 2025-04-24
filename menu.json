@@ -428,36 +428,39 @@
         "specials": {
           "items": [
             {
-              "name": "Taittinger Champagne",
-              "bottle": "49.99",
+              "name": "Beau Joie Brut Rosé",
+              "bottle": "54.99",
               "glass": "19.75",
-              "favorites": false,
-              "notes": ""
+              "favorites": true,
+              "notes": "Winery $130"
             },
             {
-              "name": "Turnbull Cabernet Sauvignon",
-              "bottle": "44.99",
-              "glass": "17.75",
+              "name": "Far Niente Chardonnay",
+              "bottle": "49.99",
+              "glass": "20.75",
               "wineryPrice": 85,
-              "notes": ""
+              "notes": "Winery $76 97 Points Tasting Panel",
+              "favorites": true
             },
             {
-              "name": "The Calling Pinot Noir",
+              "name": "De Lille Metier Cabernet",
               "bottle": "29.99",
               "glass": "12.75",
-              "notes": ""
+              "notes": "91 Points Wine Spectator Top 100 #66"
             },
             {
-              "name": "Trefethen Chardonnay",
-              "bottle": "26.99",
-              "glass": "11.75",
+              "name": "Whispering Vine Pinot Noir",
+              "bottle": "19.99",
+              "glass": "8.75",
               "wineryPrice": 45,
               "notes": ""
             },
             {
-              "name": "Silverado Sauvignon Blanc",
-              "bottle": "19.99",
-              "glass": "12.75"
+              "name": "Carol Shelton Wild Thing Zinfandel",
+              "bottle": "17.99",
+              "glass": "8.75",
+              "notes": "92 Wine Enthusiast & 90 Wine Spectator",
+              "favorites": true
             }
           ]
         }
