@@ -236,11 +236,11 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Paul Lato",
-                  "location": "Santa Barbara",
+                  "name": "Jordan",
+                  "location": "Sonoma",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Trefethen",
@@ -250,17 +250,17 @@
                   "price": "11.75"
                 },
                 {
-                  "name": "Miner",
+                  "name": "Far Niente",
                   "location": "Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "20.75"
                 }
               ]
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "14.75",
+              "price": "15.75",
               "items": [
                 {
                   "name": "Saxon \"Fighting Brothers\"",
@@ -270,18 +270,18 @@
                   "price": "15.75"
                 },
                 {
-                  "name": "Failla",
-                  "location": "Willamette Valley",
+                  "name": "The Calling",
+                  "location": "Russian River",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
                   "price": "12.75"
                 },
                 {
-                  "name": "Boen Reserve",
-                  "location": "Santa Maria",
+                  "name": "Bricoleur",
+                  "location": "Russian River",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "19.75"
                 }
               ]
             },
@@ -298,11 +298,11 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Martin Ray",
-                  "location": "Napa / Sonoma",
+                  "name": "Metier",
+                  "location": "Washington",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Turnbull",
@@ -342,29 +342,29 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "14.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "JAX Y3",
-                  "location": "Napa",
-                  "variety": "Cab, Merlot, Petite Verdot",
+                  "name": "Ferrari Carano Tresor",
+                  "location": "Sonoma",
+                  "variety": "Cab, Merlot, Malbec",
                   "glassSize": "8oz",
-                  "price": "9.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Saxon Browne",
                   "location": "Sonoma",
                   "variety": "Grenache,Syrah,Mourvedre",
                   "glassSize": "8oz",
-                  "price": "15.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Laird \"Jillian's\"",
                   "location": "Napa",
                   "variety": "Cabernet,Syrah,Merot",
                   "glassSize": "8oz",
-                  "price": "15.75"
+                  "price": "16.75"
                 }
               ]
             },
@@ -397,7 +397,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "13.75",
+              "price": "12.75",
               "items": [
                 {
                   "name": "Duckhorn",
@@ -414,11 +414,11 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Turley \"Old Vine\"",
-                  "location": "California",
-                  "variety": "Zinfandel",
+                  "name": "Carol Shelton Wild Thing",
+                  "location": "Sonoma",
+                  "variety": "Old Vine Zinfandel",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "8.75"
                 }
               ],
               "favorites": true
