@@ -370,7 +370,7 @@
             },
             {
               "name": "Premium International Red Flight",
-              "price": "15.75",
+              "price": "17.75",
               "items": [
                 {
                   "name": "Brecca",
@@ -387,11 +387,11 @@
                   "price": "19.75"
                 },
                 {
-                  "name": "Telegramme",
-                  "location": "Chateauneuf, France",
-                  "variety": "Greanche, Syrah, Mourved",
+                  "name": "Casa Ferreirinha",
+                  "location": "Douro, Portugal",
+                  "variety": "Touriga Nacional, Franca, Tinta Cao",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "27.75"
                 }
               ]
             },
