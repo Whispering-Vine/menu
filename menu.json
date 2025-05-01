@@ -947,7 +947,7 @@
               "name": "SHRIMP SCAMPI FLATBREAD",
               "description": "Garlic Béchamel, Quattro Fromaggio, Bell Peppers, Onions",
               "gluten_free": false,
-              "new": false,
+              "new": true,
               "warning": false,
               "favorites": false,
               "price": 18
