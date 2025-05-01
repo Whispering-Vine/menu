@@ -355,14 +355,14 @@
                 {
                   "name": "Saxon Browne",
                   "location": "Sonoma",
-                  "variety": "Grenache, Syrah, Mourvedre",
+                  "variety": "Grenache,Syrah,Mourvedre",
                   "glassSize": "8oz",
                   "price": "16.75"
                 },
                 {
                   "name": "Laird \"Jillian's\"",
                   "location": "Napa",
-                  "variety": "Cabernet, Syrah, Merlot",
+                  "variety": "Cabernet,Syrah,Merot",
                   "glassSize": "8oz",
                   "price": "16.75"
                 }
@@ -431,7 +431,7 @@
               "name": "Beau Joie Brut Rosé",
               "bottle": "54.99",
               "glass": "19.75",
-              "favorites": false,
+              "favorites": true,
               "notes": "Winery $130"
             },
             {
@@ -440,7 +440,7 @@
               "glass": "20.75",
               "wineryPrice": 85,
               "notes": "Winery $76 97 Points Tasting Panel",
-              "favorites": false
+              "favorites": true
             },
             {
               "name": "De Lille Metier Cabernet",
@@ -460,7 +460,7 @@
               "bottle": "17.99",
               "glass": "8.75",
               "notes": "92 Wine Enthusiast & 90 Wine Spectator",
-              "favorites": false
+              "favorites": true
             }
           ]
         }
@@ -919,7 +919,7 @@
             },
             {
               "name": "PAN SEARED SALMON",
-              "description": "Israeli Couscous, Chardonnay Beurre Blanc",
+              "description": "Israeli Couscous Salad, Chardonnay Beurre Blanc",
               "gluten_free": false,
               "new": true,
               "warning": true,
@@ -944,8 +944,8 @@
               "favorites": true
             },
             {
-              "name": "BRUSSELS BACON FLATBREAD",
-              "description": "Sherry Mascarpone Cream, Quattro Fromaggio, Pickled Red Onion",
+              "name": "SHRIMP SCAMPI FLATBREAD",
+              "description": "Garlic Béchamel, Quattro Fromaggio, Bell Peppers, Onions",
               "gluten_free": false,
               "new": false,
               "warning": false,
@@ -954,7 +954,7 @@
             },
             {
               "name": "SCHNITZEL & SPAETZLE",
-              "description": "White Marble Farms Pork, Herbed Truffle Spaetzle, Mushroom Gravy, Pickled Red Cabbage",
+              "description": "White Marble Farms Pork, Herbed Truffle Spaetzle, Mushroom Gravy, Pickled Red Cabbage\nExtra Side of Mushroom Gravy $3",
               "gluten_free": false,
               "new": false,
               "warning": false,
