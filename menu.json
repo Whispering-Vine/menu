@@ -263,11 +263,11 @@
               "price": "15.75",
               "items": [
                 {
-                  "name": "Saxon \"Fighting Brothers\"",
-                  "location": "Sonoma Coast",
+                  "name": "Purple Hands Lone Oak",
+                  "location": "Willamette",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "15.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "The Calling",
@@ -370,7 +370,7 @@
             },
             {
               "name": "Premium International Red Flight",
-              "price": "17.75",
+              "price": "16.75",
               "items": [
                 {
                   "name": "Brecca",
@@ -380,18 +380,18 @@
                   "price": "5.75"
                 },
                 {
-                  "name": "Martoccia",
-                  "location": "Brunello, Italy",
-                  "variety": "Sangiovese",
-                  "glassSize": "8oz",
-                  "price": "19.75"
-                },
-                {
                   "name": "Casa Ferreirinha",
                   "location": "Douro, Portugal",
                   "variety": "Touriga Nacional, Franca, Tinta Cao",
                   "glassSize": "8oz",
                   "price": "27.75"
+                },
+                {
+                  "name": "Bramare Lujan De Cuyo",
+                  "location": "Argentina",
+                  "variety": "Malbec",
+                  "glassSize": "8oz",
+                  "price": "16.75"
                 }
               ]
             },
