@@ -94,8 +94,8 @@
               }
             },
             {
-              "name": "Bonterra Estate",
-              "description": "Monterey | Cabernet",
+              "name": "RouteStock",
+              "description": "Napa | Cabernet",
               "price": {
                 "glass": 10.75,
                 "bottle": 24.99
@@ -291,7 +291,7 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Kendall Jackson Reserve",
+                  "name": "K Jackson Reserve",
                   "location": "Sonoma",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
