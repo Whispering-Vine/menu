@@ -883,7 +883,7 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 21
+              "price": "22"
             },
             {
               "name": "SMOKED CHILI GLAZED FLANK STEAK",
@@ -915,16 +915,16 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 18
+              "price": "19"
             },
             {
               "name": "PAN SEARED SALMON",
-              "description": "Israeli Couscous Salad, Chardonnay Beurre Blanc",
+              "description": "Israeli Couscous Salad, Chardonnay Beurre Blanc, Broccolini ",
               "gluten_free": false,
               "new": true,
               "warning": true,
               "favorites": true,
-              "price": 23
+              "price": "25"
             },
             {
               "name": "STEWED ITALIAN MEATBALLS",
@@ -945,7 +945,7 @@
             },
             {
               "name": "SHRIMP SCAMPI FLATBREAD",
-              "description": "Garlic Béchamel, Quattro Fromaggio, Bell Peppers, Onions",
+              "description": "Garlic Bèchamel, Quattro Fromaggio, Bell Peppers, Onions",
               "gluten_free": false,
               "new": true,
               "warning": false,
