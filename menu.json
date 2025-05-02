@@ -16,11 +16,11 @@
               }
             },
             {
-              "name": "De Lille Metier",
-              "description": "Washington | Sauvignon Blanc",
+              "name": "Cade By Plumpjack",
+              "description": "Napa | Sauvignon Blanc",
               "price": {
-                "glass": 8.75,
-                "bottle": 19.99,
+                "glass": 16.75,
+                "bottle": 39.99,
                 "sale": false
               }
             },
@@ -236,18 +236,18 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Jordan",
+                  "name": "Sojourn",
                   "location": "Sonoma",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "14.75"
                 },
                 {
-                  "name": "Trefethen",
+                  "name": "Truchard",
                   "location": "Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "13.75"
                 },
                 {
                   "name": "Far Niente",
@@ -315,14 +315,14 @@
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "21.75",
+              "price": "24.75",
               "items": [
                 {
-                  "name": "Duckhorn",
+                  "name": "Adaptation By Plumpjack",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "18.75"
+                  "price": "29.75"
                 },
                 {
                   "name": "Bella Union By Far Niente",
@@ -397,14 +397,14 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "12.75",
+              "price": "16.75",
               "items": [
                 {
-                  "name": "Duckhorn",
+                  "name": "Plumpjack",
                   "location": "Napa",
                   "variety": "Merlot",
                   "glassSize": "8oz",
-                  "price": "15.75"
+                  "price": "24.75"
                 },
                 {
                   "name": "Truchard",
@@ -414,11 +414,11 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Carol Shelton Wild Thing",
+                  "name": "Carol Shelton Monga",
                   "location": "Sonoma",
                   "variety": "Old Vine Zinfandel",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "12.75"
                 }
               ],
               "favorites": true
@@ -428,38 +428,38 @@
         "specials": {
           "items": [
             {
-              "name": "Beau Joie Brut Rosé",
-              "bottle": "54.99",
-              "glass": "19.75",
+              "name": "Caterwaul Cabernet",
+              "bottle": "59.99",
+              "glass": "24.75",
               "favorites": true,
               "notes": "Winery $130"
             },
             {
-              "name": "Far Niente Chardonnay",
-              "bottle": "49.99",
-              "glass": "20.75",
+              "name": "Purple Hands Lone Oak",
+              "bottle": "29.99",
+              "glass": "12.75",
               "wineryPrice": 85,
-              "notes": "Winery $76 97 Points Tasting Panel",
+              "notes": "92pts Wine Spectator & 93pts James Suckling",
               "favorites": true
             },
             {
-              "name": "De Lille Metier Cabernet",
-              "bottle": "29.99",
-              "glass": "12.75",
-              "notes": "91 Points Wine Spectator Top 100 #66"
+              "name": "Bramare Lujan De Cuyo",
+              "bottle": "39.99",
+              "glass": "16.75",
+              "notes": "Winery $50 95pts James Suckling"
             },
             {
-              "name": "Whispering Vine Pinot Noir",
-              "bottle": "19.99",
-              "glass": "8.75",
+              "name": "Cade By Plumpjack Sauvignon Blanc",
+              "bottle": "39.99",
+              "glass": "16.75",
               "wineryPrice": 45,
-              "notes": ""
+              "notes": "Winery $44"
             },
             {
-              "name": "Carol Shelton Wild Thing Zinfandel",
-              "bottle": "17.99",
-              "glass": "8.75",
-              "notes": "92 Wine Enthusiast & 90 Wine Spectator",
+              "name": "RouteStock Cabernet Sauvignon",
+              "bottle": "24.99",
+              "glass": "10.75",
+              "notes": "90pts Wine Enthusiast",
               "favorites": true
             }
           ]
@@ -883,7 +883,7 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": "22"
+              "price": 21
             },
             {
               "name": "SMOKED CHILI GLAZED FLANK STEAK",
@@ -915,16 +915,16 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": "19"
+              "price": 18
             },
             {
               "name": "PAN SEARED SALMON",
-              "description": "Israeli Couscous, Chardonnay Beurre Blanc, Broccolini ",
+              "description": "Israeli Couscous Salad, Chardonnay Beurre Blanc",
               "gluten_free": false,
               "new": true,
               "warning": true,
               "favorites": true,
-              "price": "25"
+              "price": 23
             },
             {
               "name": "STEWED ITALIAN MEATBALLS",
@@ -944,17 +944,17 @@
               "favorites": true
             },
             {
-              "name": "BRUSSELS BACON FLATBREAD",
-              "description": "Sherry Mascarpone Cream, Quattro Fromaggio, Pickled Red Onion",
+              "name": "SHRIMP SCAMPI FLATBREAD",
+              "description": "Garlic Béchamel, Quattro Fromaggio, Bell Peppers, Onions",
               "gluten_free": false,
-              "new": false,
+              "new": true,
               "warning": false,
               "favorites": false,
               "price": 18
             },
             {
               "name": "SCHNITZEL & SPAETZLE",
-              "description": "White Marble Farms Pork, Herbed Truffle Spaetzle, Mushroom Gravy, Pickled Red Cabbage\nExtra Side of Gravy $3",
+              "description": "White Marble Farms Pork, Herbed Truffle Spaetzle, Mushroom Gravy, Pickled Red Cabbage\nExtra Side of Mushroom Gravy $3",
               "gluten_free": false,
               "new": false,
               "warning": false,
@@ -1015,7 +1015,7 @@
             },
             {
               "name": "ICE CREAM / SORBET",
-              "description": "(Home-Spun) See Server for Daily Flavors",
+              "description": "(Home-Spun) See Server for Daily Flavors\nOne, Two, or Three Scoops",
               "gluten_free": false,
               "new": false,
               "warning": false,
