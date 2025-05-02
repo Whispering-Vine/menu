@@ -236,18 +236,18 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Jordan",
+                  "name": "Sojourn",
                   "location": "Sonoma",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "14.75"
                 },
                 {
-                  "name": "Trefethen",
+                  "name": "Truchard",
                   "location": "Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "13.75"
                 },
                 {
                   "name": "Far Niente",
@@ -315,14 +315,14 @@
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "21.75",
+              "price": "24.75",
               "items": [
                 {
-                  "name": "Duckhorn",
+                  "name": "Adaptation By Plumpjack",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "18.75"
+                  "price": "29.75"
                 },
                 {
                   "name": "Bella Union By Far Niente",
@@ -397,14 +397,14 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "12.75",
+              "price": "16.75",
               "items": [
                 {
-                  "name": "Duckhorn",
+                  "name": "Plumpjack",
                   "location": "Napa",
                   "variety": "Merlot",
                   "glassSize": "8oz",
-                  "price": "15.75"
+                  "price": "24.75"
                 },
                 {
                   "name": "Truchard",
@@ -414,11 +414,11 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Carol Shelton Wild Thing",
+                  "name": "Carol Shelton Monga",
                   "location": "Sonoma",
                   "variety": "Old Vine Zinfandel",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "12.75"
                 }
               ],
               "favorites": true
@@ -428,38 +428,38 @@
         "specials": {
           "items": [
             {
-              "name": "Beau Joie Brut Rosé",
-              "bottle": "54.99",
-              "glass": "19.75",
+              "name": "Caterwaul Cabernet",
+              "bottle": "59.99",
+              "glass": "24.75",
               "favorites": true,
               "notes": "Winery $130"
             },
             {
-              "name": "Far Niente Chardonnay",
-              "bottle": "49.99",
-              "glass": "20.75",
+              "name": "Purple Hands Lone Oak",
+              "bottle": "29.99",
+              "glass": "12.75",
               "wineryPrice": 85,
-              "notes": "Winery $76 97 Points Tasting Panel",
+              "notes": "92pts Wine Spectator & 93pts James Suckling",
               "favorites": true
             },
             {
-              "name": "De Lille Metier Cabernet",
-              "bottle": "29.99",
-              "glass": "12.75",
-              "notes": "91 Points Wine Spectator Top 100 #66"
+              "name": "Bramare Lujan De Cuyo",
+              "bottle": "39.99",
+              "glass": "16.75",
+              "notes": "Winery $50 95pts James Suckling"
             },
             {
-              "name": "Whispering Vine Pinot Noir",
-              "bottle": "19.99",
-              "glass": "8.75",
+              "name": "Cade By Plumpjack Sauvignon Blanc",
+              "bottle": "39.99",
+              "glass": "16.75",
               "wineryPrice": 45,
-              "notes": ""
+              "notes": "Winery $44"
             },
             {
-              "name": "Carol Shelton Wild Thing Zinfandel",
-              "bottle": "17.99",
-              "glass": "8.75",
-              "notes": "92 Wine Enthusiast & 90 Wine Spectator",
+              "name": "RouteStock Cabernet Sauvignon",
+              "bottle": "24.99",
+              "glass": "10.75",
+              "notes": "90pts Wine Enthusiast",
               "favorites": true
             }
           ]
