@@ -186,11 +186,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Miner",
-                  "location": "Napa",
-                  "variety": "Viognier",
+                  "name": "Ferrari Carano",
+                  "location": "Sonoma",
+                  "variety": "Pinot Grigio",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "6.75"
                 },
                 {
                   "name": "Martinelli",
@@ -260,14 +260,14 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "15.75",
+              "price": "16.75",
               "items": [
                 {
-                  "name": "Purple Hands Lone Oak",
+                  "name": "Roserock",
                   "location": "Willamette",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "17.75"
                 },
                 {
                   "name": "The Calling",
@@ -370,7 +370,7 @@
             },
             {
               "name": "Premium International Red Flight",
-              "price": "16.75",
+              "price": "12.75",
               "items": [
                 {
                   "name": "Brecca",
@@ -380,11 +380,11 @@
                   "price": "5.75"
                 },
                 {
-                  "name": "Casa Ferreirinha",
-                  "location": "Douro, Portugal",
-                  "variety": "Touriga Nacional, Franca, Tinta Cao",
+                  "name": "Marques de Murrieta Rioja",
+                  "location": "Rioja, Spain",
+                  "variety": "Tempranillo",
                   "glassSize": "8oz",
-                  "price": "27.75"
+                  "price": "13.75"
                 },
                 {
                   "name": "Bramare Lujan De Cuyo",
@@ -428,38 +428,38 @@
         "specials": {
           "items": [
             {
-              "name": "Caterwaul Cabernet",
-              "bottle": "59.99",
-              "glass": "24.75",
+              "name": "Adaptation By Plumpjack",
+              "bottle": "75.99",
+              "glass": "29.75",
               "favorites": true,
-              "notes": "Winery $130"
+              "notes": "Winery $86"
             },
             {
-              "name": "Purple Hands Lone Oak",
-              "bottle": "29.99",
-              "glass": "12.75",
+              "name": "Roserock Pinot Noir",
+              "bottle": "44.99",
+              "glass": "17.75",
               "wineryPrice": 85,
-              "notes": "92pts Wine Spectator & 93pts James Suckling",
+              "notes": "95pts Wine Enthusiast 94pts Wine Spectator",
               "favorites": true
             },
             {
-              "name": "Bramare Lujan De Cuyo",
-              "bottle": "39.99",
-              "glass": "16.75",
-              "notes": "Winery $50 95pts James Suckling"
+              "name": "Marques de Murrieta Rioja",
+              "bottle": "29.99",
+              "glass": "12.75",
+              "notes": "94pts Robert Parker 94pts James Suckling"
             },
             {
-              "name": "Cade By Plumpjack Sauvignon Blanc",
+              "name": "Truchard Chardonnay",
               "bottle": "39.99",
               "glass": "16.75",
               "wineryPrice": 45,
-              "notes": "Winery $44"
+              "notes": "Winery $35"
             },
             {
-              "name": "RouteStock Cabernet Sauvignon",
-              "bottle": "24.99",
-              "glass": "10.75",
-              "notes": "90pts Wine Enthusiast",
+              "name": "Ferrari Carano Pinot Grigio",
+              "bottle": "13.99",
+              "glass": "6.75",
+              "notes": "Winery $24 93pts Wine Enthusiast",
               "favorites": true
             }
           ]
