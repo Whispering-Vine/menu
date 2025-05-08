@@ -186,11 +186,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Ferrari Carano",
-                  "location": "Sonoma",
-                  "variety": "Pinot Grigio",
+                  "name": "Miner",
+                  "location": "Napa",
+                  "variety": "Viognier",
                   "glassSize": "8oz",
-                  "price": "6.75"
+                  "price": "8.75"
                 },
                 {
                   "name": "Martinelli",
@@ -260,14 +260,14 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "16.75",
+              "price": "15.75",
               "items": [
                 {
-                  "name": "Roserock",
+                  "name": "Purple Hands Lone Oak",
                   "location": "Willamette",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "The Calling",
@@ -370,7 +370,7 @@
             },
             {
               "name": "Premium International Red Flight",
-              "price": "12.75",
+              "price": "16.75",
               "items": [
                 {
                   "name": "Brecca",
@@ -380,11 +380,11 @@
                   "price": "5.75"
                 },
                 {
-                  "name": "Marques de Murrieta Rioja",
-                  "location": "Rioja, Spain",
-                  "variety": "Tempranillo",
+                  "name": "Casa Ferreirinha",
+                  "location": "Douro, Portugal",
+                  "variety": "Touriga Nacional, Franca, Tinta Cao",
                   "glassSize": "8oz",
-                  "price": "13.75"
+                  "price": "27.75"
                 },
                 {
                   "name": "Bramare Lujan De Cuyo",
@@ -428,38 +428,38 @@
         "specials": {
           "items": [
             {
-              "name": "Adaptation By Plumpjack",
-              "bottle": "75.99",
-              "glass": "29.75",
+              "name": "Caterwaul Cabernet",
+              "bottle": "59.99",
+              "glass": "24.75",
               "favorites": true,
-              "notes": "Winery $86"
+              "notes": "Winery $130"
             },
             {
-              "name": "Roserock Pinot Noir",
-              "bottle": "44.99",
-              "glass": "17.75",
+              "name": "Purple Hands Lone Oak",
+              "bottle": "29.99",
+              "glass": "12.75",
               "wineryPrice": 85,
-              "notes": "95pts Wine Enthusiast 94pts Wine Spectator",
+              "notes": "92pts Wine Spectator & 93pts James Suckling",
               "favorites": true
             },
             {
-              "name": "Marques de Murrieta Rioja",
-              "bottle": "29.99",
-              "glass": "12.75",
-              "notes": "94pts Robert Parker 94pts James Suckling"
+              "name": "Bramare Lujan De Cuyo",
+              "bottle": "39.99",
+              "glass": "16.75",
+              "notes": "Winery $50 95pts James Suckling"
             },
             {
-              "name": "Truchard Chardonnay",
+              "name": "Cade By Plumpjack Sauvignon Blanc",
               "bottle": "39.99",
               "glass": "16.75",
               "wineryPrice": 45,
-              "notes": "Winery $35"
+              "notes": "Winery $44"
             },
             {
-              "name": "Ferrari Carano Pinot Grigio",
-              "bottle": "13.99",
-              "glass": "6.75",
-              "notes": "Winery $24 93pts Wine Enthusiast",
+              "name": "RouteStock Cabernet Sauvignon",
+              "bottle": "24.99",
+              "glass": "10.75",
+              "notes": "90pts Wine Enthusiast",
               "favorites": true
             }
           ]
@@ -654,14 +654,6 @@
               "abv": "6.6%",
               "ibu": "20",
               "price": "$9.25",
-              "local": false
-            },
-            {
-              "name": "Deschutes Black Butte Porter",
-              "brewery": "Oregon",
-              "abv": "5.5%",
-              "ibu": "30",
-              "price": "$7.25",
               "local": false
             },
             {
