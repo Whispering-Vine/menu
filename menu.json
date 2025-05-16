@@ -751,7 +751,7 @@
               "new": false,
               "warning": false,
               "favorites": true,
-              "price": 25
+              "price": "26"
             }
           ]
         },
@@ -766,7 +766,7 @@
               "new": false,
               "warning": false,
               "favorites": true,
-              "price": 14
+              "price": "15"
             },
             {
               "name": "BLUE GODDESS WEDGE SALAD",
@@ -774,7 +774,7 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 14
+              "price": "15"
             },
             {
               "name": "SPRING PANZANELLA SALAD",
@@ -790,7 +790,7 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 14
+              "price": "15"
             },
             {
               "name": "TATER TOTS",
@@ -822,7 +822,7 @@
               "new": false,
               "warning": true,
               "favorites": true,
-              "price": 23
+              "price": "24"
             },
             {
               "name": "VEGGIE BURGER",
@@ -830,7 +830,7 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 22
+              "price": "23"
             },
             {
               "name": "THE CUBANO",
@@ -867,7 +867,7 @@
               "new": false,
               "favorites": true,
               "warning": true,
-              "price": 23
+              "price": "24"
             },
             {
               "name": "ESCARGOT WITH COGNAC & GARLIC",
@@ -883,7 +883,7 @@
               "gluten_free": false,
               "new": false,
               "warning": true,
-              "price": 24
+              "price": "25"
             },
             {
               "name": "CIOPPINO",
@@ -891,7 +891,7 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 27
+              "price": "28"
             },
             {
               "name": "STEAMED MANILA CLAMS & MUSSELS",
@@ -899,7 +899,7 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 25
+              "price": "26"
             },
             {
               "name": "3 COCONUT SHRIMP",
@@ -916,7 +916,7 @@
               "new": true,
               "warning": true,
               "favorites": true,
-              "price": "25"
+              "price": "26"
             },
             {
               "name": "STEWED ITALIAN MEATBALLS",
@@ -924,7 +924,7 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 23
+              "price": "24"
             },
             {
               "name": "WILD MUSHROOM FLATBREAD",
@@ -950,7 +950,7 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 25
+              "price": "27"
             },
             {
               "name": "2 BRAISED BISON SHORT RIB SLIDERS",
@@ -973,7 +973,7 @@
               "new": false,
               "warning": false,
               "favorites": true,
-              "price": 18
+              "price": "19"
             },
             {
               "name": "INDIAN-SPICED LENTIL",
@@ -1003,7 +1003,7 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 9
+              "price": "10"
             },
             {
               "name": "ICE CREAM / SORBET",
@@ -1028,7 +1028,7 @@
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 9
+              "price": "10"
             }
           ]
         }
