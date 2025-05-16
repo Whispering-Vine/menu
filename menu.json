@@ -663,6 +663,14 @@
               "ibu": "30",
               "price": "$7.25",
               "local": false
+            },
+            {
+              "name": "",
+              "brewery": "",
+              "abv": "",
+              "ibu": "",
+              "price": "",
+              "local": false
             }
           ]
         },
