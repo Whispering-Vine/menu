@@ -665,11 +665,11 @@
               "local": false
             },
             {
-              "name": "",
-              "brewery": "",
-              "abv": "",
-              "ibu": "",
-              "price": "",
+              "name": "Ace ",
+              "brewery": "Sebastopol, Ca",
+              "abv": "5.0 %",
+              "ibu": "N/A",
+              "price": "$6.25",
               "local": false
             }
           ]
