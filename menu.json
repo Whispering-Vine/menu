@@ -76,12 +76,12 @@
               }
             },
             {
-              "name": "Ferrari Carano",
-              "description": "Sonoma | Merlot",
+              "name": "Ancient Peaks",
+              "description": "Paso Robles | Merlot",
               "price": {
-                "glass": 9.75,
-                "bottle": 21.99,
-                "sale": true
+                "glass": 8.75,
+                "bottle": 17.99,
+                "sale": false
               }
             },
             {
@@ -428,38 +428,38 @@
         "specials": {
           "items": [
             {
-              "name": "Plumpjack Merlot",
-              "bottle": "74.99",
-              "glass": "24.75",
+              "name": "Adaptation By Plumpjack",
+              "bottle": "75.99",
+              "glass": "29.75",
               "favorites": true,
-              "notes": ""
+              "notes": "Winery $86"
             },
             {
-              "name": "Beau Joie Brut",
+              "name": "Roserock Pinot Noir",
               "bottle": "44.99",
               "glass": "17.75",
               "wineryPrice": 85,
-              "notes": "Winery $100",
+              "notes": "95pts Wine Enthusiast 94pts Wine Spectator",
               "favorites": true
             },
             {
-              "name": "Sequoia Grove Cabernet",
+              "name": "Marques de Murrieta Rioja",
+              "bottle": "29.99",
+              "glass": "12.75",
+              "notes": "94pts Robert Parker 94pts James Suckling"
+            },
+            {
+              "name": "Truchard Chardonnay",
               "bottle": "39.99",
-              "glass": "17.75",
-              "notes": "Winery $55"
-            },
-            {
-              "name": "Ferrari Carano Merlot",
-              "bottle": "21.99",
-              "glass": "9.75",
+              "glass": "16.75",
               "wineryPrice": 45,
-              "notes": "Winery $37"
+              "notes": "Winery $35"
             },
             {
-              "name": "Bezel By Cakebread Chardonnay",
-              "bottle": "19.99",
-              "glass": "8.75",
-              "notes": "",
+              "name": "Ferrari Carano Pinot Grigio",
+              "bottle": "13.99",
+              "glass": "6.75",
+              "notes": "Winery $24 93pts Wine Enthusiast",
               "favorites": true
             }
           ]
@@ -777,12 +777,12 @@
               "price": 14
             },
             {
-              "name": "SHAVED BRUSSELS SALAD",
-              "description": "Creamy Caesar, Garlic Croutons, Frico, Pomegranate",
+              "name": "SPRING PANZANELLA SALAD",
+              "description": "Spring Peas, Asparagus, Cucumber, Burrata & Feta Cheeses, Herbs, Lemony Buttermilk Vinaigrette",
               "gluten_free": false,
               "new": false,
               "warning": false,
-              "price": 14
+              "price": "16"
             },
             {
               "name": "GRILLED CHEESE & TOMATO SOUP",
