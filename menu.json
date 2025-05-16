@@ -780,7 +780,7 @@
               "name": "SPRING PANZANELLA SALAD",
               "description": "Spring Peas, Asparagus, Cucumber, Burrata & Feta Cheeses, Herbs, Lemony Buttermilk Vinaigrette",
               "gluten_free": false,
-              "new": false,
+              "new": true,
               "warning": false,
               "price": "16"
             },
