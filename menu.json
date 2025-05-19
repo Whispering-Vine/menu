@@ -428,38 +428,38 @@
         "specials": {
           "items": [
             {
-              "name": "Adaptation By Plumpjack",
-              "bottle": "75.99",
-              "glass": "29.75",
+              "name": "Plumpjack Merlot",
+              "bottle": "74.99",
+              "glass": "24.75",
               "favorites": true,
-              "notes": "Winery $86"
+              "notes": ""
             },
             {
-              "name": "Roserock Pinot Noir",
+              "name": "Beau Joie Brut",
               "bottle": "44.99",
               "glass": "17.75",
               "wineryPrice": 85,
-              "notes": "95pts Wine Enthusiast 94pts Wine Spectator",
+              "notes": "Winery $100",
               "favorites": true
             },
             {
-              "name": "Marques de Murrieta Rioja",
-              "bottle": "29.99",
-              "glass": "12.75",
-              "notes": "94pts Robert Parker 94pts James Suckling"
+              "name": "Sequoia Grove Cabernet",
+              "bottle": "44.99",
+              "glass": "17.75",
+              "notes": "Winery $55"
             },
             {
-              "name": "Truchard Chardonnay",
-              "bottle": "39.99",
-              "glass": "16.75",
+              "name": "Ferrari Carano Merlot",
+              "bottle": "21.99",
+              "glass": "9.75",
               "wineryPrice": 45,
-              "notes": "Winery $35"
+              "notes": "Winery $37 91pts Wine Enthusiast"
             },
             {
-              "name": "Ferrari Carano Pinot Grigio",
-              "bottle": "13.99",
-              "glass": "6.75",
-              "notes": "Winery $24 93pts Wine Enthusiast",
+              "name": "Bezel By Cakebread Chardonnay",
+              "bottle": "19.99",
+              "glass": "8.75",
+              "notes": "93pts Tasting Panel 91 James Suckling",
               "favorites": true
             }
           ]
