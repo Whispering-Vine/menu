@@ -176,21 +176,21 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "12.75",
+              "price": "13.75",
               "items": [
+                {
+                  "name": "Greywacke",
+                  "location": "New Zealand",
+                  "variety": "Sauvignon Blanc",
+                  "glassSize": "8oz",
+                  "price": "10.75"
+                },
                 {
                   "name": "Illumination",
                   "location": "Napa",
                   "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
                   "price": "16.75"
-                },
-                {
-                  "name": "Miner",
-                  "location": "Napa",
-                  "variety": "Viognier",
-                  "glassSize": "8oz",
-                  "price": "8.75"
                 },
                 {
                   "name": "Martinelli",
@@ -232,22 +232,22 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "14.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
-                {
-                  "name": "Macauley",
-                  "location": "Sonoma",
-                  "variety": "Chardonnay",
-                  "glassSize": "8oz",
-                  "price": "13.75"
-                },
                 {
                   "name": "Bezel By Cakebread",
                   "location": "San Luis Obispo",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
                   "price": "8.75"
+                },
+                {
+                  "name": "Ramey ",
+                  "location": "Russian River",
+                  "variety": "Chardonnay",
+                  "glassSize": "8oz",
+                  "price": "16.75"
                 },
                 {
                   "name": "Far Niente",
@@ -291,8 +291,8 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "K Jackson Reserve",
-                  "location": "Sonoma",
+                  "name": "Bonterra Estate",
+                  "location": "Mendocino",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
                   "price": "8.75"
@@ -325,11 +325,11 @@
                   "price": "29.75"
                 },
                 {
-                  "name": "Bella Union By Far Niente",
+                  "name": "Mi Sueno",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "18.75"
+                  "price": "29.75"
                 },
                 {
                   "name": "Sinegal",
@@ -342,7 +342,7 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
@@ -353,11 +353,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Saxon Browne",
+                  "name": "Whitehall Tre Leoni",
                   "location": "Sonoma",
                   "variety": "Grenache, Syrah, Mourvedre",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "11.75"
                 },
                 {
                   "name": "Cinq Cépages ",
