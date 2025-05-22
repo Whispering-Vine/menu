@@ -428,38 +428,38 @@
         "specials": {
           "items": [
             {
-              "name": "Plumpjack Merlot",
-              "bottle": "74.99",
-              "glass": "24.75",
+              "name": "Mi Sueno Cabernet",
+              "bottle": "89.99",
+              "glass": "29.75",
               "favorites": true,
               "notes": ""
             },
             {
-              "name": "Beau Joie Brut",
-              "bottle": "44.99",
-              "glass": "17.75",
+              "name": "Ramey Russian River Chardonnay",
+              "bottle": "39.99",
+              "glass": "16.75",
               "wineryPrice": 85,
-              "notes": "Winery $100",
+              "notes": "Winery $50 94pts Wine Spectator Top 100",
               "favorites": true
             },
             {
-              "name": "Sequoia Grove Cabernet",
-              "bottle": "44.99",
-              "glass": "17.75",
-              "notes": "Winery $55"
+              "name": "Truchard Pinot Noir",
+              "bottle": "29.99",
+              "glass": "12.75",
+              "notes": "Winery $36"
             },
             {
-              "name": "Ferrari Carano Merlot",
-              "bottle": "21.99",
-              "glass": "9.75",
+              "name": "Whitehall Lane Tre Leoni Red Blend",
+              "bottle": "26.99",
+              "glass": "11.75",
               "wineryPrice": 45,
-              "notes": "Winery $37 91pts Wine Enthusiast"
+              "notes": "Winery $36"
             },
             {
-              "name": "Bezel By Cakebread Chardonnay",
-              "bottle": "19.99",
-              "glass": "8.75",
-              "notes": "93pts Tasting Panel 91 James Suckling",
+              "name": "Greywacke Sauvignon Blanc",
+              "bottle": "23.99",
+              "glass": "10.75",
+              "notes": "93pts Wine Spectator",
               "favorites": true
             }
           ]
