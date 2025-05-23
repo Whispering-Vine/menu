@@ -431,7 +431,7 @@
               "name": "Mi Sueno Cabernet",
               "bottle": "89.99",
               "glass": "29.75",
-              "favorites": true,
+              "favorites": false,
               "notes": ""
             },
             {
@@ -440,7 +440,7 @@
               "glass": "16.75",
               "wineryPrice": 85,
               "notes": "Winery $50 94pts Wine Spectator Top 100",
-              "favorites": true
+              "favorites": false
             },
             {
               "name": "Truchard Pinot Noir",
@@ -460,7 +460,7 @@
               "bottle": "23.99",
               "glass": "10.75",
               "notes": "93pts Wine Spectator",
-              "favorites": true
+              "favorites": false
             }
           ]
         }
