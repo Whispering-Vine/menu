@@ -204,14 +204,14 @@
             },
             {
               "name": "Bubbles Flight",
-              "price": "16.75",
+              "price": "15.75",
               "items": [
                 {
-                  "name": "Schramsberg",
-                  "location": "Napa",
-                  "variety": "Blanc De Blanc",
+                  "name": "Piper Sonoma",
+                  "location": "Sonoma",
+                  "variety": "Brut",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "9.75"
                 },
                 {
                   "name": "Beau Joie",
@@ -348,14 +348,14 @@
                 {
                   "name": "Harvey & Harriet",
                   "location": "Paso Robles",
-                  "variety": "Cab, Syrah, Malbec",
+                  "variety": "Cabernet, Syrah, Malbec",
                   "glassSize": "8oz",
                   "price": "12.75"
                 },
                 {
                   "name": "Whitehall Tre Leoni",
-                  "location": "Sonoma",
-                  "variety": "Grenache, Syrah, Mourvedre",
+                  "location": "Napa",
+                  "variety": "Cabernet, Merlot, Cab Franc",
                   "glassSize": "8oz",
                   "price": "11.75"
                 },
@@ -373,11 +373,11 @@
               "price": "12.75",
               "items": [
                 {
-                  "name": "Brecca",
-                  "location": "Spain",
-                  "variety": "Old Vine Grenache",
+                  "name": "Cala Civetta",
+                  "location": "Italy",
+                  "variety": "Sangiovese",
                   "glassSize": "8oz",
-                  "price": "5.75"
+                  "price": "6.75"
                 },
                 {
                   "name": "Marques de Murrieta Rioja",
