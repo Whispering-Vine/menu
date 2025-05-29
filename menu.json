@@ -179,11 +179,11 @@
               "price": "13.75",
               "items": [
                 {
-                  "name": "Greywacke",
-                  "location": "New Zealand",
-                  "variety": "Sauvignon Blanc",
+                  "name": "Miner",
+                  "location": "Napa",
+                  "variety": "Viognier",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "9.75"
                 },
                 {
                   "name": "Illumination",
@@ -214,11 +214,11 @@
                   "price": "9.75"
                 },
                 {
-                  "name": "Beau Joie",
+                  "name": "Beau Joie Senecourt",
                   "location": "Champagne, France",
                   "variety": "Brut ",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "14.75"
                 },
                 {
                   "name": "G.H.Mumm",
@@ -277,8 +277,8 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Bricoleur",
-                  "location": "Russian River",
+                  "name": "Rivers Marie",
+                  "location": "Sonoma",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
                   "price": "19.75"
@@ -305,8 +305,8 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Sequoia Grove",
-                  "location": "Napa",
+                  "name": "Caymus",
+                  "location": "California",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
                   "price": "17.75"
@@ -315,7 +315,7 @@
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "24.75",
+              "price": "25.75",
               "items": [
                 {
                   "name": "Adaptation By Plumpjack",
@@ -325,7 +325,7 @@
                   "price": "29.75"
                 },
                 {
-                  "name": "Mi Sueno",
+                  "name": "Cliff Lede",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
@@ -370,21 +370,21 @@
             },
             {
               "name": "Premium International Red Flight",
-              "price": "12.75",
+              "price": "15.75",
               "items": [
                 {
-                  "name": "Cala Civetta",
-                  "location": "Italy",
-                  "variety": "Sangiovese",
+                  "name": "Barone Di Bernaj",
+                  "location": "Sicily, Italy",
+                  "variety": "Frappato",
                   "glassSize": "8oz",
-                  "price": "6.75"
+                  "price": "7.75"
                 },
                 {
-                  "name": "Marques de Murrieta Rioja",
-                  "location": "Rioja, Spain",
-                  "variety": "Tempranillo",
+                  "name": "Martoccia ",
+                  "location": "Brunello, Italy",
+                  "variety": "Sangiovese",
                   "glassSize": "8oz",
-                  "price": "13.75"
+                  "price": "19.75"
                 },
                 {
                   "name": "Bramare Lujan De Cuyo",
@@ -397,7 +397,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "16.75",
+              "price": "17.75",
               "items": [
                 {
                   "name": "Plumpjack",
@@ -414,11 +414,11 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Carol Shelton Monga",
-                  "location": "Sonoma",
-                  "variety": "Old Vine Zinfandel",
+                  "name": "Biali Black Chicken",
+                  "location": "Napa",
+                  "variety": "Zinfandel",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "18.75"
                 }
               ],
               "favorites": true
@@ -456,10 +456,10 @@
               "notes": "Winery $55"
             },
             {
-              "name": "Greywacke Sauvignon Blanc",
-              "bottle": "23.99",
-              "glass": "10.75",
-              "notes": "93pts Wine Spectator",
+              "name": "Beau Joie Senecourt Brut Champagne",
+              "bottle": "29.99",
+              "glass": "13.75",
+              "notes": "50% Off Winery $60",
               "favorites": false
             }
           ]
