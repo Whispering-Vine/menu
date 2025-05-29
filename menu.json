@@ -34,11 +34,12 @@
               }
             },
             {
-              "name": "Bread & Butter",
-              "description": "California | Chardonnay",
+              "name": "Chalk Hill",
+              "description": "Sonoma | Chardonnay",
               "price": {
-                "glass": 5.75,
-                "bottle": 12.99
+                "glass": 7.75,
+                "bottle": 14.99,
+                "sale": true
               }
             },
             {
