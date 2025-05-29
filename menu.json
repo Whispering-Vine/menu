@@ -428,32 +428,32 @@
         "specials": {
           "items": [
             {
-              "name": "Mi Sueno Cabernet",
-              "bottle": "89.99",
+              "name": "Cliff Lede Cabernet ",
+              "bottle": "74.99",
               "glass": "29.75",
               "favorites": false,
               "notes": ""
             },
             {
-              "name": "Ramey Russian River Chardonnay",
-              "bottle": "39.99",
-              "glass": "16.75",
+              "name": "Caymus California Cabernet",
+              "bottle": "41.99",
+              "glass": "17.75",
               "wineryPrice": 85,
-              "notes": "Winery $50 94pts Wine Spectator Top 100",
+              "notes": "Winery $55 ",
               "favorites": false
             },
             {
-              "name": "Truchard Pinot Noir",
-              "bottle": "29.99",
-              "glass": "12.75",
-              "notes": "Winery $36"
+              "name": "Rivers Marie Sonoma Pinot Noir",
+              "bottle": "46.99",
+              "glass": "19.75",
+              "notes": "94pts Wine Spectator"
             },
             {
-              "name": "Whitehall Lane Tre Leoni Red Blend",
-              "bottle": "26.99",
-              "glass": "11.75",
+              "name": "Biali Black Chicken Zinfandel ",
+              "bottle": "44.99",
+              "glass": "18.75",
               "wineryPrice": 45,
-              "notes": "Winery $36"
+              "notes": "Winery $55"
             },
             {
               "name": "Greywacke Sauvignon Blanc",
