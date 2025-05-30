@@ -128,12 +128,12 @@
               }
             },
             {
-              "name": "Telegramme",
-              "description": "Chateauneuf, France | Grenache Blend",
+              "name": "Chateau De Crouseilles",
+              "description": "France | Bordeaux Blend",
               "price": {
-                "glass": 17.75,
-                "bottle": 44.99,
-                "sale": true
+                "glass": 14.75,
+                "bottle": 34.99,
+                "sale": false
               }
             },
             {
