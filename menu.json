@@ -611,14 +611,6 @@
               "local": true
             },
             {
-              "name": "Pliny the Elder Double IPA",
-              "brewery": "Russian River",
-              "abv": "8.0%",
-              "ibu": "HIGH",
-              "price": "$7.25",
-              "local": false
-            },
-            {
               "name": "Fall River Irish Coffee Stout Nitro",
               "brewery": "Redding",
               "abv": "6.0%",
