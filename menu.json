@@ -186,14 +186,14 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "11.75",
+              "price": "9.75",
               "items": [
                 {
-                  "name": "Miner",
-                  "location": "Napa",
-                  "variety": "Viognier",
+                  "name": "Marietta \"Nadi\"",
+                  "location": "Sonoma",
+                  "variety": "Dry Riesling",
                   "glassSize": "8oz",
-                  "price": "9.75"
+                  "price": "7.75"
                 },
                 {
                   "name": "Turnbull",
@@ -203,11 +203,11 @@
                   "price": "11.75"
                 },
                 {
-                  "name": "Martinelli",
-                  "location": "Sonoma",
-                  "variety": "Dry Rosé",
+                  "name": "Opolo",
+                  "location": "Paso Robles",
+                  "variety": "Viognier",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "8.75"
                 }
               ],
               "favorites": true
@@ -254,7 +254,7 @@
                 },
                 {
                   "name": "Quilt",
-                  "location": "Russian River",
+                  "location": "Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
                   "price": "12.75"
@@ -269,7 +269,7 @@
               ]
             },
             {
-              "name": "Pinot Noir Flight",
+              "name": "Oregon Pinot Noir Flight",
               "price": "16.75",
               "items": [
                 {
@@ -280,18 +280,18 @@
                   "price": "17.75"
                 },
                 {
-                  "name": "Truchard",
-                  "location": "Carneros, Napa",
+                  "name": "Purple Hands \"Lone Oak\"",
+                  "location": "Willamette",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
                   "price": "12.75"
                 },
                 {
-                  "name": "Rivers Marie",
-                  "location": "Sonoma",
+                  "name": "Hyland \"Coury\"",
+                  "location": "Willamette",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "20.75"
                 }
               ]
             },
@@ -315,7 +315,7 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "BellaUnion",
+                  "name": "Bella Union By Far Niente",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
@@ -365,7 +365,7 @@
                 {
                   "name": "Leviathan",
                   "location": "Napa",
-                  "variety": "Cabernet,PetiteSyrah",
+                  "variety": "Cabernet, Petite Syrah",
                   "glassSize": "8oz",
                   "price": "14.75"
                 },
@@ -417,18 +417,18 @@
                   "price": "24.75"
                 },
                 {
-                  "name": "Truchard",
-                  "location": "Napa",
+                  "name": "Right Hand Man",
+                  "location": "Paso Robles",
                   "variety": "Syrah",
                   "glassSize": "8oz",
                   "price": "10.75"
                 },
                 {
-                  "name": "Biale Black Chicken",
-                  "location": "Napa",
+                  "name": "Gamba",
+                  "location": "Russian River",
                   "variety": "Zinfandel",
                   "glassSize": "8oz",
-                  "price": "18.75"
+                  "price": "16.75"
                 }
               ],
               "favorites": true
@@ -453,10 +453,10 @@
               "favorites": false
             },
             {
-              "name": "Rivers Marie Sonoma Pinot Noir",
-              "bottle": "46.99",
-              "glass": "19.75",
-              "notes": "94pts Wine Spectator"
+              "name": "Purple Hands \"Lone Oak\"",
+              "bottle": "29.99",
+              "glass": "12.75",
+              "notes": "92pts Wine Spectator 92pts Robert Parker"
             },
             {
               "name": "Quit Chardonnay",
