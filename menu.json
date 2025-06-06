@@ -186,7 +186,7 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "13.75",
+              "price": "11.75",
               "items": [
                 {
                   "name": "Miner",
@@ -196,11 +196,11 @@
                   "price": "9.75"
                 },
                 {
-                  "name": "Illumination",
+                  "name": "Turnbull",
                   "location": "Napa",
                   "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "11.75"
                 },
                 {
                   "name": "Martinelli",
@@ -242,7 +242,7 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "15.75",
+              "price": "14.75",
               "favorites": true,
               "items": [
                 {
@@ -253,11 +253,11 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Ramey ",
+                  "name": "Quilt",
                   "location": "Russian River",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Far Niente",
@@ -297,7 +297,7 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "13.75",
+              "price": "14.75",
               "favorites": true,
               "items": [
                 {
@@ -315,11 +315,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Caymus",
-                  "location": "California",
+                  "name": "BellaUnion",
+                  "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "21.75"
                 }
               ]
             },
@@ -352,7 +352,7 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "15.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
@@ -363,11 +363,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Whitehall Tre Leoni",
+                  "name": "Leviathan",
                   "location": "Napa",
-                  "variety": "Cabernet, Merlot, Cab Franc",
+                  "variety": "Cabernet,PetiteSyrah",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "14.75"
                 },
                 {
                   "name": "Cinq Cépages ",
@@ -438,18 +438,18 @@
         "specials": {
           "items": [
             {
-              "name": "Cliff Lede Cabernet ",
-              "bottle": "74.99",
-              "glass": "29.75",
+              "name": "Bella Union By Far Niente",
+              "bottle": "54.99",
+              "glass": "21.75",
               "favorites": false,
-              "notes": ""
+              "notes": "Winery $80 95pts Tasting Panel"
             },
             {
-              "name": "Caymus California Cabernet",
-              "bottle": "41.99",
-              "glass": "17.75",
+              "name": "Leviathan Red Blend",
+              "bottle": "34.99",
+              "glass": "14.75",
               "wineryPrice": 85,
-              "notes": "Winery $55 ",
+              "notes": "",
               "favorites": false
             },
             {
@@ -459,17 +459,17 @@
               "notes": "94pts Wine Spectator"
             },
             {
-              "name": "Biale Black Chicken Zinfandel ",
-              "bottle": "44.99",
-              "glass": "18.75",
+              "name": "Quit Chardonnay",
+              "bottle": "29.99",
+              "glass": "12.75",
               "wineryPrice": 45,
               "notes": "Winery $55"
             },
             {
-              "name": "Beau Joie Senecourt Brut Champagne",
-              "bottle": "29.99",
-              "glass": "13.75",
-              "notes": "50% Off Winery $60",
+              "name": "Turnbull Sauvignon Blanc",
+              "bottle": "26.99",
+              "glass": "11.75",
+              "notes": "",
               "favorites": false
             }
           ]
