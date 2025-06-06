@@ -137,6 +137,15 @@
               }
             },
             {
+              "name": "Lovo ",
+              "description": "Italy | Moscato",
+              "price": {
+                "glass": 6.75,
+                "bottle": 13.99,
+                "sale": false
+              }
+            },
+            {
               "name": "Giesen 0% Alcohol ",
               "description": "New Zealand | Sauvignon Blanc",
               "price": {
@@ -158,15 +167,6 @@
               "price": {
                 "glass": 5.75,
                 "bottle": 14.99
-              }
-            },
-            {
-              "name": "Lovo ",
-              "description": "Italy | Moscato",
-              "price": {
-                "glass": 6.75,
-                "bottle": 13.99,
-                "sale": false
               }
             }
           ]
