@@ -6,7 +6,7 @@
       "category": "American Whiskey",
       "items": [
         {
-          "title": "Redemption (well)",
+          "title": "High West(well)",
           "price": "$7"
         },
         {
@@ -18,10 +18,6 @@
           "price": "$50"
         },
         {
-          "title": "Barrell Infinite Barrel Proj.",
-          "price": "$12"
-        },
-        {
           "title": "Barrell Vantage",
           "price": "$15"
         },
@@ -31,10 +27,6 @@
         },
         {
           "title": "Blanton's",
-          "price": "$16"
-        },
-        {
-          "title": "Blue Run Reflection I",
           "price": "$16"
         },
         {
@@ -54,8 +46,8 @@
           "price": "$8"
         },
         {
-          "title": "Dickel #12",
-          "price": "$8"
+          "title": "Dovetail Oat Whiskey",
+          "price": "$11"
         },
         {
           "title": "Eagle Rare 10 yr",
@@ -66,12 +58,16 @@
           "price": "$15"
         },
         {
-          "title": "Four Roses Small Batch",
-          "price": "$8"
+          "title": "Elijah Craig Small Batch",
+          "price": "$11"
         },
         {
-          "title": "Four Roses Single Barrel",
-          "price": "$10"
+          "title": "Four Roses Single Barrel NN",
+          "price": "$13"
+        },
+        {
+          "title": "Four Roses Single Barrel QS",
+          "price": "$11"
         },
         {
           "title": "Frey Ranch Bourbon",
@@ -82,12 +78,8 @@
           "price": "$17"
         },
         {
-          "title": "Frey Ranch Wheated",
-          "price": "$18"
-        },
-        {
-          "title": "High West Bourbon",
-          "price": "$9"
+          "title": "Gentleman's Cut",
+          "price": "$15"
         },
         {
           "title": "Horse Soldier Barrel Proof",
@@ -122,8 +114,12 @@
           "price": "$50"
         },
         {
-          "title": "Knob Creek 15",
-          "price": "$15"
+          "title": "Knob Creek 9 yr",
+          "price": "$10"
+        },
+        {
+          "title": "Knob Creek 9yr",
+          "price": "$10"
         },
         {
           "title": "Little Book 4",
@@ -138,12 +134,12 @@
           "price": "$11"
         },
         {
-          "title": "Maker's Mark",
-          "price": "$8"
-        },
-        {
           "title": "Maker's Cask Strength",
           "price": "$11"
+        },
+        {
+          "title": "Maker's Mark",
+          "price": "$8"
         },
         {
           "title": "Michter's American",
@@ -154,16 +150,20 @@
           "price": "$11"
         },
         {
+          "title": "Minden Mill",
+          "price": "$10"
+        },
+        {
+          "title": "Nv 36",
+          "price": "$9"
+        },
+        {
           "title": "Old Bardstown",
           "price": "$9"
         },
         {
-          "title": "Old Forester 100 Proof",
+          "title": "Old Forester 86 Proof",
           "price": "$9"
-        },
-        {
-          "title": "Old Rip Van Winkle 10 yr",
-          "price": "$50"
         },
         {
           "title": "Orphan Barrel Gifted Horse",
@@ -174,12 +174,12 @@
           "price": "$75"
         },
         {
-          "title": "Pinhook Bourbon Heist",
-          "price": "$10"
-        },
-        {
           "title": "Pinhook 7 yr Bourbon War",
           "price": "$15"
+        },
+        {
+          "title": "Pinhook Bourbon Heist",
+          "price": "$10"
         },
         {
           "title": "Shenk's Homestead Single B.",
@@ -190,12 +190,12 @@
           "price": "$12"
         },
         {
-          "title": "Stranahan's Diamond Peak",
-          "price": "$12"
-        },
-        {
           "title": "Traveller",
           "price": "$10"
+        },
+        {
+          "title": "Two Bitch",
+          "price": "$11"
         },
         {
           "title": "Uncle Nearest 1856",
@@ -210,8 +210,8 @@
           "price": "$15"
         },
         {
-          "title": "Whistlepig Piggyback Bourbon",
-          "price": "$11"
+          "title": "Wild Turkey Diamond Anniversary",
+          "price": "$50"
         },
         {
           "title": "Wild Turkey MK BIB",
@@ -226,12 +226,12 @@
           "price": "$25"
         },
         {
-          "title": "Willett Copper Still",
-          "price": "$12"
-        },
-        {
           "title": "Willett 6yr Estate Boubon",
           "price": "$23"
+        },
+        {
+          "title": "Willett Copper Still",
+          "price": "$12"
         },
         {
           "title": "Woodford Reserve Dbl. Oak.",
@@ -247,12 +247,8 @@
           "price": "$9"
         },
         {
-          "title": "Crown Royal",
-          "price": "$8"
-        },
-        {
-          "title": "Crown Wine Barrel Finish",
-          "price": "$12"
+          "title": "Caribou Crossing",
+          "price": "$14"
         },
         {
           "title": "Crown 13 Yr Blender's",
@@ -271,24 +267,24 @@
           "price": "$9"
         },
         {
-          "title": "Forty Creek Pot Reserve",
+          "title": "Crown Royal",
           "price": "$8"
         },
         {
-          "title": "J. P. Wiser's Legacy",
-          "price": "$10"
+          "title": "Crown Wine Barrel Finish",
+          "price": "$12"
+        },
+        {
+          "title": "Forty Creek Pot Reserve",
+          "price": "$8"
         },
         {
           "title": "J. P. Wiser's 18",
           "price": "$15"
         },
         {
-          "title": "Pendleton",
-          "price": "$9"
-        },
-        {
-          "title": "Pendleton Director's 20 yr",
-          "price": "$18"
+          "title": "J. P. Wiser's Legacy",
+          "price": "$10"
         },
         {
           "title": "Seagram's VO",
@@ -352,6 +348,10 @@
           "price": "$9"
         },
         {
+          "title": "Minden Mill Rye",
+          "price": "$10"
+        },
+        {
           "title": "Peerless Rye",
           "price": "$25"
         },
@@ -368,24 +368,8 @@
           "price": "$12"
         },
         {
-          "title": "Knob Creek Rye 115 Proof",
-          "price": "$11"
-        },
-        {
-          "title": "WhistlePig Roadstock",
-          "price": "$12"
-        },
-        {
-          "title": "WhistlePig Piggy Back",
-          "price": "$11"
-        },
-        {
-          "title": "WhistlePig Farmstock Cr. 3",
-          "price": "$16"
-        },
-        {
-          "title": "WhistlePig 12yr",
-          "price": "$25"
+          "title": "WhistlePig 10yr",
+          "price": "$17"
         },
         {
           "title": "WhistlePig 15yr",
@@ -396,16 +380,24 @@
           "price": "$75"
         },
         {
-          "title": "WhistlePig Bosshog IV",
-          "price": "$100"
-        },
-        {
           "title": "WhistlePig Bosshog V",
           "price": "$75"
         },
         {
           "title": "WhistlePig Bosshog VI",
           "price": "$75"
+        },
+        {
+          "title": "WhistlePig Farmstock Cr. 3",
+          "price": "$16"
+        },
+        {
+          "title": "WhistlePig Piggy Back",
+          "price": "$11"
+        },
+        {
+          "title": "WhistlePig Roadstock",
+          "price": "$12"
         },
         {
           "title": "Willett 6yr Rye",
@@ -416,10 +408,6 @@
     {
       "category": "Irish Whisky",
       "items": [
-        {
-          "title": "Connemara Cask Strength",
-          "price": "$17"
-        },
         {
           "title": "Connemara Peated",
           "price": "$16"
@@ -433,10 +421,6 @@
           "price": "$8"
         },
         {
-          "title": "Jameson Caskmates IPA",
-          "price": "$11"
-        },
-        {
           "title": "Jameson Cold Brew",
           "price": "$9"
         },
@@ -445,16 +429,16 @@
           "price": "$8"
         },
         {
+          "title": "Pearse 12 yr",
+          "price": "$12"
+        },
+        {
           "title": "Pearse 5 yr",
           "price": "$9"
         },
         {
           "title": "Pearse 7 yr",
           "price": "$10"
-        },
-        {
-          "title": "Pearse 12 yr",
-          "price": "$12"
         },
         {
           "title": "Penderyn Celt - Light Peat",
@@ -469,12 +453,16 @@
           "price": "$13"
         },
         {
-          "title": "Redbreast 21yr",
-          "price": "$45"
+          "title": "Red Breast 18yr",
+          "price": "$35"
         },
         {
           "title": "Red Spot 15yr",
           "price": "$30"
+        },
+        {
+          "title": "Red Breast 12yr",
+          "price": "$15"
         },
         {
           "title": "Temple Bar 12yr",
@@ -482,10 +470,6 @@
         },
         {
           "title": "The Knot 100 Proof",
-          "price": "$8"
-        },
-        {
-          "title": "Tullamore Dew",
           "price": "$8"
         },
         {
@@ -530,7 +514,7 @@
           "price": "$20"
         },
         {
-          "title": "Kavalan Port Finish",
+          "title": "Kavalan Concert Master",
           "price": "$17"
         },
         {
@@ -542,16 +526,8 @@
           "price": "$16"
         },
         {
-          "title": "Nikka Coffey Malt",
-          "price": "$13"
-        },
-        {
           "title": "Nikka Pure Malt Taketsuru",
           "price": "$13"
-        },
-        {
-          "title": "Nikka Single Malt Miyagikyo",
-          "price": "$14"
         }
       ]
     },
@@ -561,12 +537,12 @@
       "notes": "WV Single Barrels Available Now — Ask Our Staff to Purchase!",
       "items": [
         {
-          "title": "CadenHead Auchentoshan 17yr Single Malt Scotch",
-          "price": "$20"
+          "title": "1792 Sazerac Barrel",
+          "price": "$12"
         },
         {
-          "title": "Elijah Craig Small Batch",
-          "price": "$11"
+          "title": "Buffalo Trace Sazerac Barrel",
+          "price": "$10"
         },
         {
           "title": "Frey Ranch Single Barrel",
@@ -589,16 +565,8 @@
           "price": "$9"
         },
         {
-          "title": "Old Elk Wheat Whiskey",
-          "price": "$13"
-        },
-        {
           "title": "Rogue Pinot Spruce Gin",
           "price": "$9"
-        },
-        {
-          "title": "Whistlepig 10 yr",
-          "price": "$17"
         },
         {
           "title": "Wild Turkey Kentucky Spirit",
@@ -719,7 +687,7 @@
               "price": "$30"
             },
             {
-              "title": "Springbank 12 yr",
+              "title": "Springbank 10 yr",
               "price": "$12"
             }
           ]
@@ -756,12 +724,12 @@
               "price": "$15"
             },
             {
-              "title": "Macallan 12r Sherry Cask",
-              "price": "$16"
-            },
-            {
               "title": "Macallan 15yr Double Cask",
               "price": "$30"
+            },
+            {
+              "title": "Nc'Nean Organic",
+              "price": "$17"
             },
             {
               "title": "Oban 14yr",
@@ -908,6 +876,10 @@
               "price": "$11"
             },
             {
+              "title": "Glenfiddich 18yr",
+              "price": "$26"
+            },
+            {
               "title": "Glenlivet 12yr",
               "price": "$12"
             },
@@ -918,10 +890,6 @@
             {
               "title": "Glenlivet Carribean Reserve",
               "price": "$11"
-            },
-            {
-              "title": "Glenfiddich 18yr",
-              "price": "$26"
             },
             {
               "title": "Glenrothes",
