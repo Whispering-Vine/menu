@@ -315,31 +315,31 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Bella Union By Far Niente",
+                  "name": "Tamber Bey",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "21.75"
+                  "price": "19.75"
                 }
               ]
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "25.75",
+              "price": "23.75",
               "items": [
+                {
+                  "name": "Bella Union By Far Niente",
+                  "location": "Napa",
+                  "variety": "Cabernet",
+                  "glassSize": "8oz",
+                  "price": "21.75"
+                },
                 {
                   "name": "Adaptation By Plumpjack",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "29.75"
-                },
-                {
-                  "name": "Cliff Lede",
-                  "location": "Napa",
-                  "variety": "Cabernet",
-                  "glassSize": "8oz",
-                  "price": "29.75"
+                  "price": "24.75"
                 },
                 {
                   "name": "Sinegal",
