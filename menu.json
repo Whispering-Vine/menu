@@ -611,11 +611,11 @@
               "local": true
             },
             {
-              "name": "Left Hand Milk  Stout Nitro",
-              "brewery": "Colorado",
-              "abv": "6.0%",
-              "ibu": "25",
-              "price": "$6.25",
+              "name": "Old Rasputin Imperial Stout Nitro",
+              "brewery": "North Coast, Ca",
+              "abv": "9.0%",
+              "ibu": "75",
+              "price": "$9.25",
               "local": false
             },
             {
