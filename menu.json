@@ -611,10 +611,10 @@
               "local": true
             },
             {
-              "name": "Fall River Irish Coffee Stout Nitro",
-              "brewery": "Redding",
+              "name": "Left Hand Milk  Stout Nitro",
+              "brewery": "Colorado",
               "abv": "6.0%",
-              "ibu": "45",
+              "ibu": "25",
               "price": "$6.25",
               "local": false
             },
@@ -644,7 +644,7 @@
             },
             {
               "name": "Dogfish Head Grateful Dead Juicy Pale Ale",
-              "brewery": "",
+              "brewery": "Delaware",
               "abv": "5.3%",
               "ibu": "30",
               "price": "$7.25",
@@ -672,6 +672,14 @@
               "abv": "5.0 %",
               "ibu": "N/A",
               "price": "$6.25",
+              "local": false
+            },
+            {
+              "name": "Sculpin IPA",
+              "brewery": "San Diego, Ca",
+              "abv": "7.0 %",
+              "ibu": "70",
+              "price": "$7.25",
               "local": false
             }
           ]
