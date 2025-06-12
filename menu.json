@@ -196,11 +196,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Turnbull",
+                  "name": "Truchard",
                   "location": "Napa",
-                  "variety": "Sauvignon Blanc",
+                  "variety": "Roussanne",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Opolo",
@@ -242,15 +242,15 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "14.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Bezel By Cakebread",
-                  "location": "San Luis Obispo",
+                  "name": "Saxon Brown",
+                  "location": "Carneros, Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "14.75"
                 },
                 {
                   "name": "Quilt",
@@ -269,26 +269,26 @@
               ]
             },
             {
-              "name": "Oregon Pinot Noir Flight",
+              "name": "Pinot Noir Flight",
               "price": "16.75",
               "items": [
                 {
-                  "name": "Roserock",
-                  "location": "Willamette",
+                  "name": "Chalk Hill",
+                  "location": "Sonoma",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "17.75"
-                },
-                {
-                  "name": "Purple Hands \"Lone Oak\"",
-                  "location": "Willamette",
-                  "variety": "Pinot Noir",
-                  "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "9.75"
                 },
                 {
                   "name": "Hyland \"Coury\"",
                   "location": "Willamette",
+                  "variety": "Pinot Noir",
+                  "glassSize": "8oz",
+                  "price": "24.75"
+                },
+                {
+                  "name": "Miner \"Gary's Vineyard\"",
+                  "location": "Santa Lucia Highlands",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
                   "price": "20.75"
@@ -297,7 +297,7 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "14.75",
+              "price": "13.75",
               "favorites": true,
               "items": [
                 {
@@ -308,11 +308,11 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Metier",
-                  "location": "Washington",
+                  "name": "Beringer Knights Valley",
+                  "location": "Sonoma",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Tamber Bey",
@@ -325,7 +325,7 @@
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "23.75",
+              "price": "25.75",
               "items": [
                 {
                   "name": "Bella Union By Far Niente",
@@ -342,17 +342,17 @@
                   "price": "24.75"
                 },
                 {
-                  "name": "Sinegal",
+                  "name": "Nickel & Nickel \"State Ranch\"",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "24.75"
+                  "price": "29.75"
                 }
               ]
             },
             {
               "name": "Red Blend Flight",
-              "price": "16.75",
+              "price": "14.75",
               "favorites": true,
               "items": [
                 {
@@ -363,11 +363,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Leviathan",
-                  "location": "Napa",
-                  "variety": "Cabernet, Petite Syrah",
+                  "name": "Daou \"Pessimist\"",
+                  "location": "Paso Robles",
+                  "variety": "Petite Syrah, Zin, Syrah",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "8.75"
                 },
                 {
                   "name": "Cinq Cépages ",
@@ -397,11 +397,11 @@
                   "price": "19.75"
                 },
                 {
-                  "name": "Bramare Lujan De Cuyo",
-                  "location": "Argentina",
-                  "variety": "Malbec",
+                  "name": "Penfolds Bin 389",
+                  "location": "Australia ",
+                  "variety": "Cabernet - Shiraz",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "18.75"
                 }
               ]
             },
@@ -438,38 +438,38 @@
         "specials": {
           "items": [
             {
-              "name": "Bella Union By Far Niente",
-              "bottle": "54.99",
-              "glass": "21.75",
+              "name": "Nickel & Nickel \"State Ranch\" Cabernet",
+              "bottle": "74.99",
+              "glass": "29.75",
               "favorites": false,
-              "notes": "Winery $80 95pts Tasting Panel"
+              "notes": "Winery $135 97pts James Suckling"
             },
             {
-              "name": "Leviathan Red Blend",
-              "bottle": "34.99",
-              "glass": "14.75",
+              "name": "Miner \"Gary's Vineyard\" Pinot Noir",
+              "bottle": "59.99",
+              "glass": "24.75",
               "wineryPrice": 85,
-              "notes": "",
+              "notes": "Winery $75",
               "favorites": false
             },
             {
-              "name": "Purple Hands \"Lone Oak\"",
-              "bottle": "29.99",
-              "glass": "12.75",
-              "notes": "92pts Wine Spectator 92pts Robert Parker"
+              "name": "Penfolds Bin 389 Cabernet- Shiraz",
+              "bottle": "44.99",
+              "glass": "17.75",
+              "notes": "Winery $80 94Pts Wine Spectator Top 100 # 12"
             },
             {
-              "name": "Quilt Chardonnay",
-              "bottle": "29.99",
-              "glass": "12.75",
+              "name": "Beringer Knights Valley Cabernet",
+              "bottle": "24.99",
+              "glass": "10.75",
               "wineryPrice": 45,
-              "notes": "Winery $55"
+              "notes": "Winery $40 94pts James Suckling"
             },
             {
-              "name": "Turnbull Sauvignon Blanc",
-              "bottle": "26.99",
-              "glass": "11.75",
-              "notes": "",
+              "name": "Truchard Roussanne",
+              "bottle": "24.99",
+              "glass": "10.75",
+              "notes": "Winery $30",
               "favorites": false
             }
           ]
