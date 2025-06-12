@@ -16,7 +16,7 @@
               }
             },
             {
-              "name": "Cade By Plumpjack",
+              "name": "Illumination By Quintessa",
               "description": "Napa | Sauvignon Blanc",
               "price": {
                 "glass": 16.75,
@@ -34,7 +34,7 @@
               }
             },
             {
-              "name": "Chalk Hill",
+              "name": "Chalkhill",
               "description": "Sonoma | Chardonnay",
               "price": {
                 "glass": 7.75,
@@ -51,11 +51,11 @@
               }
             },
             {
-              "name": "Miner",
-              "description": "Napa | Rosé",
+              "name": "Ferrari Carano",
+              "description": "Sonoma| Rosé",
               "price": {
-                "glass": 9.75,
-                "bottle": 24.99
+                "glass": 6.75,
+                "bottle": 13.99
               }
             },
             {
@@ -86,12 +86,12 @@
               }
             },
             {
-              "name": "Opolo",
-              "description": "Paso Robles | Cabernet",
+              "name": "Mount Peak \"Sentinel\"",
+              "description": "Sonoma | Cabernet",
               "price": {
-                "glass": 12.75,
-                "bottle": 29.99,
-                "sale": false
+                "glass": 16.75,
+                "bottle": 39.99,
+                "sale": true
               }
             },
             {
@@ -103,11 +103,11 @@
               }
             },
             {
-              "name": "Caymus Walking Fool",
-              "description": "Napa | Petite Syrah, Zin Blend",
+              "name": "Leviathan",
+              "description": "Napa | Cab, Petite Syrah, Merlot",
               "price": {
-                "glass": 13.75,
-                "bottle": 31.99
+                "glass": 14.75,
+                "bottle": 34.99
               }
             },
             {
