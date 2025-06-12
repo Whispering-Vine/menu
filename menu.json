@@ -34,7 +34,7 @@
               }
             },
             {
-              "name": "Chalkhill",
+              "name": "Chalk Hill",
               "description": "Sonoma | Chardonnay",
               "price": {
                 "glass": 7.75,
@@ -120,7 +120,7 @@
             },
             {
               "name": "Ridge Three Valley",
-              "description": "Sonoma | Zinfandel",
+              "description": "Sonoma | Zinfandel Blend ",
               "price": {
                 "glass": 14.75,
                 "bottle": 32.99,
