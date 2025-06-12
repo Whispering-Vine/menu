@@ -686,37 +686,8 @@
         },
         "bottled": {
           "name": "Russian River Brewing Co. Bottled Beers",
-          "items": [
-            {
-              "name": "Pliny the Elder Double IPA",
-              "abv": "8.0%",
-              "ibu": "HIGH",
-              "price": "$5.99",
-              "local": false
-            },
-            {
-              "name": "Blind Pig IPA",
-              "abv": "6.3%",
-              "ibu": "MED",
-              "price": "$5.99",
-              "local": false
-            },
-            {
-              "name": "Citra Flash Mob IPA",
-              "abv": "7.0%",
-              "ibu": "MED",
-              "price": "$5.99",
-              "local": false
-            },
-            {
-              "name": "Happy Hops IPA",
-              "abv": "6.5%",
-              "ibu": "LOW",
-              "price": "$5.99",
-              "local": false
-            }
-          ],
-          "notes": "Check out our front fridge for other Russian River Brewing Co bottles not listed here."
+          "items": [],
+          "notes": "Check out our front fridge for Russian River Brewing Co bottles. While supplies last."
         },
         "qr": {
           "title": "Whispering Vine Spirits Bible",
