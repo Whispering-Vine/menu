@@ -688,7 +688,7 @@
           "name": "Russian River Brewing Co. Bottled Beers",
           "items": [],
           "notes": "Check out our front fridge for Russian River Brewing Co bottles. While supplies last.",
-          "hidden": true
+          "show": false
         },
         "qr": {
           "title": "Whispering Vine Spirits Bible",
