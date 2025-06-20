@@ -174,8 +174,7 @@
         "special-flight": {
           "name": "Special Flight",
           "caption": "Special Flight of FOUR Belle Glos Pinot Noirs",
-          "items": [],
-          "hidden": false
+          "items": []
         }
       }
     },
@@ -197,11 +196,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Truchard",
+                  "name": "Rombauer",
                   "location": "Napa",
-                  "variety": "Roussanne",
+                  "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "11.75"
                 },
                 {
                   "name": "Opolo",
@@ -271,14 +270,14 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "16.75",
+              "price": "17.75",
               "items": [
                 {
-                  "name": "Chalk Hill",
-                  "location": "Sonoma",
+                  "name": "Benton Lane",
+                  "location": "Willamette",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "9.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Hyland \"Coury\"",
@@ -298,7 +297,7 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "13.75",
+              "price": "10.75",
               "favorites": true,
               "items": [
                 {
@@ -316,11 +315,11 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Tamber Bey",
-                  "location": "Napa",
+                  "name": "Bezel By Cakebread",
+                  "location": "Paso Robles",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "11.75"
                 }
               ]
             },
@@ -408,7 +407,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "17.75",
+              "price": "16.75",
               "items": [
                 {
                   "name": "Plumpjack",
@@ -425,11 +424,11 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Gamba",
+                  "name": "Turley \"Juvenile\"",
                   "location": "Russian River",
                   "variety": "Zinfandel",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "11.75"
                 }
               ],
               "favorites": true
@@ -439,38 +438,38 @@
         "specials": {
           "items": [
             {
-              "name": "Nickel & Nickel \"State Ranch\" Cabernet",
-              "bottle": "74.99",
-              "glass": "29.75",
+              "name": "Far Niente Cabernet",
+              "bottle": "79.99",
+              "glass": "",
               "favorites": false,
-              "notes": "Winery $135 97pts James Suckling"
+              "notes": "Winery $130 96pts James Suckling & 94 Jeb Dunnuck"
             },
             {
-              "name": "Miner \"Gary's Vineyard\" Pinot Noir",
-              "bottle": "59.99",
-              "glass": "24.75",
+              "name": "Turley \"Juvenile\" Zinfandel ",
+              "bottle": "26.99",
+              "glass": "11.75",
               "wineryPrice": 85,
-              "notes": "Winery $75",
+              "notes": "92pts Wine Spectator",
               "favorites": false
             },
             {
-              "name": "Penfolds Bin 389 Cabernet- Shiraz",
-              "bottle": "44.99",
-              "glass": "17.75",
-              "notes": "Winery $80 94Pts Wine Spectator Top 100 # 12"
-            },
-            {
-              "name": "Beringer Knights Valley Cabernet",
+              "name": "Benton Lane Pinot Noir",
               "bottle": "24.99",
               "glass": "10.75",
+              "notes": "Winery $35"
+            },
+            {
+              "name": "Rombauer Sauvignon Blanc",
+              "bottle": "26.99",
+              "glass": "11.75",
               "wineryPrice": 45,
-              "notes": "Winery $40 94pts James Suckling"
+              "notes": ""
             },
             {
-              "name": "Truchard Roussanne",
-              "bottle": "24.99",
-              "glass": "10.75",
-              "notes": "Winery $30",
+              "name": "Bezel By Cakebread",
+              "bottle": "25.99",
+              "glass": "11.75",
+              "notes": "",
               "favorites": false
             }
           ]
@@ -644,7 +643,7 @@
               "local": false
             },
             {
-              "name": "DogfishHead Grateful Dead Juicy Pale Ale",
+              "name": "Dogfish Head Grateful Dead Juicy Pale Ale",
               "brewery": "Delaware",
               "abv": "5.3%",
               "ibu": "30",
@@ -687,9 +686,37 @@
         },
         "bottled": {
           "name": "Russian River Brewing Co. Bottled Beers",
-          "items": [],
-          "notes": "Check out our front fridge for Russian River Brewing Co bottles. While supplies last.",
-          "show": false
+          "items": [
+            {
+              "name": "Pliny the Elder Double IPA",
+              "abv": "8.0%",
+              "ibu": "HIGH",
+              "price": "$5.99",
+              "local": false
+            },
+            {
+              "name": "Blind Pig IPA",
+              "abv": "6.3%",
+              "ibu": "MED",
+              "price": "$5.99",
+              "local": false
+            },
+            {
+              "name": "Citra Flash Mob IPA",
+              "abv": "7.0%",
+              "ibu": "MED",
+              "price": "$5.99",
+              "local": false
+            },
+            {
+              "name": "Happy Hops IPA",
+              "abv": "6.5%",
+              "ibu": "LOW",
+              "price": "$5.99",
+              "local": false
+            }
+          ],
+          "notes": "Check out our front fridge for Russian River Brewing Co bottles. While supplies last."
         },
         "qr": {
           "title": "Whispering Vine Spirits Bible",
