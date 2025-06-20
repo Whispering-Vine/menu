@@ -351,8 +351,8 @@
               ]
             },
             {
-              "name": "Red Blend Flight",
-              "price": "14.75",
+              "name": "Paso Robles Red Blend Flight",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
@@ -370,11 +370,11 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Cinq Cépages ",
-                  "location": "Sonoma",
-                  "variety": "Cabernet, Malbec, Merot",
+                  "name": "Justin \"Isosceles\" ",
+                  "location": "Paso Robles",
+                  "variety": "Cabernet, Merlot, Cab Franc",
                   "glassSize": "8oz",
-                  "price": "21.75"
+                  "price": "22.75"
                 }
               ]
             },
