@@ -16,6 +16,15 @@
               }
             },
             {
+              "name": "Lovo ",
+              "description": "Italy | Moscato",
+              "price": {
+                "glass": 6.75,
+                "bottle": 13.99,
+                "sale": false
+              }
+            },
+            {
               "name": "Illumination By Quintessa",
               "description": "Napa | Sauvignon Blanc",
               "price": {
@@ -133,15 +142,6 @@
               "price": {
                 "glass": 14.75,
                 "bottle": 34.99,
-                "sale": false
-              }
-            },
-            {
-              "name": "Lovo ",
-              "description": "Italy | Moscato",
-              "price": {
-                "glass": 6.75,
-                "bottle": 13.99,
                 "sale": false
               }
             },
