@@ -186,7 +186,7 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "9.75",
+              "price": "12.75",
               "items": [
                 {
                   "name": "Marietta \"Nadi\"",
@@ -203,11 +203,11 @@
                   "price": "11.75"
                 },
                 {
-                  "name": "Opolo",
-                  "location": "Paso Robles",
+                  "name": "Aperture ",
+                  "location": "California",
                   "variety": "Viognier",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "16.75"
                 }
               ],
               "favorites": true
