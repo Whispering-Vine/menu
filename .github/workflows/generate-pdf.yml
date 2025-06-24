@@ -1,9 +1,10 @@
 name: Generate PDF
 
 on:
-  workflow_run:
-    workflows: ["Deploy Pages and Notify Client"]
-    types: [completed]
+  workflow_dispatch:  # Enables manual run via GitHub UI
+  schedule:
+    - cron: '0 3 * * 0'  # Runs every Sunday at 3:00 AM UTC
+
 jobs: 
   generate_pdf:
     runs-on: ubuntu-latest
