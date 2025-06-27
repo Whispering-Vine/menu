@@ -487,10 +487,10 @@
               "serving": "On the Rocks"
             },
             {
-              "name": "THE VINE OLD FASHIONED",
+              "name": "MINT & MOJITO CAN'T ELOPE",
               "price": "14",
-              "description": "Premium Bourbon | Simple Syrup\nOrange Bitters | Angostura Bitters",
-              "serving": "On a Large Clear Cube"
+              "description": "Don Q Rum | Cantaloupe-Mint Simple Syrup | Lime Juice | Club Soda",
+              "serving": "On the Rocks"
             },
             {
               "name": "FALLON BUCK",
@@ -507,7 +507,7 @@
             {
               "name": "LIMONCELLO SPRITZ",
               "price": "14",
-              "description": "Limoncello | Lemon Juice\nSparkling Wine | Club Soda",
+              "description": "Limoncello | Lemon Juice | Sparkling Wine | Club Soda",
               "serving": "On the Rocks"
             },
             {
@@ -531,7 +531,7 @@
             {
               "name": "GRAPEFRUIT LAVENDER GIMLET",
               "price": "14",
-              "description": "Gray Whale Gin | Lime Juice Grapefruit Juice | Simple Syrup | Lavender Bitters",
+              "description": "Gray Whale Gin | Lime Juice | Grapefruit Juice | Simple Syrup | Lavender Bitters",
               "serving": "Served Up"
             },
             {
@@ -568,6 +568,18 @@
               "price": "14",
               "description": "Vodka | Filthy Olive Brine\nBlue Cheese Stuffed Olives",
               "serving": "Served Up"
+            },
+            {
+              "name": "VINE OLD FASHIONED",
+              "description": "Premium Bourbon | Simple Syrup\nOrange Bitters | Angostura Bitters",
+              "serving": "On a Large Clear Cube",
+              "price": "14"
+            },
+            {
+              "name": "PATRÓN FLIGHT",
+              "description": "Enjoy a one-ounce pour each of \nPatrón El Alto, El Cielo, and Silver",
+              "serving": "REGULARLY VALUED $50!",
+              "price": "20"
             }
           ]
         },
