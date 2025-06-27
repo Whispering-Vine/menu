@@ -487,6 +487,12 @@
               "serving": "On the Rocks"
             },
             {
+              "name": "AMBER SUN",
+              "price": "14",
+              "description": "Tequila | Aperol | Elderflower Liqueur | Lemon Juice | Agave | Angostura Bitters",
+              "serving": "On a Large Clear Cube"
+            },
+            {
               "name": "MINT & MOJITO CAN'T ELOPE",
               "price": "14",
               "description": "Don Q Rum | Cantaloupe-Mint Simple Syrup | Lime Juice | Club Soda",
@@ -521,12 +527,6 @@
               "price": "14",
               "description": "Malahat Rum | Pineapple Juice | Cream of Coconut | Grenadine",
               "serving": "On the Rocks"
-            },
-            {
-              "name": "AMBER SUN",
-              "price": "14",
-              "description": "Tequila | Aperol | Elderflower Liqueur | Lemon Juice | Angostura Bitters",
-              "serving": "On a Large Clear Cube"
             },
             {
               "name": "GRAPEFRUIT LAVENDER GIMLET",
