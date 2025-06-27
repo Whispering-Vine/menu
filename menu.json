@@ -186,7 +186,7 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "12.75",
+              "price": "14.75",
               "items": [
                 {
                   "name": "Marietta \"Nadi\"",
@@ -196,11 +196,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Rombauer",
+                  "name": "Cade",
                   "location": "Napa",
                   "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Aperture ",
@@ -217,11 +217,11 @@
               "price": "15.75",
               "items": [
                 {
-                  "name": "Piper Sonoma",
-                  "location": "Sonoma",
-                  "variety": "Brut",
+                  "name": "Roederer",
+                  "location": "Anderson Valley",
+                  "variety": "Brut Rosé",
                   "glassSize": "8oz",
-                  "price": "9.75"
+                  "price": "13.75"
                 },
                 {
                   "name": "Beau Joie Senecourt",
@@ -253,8 +253,8 @@
                   "price": "14.75"
                 },
                 {
-                  "name": "Quilt",
-                  "location": "Napa",
+                  "name": "Chateau St.Jean",
+                  "location": "Carneros, Sonoma",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
                   "price": "12.75"
@@ -273,11 +273,11 @@
               "price": "17.75",
               "items": [
                 {
-                  "name": "Benton Lane",
-                  "location": "Willamette",
+                  "name": "Faila",
+                  "location": "Sonoma Coast",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Hyland \"Coury\"",
@@ -297,7 +297,7 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "10.75",
+              "price": "13.75",
               "favorites": true,
               "items": [
                 {
@@ -315,11 +315,11 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Bezel By Cakebread",
+                  "name": "Daou Reserve",
                   "location": "Paso Robles",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "18.75"
                 }
               ]
             },
@@ -438,18 +438,18 @@
         "specials": {
           "items": [
             {
-              "name": "Far Niente Cabernet",
-              "bottle": "79.99",
-              "glass": "",
+              "name": "Duckhorn Merlot",
+              "bottle": "39.99",
+              "glass": "16.75",
               "favorites": false,
-              "notes": "Winery $130 96pts James Suckling & 94 Jeb Dunnuck"
+              "notes": "Winery $60 92pts Wine Spectator"
             },
             {
               "name": "Doau Reserve Cabernet",
-              "bottle": "26.99",
-              "glass": "11.75",
+              "bottle": "44.99",
+              "glass": "16.75",
               "wineryPrice": 85,
-              "notes": "92pts Wine Spectator",
+              "notes": "Winery $60 95pts James Suckling",
               "favorites": false
             },
             {
@@ -459,17 +459,17 @@
               "notes": "Winery $39"
             },
             {
-              "name": "Rombauer Sauvignon Blanc",
-              "bottle": "26.99",
-              "glass": "11.75",
+              "name": "Faila Sonoma Coast Pinot Noir",
+              "bottle": "29.99",
+              "glass": "12.75",
               "wineryPrice": 45,
               "notes": ""
             },
             {
-              "name": "Bezel By Cakebread",
+              "name": "Marietta Nadi Riesling",
               "bottle": "25.99",
               "glass": "11.75",
-              "notes": "",
+              "notes": "93pts Robert Parker",
               "favorites": false
             }
           ]
