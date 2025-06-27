@@ -86,11 +86,11 @@
               }
             },
             {
-              "name": "Ferrari Carano",
-              "description": "Sonoma | Merlot",
+              "name": "Educated Guess",
+              "description": "Napa | Merlot",
               "price": {
-                "glass": 9.75,
-                "bottle": 21.99,
+                "glass": 8.75,
+                "bottle": 20.99,
                 "sale": true
               }
             },
