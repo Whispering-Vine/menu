@@ -217,18 +217,18 @@
               "price": "15.75",
               "items": [
                 {
-                  "name": "Roederer",
-                  "location": "Anderson Valley",
-                  "variety": "Brut Rosé",
-                  "glassSize": "8oz",
-                  "price": "13.75"
-                },
-                {
                   "name": "Beau Joie Senecourt",
                   "location": "Champagne, France",
                   "variety": "Brut ",
                   "glassSize": "8oz",
                   "price": "14.75"
+                },
+                {
+                  "name": "Roederer",
+                  "location": "Anderson Valley",
+                  "variety": "Brut Rosé",
+                  "glassSize": "8oz",
+                  "price": "13.75"
                 },
                 {
                   "name": "G.H.Mumm",
@@ -424,8 +424,8 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Turley \"Juvenile\"",
-                  "location": "Russian River",
+                  "name": "Carol Shelton \"Monga\" ",
+                  "location": "Sonoma",
                   "variety": "Zinfandel",
                   "glassSize": "8oz",
                   "price": "11.75"
