@@ -193,7 +193,7 @@
                   "location": "Sonoma",
                   "variety": "Dry Riesling",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "7.75"
                 },
                 {
                   "name": "Cade",
@@ -205,7 +205,7 @@
                 {
                   "name": "Aperture ",
                   "location": "California",
-                  "variety": "Chenin Blanc",
+                  "variety": "Viognier",
                   "glassSize": "8oz",
                   "price": "16.75"
                 }
@@ -445,7 +445,7 @@
               "notes": "Winery $60 92pts Wine Spectator"
             },
             {
-              "name": "Daou Reserve Cabernet",
+              "name": "Doau Reserve Cabernet",
               "bottle": "44.99",
               "glass": "16.75",
               "wineryPrice": 85,
