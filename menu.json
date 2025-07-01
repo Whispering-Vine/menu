@@ -224,11 +224,11 @@
                   "price": "14.75"
                 },
                 {
-                  "name": "Roederer",
-                  "location": "Anderson Valley",
-                  "variety": "Brut Rosé",
+                  "name": "Schramsberg Blanc De Nior",
+                  "location": "Napa Valley",
+                  "variety": "Blanc De Noir",
                   "glassSize": "8oz",
-                  "price": "13.75"
+                  "price": "15.75"
                 },
                 {
                   "name": "G.H.Mumm",
@@ -297,7 +297,7 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "13.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
@@ -308,11 +308,11 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Beringer Knights Valley",
-                  "location": "Sonoma",
+                  "name": "Coquerel",
+                  "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Daou Reserve",
@@ -380,7 +380,7 @@
             },
             {
               "name": "Premium International Red Flight",
-              "price": "15.75",
+              "price": "16.75",
               "items": [
                 {
                   "name": "Barone Di Bernaj",
@@ -390,11 +390,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Martoccia ",
-                  "location": "Brunello, Italy",
-                  "variety": "Sangiovese",
+                  "name": "Banfi Cum Laude",
+                  "location": "Super Tuscan, Italy",
+                  "variety": "Cab, Merlot, Sangiovese",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "21.75"
                 },
                 {
                   "name": "Penfolds Bin 389",
@@ -407,7 +407,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "16.75",
+              "price": "15.75",
               "items": [
                 {
                   "name": "Plumpjack",
@@ -424,11 +424,11 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Carol Shelton \"Monga\" ",
-                  "location": "Sonoma",
-                  "variety": "Zinfandel",
+                  "name": "Klinker Brick ",
+                  "location": "Lodi",
+                  "variety": "Old Vine Zinfandel",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "8.75"
                 }
               ],
               "favorites": true
@@ -454,8 +454,8 @@
             },
             {
               "name": "Coquerel Cabernet",
-              "bottle": "31.99",
-              "glass": "13.75",
+              "bottle": "39.99",
+              "glass": "16.75",
               "notes": "Winery $65"
             },
             {
