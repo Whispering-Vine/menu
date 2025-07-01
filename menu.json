@@ -438,38 +438,38 @@
         "specials": {
           "items": [
             {
-              "name": "Duckhorn Merlot",
-              "bottle": "39.99",
-              "glass": "16.75",
+              "name": "Banfi Cum Laude ",
+              "bottle": "54.99",
+              "glass": "22.75",
               "favorites": false,
-              "notes": "Winery $60 92pts Wine Spectator"
+              "notes": "95 Wine Spectator"
             },
             {
-              "name": "Doau Reserve Cabernet",
+              "name": "Goldeneye Pinot Noir",
               "bottle": "44.99",
               "glass": "16.75",
               "wineryPrice": 85,
-              "notes": "Winery $60 95pts James Suckling",
+              "notes": "Winery $62  ",
               "favorites": false
             },
             {
-              "name": "Roederer Rosé",
+              "name": "Coquerel Cabernet",
               "bottle": "31.99",
               "glass": "13.75",
-              "notes": "Winery $39"
+              "notes": "Winery $65"
             },
             {
-              "name": "Faila Sonoma Coast Pinot Noir",
-              "bottle": "29.99",
-              "glass": "12.75",
+              "name": "Schramsberg Blanc De Noir",
+              "bottle": "36.99",
+              "glass": "15.75",
               "wineryPrice": 45,
-              "notes": ""
+              "notes": "Winery $46"
             },
             {
-              "name": "Marietta Nadi Riesling",
-              "bottle": "19.99",
+              "name": "Klinker Brick Old Vine Zinfandel",
+              "bottle": "17.99",
               "glass": "8.75",
-              "notes": "93pts Robert Parker",
+              "notes": "Winery $22",
               "favorites": false
             }
           ]
@@ -578,7 +578,7 @@
             {
               "name": "PATRÓN FLIGHT",
               "description": "Enjoy a one-ounce pour each of \nPatrón El Alto, El Cielo, and Silver",
-              "serving": "REGULARLY VALUED AT $50!",
+              "serving": "REGULARLY VALUED $50!",
               "price": "20"
             }
           ]
