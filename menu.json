@@ -186,7 +186,7 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "14.75",
+              "price": "12.75",
               "items": [
                 {
                   "name": "Marietta \"Nadi\"",
@@ -203,11 +203,11 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Aperture ",
-                  "location": "California",
-                  "variety": "Viognier",
+                  "name": "Moret Brealynn",
+                  "location": "Santa Lucia Highlands",
+                  "variety": "Dry Rosé",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "12.75"
                 }
               ],
               "favorites": true
