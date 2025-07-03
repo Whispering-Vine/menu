@@ -60,11 +60,11 @@
               }
             },
             {
-              "name": "Kim Crawford",
-              "description": "New Zealand | Rosé",
+              "name": "Ferrari Carano",
+              "description": "Sonoma| Rosé",
               "price": {
-                "glass": 5.75,
-                "bottle": 12.99
+                "glass": 6.75,
+                "bottle": 13.99
               }
             },
             {
@@ -186,7 +186,7 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "12.75",
+              "price": "14.75",
               "items": [
                 {
                   "name": "Marietta \"Nadi\"",
@@ -203,11 +203,11 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Moret Brealynn",
-                  "location": "Santa Lucia Highlands",
-                  "variety": "Dry Rosé",
+                  "name": "Aperture ",
+                  "location": "California",
+                  "variety": "Viognier",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "16.75"
                 }
               ],
               "favorites": true
@@ -224,11 +224,11 @@
                   "price": "14.75"
                 },
                 {
-                  "name": "Schramsberg Blanc De Nior",
-                  "location": "Napa Valley",
-                  "variety": "Blanc De Noir",
+                  "name": "Roederer",
+                  "location": "Anderson Valley",
+                  "variety": "Brut Rosé",
                   "glassSize": "8oz",
-                  "price": "15.75"
+                  "price": "13.75"
                 },
                 {
                   "name": "G.H.Mumm",
@@ -297,7 +297,7 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "15.75",
+              "price": "13.75",
               "favorites": true,
               "items": [
                 {
@@ -308,11 +308,11 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Coquerel",
-                  "location": "Napa",
+                  "name": "Beringer Knights Valley",
+                  "location": "Sonoma",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Daou Reserve",
@@ -380,7 +380,7 @@
             },
             {
               "name": "Premium International Red Flight",
-              "price": "16.75",
+              "price": "15.75",
               "items": [
                 {
                   "name": "Barone Di Bernaj",
@@ -390,11 +390,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Banfi Cum Laude",
-                  "location": "Super Tuscan, Italy",
-                  "variety": "Cab, Merlot, Sangiovese",
+                  "name": "Martoccia ",
+                  "location": "Brunello, Italy",
+                  "variety": "Sangiovese",
                   "glassSize": "8oz",
-                  "price": "21.75"
+                  "price": "19.75"
                 },
                 {
                   "name": "Penfolds Bin 389",
@@ -407,7 +407,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "15.75",
+              "price": "16.75",
               "items": [
                 {
                   "name": "Plumpjack",
@@ -424,11 +424,11 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Klinker Brick ",
-                  "location": "Lodi",
-                  "variety": "Old Vine Zinfandel",
+                  "name": "Carol Shelton \"Monga\" ",
+                  "location": "Sonoma",
+                  "variety": "Zinfandel",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "11.75"
                 }
               ],
               "favorites": true
@@ -438,38 +438,38 @@
         "specials": {
           "items": [
             {
-              "name": "Banfi Cum Laude ",
-              "bottle": "54.99",
-              "glass": "22.75",
+              "name": "Duckhorn Merlot",
+              "bottle": "39.99",
+              "glass": "16.75",
               "favorites": false,
-              "notes": "95 Wine Spectator"
+              "notes": "Winery $60 92pts Wine Spectator"
             },
             {
-              "name": "Goldeneye Pinot Noir",
+              "name": "Doau Reserve Cabernet",
               "bottle": "44.99",
               "glass": "16.75",
               "wineryPrice": 85,
-              "notes": "Winery $62  ",
+              "notes": "Winery $60 95pts James Suckling",
               "favorites": false
             },
             {
-              "name": "Coquerel Cabernet",
-              "bottle": "39.99",
-              "glass": "16.75",
-              "notes": "Winery $65"
+              "name": "Roederer Rosé",
+              "bottle": "31.99",
+              "glass": "13.75",
+              "notes": "Winery $39"
             },
             {
-              "name": "Schramsberg Blanc De Noir",
-              "bottle": "36.99",
-              "glass": "15.75",
+              "name": "Faila Sonoma Coast Pinot Noir",
+              "bottle": "29.99",
+              "glass": "12.75",
               "wineryPrice": 45,
-              "notes": "Winery $46"
+              "notes": ""
             },
             {
-              "name": "Klinker Brick Old Vine Zinfandel",
-              "bottle": "17.99",
+              "name": "Marietta Nadi Riesling",
+              "bottle": "19.99",
               "glass": "8.75",
-              "notes": "Winery $22",
+              "notes": "93pts Robert Parker",
               "favorites": false
             }
           ]
@@ -578,7 +578,7 @@
             {
               "name": "PATRÓN FLIGHT",
               "description": "Enjoy a one-ounce pour each of \nPatrón El Alto, El Cielo, and Silver",
-              "serving": "REGULARLY VALUED $50!",
+              "serving": "REGULARLY VALUED AT $50!",
               "price": "20"
             }
           ]
