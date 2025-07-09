@@ -213,8 +213,8 @@
               "favorites": true
             },
             {
-              "name": "Bubbles Flight",
-              "price": "15.75",
+              "name": "Champagne Flight",
+              "price": "16.75",
               "items": [
                 {
                   "name": "Beau Joie Senecourt",
@@ -224,11 +224,11 @@
                   "price": "14.75"
                 },
                 {
-                  "name": "Schramsberg Blanc De Nior",
-                  "location": "Napa Valley",
-                  "variety": "Blanc De Noir",
+                  "name": "Perrier Jouet",
+                  "location": "Champagne, France",
+                  "variety": "Brut",
                   "glassSize": "8oz",
-                  "price": "15.75"
+                  "price": "18.75"
                 },
                 {
                   "name": "G.H.Mumm",
@@ -270,7 +270,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "17.75",
+              "price": "19.75",
               "items": [
                 {
                   "name": "Faila",
@@ -280,18 +280,18 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Hyland \"Coury\"",
+                  "name": "Purple Hands \"Lone Oak\"",
                   "location": "Willamette",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "24.75"
+                  "price": "12.75"
                 },
                 {
-                  "name": "Miner \"Gary's Vineyard\"",
-                  "location": "Santa Lucia Highlands",
+                  "name": "Kosta Browne",
+                  "location": "Russian River",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "20.75"
+                  "price": "36.75"
                 }
               ]
             },
@@ -315,17 +315,17 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Daou Reserve",
-                  "location": "Paso Robles",
+                  "name": "Duckhorn",
+                  "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "18.75"
+                  "price": "20.75"
                 }
               ]
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "25.75",
+              "price": "23.75",
               "items": [
                 {
                   "name": "Bella Union By Far Niente",
@@ -342,17 +342,17 @@
                   "price": "24.75"
                 },
                 {
-                  "name": "Nickel & Nickel \"State Ranch\"",
+                  "name": "Palermo",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "29.75"
+                  "price": "26.75"
                 }
               ]
             },
             {
               "name": "Paso Robles Red Blend Flight",
-              "price": "15.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
@@ -363,11 +363,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Daou \"Pessimist\"",
-                  "location": "Paso Robles",
-                  "variety": "Petite Syrah, Zin, Syrah",
+                  "name": "Prisoner",
+                  "location": "Napa",
+                  "variety": "Zinfandel, Cab, Petite Syrah",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Justin \"Isosceles\" ",
@@ -438,38 +438,38 @@
         "specials": {
           "items": [
             {
-              "name": "Banfi Cum Laude ",
-              "bottle": "54.99",
-              "glass": "22.75",
+              "name": "Kosta Browne Russian River",
+              "bottle": "89.99",
+              "glass": "36.75",
               "favorites": false,
-              "notes": "95 Wine Spectator"
+              "notes": "Winery $100"
             },
             {
-              "name": "Goldeneye Pinot Noir",
-              "bottle": "44.99",
-              "glass": "16.75",
+              "name": "Duckhorn Cabernet",
+              "bottle": "52.99",
+              "glass": "20.75",
               "wineryPrice": 85,
-              "notes": "Winery $62  ",
+              "notes": "Winery $80",
               "favorites": false
             },
             {
-              "name": "Coquerel Cabernet",
-              "bottle": "39.99",
-              "glass": "16.75",
+              "name": "Perrier Jouet Champagne",
+              "bottle": "44.99",
+              "glass": "18.75",
               "notes": "Winery $65"
             },
             {
-              "name": "Schramsberg Blanc De Noir",
-              "bottle": "36.99",
-              "glass": "15.75",
+              "name": "Prisoner Red Blend",
+              "bottle": "39.99",
+              "glass": "16.75",
               "wineryPrice": 45,
-              "notes": "Winery $46"
+              "notes": "Winery $50"
             },
             {
-              "name": "Klinker Brick Old Vine Zinfandel",
-              "bottle": "17.99",
-              "glass": "8.75",
-              "notes": "Winery $22",
+              "name": "Purple Hands Lone Oak Pinot Noir",
+              "bottle": "29.99",
+              "glass": "12.75",
+              "notes": "94pts Wine Enthusiast 93pts Wine Spectator",
               "favorites": false
             }
           ]
