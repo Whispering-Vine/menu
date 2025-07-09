@@ -43,11 +43,11 @@
               }
             },
             {
-              "name": "Chalk Hill",
-              "description": "Sonoma | Chardonnay",
+              "name": "Harken",
+              "description": "California | Chardonnay",
               "price": {
-                "glass": 7.75,
-                "bottle": 14.99,
+                "glass": 5.75,
+                "bottle": 11.99,
                 "sale": true
               }
             },
