@@ -8,10 +8,10 @@
           "items": [
             {
               "name": "G.H. Mumm",
-              "description": "Champagne, France | Brut",
+              "description": "Champagne, France | Brut Rosé",
               "price": {
-                "glass": 14.75,
-                "bottle": 34.99,
+                "glass": 16.75,
+                "bottle": 39.99,
                 "sale": true
               }
             },
