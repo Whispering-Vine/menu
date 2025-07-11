@@ -186,7 +186,7 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "12.75",
+              "price": "10.75",
               "items": [
                 {
                   "name": "Marietta \"Nadi\"",
@@ -196,11 +196,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Cade",
-                  "location": "Napa",
-                  "variety": "Sauvignon Blanc",
+                  "name": "Antinori Tenuta Guado",
+                  "location": "Italy",
+                  "variety": "Vermentino",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Moret Brealynn",
@@ -233,9 +233,9 @@
                 {
                   "name": "G.H.Mumm",
                   "location": "Champagne, France",
-                  "variety": "Brut Rosé",
+                  "variety": "Brut ",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "15.75"
                 }
               ],
               "favorites": false
