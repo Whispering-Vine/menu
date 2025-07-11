@@ -120,11 +120,11 @@
               }
             },
             {
-              "name": "Felsina ",
-              "description": "Italy | Chianti",
+              "name": "Felsina Bernardenga",
+              "description": "Italy | Chianti Riserva",
               "price": {
-                "glass": 8.75,
-                "bottle": 19.99
+                "glass": 14.75,
+                "bottle": 34.99
               }
             },
             {
@@ -407,7 +407,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "15.75",
+              "price": "16.75",
               "items": [
                 {
                   "name": "Plumpjack",
@@ -424,11 +424,11 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Klinker Brick ",
-                  "location": "Lodi",
+                  "name": "Turley \"Old Vine\"",
+                  "location": "Cali",
                   "variety": "Old Vine Zinfandel",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "12.75"
                 }
               ],
               "favorites": true
