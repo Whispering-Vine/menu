@@ -121,19 +121,19 @@
               }
             },
             {
-              "name": "Felsina Bernardenga",
+              "name": "Felsina ",
               "description": "Italy | Chianti",
               "price": {
-                "glass": 14.75,
-                "bottle": 34.99
+                "glass": 8.75,
+                "bottle": 19.99
               }
             },
             {
-              "name": "Klinker Brick ",
-              "description": "Lodi | Old Vine Zinfandel ",
+              "name": "Ridge Three Valley",
+              "description": "Sonoma | Zinfandel Blend ",
               "price": {
-                "glass": 8.75,
-                "bottle": 17.99,
+                "glass": 14.75,
+                "bottle": 32.99,
                 "sale": true
               }
             },
