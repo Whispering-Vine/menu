@@ -69,21 +69,21 @@
               }
             },
             {
-              "name": "Goldeneye",
-              "description": "Anderson Valley  | Pinot Noir",
-              "price": {
-                "glass": 16.75,
-                "bottle": 49.99,
-                "sale": true
-              }
-            },
-            {
               "name": "Whispering Vine",
               "description": "Oregon | Pinot Noir",
               "price": {
                 "glass": 8.75,
                 "bottle": 19.99,
                 "sale": false
+              }
+            },
+            {
+              "name": "Goldeneye",
+              "description": "Anderson Valley  | Pinot Noir",
+              "price": {
+                "glass": 16.75,
+                "bottle": 49.99,
+                "sale": true
               }
             },
             {
@@ -96,20 +96,20 @@
               }
             },
             {
+              "name": "RouteStock",
+              "description": "Napa | Cabernet",
+              "price": {
+                "glass": 10.75,
+                "bottle": 24.99
+              }
+            },
+            {
               "name": "Arrowood",
               "description": "Knights Valley | Cabernet",
               "price": {
                 "glass": 16.75,
                 "bottle": 39.99,
                 "sale": true
-              }
-            },
-            {
-              "name": "RouteStock",
-              "description": "Napa | Cabernet",
-              "price": {
-                "glass": 10.75,
-                "bottle": 24.99
               }
             },
             {
