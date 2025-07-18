@@ -129,11 +129,11 @@
               }
             },
             {
-              "name": "Klinker Brick ",
-              "description": "Lodi | Old Vine Zinfandel",
+              "name": "Ridge Three Valley",
+              "description": "Sonoma | Zinfandel Blend ",
               "price": {
-                "glass": 8.75,
-                "bottle": 17.99,
+                "glass": 14.75,
+                "bottle": 32.99,
                 "sale": true
               }
             },
@@ -187,7 +187,7 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "12.75",
+              "price": "11.75",
               "items": [
                 {
                   "name": "Marietta \"Nadi\"",
@@ -204,11 +204,11 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Moret Brealynn",
-                  "location": "Santa Lucia Highlands",
-                  "variety": "Dry Rosé",
+                  "name": "Serial White Blend",
+                  "location": "Paso Robles",
+                  "variety": "Chardonnay, Viognier, Albarino",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "8.75"
                 }
               ],
               "favorites": true
@@ -243,15 +243,15 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "15.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Saxon Brown",
-                  "location": "Carneros, Napa",
+                  "name": "Groth",
+                  "location": "Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "18.75"
                 },
                 {
                   "name": "Chateau St.Jean",
@@ -271,14 +271,14 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "19.75",
+              "price": "14.75",
               "items": [
                 {
-                  "name": "Faila",
-                  "location": "Sonoma Coast",
+                  "name": "Chalk Hill",
+                  "location": "Sonoma ",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "9.75"
                 },
                 {
                   "name": "Purple Hands \"Lone Oak\"",
@@ -288,11 +288,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Kosta Browne",
-                  "location": "Russian River",
+                  "name": "Domaine Serene \"Yamhill\"",
+                  "location": "Willamette",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "36.75"
+                  "price": "19.75"
                 }
               ]
             },
@@ -353,7 +353,7 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "16.75",
+              "price": "17.75",
               "favorites": true,
               "items": [
                 {
@@ -364,11 +364,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Prisoner",
-                  "location": "Napa",
-                  "variety": "Zinfandel, Cab, Petite Syrah",
+                  "name": "Aperture ",
+                  "location": "Sonoma",
+                  "variety": "Merlot, Cab Franc, Cabernet",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "17.75"
                 },
                 {
                   "name": "Justin \"Isosceles\" ",
@@ -381,7 +381,7 @@
             },
             {
               "name": "Premium International Red Flight",
-              "price": "16.75",
+              "price": "14.75",
               "items": [
                 {
                   "name": "Barone Di Bernaj",
@@ -391,11 +391,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Banfi Cum Laude",
+                  "name": "Tolaini Valdisanti",
                   "location": "Super Tuscan, Italy",
-                  "variety": "Cab, Merlot, Sangiovese",
+                  "variety": "Cabernet, Cabernet Franc",
                   "glassSize": "8oz",
-                  "price": "21.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Penfolds Bin 389",
@@ -408,12 +408,19 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "15.75",
+              "price": "14.75",
               "items": [
+                {
+                  "name": "Revolution",
+                  "location": "Argentina",
+                  "variety": "Malbec",
+                  "glassSize": "8oz",
+                  "price": "6.75"
+                },
                 {
                   "name": "Plumpjack",
                   "location": "Napa",
-                  "variety": "Merlot",
+                  "variety": "Syrah",
                   "glassSize": "8oz",
                   "price": "24.75"
                 },
@@ -423,13 +430,6 @@
                   "variety": "Syrah",
                   "glassSize": "8oz",
                   "price": "10.75"
-                },
-                {
-                  "name": "Klinker Brick ",
-                  "location": "Lodi",
-                  "variety": "Old Vine Zinfandel",
-                  "glassSize": "8oz",
-                  "price": "8.75"
                 }
               ],
               "favorites": true
@@ -439,38 +439,38 @@
         "specials": {
           "items": [
             {
-              "name": "Kosta Browne Russian River",
-              "bottle": "89.99",
-              "glass": "36.75",
+              "name": "Domaine Serene \"Yamhill\" Pinot Noir",
+              "bottle": "49.99",
+              "glass": "19.75",
               "favorites": false,
-              "notes": "Winery $100"
+              "notes": "Winery $65 92pts Wine Spectator"
             },
             {
-              "name": "Duckhorn Cabernet",
-              "bottle": "52.99",
-              "glass": "20.75",
+              "name": "Aperture Red Blend",
+              "bottle": "44.99",
+              "glass": "19.75",
               "wineryPrice": 85,
-              "notes": "Winery $80",
+              "notes": "Winery $60 95pts Robert Parker",
               "favorites": false
             },
             {
-              "name": "Perrier Jouet Champagne",
+              "name": "Groth Chardonnay",
               "bottle": "44.99",
               "glass": "18.75",
               "notes": "Winery $65"
             },
             {
-              "name": "Prisoner Red Blend",
+              "name": "Tolaini Valdisanti",
               "bottle": "39.99",
               "glass": "16.75",
               "wineryPrice": 45,
-              "notes": "Winery $50"
+              "notes": "Winery $45 94pts Wine Spectator"
             },
             {
-              "name": "Purple Hands Lone Oak Pinot Noir",
-              "bottle": "29.99",
-              "glass": "12.75",
-              "notes": "94pts Wine Enthusiast 93pts Wine Spectator",
+              "name": "Klinker Brick Old Vine Zin",
+              "bottle": "17.99",
+              "glass": "8.75",
+              "notes": "Winery $22",
               "favorites": false
             }
           ]
