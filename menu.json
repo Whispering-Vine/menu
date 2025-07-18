@@ -8,10 +8,10 @@
           "items": [
             {
               "name": "G.H. Mumm",
-              "description": "Champagne, France | Brut Rosé",
+              "description": "Champagne, France | Brut",
               "price": {
-                "glass": 16.75,
-                "bottle": 39.99,
+                "glass": 14.75,
+                "bottle": 34.99,
                 "sale": true
               }
             },
@@ -60,11 +60,12 @@
               }
             },
             {
-              "name": "Kim Crawford",
-              "description": "New Zealand | Rosé",
+              "name": "Cotes du Rosés",
+              "description": "France | Rosé",
               "price": {
                 "glass": 5.75,
-                "bottle": 12.99
+                "bottle": 11.99,
+                "sale": true
               }
             },
             {
@@ -120,11 +121,11 @@
               }
             },
             {
-              "name": "Felsina Bernardenga",
-              "description": "Italy | Chianti Riserva",
+              "name": "Felsina ",
+              "description": "Italy | Chianti",
               "price": {
-                "glass": 14.75,
-                "bottle": 34.99
+                "glass": 8.75,
+                "bottle": 19.99
               }
             },
             {
@@ -186,7 +187,7 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "10.75",
+              "price": "12.75",
               "items": [
                 {
                   "name": "Marietta \"Nadi\"",
@@ -196,11 +197,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Antinori Tenuta Guado",
-                  "location": "Italy",
-                  "variety": "Vermentino",
+                  "name": "Cade",
+                  "location": "Napa",
+                  "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Moret Brealynn",
@@ -233,9 +234,9 @@
                 {
                   "name": "G.H.Mumm",
                   "location": "Champagne, France",
-                  "variety": "Brut ",
+                  "variety": "Brut Rosé",
                   "glassSize": "8oz",
-                  "price": "15.75"
+                  "price": "16.75"
                 }
               ],
               "favorites": false
@@ -246,11 +247,11 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Walt",
-                  "location": "Napa",
+                  "name": "Saxon Brown",
+                  "location": "Carneros, Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "14.75"
                 },
                 {
                   "name": "Chateau St.Jean",
@@ -407,7 +408,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "16.75",
+              "price": "15.75",
               "items": [
                 {
                   "name": "Plumpjack",
@@ -424,11 +425,11 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Turley \"Old Vine\"",
-                  "location": "Cali",
+                  "name": "Klinker Brick ",
+                  "location": "Lodi",
                   "variety": "Old Vine Zinfandel",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "8.75"
                 }
               ],
               "favorites": true
