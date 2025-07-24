@@ -133,7 +133,7 @@
               "description": "Lodi | Old Vine Zinfandel",
               "price": {
                 "glass": 8.75,
-                "bottle": 17.99,
+                "bottle": 14.99,
                 "sale": true
               }
             },
@@ -254,11 +254,11 @@
                   "price": "18.75"
                 },
                 {
-                  "name": "Chateau St.Jean",
-                  "location": "Carneros, Sonoma",
+                  "name": "Hartford Court",
+                  "location": "Russian River",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Far Niente",
@@ -271,7 +271,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "14.75",
+              "price": "15.75",
               "items": [
                 {
                   "name": "Chalk Hill",
@@ -281,18 +281,18 @@
                   "price": "9.75"
                 },
                 {
-                  "name": "Purple Hands \"Lone Oak\"",
-                  "location": "Willamette",
-                  "variety": "Pinot Noir",
-                  "glassSize": "8oz",
-                  "price": "12.75"
-                },
-                {
                   "name": "Domaine Serene \"Yamhill\"",
                   "location": "Willamette",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
                   "price": "19.75"
+                },
+                {
+                  "name": "WALT \"Las Brisa\"",
+                  "location": "Anderson Valley",
+                  "variety": "Pinot Noir",
+                  "glassSize": "8oz",
+                  "price": "16.75"
                 }
               ]
             },
@@ -336,7 +336,7 @@
                   "price": "21.75"
                 },
                 {
-                  "name": "Adaptation By Plumpjack",
+                  "name": "CRU by Vineyard 29",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
@@ -364,11 +364,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Aperture ",
-                  "location": "Sonoma",
-                  "variety": "Merlot, Cab Franc, Cabernet",
+                  "name": "Hourglass HG III",
+                  "location": "Napa",
+                  "variety": "Cabernet, Merlot, Cab Franc ",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Justin \"Isosceles\" ",
@@ -439,38 +439,38 @@
         "specials": {
           "items": [
             {
-              "name": "Domaine Serene \"Yamhill\" Pinot Noir",
-              "bottle": "49.99",
-              "glass": "19.75",
+              "name": "Roederer L' Ermitage",
+              "bottle": "79.99",
+              "glass": "",
               "favorites": false,
-              "notes": "Winery $65 92pts Wine Spectator"
+              "notes": "100pts Wine Enthusiast "
             },
             {
-              "name": "Aperture Red Blend",
-              "bottle": "44.99",
-              "glass": "17.75",
+              "name": "Vineyard 29 CRU Cabernet ",
+              "bottle": "59.99",
+              "glass": "24.75",
               "wineryPrice": 85,
-              "notes": "Winery $60 95pts Robert Parker",
+              "notes": "Winery $95",
               "favorites": false
             },
             {
-              "name": "Groth Chardonnay",
-              "bottle": "44.99",
-              "glass": "18.75",
-              "notes": "Winery $65"
+              "name": "Hourglass HG III",
+              "bottle": "39.99",
+              "glass": "16.75",
+              "notes": "Winery $50"
             },
             {
-              "name": "Tolaini Valdisanti",
+              "name": "Walt Las Brisa Pinot Noir",
               "bottle": "39.99",
               "glass": "16.75",
               "wineryPrice": 45,
-              "notes": "Winery $45 94pts Wine Spectator"
+              "notes": "Winery $50 93pts Wine Enthusiast"
             },
             {
-              "name": "Klinker Brick Old Vine Zin",
-              "bottle": "17.99",
-              "glass": "8.75",
-              "notes": "Winery $22",
+              "name": "Hartford Court Russian River Chardonnay",
+              "bottle": "24.99",
+              "glass": "10.75",
+              "notes": "",
               "favorites": false
             }
           ]
