@@ -187,7 +187,7 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "11.75",
+              "price": "12.75",
               "items": [
                 {
                   "name": "Marietta \"Nadi\"",
@@ -204,9 +204,9 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Antinori Tenuta Guado",
-                  "location": "Italy",
-                  "variety": "Vermentino",
+                  "name": "Morgadio",
+                  "location": "Spain",
+                  "variety": "Albarino",
                   "glassSize": "8oz",
                   "price": "10.75"
                 }
@@ -243,15 +243,15 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Groth",
+                  "name": "Trefethen",
                   "location": "Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "18.75"
+                  "price": "11.75"
                 },
                 {
                   "name": "Hartford Court",
@@ -391,11 +391,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Tolaini Valdisanti",
-                  "location": "Super Tuscan, Italy",
-                  "variety": "Cabernet, Cabernet Franc",
+                  "name": "Fradiles \"Bagadiu\"",
+                  "location": "Sardinia, Italy",
+                  "variety": "Bovale",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "14.75"
                 },
                 {
                   "name": "Penfolds Bin 389",
