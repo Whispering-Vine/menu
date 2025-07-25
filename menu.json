@@ -96,16 +96,16 @@
               }
             },
             {
-              "name": "RouteStock",
-              "description": "Napa | Cabernet",
+              "name": "Whispering Vine",
+              "description": "Washington | Cabernet",
               "price": {
-                "glass": 10.75,
-                "bottle": 24.99
+                "glass": 8.75,
+                "bottle": 19.99
               }
             },
             {
-              "name": "Arrowood",
-              "description": "Knights Valley | Cabernet",
+              "name": "Force & Grace",
+              "description": "Napa | Cabernet",
               "price": {
                 "glass": 16.75,
                 "bottle": 39.99,
@@ -121,7 +121,7 @@
               }
             },
             {
-              "name": "Felsina Berardenga",
+              "name": "Felsina Rancia",
               "description": "Italy | Chianti",
               "price": {
                 "glass": 14.75,
