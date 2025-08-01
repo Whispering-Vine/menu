@@ -43,11 +43,11 @@
               }
             },
             {
-              "name": "Harken",
-              "description": "California | Chardonnay",
+              "name": "Whispering Vine",
+              "description": "Oregon | Chardonnay",
               "price": {
-                "glass": 5.75,
-                "bottle": 11.99,
+                "glass": 8.75,
+                "bottle": 19.99,
                 "sale": true
               }
             },
@@ -138,11 +138,11 @@
               }
             },
             {
-              "name": "Chateau De Crouseilles",
-              "description": "France | Bordeaux Blend",
+              "name": "Bramare",
+              "description": "Argentina | Malbec",
               "price": {
-                "glass": 14.75,
-                "bottle": 34.99,
+                "glass": 16.75,
+                "bottle": 39.99,
                 "sale": false
               }
             },
@@ -289,7 +289,7 @@
                 },
                 {
                   "name": "WALT \"Las Brisa\"",
-                  "location": "Sonoma Coast",
+                  "location": "Anderson Valley",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
                   "price": "16.75"
