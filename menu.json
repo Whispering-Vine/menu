@@ -271,7 +271,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "14.75",
+              "price": "13.75",
               "items": [
                 {
                   "name": "Chalk Hill",
@@ -288,11 +288,11 @@
                   "price": "14.75"
                 },
                 {
-                  "name": "WALT \"Las Brisa\"",
+                  "name": "WALT \"Blue Jay\"",
                   "location": "Anderson Valley",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "14.75"
                 }
               ]
             },
@@ -326,7 +326,7 @@
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "23.75",
+              "price": "21.75",
               "items": [
                 {
                   "name": "Bella Union By Far Niente",
@@ -336,11 +336,11 @@
                   "price": "21.75"
                 },
                 {
-                  "name": "Sullivan",
+                  "name": "Faust",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "24.75"
+                  "price": "17.75"
                 },
                 {
                   "name": "Palermo",
@@ -384,11 +384,11 @@
               "price": "15.75",
               "items": [
                 {
-                  "name": "Frescobaldi Perano",
+                  "name": "Tenuta di Arceno",
                   "location": "Chianti, Italy",
                   "variety": "Sangiovese",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Fradiles \"Bagadiu\"",
@@ -439,37 +439,37 @@
         "specials": {
           "items": [
             {
-              "name": "Sullivan Cabernet",
-              "bottle": "64.99",
-              "glass": "25.75",
+              "name": "Kosta Browne Willamette Valley",
+              "bottle": "89.99",
+              "glass": "29.75",
               "favorites": false,
-              "notes": "1/2 Off Winery $130 94pts Wine Spectator"
+              "notes": "Compared to $129.99 96pts James Suckling"
             },
             {
-              "name": "Plumpjack Chardonnay",
-              "bottle": "49.99",
-              "glass": "19.75",
+              "name": "Faust Cabernet ",
+              "bottle": "44.99",
+              "glass": "17.75",
               "wineryPrice": 85,
-              "notes": "Winery $62",
+              "notes": "Winery $65",
               "favorites": false
             },
             {
-              "name": "Hartford Court Russian River Pinot Noir",
+              "name": "Meyer Nakel Rosé",
               "bottle": "34.99",
               "glass": "14.75",
-              "notes": "93pts Jeb Dunnuck"
-            },
-            {
-              "name": "Domaine Roblin Sancerre",
-              "bottle": "34.99",
-              "glass": "14.75",
-              "wineryPrice": 45,
               "notes": ""
             },
             {
-              "name": "Frescobaldi Perano Chianti",
-              "bottle": "22.99",
-              "glass": "10.75",
+              "name": "WALT \"Blue Jay\" Pinot Noir",
+              "bottle": "34.99",
+              "glass": "14.75",
+              "wineryPrice": 45,
+              "notes": "Winery $50 93pts Wine Enthusiast"
+            },
+            {
+              "name": "Tenuta di Arceno",
+              "bottle": "29.99",
+              "glass": "12.75",
               "notes": "93pts Wine Spectator",
               "favorites": false
             }
