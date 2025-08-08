@@ -197,18 +197,18 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Domaine Roblin",
-                  "location": "Sancerre, France",
-                  "variety": "Sauvignon Blanc",
-                  "glassSize": "8oz",
-                  "price": "15.75"
-                },
-                {
                   "name": "Morgadio",
                   "location": "Spain",
                   "variety": "Albarino",
                   "glassSize": "8oz",
                   "price": "10.75"
+                },
+                {
+                  "name": "Meyer Nakel",
+                  "location": "Germany",
+                  "variety": "Rosé",
+                  "glassSize": "8oz",
+                  "price": "14.75"
                 }
               ],
               "favorites": true
@@ -242,8 +242,8 @@
               "favorites": false
             },
             {
-              "name": "Napa Chardonnay Flight",
-              "price": "17.75",
+              "name": "Chardonnay Flight",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
@@ -254,11 +254,11 @@
                   "price": "11.75"
                 },
                 {
-                  "name": "Plumpjack",
-                  "location": "Napa",
+                  "name": "Flowers",
+                  "location": "Sonoma Coast",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "20.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Far Niente",
@@ -271,7 +271,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "13.75",
+              "price": "17.75",
               "items": [
                 {
                   "name": "Chalk Hill",
@@ -281,11 +281,11 @@
                   "price": "9.75"
                 },
                 {
-                  "name": "Hartford Court",
-                  "location": "Russian River",
+                  "name": "Kosta Browne",
+                  "location": "Willamette Valley",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "29.75"
                 },
                 {
                   "name": "WALT \"Blue Jay\"",
