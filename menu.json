@@ -298,7 +298,7 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "15.75",
+              "price": "14.75",
               "favorites": true,
               "items": [
                 {
@@ -309,11 +309,11 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Coquerel",
+                  "name": "The Mill Keeper",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Duckhorn",
