@@ -60,7 +60,7 @@
               }
             },
             {
-              "name": "Cotes des Rosés",
+              "name": "Cotes du Rosés",
               "description": "France | Rosé",
               "price": {
                 "glass": 5.75,
@@ -183,7 +183,7 @@
       "categories": {
         "flights": {
           "title": "Flights & Glasses",
-          "caption": "Choose a flight of three 3 ounce glasses or one 8 ounce glass",
+          "caption": "Choose from our range of flights",
           "items": [
             {
               "name": "White Variety Flight",
@@ -197,14 +197,14 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Morgadio",
-                  "location": "Spain",
-                  "variety": "Albarino",
+                  "name": "Rombauer",
+                  "location": "Napa",
+                  "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "11.75"
                 },
                 {
-                  "name": "Meyer Näkel",
+                  "name": "Meyer Nakel",
                   "location": "Germany",
                   "variety": "Rosé",
                   "glassSize": "8oz",
@@ -439,38 +439,38 @@
         "specials": {
           "items": [
             {
-              "name": "Kosta Browne Willamette Valley",
-              "bottle": "89.99",
-              "glass": "29.75",
+              "name": "Pahlmeyer Melot",
+              "bottle": "99.99",
+              "glass": "39.75",
               "favorites": false,
-              "notes": "Compared to $129.99 96pts James Suckling"
+              "notes": "98pts James Suckling Top 100 #1"
             },
             {
-              "name": "Faust Cabernet ",
+              "name": "Far Niente Chardonnay",
               "bottle": "44.99",
-              "glass": "17.75",
+              "glass": "20.75",
               "wineryPrice": 85,
-              "notes": "Winery $65",
+              "notes": "Winery $76  97pts Tasting Panel",
               "favorites": false
             },
             {
-              "name": "Meyer Nakel Rosé",
-              "bottle": "34.99",
-              "glass": "14.75",
-              "notes": ""
+              "name": "Flowers Pinot Noir",
+              "bottle": "44.99",
+              "glass": "18.75",
+              "notes": "Winery $60 94pts Jed Dunnuck"
             },
             {
-              "name": "WALT \"Blue Jay\" Pinot Noir",
-              "bottle": "34.99",
-              "glass": "14.75",
+              "name": "Calera Pinot Noir",
+              "bottle": "26.99",
+              "glass": "11.75",
               "wineryPrice": 45,
-              "notes": "Winery $50 93pts Wine Enthusiast"
+              "notes": "Winery $32  93pts Wine Enthusiast"
             },
             {
-              "name": "Tenuta di Arceno",
-              "bottle": "29.99",
-              "glass": "12.75",
-              "notes": "93pts Wine Spectator",
+              "name": "Rombauer Sauvignon Blanc",
+              "bottle": "25.99",
+              "glass": "11.75",
+              "notes": "",
               "favorites": false
             }
           ]
@@ -817,7 +817,7 @@
             },
             {
               "name": "GRILLED CHEESE & TOMATO SOUP",
-              "description": "Irish Cheddar, Dutch Gouda, Rustic Ciabatta",
+              "description": "Irish Cheddar, Dutch Gouda, Rustic Baguette",
               "gluten_free": false,
               "new": false,
               "warning": false,
@@ -984,7 +984,7 @@
               "price": "27"
             },
             {
-              "name": "3 BRAISED BISON SHORT RIB SLIDERS",
+              "name": "2 BRAISED BISON SHORT RIB SLIDERS",
               "description": "Pretzel Buns with Gorgonzola & Slaw",
               "gluten_free": false,
               "new": false,
