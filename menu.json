@@ -326,7 +326,7 @@
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "21.75",
+              "price": "25.75",
               "items": [
                 {
                   "name": "Bella Union By Far Niente",
@@ -343,11 +343,11 @@
                   "price": "17.75"
                 },
                 {
-                  "name": "Palermo",
+                  "name": "Pahlmeyer",
                   "location": "Napa",
-                  "variety": "Cabernet",
+                  "variety": "Merlot",
                   "glassSize": "8oz",
-                  "price": "26.75"
+                  "price": "39.75"
                 }
               ]
             },
