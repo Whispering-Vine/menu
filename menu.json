@@ -271,7 +271,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "17.75",
+              "price": "14.75",
               "items": [
                 {
                   "name": "Chalk Hill",
@@ -281,18 +281,18 @@
                   "price": "9.75"
                 },
                 {
-                  "name": "Kosta Browne",
-                  "location": "Willamette Valley",
+                  "name": "Calera",
+                  "location": "Central Coast",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "29.75"
+                  "price": "11.75"
                 },
                 {
-                  "name": "WALT \"Blue Jay\"",
-                  "location": "Anderson Valley",
+                  "name": "Domaine Serene \"Yamhill\"",
+                  "location": "Willamette",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "19.75"
                 }
               ]
             },
@@ -325,7 +325,7 @@
               ]
             },
             {
-              "name": "Premium Napa Cabernet Flight",
+              "name": "Premium Napa Flight",
               "price": "25.75",
               "items": [
                 {
