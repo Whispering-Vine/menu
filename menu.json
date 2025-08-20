@@ -243,15 +243,15 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "16.75",
+              "price": "17.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Trefethen",
-                  "location": "Napa",
+                  "name": "Llyod",
+                  "location": "Carneros",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "15.75"
                 },
                 {
                   "name": "Flowers",
@@ -271,7 +271,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "14.75",
+              "price": "13.75",
               "items": [
                 {
                   "name": "Chalk Hill",
@@ -288,11 +288,11 @@
                   "price": "11.75"
                 },
                 {
-                  "name": "Domaine Serene \"Yamhill\"",
+                  "name": "Cristom Mt. Jefferson",
                   "location": "Willamette",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "16.75"
                 }
               ]
             },
@@ -325,8 +325,8 @@
               ]
             },
             {
-              "name": "Premium Napa Flight",
-              "price": "25.75",
+              "name": "Premium Napa Cabernet Flight",
+              "price": "29.75",
               "items": [
                 {
                   "name": "Bella Union By Far Niente",
@@ -343,11 +343,11 @@
                   "price": "17.75"
                 },
                 {
-                  "name": "Pahlmeyer",
+                  "name": "Salvestrin Dr. Crane",
                   "location": "Napa",
-                  "variety": "Merlot",
+                  "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "39.75"
+                  "price": "46.75"
                 }
               ]
             },
