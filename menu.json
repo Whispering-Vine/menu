@@ -439,38 +439,38 @@
         "specials": {
           "items": [
             {
-              "name": "Pahlmeyer Melot",
-              "bottle": "99.99",
-              "glass": "39.75",
+              "name": "Salvestrin Dr. Crane",
+              "bottle": "114.99",
+              "glass": "46.75",
               "favorites": false,
-              "notes": "98pts James Suckling Top 100 #1"
+              "notes": "96pts Wine Spectator 95pts James Suckling"
             },
             {
-              "name": "Far Niente Chardonnay",
-              "bottle": "44.99",
-              "glass": "20.75",
+              "name": "Cristom Mt. Jefferson",
+              "bottle": "39.99",
+              "glass": "16.75",
               "wineryPrice": 85,
-              "notes": "Winery $76  97pts Tasting Panel",
+              "notes": "95pts Wine Spectator 95pts James Suckling",
               "favorites": false
             },
             {
-              "name": "Flowers Pinot Noir",
-              "bottle": "44.99",
-              "glass": "18.75",
-              "notes": "Winery $60 94pts Jed Dunnuck"
+              "name": "Obsidian Cabernet",
+              "bottle": "39.99",
+              "glass": "16.75",
+              "notes": "94pts Wine Enthusiast"
             },
             {
-              "name": "Calera Pinot Noir",
-              "bottle": "26.99",
-              "glass": "11.75",
+              "name": "Gamba Family Zinfandel",
+              "bottle": "39.99",
+              "glass": "16.75",
               "wineryPrice": 45,
-              "notes": "Winery $32  93pts Wine Enthusiast"
+              "notes": "Winery $55"
             },
             {
-              "name": "Rombauer Sauvignon Blanc",
-              "bottle": "25.99",
-              "glass": "11.75",
-              "notes": "",
+              "name": "Llyod Chardonnay ",
+              "bottle": "36.99",
+              "glass": "15.75",
+              "notes": "Winery $42",
               "favorites": false
             }
           ]
