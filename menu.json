@@ -408,14 +408,14 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "14.75",
+              "price": "16.75",
               "items": [
                 {
-                  "name": "Revolution",
-                  "location": "Argentina",
-                  "variety": "Malbec",
+                  "name": "Barboursville",
+                  "location": "Virginia",
+                  "variety": "Reserve Cabernet Franc",
                   "glassSize": "8oz",
-                  "price": "6.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Plumpjack",
@@ -425,11 +425,11 @@
                   "price": "24.75"
                 },
                 {
-                  "name": "Barboursville",
-                  "location": "Virginia",
-                  "variety": "Reserve Cabernet Franc",
+                  "name": "Gamba",
+                  "location": "Russian River",
+                  "variety": "Zinfandel",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "16.75"
                 }
               ],
               "favorites": true
