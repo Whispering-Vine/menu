@@ -183,7 +183,7 @@
       "categories": {
         "flights": {
           "title": "Flights & Glasses",
-          "caption": "Choose a flight of three 3 oz. pours or one 8 oz glass",
+          "caption": "Choose a flight of three 3 oz. pours or one 8 oz. glass",
           "items": [
             {
               "name": "White Variety Flight",
@@ -302,11 +302,11 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Bonterra Estate",
-                  "location": "Mendocino",
+                  "name": "Browne \"Heritage\"",
+                  "location": "Colombia Valley",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "9.75"
                 },
                 {
                   "name": "The Mill Keeper",
