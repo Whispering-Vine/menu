@@ -82,7 +82,7 @@
               "description": "Sonoma Coast  | Pinot Noir",
               "price": {
                 "glass": 17.75,
-                "bottle": 45.99,
+                "bottle": 44.99,
                 "sale": true
               }
             },
@@ -183,7 +183,7 @@
       "categories": {
         "flights": {
           "title": "Flights & Glasses",
-          "caption": "Choose a flight of three 3 oz glasses or have an 8 oz glass of any wine within the flights",
+          "caption": "Choose from our range of flights",
           "items": [
             {
               "name": "White Variety Flight",
@@ -247,7 +247,7 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Llyod",
+                  "name": "Lloyd",
                   "location": "Carneros",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
@@ -467,7 +467,7 @@
               "notes": "Winery $55"
             },
             {
-              "name": "Llyod Chardonnay ",
+              "name": "Lloyd Chardonnay ",
               "bottle": "36.99",
               "glass": "15.75",
               "notes": "Winery $42",
