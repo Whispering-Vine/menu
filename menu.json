@@ -82,7 +82,7 @@
               "description": "Sonoma Coast  | Pinot Noir",
               "price": {
                 "glass": 17.75,
-                "bottle": 44.99,
+                "bottle": 45.99,
                 "sale": true
               }
             },
@@ -183,7 +183,7 @@
       "categories": {
         "flights": {
           "title": "Flights & Glasses",
-          "caption": "Choose from our range of flights",
+          "caption": "Choose a flight of three 3 oz glasses or have an 8 oz glass of any wine within the flights",
           "items": [
             {
               "name": "White Variety Flight",
