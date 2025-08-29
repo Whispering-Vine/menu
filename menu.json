@@ -408,7 +408,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "16.75",
+              "price": "18.75",
               "items": [
                 {
                   "name": "Barboursville",
@@ -425,11 +425,11 @@
                   "price": "24.75"
                 },
                 {
-                  "name": "Gamba",
-                  "location": "Russian River",
-                  "variety": "Zinfandel",
+                  "name": "Crocker Starr",
+                  "location": "Napa",
+                  "variety": "Cab Franc Red Blend",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "25.75"
                 }
               ],
               "favorites": true
