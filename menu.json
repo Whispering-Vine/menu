@@ -656,10 +656,10 @@
               "local": false
             },
             {
-              "name": "Dogfish Head Grateful Dead Juicy Pale Ale",
-              "brewery": "Delaware",
-              "abv": "5.3%",
-              "ibu": "30",
+              "name": "Russian River Blind Pig IPA",
+              "brewery": "Sonoma",
+              "abv": "6.25 %",
+              "ibu": "70",
               "price": "$7.25",
               "local": false
             },
@@ -669,14 +669,6 @@
               "abv": "6.6%",
               "ibu": "20",
               "price": "$9.25",
-              "local": false
-            },
-            {
-              "name": "Deschutes Black Butte Porter",
-              "brewery": "Oregon",
-              "abv": "5.5%",
-              "ibu": "30",
-              "price": "$7.25",
               "local": false
             },
             {
