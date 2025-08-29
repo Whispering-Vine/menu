@@ -187,14 +187,14 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "11.75",
+              "price": "10.75",
               "items": [
                 {
-                  "name": "Marietta \"Nadi\"",
-                  "location": "Sonoma",
-                  "variety": "Dry Riesling",
+                  "name": "Nik Weis",
+                  "location": "Germany",
+                  "variety": "Old Vine Dry Riesling",
                   "glassSize": "8oz",
-                  "price": "7.75"
+                  "price": "8.75"
                 },
                 {
                   "name": "Silverado",
@@ -204,11 +204,11 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Meyer Nakel",
-                  "location": "Germany",
+                  "name": "WALT",
+                  "location": "Sonoma",
                   "variety": "Rosé",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "13.75"
                 }
               ],
               "favorites": true
@@ -243,15 +243,15 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "17.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Llyod",
-                  "location": "Carneros",
+                  "name": "Sean Minor",
+                  "location": "Sonoma Coast",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "15.75"
+                  "price": "9.75"
                 },
                 {
                   "name": "Flowers",
@@ -271,7 +271,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "13.75",
+              "price": "14.75",
               "items": [
                 {
                   "name": "Chalk Hill",
@@ -288,25 +288,25 @@
                   "price": "11.75"
                 },
                 {
-                  "name": "Cristom Mt. Jefferson",
-                  "location": "Willamette",
+                  "name": "Burn Cottage",
+                  "location": "New Zealand ",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "19.75"
                 }
               ]
             },
             {
               "name": "Cabernet Flight",
-              "price": "14.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Bonterra Estate",
-                  "location": "Mendocino",
+                  "name": "BV",
+                  "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "14.75"
                 },
                 {
                   "name": "The Mill Keeper",
@@ -326,7 +326,7 @@
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "29.75",
+              "price": "22.75",
               "items": [
                 {
                   "name": "Bella Union By Far Niente",
@@ -343,11 +343,11 @@
                   "price": "17.75"
                 },
                 {
-                  "name": "Salvestrin Dr. Crane",
+                  "name": "Caymus",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "46.75"
+                  "price": "25.75"
                 }
               ]
             },
@@ -439,37 +439,37 @@
         "specials": {
           "items": [
             {
-              "name": "Salvestrin Dr. Crane",
-              "bottle": "114.99",
-              "glass": "46.75",
+              "name": "Crocker Starr Cabernet Franc Blend",
+              "bottle": "62.99",
+              "glass": "25.75",
               "favorites": false,
-              "notes": "96pts Wine Spectator 95pts James Suckling"
+              "notes": "93pts Wine Enthusiast Winery $75"
             },
             {
-              "name": "Cristom Mt. Jefferson",
-              "bottle": "39.99",
-              "glass": "16.75",
+              "name": "Caymus Cabernet",
+              "bottle": "62.99",
+              "glass": "25.75",
               "wineryPrice": 85,
-              "notes": "95pts Wine Spectator 95pts James Suckling",
+              "notes": "Winery $72",
               "favorites": false
             },
             {
-              "name": "Obsidian Cabernet",
-              "bottle": "39.99",
-              "glass": "16.75",
-              "notes": "94pts Wine Enthusiast"
+              "name": "Burn Cottage Moonlight Race Pinot Noir",
+              "bottle": "49.99",
+              "glass": "19.75",
+              "notes": "96pts James Suckling 95pts Wine Spectator"
             },
             {
-              "name": "Gamba Family Zinfandel",
-              "bottle": "39.99",
-              "glass": "16.75",
+              "name": "BV Napa Cabernet",
+              "bottle": "32.99",
+              "glass": "14.75",
               "wineryPrice": 45,
-              "notes": "Winery $55"
+              "notes": "Winery $40"
             },
             {
-              "name": "Llyod Chardonnay ",
-              "bottle": "36.99",
-              "glass": "15.75",
+              "name": "WALT Rosé",
+              "bottle": "29.99",
+              "glass": "13.75",
               "notes": "Winery $42",
               "favorites": false
             }
