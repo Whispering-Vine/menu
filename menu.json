@@ -82,7 +82,7 @@
               "description": "Sonoma Coast  | Pinot Noir",
               "price": {
                 "glass": 17.75,
-                "bottle": 44.99,
+                "bottle": 45.99,
                 "sale": true
               }
             },
@@ -159,7 +159,7 @@
               "description": "German | White Blend",
               "price": {
                 "glass": 6.75,
-                "bottle": 16.99
+                "bottle": 14.99
               }
             },
             {
@@ -183,7 +183,7 @@
       "categories": {
         "flights": {
           "title": "Flights & Glasses",
-          "caption": "Choose a flight of three 3 oz pours or one 8 oz glass",
+          "caption": "Choose from our range of flights",
           "items": [
             {
               "name": "White Variety Flight",
@@ -247,7 +247,7 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Lloyd",
+                  "name": "Llyod",
                   "location": "Carneros",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
@@ -302,11 +302,11 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Browne \"Heritage\"",
-                  "location": "Colombia Valley",
+                  "name": "Bonterra Estate",
+                  "location": "Mendocino",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "9.75"
+                  "price": "8.75"
                 },
                 {
                   "name": "The Mill Keeper",
@@ -316,11 +316,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Obsidian",
+                  "name": "Duckhorn",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "20.75"
                 }
               ]
             },
@@ -467,7 +467,7 @@
               "notes": "Winery $55"
             },
             {
-              "name": "Lloyd Chardonnay ",
+              "name": "Llyod Chardonnay ",
               "bottle": "36.99",
               "glass": "15.75",
               "notes": "Winery $42",
