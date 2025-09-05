@@ -439,38 +439,38 @@
         "specials": {
           "items": [
             {
-              "name": "Crocker Starr Cabernet Franc Blend",
-              "bottle": "62.99",
-              "glass": "25.75",
+              "name": "Tenuta Di Arceno Riserva",
+              "bottle": "49.99",
+              "glass": "19.75",
               "favorites": false,
-              "notes": "93pts Wine Enthusiast Winery $75"
+              "notes": "94pts Wine Spectator Top 100"
             },
             {
-              "name": "Caymus Cabernet",
-              "bottle": "62.99",
-              "glass": "25.75",
+              "name": "Ferrari Carano Tresor",
+              "bottle": "39.99",
+              "glass": "16.75",
               "wineryPrice": 85,
-              "notes": "Winery $72",
+              "notes": "Winery $70",
               "favorites": false
             },
             {
-              "name": "Burn Cottage Moonlight Race Pinot Noir",
-              "bottle": "49.99",
-              "glass": "19.75",
-              "notes": "96pts James Suckling 95pts Wine Spectator"
+              "name": "Band Of Vitners",
+              "bottle": "34.99",
+              "glass": "14.75",
+              "notes": "Winery $45 94pts Wine Enthusiast"
             },
             {
-              "name": "BV Napa Cabernet",
-              "bottle": "32.99",
+              "name": "Post & Beam By Far Niente",
+              "bottle": "31.99",
               "glass": "14.75",
               "wineryPrice": 45,
-              "notes": "Winery $40"
+              "notes": "Winery $42"
             },
             {
-              "name": "WALT Rosé",
-              "bottle": "29.99",
-              "glass": "13.75",
-              "notes": "Winery $42",
+              "name": "Scharffenberger Rosé",
+              "bottle": "24.99",
+              "glass": "10.75",
+              "notes": "",
               "favorites": false
             }
           ]
