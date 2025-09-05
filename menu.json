@@ -247,8 +247,8 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Sean Minor",
-                  "location": "Sonoma Coast",
+                  "name": "Harken",
+                  "location": "California",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
                   "price": "9.75"
@@ -270,7 +270,7 @@
               ]
             },
             {
-              "name": "Pinot Noir Flight",
+              "name": "Oregon Pinot Noir Flight",
               "price": "15.75",
               "items": [
                 {
