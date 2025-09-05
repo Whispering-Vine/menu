@@ -16,11 +16,11 @@
               }
             },
             {
-              "name": "Lovo ",
-              "description": "Italy | Moscato",
+              "name": "Whispering Vine",
+              "description": "ICalifornia | Moscato",
               "price": {
-                "glass": 6.75,
-                "bottle": 13.99,
+                "glass": 5.75,
+                "bottle": 12.99,
                 "sale": false
               }
             },
@@ -60,11 +60,11 @@
               }
             },
             {
-              "name": "Cotes du Rosés",
-              "description": "France | Rosé",
+              "name": "Whispering Vine",
+              "description": "Oregon | Rosé",
               "price": {
-                "glass": 5.75,
-                "bottle": 11.99,
+                "glass": 7.75,
+                "bottle": 16.99,
                 "sale": true
               }
             },
@@ -87,11 +87,11 @@
               }
             },
             {
-              "name": "Educated Guess",
-              "description": "Napa | Merlot",
+              "name": "Opolo",
+              "description": "Paso Robles | Merlot",
               "price": {
                 "glass": 8.75,
-                "bottle": 20.99,
+                "bottle": 19.99,
                 "sale": true
               }
             },
@@ -129,11 +129,11 @@
               }
             },
             {
-              "name": "Klinker Brick",
-              "description": "Lodi | Old Vine Zinfandel",
+              "name": "Whispering Vine",
+              "description": "Mendocino | Zinfandel",
               "price": {
                 "glass": 8.75,
-                "bottle": 17.99,
+                "bottle": 19.99,
                 "sale": true
               }
             },
@@ -629,6 +629,14 @@
               "abv": "9.0%",
               "ibu": "75",
               "price": "$9.25",
+              "local": false
+            },
+            {
+              "name": "21 Amendment Watermelon Wheat",
+              "brewery": "San Leandro",
+              "abv": "4.9%",
+              "ibu": "17",
+              "price": "$7.25",
               "local": false
             },
             {
