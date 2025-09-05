@@ -215,7 +215,7 @@
             },
             {
               "name": "Champagne Flight",
-              "price": "16.75",
+              "price": "15.75",
               "items": [
                 {
                   "name": "Beau Joie Senecourt",
@@ -232,11 +232,11 @@
                   "price": "18.75"
                 },
                 {
-                  "name": "G.H.Mumm",
-                  "location": "Champagne, France",
+                  "name": "Scharffenberger",
+                  "location": "Anderson Valley",
                   "variety": "Brut Rosé",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "10.75"
                 }
               ],
               "favorites": false
@@ -254,11 +254,11 @@
                   "price": "9.75"
                 },
                 {
-                  "name": "Flowers",
-                  "location": "Sonoma Coast",
+                  "name": "Post & Beam ",
+                  "location": "Carneros, Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "13.75"
                 },
                 {
                   "name": "Far Niente",
@@ -271,28 +271,28 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "14.75",
+              "price": "15.75",
               "items": [
                 {
-                  "name": "Chalk Hill",
-                  "location": "Sonoma ",
+                  "name": "A to Z",
+                  "location": "Oregon",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "9.75"
+                  "price": "7.75"
                 },
                 {
-                  "name": "Calera",
-                  "location": "Central Coast",
-                  "variety": "Pinot Noir",
-                  "glassSize": "8oz",
-                  "price": "11.75"
-                },
-                {
-                  "name": "Burn Cottage",
-                  "location": "New Zealand ",
+                  "name": "Domaine Serene \"Yamhill\"",
+                  "location": "Willamette, Oregon",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
                   "price": "19.75"
+                },
+                {
+                  "name": "Cristom",
+                  "location": "Willamette, Oregon",
+                  "variety": "Pinot Noir",
+                  "glassSize": "8oz",
+                  "price": "16.75"
                 }
               ]
             },
@@ -302,7 +302,7 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "BV",
+                  "name": "Band Of Vitners",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
@@ -353,7 +353,7 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "17.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
@@ -371,24 +371,24 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Justin \"Isosceles\" ",
-                  "location": "Paso Robles",
+                  "name": "Ferrari Carano Tresor",
+                  "location": "Sonoma",
                   "variety": "Cabernet, Merlot, Cab Franc",
                   "glassSize": "8oz",
-                  "price": "22.75"
+                  "price": "16.75"
                 }
               ]
             },
             {
               "name": "Premium International Red Flight",
-              "price": "15.75",
+              "price": "16.75",
               "items": [
                 {
-                  "name": "Tenuta di Arceno",
+                  "name": "Tenuta di Arceno Riserva",
                   "location": "Chianti, Italy",
                   "variety": "Sangiovese",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "19.75"
                 },
                 {
                   "name": "Fradiles \"Antiogue\"",
