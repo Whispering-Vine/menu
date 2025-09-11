@@ -439,38 +439,38 @@
         "specials": {
           "items": [
             {
-              "name": "Tenuta Di Arceno Riserva",
-              "bottle": "49.99",
-              "glass": "19.75",
+              "name": "Brewer Clifton \"Marchado\" Pinot Noir",
+              "bottle": "84.99",
+              "glass": "",
               "favorites": false,
-              "notes": "94pts Wine Spectator Top 100"
+              "notes": "96pts Wine Spectator *Unavailable To Taste"
             },
             {
-              "name": "Ferrari Carano Tresor",
-              "bottle": "39.99",
-              "glass": "16.75",
+              "name": "Dr. Stephans Collateral II Cabernet",
+              "bottle": "59.99",
+              "glass": "19.75",
               "wineryPrice": 85,
-              "notes": "Winery $70",
+              "notes": "Winery $90",
               "favorites": false
             },
             {
-              "name": "Band Of Vitners",
-              "bottle": "34.99",
-              "glass": "14.75",
-              "notes": "Winery $45 94pts Wine Enthusiast"
+              "name": "Caymus California Cabernet",
+              "bottle": "41.99",
+              "glass": "17.75",
+              "notes": "Winery $55 "
             },
             {
-              "name": "Post & Beam By Far Niente",
-              "bottle": "31.99",
-              "glass": "14.75",
+              "name": "Schramsberg Rosé",
+              "bottle": "42.99",
+              "glass": "17.75",
               "wineryPrice": 45,
-              "notes": "Winery $42"
+              "notes": "Winery $50"
             },
             {
-              "name": "Scharffenberger Rosé",
-              "bottle": "24.99",
+              "name": "Ferrari Carano Reserve Chardonnay",
+              "bottle": "29.99",
               "glass": "10.75",
-              "notes": "",
+              "notes": "Winery $48",
               "favorites": false
             }
           ]
