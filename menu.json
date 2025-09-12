@@ -183,7 +183,7 @@
       "categories": {
         "flights": {
           "title": "Flights & Glasses",
-          "caption": "Choose from a flight of three 3oz glasses or an 8oz glass",
+          "caption": "Choose from our range of flights",
           "items": [
             {
               "name": "White Variety Flight",
@@ -197,9 +197,9 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "Silverado",
-                  "location": "Napa",
-                  "variety": "Sauvignon Blanc",
+                  "name": "Four Graces",
+                  "location": "Willamette Valley, Oregon",
+                  "variety": "Pinot Gris",
                   "glassSize": "8oz",
                   "price": "8.75"
                 },
