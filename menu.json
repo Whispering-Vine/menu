@@ -381,14 +381,14 @@
             },
             {
               "name": "Premium International Red Flight",
-              "price": "16.75",
+              "price": "15.75",
               "items": [
                 {
-                  "name": "Tenuta di Arceno Riserva",
+                  "name": "Tenuta di Arceno ",
                   "location": "Chianti, Italy",
                   "variety": "Sangiovese",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Fradiles \"Antiogue\"",
