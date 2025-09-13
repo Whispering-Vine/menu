@@ -183,7 +183,7 @@
       "categories": {
         "flights": {
           "title": "Flights & Glasses",
-          "caption": "Choose from our range of flights",
+          "caption": "Enjoy a flight of 3 wines (3 oz. each) or any 8 oz. glass",
           "items": [
             {
               "name": "White Variety Flight",
@@ -381,14 +381,14 @@
             },
             {
               "name": "Premium International Red Flight",
-              "price": "15.75",
+              "price": "16.75",
               "items": [
                 {
-                  "name": "Tenuta di Arceno ",
+                  "name": "Tenuta di Arceno Riserva",
                   "location": "Chianti, Italy",
                   "variety": "Sangiovese",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "19.75"
                 },
                 {
                   "name": "Fradiles \"Antiogue\"",
