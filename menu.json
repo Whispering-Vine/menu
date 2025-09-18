@@ -243,15 +243,15 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Ferrari Carano Reserve",
-                  "location": "Sonoma",
+                  "name": "Hartford Court",
+                  "location": "Russian River",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "13.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Post & Beam ",
@@ -270,8 +270,8 @@
               ]
             },
             {
-              "name": "Oregon Pinot Noir Flight",
-              "price": "15.75",
+              "name": "Pinot Noir Flight",
+              "price": "17.75",
               "items": [
                 {
                   "name": "A to Z",
@@ -281,18 +281,18 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Domaine Serene \"Yamhill\"",
-                  "location": "Willamette, Oregon",
+                  "name": "Admire",
+                  "location": "Sonoma Coast",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "12.75"
                 },
                 {
-                  "name": "Cristom",
-                  "location": "Willamette, Oregon",
+                  "name": "Martinelli \"Bondi Home Ranch\"",
+                  "location": "Russian River",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "29.75"
                 }
               ]
             },
@@ -381,14 +381,14 @@
             },
             {
               "name": "Premium International Red Flight",
-              "price": "16.75",
+              "price": "14.75",
               "items": [
                 {
-                  "name": "Tenuta di Arceno Riserva",
-                  "location": "Chianti, Italy",
-                  "variety": "Sangiovese",
+                  "name": "La Quercia Riserva",
+                  "location": "Abruzzo, Italy",
+                  "variety": "Montepulciano",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Fradiles \"Antiogue\"",
