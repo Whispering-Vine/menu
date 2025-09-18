@@ -439,38 +439,38 @@
         "specials": {
           "items": [
             {
-              "name": "Brewer Clifton \"Marchado\" Pinot Noir",
-              "bottle": "84.99",
-              "glass": "",
+              "name": "Martinelli \"Bondi Ranch\" Pinot Noir",
+              "bottle": "75.99",
+              "glass": "29.75",
               "favorites": false,
-              "notes": "96pts Wine Spectator *Unavailable To Taste"
+              "notes": "Winery $85 94pts Wine Spectator "
             },
             {
-              "name": "Dr. Stephans Collateral II Cabernet",
-              "bottle": "59.99",
-              "glass": "19.75",
+              "name": "Bramare Valle De Uno Malbec",
+              "bottle": "39.99",
+              "glass": "16.75",
               "wineryPrice": 85,
-              "notes": "Winery $90",
+              "notes": "Winery $50 95pts James Suckling",
               "favorites": false
             },
             {
-              "name": "Caymus California Cabernet",
-              "bottle": "41.99",
-              "glass": "17.75",
-              "notes": "Winery $55 "
-            },
-            {
-              "name": "Schramsberg Rosé",
-              "bottle": "42.99",
-              "glass": "17.75",
-              "wineryPrice": 45,
-              "notes": "Winery $50"
-            },
-            {
-              "name": "Ferrari Carano Reserve Chardonnay",
-              "bottle": "29.99",
+              "name": "Admire Pinot Noir",
+              "bottle": "31.99",
               "glass": "13.75",
-              "notes": "Winery $48",
+              "notes": ""
+            },
+            {
+              "name": "La Quercia Riserva Montepulciano",
+              "bottle": "24.99",
+              "glass": "10.75",
+              "wineryPrice": 45,
+              "notes": ""
+            },
+            {
+              "name": "Four Graces Pinot Gris",
+              "bottle": "19.99",
+              "glass": "8.75",
+              "notes": "Winery $35 Tasting Panel",
               "favorites": false
             }
           ]
