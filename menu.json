@@ -298,15 +298,15 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "15.75",
+              "price": "14.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Band Of Vitners",
-                  "location": "Napa",
+                  "name": "Bezel By Cakebread",
+                  "location": "Paso Robles",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "11.75"
                 },
                 {
                   "name": "The Mill Keeper",
