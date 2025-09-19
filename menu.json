@@ -25,11 +25,11 @@
               }
             },
             {
-              "name": "Illumination By Quintessa",
+              "name": "Honig",
               "description": "Napa | Sauvignon Blanc",
               "price": {
-                "glass": 16.75,
-                "bottle": 39.99,
+                "glass": 8.75,
+                "bottle": 19.99,
                 "sale": false
               }
             },
@@ -121,11 +121,11 @@
               }
             },
             {
-              "name": "Frescobaldi Perano",
+              "name": "Tenuta Di Arceno",
               "description": "Italy | Chianti",
               "price": {
-                "glass": 10.75,
-                "bottle": 22.99
+                "glass": 12.75,
+                "bottle": 29.99
               }
             },
             {
