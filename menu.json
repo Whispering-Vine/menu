@@ -7,11 +7,11 @@
           "caption": "Enjoy an 8 oz glass",
           "items": [
             {
-              "name": "G.H. Mumm",
+              "name": "Beau Joie",
               "description": "Champagne, France | Brut",
               "price": {
-                "glass": 14.75,
-                "bottle": 34.99,
+                "glass": 16.75,
+                "bottle": 39.99,
                 "sale": true
               }
             },
