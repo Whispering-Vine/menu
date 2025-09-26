@@ -104,7 +104,7 @@
               }
             },
             {
-              "name": "Force & Grace",
+              "name": "Clos Du Val",
               "description": "Napa | Cabernet",
               "price": {
                 "glass": 16.75,
@@ -113,11 +113,11 @@
               }
             },
             {
-              "name": "Leviathan",
-              "description": "Napa | Cab, Petite Syrah, Merlot",
+              "name": "Tresor By Ferrari Carano",
+              "description": "Napa | Cab, Cab Franc, Merlot",
               "price": {
-                "glass": 14.75,
-                "bottle": 34.99
+                "glass": 16.75,
+                "bottle": 38.99
               }
             },
             {
