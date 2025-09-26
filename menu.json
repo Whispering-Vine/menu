@@ -317,7 +317,7 @@
                 },
                 {
                   "name": "Details By Sinegal",
-                  "location": "California",
+                  "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
                   "price": "16.75"
@@ -325,7 +325,7 @@
               ]
             },
             {
-              "name": "Premium Napa Cabernet Flight",
+              "name": "Premium Napa Flight",
               "price": "22.75",
               "items": [
                 {
