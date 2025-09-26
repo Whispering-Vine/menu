@@ -247,11 +247,11 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Hartford Court",
-                  "location": "Russian River",
+                  "name": "La Chablisienne Chablis",
+                  "location": "France",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Post & Beam ",
@@ -270,7 +270,7 @@
               ]
             },
             {
-              "name": "Pinot Noir Flight",
+              "name": "Oregon Pinot Noir Flight",
               "price": "14.75",
               "items": [
                 {
