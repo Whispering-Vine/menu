@@ -271,7 +271,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "17.75",
+              "price": "14.75",
               "items": [
                 {
                   "name": "A to Z",
@@ -281,18 +281,18 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Admire",
-                  "location": "Sonoma Coast",
+                  "name": "Roserock",
+                  "location": "Oregon",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "16.75"
                 },
                 {
-                  "name": "Martinelli \"Bondi Home Ranch\"",
-                  "location": "Russian River",
+                  "name": "Domaine Serene \"Yamhill\"",
+                  "location": "Oregon",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "29.75"
+                  "price": "16.75"
                 }
               ]
             },
@@ -316,17 +316,17 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Caymus",
-                  "location": "California",
+                  "name": "Details ",
+                  "location": "Sonoma",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "16.75"
                 }
               ]
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "20.75",
+              "price": "22.75",
               "items": [
                 {
                   "name": "Bella Union By Far Niente",
@@ -336,11 +336,11 @@
                   "price": "21.75"
                 },
                 {
-                  "name": "Faust",
+                  "name": "Jayson By Pahlmeyer",
                   "location": "Napa",
-                  "variety": "Cabernet",
+                  "variety": "Cabernet Blend",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "25.75"
                 },
                 {
                   "name": "Dr. Stephans Collateral",
@@ -371,24 +371,24 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Ferrari Carano Tresor",
+                  "name": "Aperture",
                   "location": "Sonoma",
                   "variety": "Cabernet, Merlot, Cab Franc",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "17.75"
                 }
               ]
             },
             {
               "name": "Premium International Red Flight",
-              "price": "14.75",
+              "price": "13.75",
               "items": [
                 {
-                  "name": "La Quercia Riserva",
-                  "location": "Abruzzo, Italy",
-                  "variety": "Montepulciano",
+                  "name": "Dogliani",
+                  "location": "Italy",
+                  "variety": "Dolcetto",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "6.75"
                 },
                 {
                   "name": "Fradiles \"Antiogue\"",
@@ -439,38 +439,38 @@
         "specials": {
           "items": [
             {
-              "name": "Martinelli \"Bondi Ranch\" Pinot Noir",
-              "bottle": "75.99",
-              "glass": "29.75",
+              "name": "Pahhlmeyer Jayson Red Blend",
+              "bottle": "64.99",
+              "glass": "25.75",
               "favorites": false,
-              "notes": "Winery $85 94pts Wine Spectator "
+              "notes": "Winery $75 92 pts Wine Spectator "
             },
             {
-              "name": "Bramare Valle De Uno Malbec",
-              "bottle": "39.99",
+              "name": "Roserock By Drouhin Pinot Noir",
+              "bottle": "44.99",
               "glass": "16.75",
               "wineryPrice": 85,
-              "notes": "Winery $50 95pts James Suckling",
+              "notes": " 94pts Wine Spectator",
               "favorites": false
             },
             {
-              "name": "Admire Pinot Noir",
-              "bottle": "31.99",
-              "glass": "13.75",
+              "name": "Details By Sinegal Cabernet",
+              "bottle": "39.99",
+              "glass": "16.75",
               "notes": ""
             },
             {
-              "name": "La Quercia Riserva Montepulciano",
-              "bottle": "24.99",
-              "glass": "10.75",
+              "name": "La Chablisienne Chablis",
+              "bottle": "29.99",
+              "glass": "12.75",
               "wineryPrice": 45,
               "notes": ""
             },
             {
-              "name": "Four Graces Pinot Gris",
-              "bottle": "19.99",
-              "glass": "8.75",
-              "notes": "Winery $35 93pts Tasting Panel",
+              "name": "Catina Clavesana Dogliani Dolcetto",
+              "bottle": "15.99",
+              "glass": "6.75",
+              "notes": "",
               "favorites": false
             }
           ]
