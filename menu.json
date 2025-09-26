@@ -243,15 +243,15 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "15.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Hartford Court",
-                  "location": "Russian River",
+                  "name": "La Chablisienne Chablis",
+                  "location": "France",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Post & Beam ",
@@ -468,7 +468,7 @@
             },
             {
               "name": "Catina Clavesana Doglina Dolcetto",
-              "bottle": "16.99",
+              "bottle": "15.99",
               "glass": "7.75",
               "notes": "",
               "favorites": false
