@@ -11,7 +11,7 @@
               "description": "Champagne, France | Brut",
               "price": {
                 "glass": 16.75,
-                "bottle": 44.99,
+                "bottle": 39.99,
                 "sale": true
               }
             },
@@ -104,7 +104,7 @@
               }
             },
             {
-              "name": "Force & Grace",
+              "name": "Clos Du Val",
               "description": "Napa | Cabernet",
               "price": {
                 "glass": 16.75,
@@ -113,8 +113,8 @@
               }
             },
             {
-              "name": "Leviathan",
-              "description": "Napa | Cab, Petite Syrah, Merlot",
+              "name": "Ferrari Carano Tresor",
+              "description": "Sonoma | Cab, Petite Syrah, Merlot",
               "price": {
                 "glass": 14.75,
                 "bottle": 34.99
