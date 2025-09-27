@@ -632,11 +632,11 @@
               "local": false
             },
             {
-              "name": "21 Amendment Watermelon Wheat",
-              "brewery": "San Leandro",
+              "name": "Russian River Pliny the Elder Double IPA",
+              "brewery": "Santa Rosa",
               "abv": "4.9%",
               "ibu": "17",
-              "price": "$7.25",
+              "price": "$8.25",
               "local": false
             },
             {
@@ -658,8 +658,8 @@
             {
               "name": "Russian River Blind Pig IPA",
               "brewery": "Sonoma",
-              "abv": "6.25 %",
-              "ibu": "70",
+              "abv": "8.0 %",
+              "ibu": "100",
               "price": "$7.25",
               "local": false
             },
@@ -684,6 +684,14 @@
               "brewery": "San Diego, Ca",
               "abv": "7.0 %",
               "ibu": "70",
+              "price": "$7.25",
+              "local": false
+            },
+            {
+              "name": "Russian River STS Pilsner",
+              "brewery": "Santa Rosa",
+              "abv": "5.35 %",
+              "ibu": "33",
               "price": "$7.25",
               "local": false
             }
