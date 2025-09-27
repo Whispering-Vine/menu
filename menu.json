@@ -482,22 +482,22 @@
         "seasonal": {
           "items": [
             {
-              "name": "SUMMER FLING COOLER",
+              "name": "CHURCHILL SAGE HOT TODDY",
               "price": "14",
-              "description": "Ketel One Grapefruit Rose Vodka | Grapefruit Juice | Lime Juice | Simple Syrup | Riesling |  Club Soda",
+              "description": "Frey Ranch Bourbon | Sage Infused Honey | Lemon Juice",
+              "serving": "Served Hot"
+            },
+            {
+              "name": "AMBER SOLSTICE",
+              "price": "14",
+              "description": "Reposado Tequila | Amaro | Lemon Juice | Agave | Angostura",
               "serving": "On the Rocks"
             },
             {
-              "name": "AMBER SUN",
+              "name": "POMEGRANATE NEGRONI",
               "price": "14",
-              "description": "Tequila | Aperol | Elderflower Liqueur | Lemon Juice | Agave | Angostura Bitters",
+              "description": "Gin | Cocchi Americano | Lo-Fi Amaro | Pomegranate Liqueur",
               "serving": "On a Large Clear Cube"
-            },
-            {
-              "name": "MINT & MOJITO CAN'T ELOPE",
-              "price": "14",
-              "description": "Don Q Rum | Cantaloupe-Mint Simple Syrup | Lime Juice | Club Soda",
-              "serving": "On the Rocks"
             },
             {
               "name": "FALLON BUCK",
@@ -512,9 +512,9 @@
               "serving": "Served Up"
             },
             {
-              "name": "LIMONCELLO SPRITZ",
+              "name": "FALL SPICED SPRITZ",
               "price": "14",
-              "description": "Limoncello | Lemon Juice | Sparkling Wine | Club Soda",
+              "description": "Spiced Pear Liqueur | Spiced Rum | Lemon Juice | Sparkling Wine | Soda Water",
               "serving": "On the Rocks"
             },
             {
@@ -524,9 +524,9 @@
               "serving": "Served Up with Pressed Mint"
             },
             {
-              "name": "PINEAPPLE BREEZE",
+              "name": "PICON PUNCH",
               "price": "14",
-              "description": "Malahat Rum | Pineapple Juice | Cream of Coconut | Grenadine",
+              "description": "Ferani Amer | Grenadine | St Remy VSOP | Soda Water",
               "serving": "On the Rocks"
             },
             {
@@ -536,9 +536,9 @@
               "serving": "Served Up"
             },
             {
-              "name": "CHERRY LIMEADE MULE",
+              "name": "PEAR MULE",
               "price": "14",
-              "description": "Vodka | Cherry Syrup | Lime Juice | Ginger Beer",
+              "description": "Pear Infused Vodka | Lime Juice | Ginger Beer",
               "serving": "On the Rocks"
             }
           ]
