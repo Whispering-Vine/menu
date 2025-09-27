@@ -643,7 +643,7 @@
               "name": "FiftyFifty Pilsner",
               "brewery": "Truckee",
               "abv": "4.6%",
-              "ibu": "N/A",
+              "ibu": "24",
               "price": "$6.25",
               "local": true
             },
@@ -651,7 +651,7 @@
               "name": "Pilsner Urquell",
               "brewery": "Czech Republic",
               "abv": "4.4%",
-              "ibu": "N/A",
+              "ibu": "40",
               "price": "$6.25",
               "local": false
             },
@@ -675,7 +675,7 @@
               "name": "Ace Guava Cider",
               "brewery": "Sebastopol, Ca",
               "abv": "5.0 %",
-              "ibu": "N/A",
+              "ibu": " 4",
               "price": "$6.25",
               "local": false
             },
