@@ -353,7 +353,7 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "15.75",
+              "price": "14.75",
               "favorites": true,
               "items": [
                 {
@@ -364,11 +364,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Hourglass HG III",
-                  "location": "Napa",
+                  "name": "Joseph Carr",
+                  "location": "Paso Robles",
                   "variety": "Cabernet, Merlot, Cab Franc ",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Aperture",
