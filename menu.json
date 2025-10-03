@@ -187,14 +187,14 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "10.75",
+              "price": "12.75",
               "items": [
                 {
-                  "name": "Nik Weis",
+                  "name": "Nik Weis Goldtropfchen ",
                   "location": "Germany",
-                  "variety": "Old Vine Dry Riesling",
+                  "variety": "Dry Riesling",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Four Graces",
