@@ -385,22 +385,22 @@
               "items": [
                 {
                   "name": "Fradiles",
-                  "location": "Italy",
-                  "variety": "Dolcetto",
+                  "location": "Sardina, Italy",
+                  "variety": "Red Blend",
                   "glassSize": "8oz",
                   "price": "9.75"
                 },
                 {
                   "name": "Antiogue",
                   "location": "Sardinia, Italy",
-                  "variety": "Bovale",
+                  "variety": "Red Blend",
                   "glassSize": "8oz",
                   "price": "14.75"
                 },
                 {
                   "name": "Bagadiu",
-                  "location": "",
-                  "variety": "Cabernet - Shiraz",
+                  "location": "Sardina, Italy",
+                  "variety": "Red Blend",
                   "glassSize": "8oz",
                   "price": "13.75"
                 }
