@@ -270,7 +270,7 @@
               ]
             },
             {
-              "name": "Oregon Pinot Noir Flight",
+              "name": "Pinot Noir Flight",
               "price": "14.75",
               "items": [
                 {
@@ -281,18 +281,18 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Roserock",
+                  "name": "Alexana",
                   "location": "Oregon",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "14.75"
                 },
                 {
-                  "name": "Domaine Serene \"Yamhill\"",
-                  "location": "Oregon",
+                  "name": "Rivers Marie",
+                  "location": "Sonoma Coast",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "19.75"
                 }
               ]
             },
