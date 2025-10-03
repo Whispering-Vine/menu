@@ -680,14 +680,6 @@
               "local": false
             },
             {
-              "name": "Ace Guava Cider",
-              "brewery": "Sebastopol, Ca",
-              "abv": "5.0 %",
-              "ibu": "  4",
-              "price": "$6.25",
-              "local": false
-            },
-            {
               "name": "Sculpin IPA",
               "brewery": "San Diego, Ca",
               "abv": "7.0 %",
