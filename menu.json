@@ -648,6 +648,14 @@
               "local": false
             },
             {
+              "name": "FiftyFifty Octoberfest",
+              "brewery": "Truckee",
+              "abv": "5.5 %",
+              "ibu": "NA",
+              "price": "$6.25",
+              "local": false
+            },
+            {
               "name": "Pilsner Urquell",
               "brewery": "Czech Republic",
               "abv": "4.4%",
@@ -693,14 +701,6 @@
               "abv": "5.35 %",
               "ibu": "33",
               "price": "$7.25",
-              "local": false
-            },
-            {
-              "name": "FiftyFifty Octoberfest",
-              "brewery": "Truckee",
-              "abv": "5.5 %",
-              "ibu": "NA",
-              "price": "$6.25",
               "local": false
             }
           ]
