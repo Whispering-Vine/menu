@@ -187,7 +187,7 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "12.75",
+              "price": "13.75",
               "items": [
                 {
                   "name": "Nik Weis Goldtropfchen ",
@@ -197,11 +197,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Four Graces",
-                  "location": "Willamette Valley, Oregon",
-                  "variety": "Pinot Gris",
+                  "name": "BV",
+                  "location": "Napa",
+                  "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "13.75"
                 },
                 {
                   "name": "WALT",
@@ -326,21 +326,21 @@
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "22.75",
+              "price": "19.75",
               "items": [
                 {
-                  "name": "Bella Union By Far Niente",
+                  "name": "Post & Beam By Far Niente",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "21.75"
+                  "price": "17.75"
                 },
                 {
-                  "name": "Jayson By Pahlmeyer",
+                  "name": "Duckhorn",
                   "location": "Napa",
-                  "variety": "Cabernet Blend",
+                  "variety": "Cabernet ",
                   "glassSize": "8oz",
-                  "price": "25.75"
+                  "price": "19.75"
                 },
                 {
                   "name": "Dr. Stephans Collateral",
