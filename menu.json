@@ -694,6 +694,14 @@
               "ibu": "33",
               "price": "$7.25",
               "local": false
+            },
+            {
+              "name": "FiftyFifty Octoberfest",
+              "brewery": "Truckee",
+              "abv": "5.5 %",
+              "ibu": "NA",
+              "price": "$6.25",
+              "local": false
             }
           ]
         },
