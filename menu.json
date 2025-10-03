@@ -380,29 +380,29 @@
               ]
             },
             {
-              "name": "Premium International Red Flight",
+              "name": "Italian Red Flight",
               "price": "13.75",
               "items": [
                 {
-                  "name": "Dogliani",
+                  "name": "Fradiles",
                   "location": "Italy",
                   "variety": "Dolcetto",
                   "glassSize": "8oz",
-                  "price": "6.75"
+                  "price": "9.75"
                 },
                 {
-                  "name": "Fradiles \"Antiogue\"",
+                  "name": "Antiogue",
                   "location": "Sardinia, Italy",
                   "variety": "Bovale",
                   "glassSize": "8oz",
                   "price": "14.75"
                 },
                 {
-                  "name": "Penfolds Bin 389",
-                  "location": "Australia ",
+                  "name": "Bagadiu",
+                  "location": "",
                   "variety": "Cabernet - Shiraz",
                   "glassSize": "8oz",
-                  "price": "18.75"
+                  "price": "13.75"
                 }
               ]
             },
@@ -439,7 +439,7 @@
         "specials": {
           "items": [
             {
-              "name": "Rivers Marie",
+              "name": "Rivers Marie Pinot Noir",
               "bottle": "46.99",
               "glass": "19.75",
               "favorites": false,
