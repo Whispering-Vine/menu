@@ -645,7 +645,7 @@
               "abv": "4.6%",
               "ibu": "24",
               "price": "$6.25",
-              "local": true
+              "local": false
             },
             {
               "name": "Pilsner Urquell",
