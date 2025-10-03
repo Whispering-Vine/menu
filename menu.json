@@ -439,38 +439,38 @@
         "specials": {
           "items": [
             {
-              "name": "Pahhlmeyer Jayson Red Blend",
-              "bottle": "64.99",
-              "glass": "25.75",
+              "name": "Rivers Marie",
+              "bottle": "46.99",
+              "glass": "19.75",
               "favorites": false,
-              "notes": "Winery $75 92 pts Wine Spectator "
+              "notes": "94 pts Wine Spectator "
             },
             {
-              "name": "Roserock By Drouhin Pinot Noir",
-              "bottle": "44.99",
+              "name": "Clos du Val Cabernet",
+              "bottle": "39.99",
               "glass": "16.75",
               "wineryPrice": 85,
-              "notes": " 94pts Wine Spectator",
+              "notes": " Winery $55",
               "favorites": false
             },
             {
-              "name": "Details By Sinegal Cabernet",
-              "bottle": "39.99",
-              "glass": "16.75",
-              "notes": ""
+              "name": "Alexana Pinot Noir",
+              "bottle": "34.99",
+              "glass": "14.75",
+              "notes": "Winery $45 93pts Wine Spectator"
             },
             {
-              "name": "La Chablisienne Chablis",
-              "bottle": "29.99",
-              "glass": "12.75",
+              "name": "Fradiles Bagadiu",
+              "bottle": "31.99",
+              "glass": "13.75",
               "wineryPrice": 45,
               "notes": ""
             },
             {
-              "name": "Catina Clavesana Dogliani Dolcetto",
-              "bottle": "15.99",
-              "glass": "6.75",
-              "notes": "",
+              "name": "Nik Weis Goldtropfchen Riesling ",
+              "bottle": "29.99",
+              "glass": "12.75",
+              "notes": "1/2 Off Winery $60 94pts Wine Enthusiast",
               "favorites": false
             }
           ]
@@ -484,7 +484,7 @@
             {
               "name": "CHURCHILL SAGE HOT TODDY",
               "price": "14",
-              "description": "Frey Ranch Bourbon | Sage Infused    Honey | Lemon Juice",
+              "description": "Frey Ranch Bourbon | Sage Infused Honey | Lemon Juice",
               "serving": "Served Hot"
             },
             {
@@ -520,7 +520,7 @@
             {
               "name": "WV ESPRESSO MARTINI",
               "price": "14",
-              "description": "Vodka | Cardamaro | Coffee | Grind Espresso Liqueur | Simple Syrup",
+              "description": "Vodka | Cardamaro\nCoffee | Grind Espresso Liqueur | Simple Syrup",
               "serving": "Served Up with Pressed Mint"
             },
             {
@@ -553,9 +553,9 @@
               "serving": "On the Rocks | Salted Rim"
             },
             {
-              "name": "CADILLAC MARGARITA",
+              "name": "CLASSIC MARGARITA",
               "price": "14",
-              "description": "Patrón El Alto Tequila | Cointreau\nAgave | Lime",
+              "description": "Mi Campo Tequila | Cointreau\nAgave | Lime",
               "serving": "On the Rocks | Salted Rim"
             },
             {
