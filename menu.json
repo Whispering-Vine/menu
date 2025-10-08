@@ -247,11 +247,11 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "La Chablisienne Chablis",
-                  "location": "France",
+                  "name": "Quilt",
+                  "location": "Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "11.75"
                 },
                 {
                   "name": "Post & Beam ",
@@ -316,11 +316,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Details ",
-                  "location": "Sonoma",
+                  "name": "Trefethen",
+                  "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "17.75"
                 }
               ]
             },
@@ -408,14 +408,14 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "18.75",
+              "price": "17.75",
               "items": [
                 {
-                  "name": "Barboursville",
-                  "location": "Virginia",
-                  "variety": "Reserve Cabernet Franc",
+                  "name": "Juan Gil",
+                  "location": "Spain",
+                  "variety": "Mourvèdre ",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "7.75"
                 },
                 {
                   "name": "Plumpjack",
@@ -425,11 +425,11 @@
                   "price": "24.75"
                 },
                 {
-                  "name": "Crocker Starr",
+                  "name": "Biali Black Chicken",
                   "location": "Napa",
-                  "variety": "Cab Franc Red Blend",
+                  "variety": "Zinfandel",
                   "glassSize": "8oz",
-                  "price": "25.75"
+                  "price": "17.75"
                 }
               ],
               "favorites": true
@@ -439,38 +439,38 @@
         "specials": {
           "items": [
             {
-              "name": "Rivers Marie Pinot Noir",
-              "bottle": "46.99",
+              "name": "Trefethen Cabernet",
+              "bottle": "49.99",
               "glass": "19.75",
               "favorites": false,
-              "notes": "94 pts Wine Spectator "
+              "notes": "Winery $75"
             },
             {
-              "name": "Clos du Val Cabernet",
-              "bottle": "39.99",
-              "glass": "16.75",
+              "name": "Biali Black Chicken Zinfandel",
+              "bottle": "44.99",
+              "glass": "17.75",
               "wineryPrice": 85,
               "notes": " Winery $55",
               "favorites": false
             },
             {
-              "name": "Alexana Pinot Noir",
-              "bottle": "34.99",
-              "glass": "14.75",
-              "notes": "Winery $45 93pts Wine Spectator"
+              "name": "Quilt Chardonnay",
+              "bottle": "25.99",
+              "glass": "11.75",
+              "notes": "Winery $35 95pts Tasting Panel"
             },
             {
-              "name": "Fradiles Bagadiu",
-              "bottle": "31.99",
-              "glass": "13.75",
+              "name": "Four Graces Pinot Noir",
+              "bottle": "21.99",
+              "glass": "9.75",
               "wineryPrice": 45,
-              "notes": ""
+              "notes": "Winery $35 92pts James Suckling"
             },
             {
-              "name": "Nik Weis Goldtropfchen Riesling ",
-              "bottle": "29.99",
-              "glass": "12.75",
-              "notes": "1/2 Off Winery $60 94pts Wine Enthusiast",
+              "name": "Juan Gil Monastrell",
+              "bottle": "15.99",
+              "glass": "7.75",
+              "notes": "93pts Robert Parker ",
               "favorites": false
             }
           ]
@@ -488,7 +488,7 @@
               "serving": "Served Hot"
             },
             {
-              "name": "\"FALL-A-RITA\"",
+              "name": "AMBER SOLSTICE",
               "price": "14",
               "description": "Reposado Tequila | Amaro | Lemon Juice | Agave | Angostura",
               "serving": "On the Rocks"
@@ -553,9 +553,9 @@
               "serving": "On the Rocks | Salted Rim"
             },
             {
-              "name": "CADILLAC MARGARITA",
-              "price": "19",
-              "description": "Patrón El Alto Tequila | Cointreau\nAgave | Lime",
+              "name": "CLASSIC MARGARITA",
+              "price": "14",
+              "description": "Mi Campo Tequila | Cointreau\nAgave | Lime",
               "serving": "On the Rocks | Salted Rim"
             },
             {
