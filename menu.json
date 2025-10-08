@@ -35,15 +35,6 @@
             },
             {
               "name": "Whispering Vine",
-              "description": "Oregon | Pinot Gris",
-              "price": {
-                "glass": 7.75,
-                "bottle": 16.99,
-                "sale": false
-              }
-            },
-            {
-              "name": "Whispering Vine",
               "description": "Oregon | Chardonnay",
               "price": {
                 "glass": 8.75,
@@ -60,8 +51,8 @@
               }
             },
             {
-              "name": "Whispering Vine",
-              "description": "Oregon | Rosé",
+              "name": "Hampton Water",
+              "description": "France | Rosé",
               "price": {
                 "glass": 7.75,
                 "bottle": 16.99,
