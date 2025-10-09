@@ -262,7 +262,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "14.75",
+              "price": "15.75",
               "items": [
                 {
                   "name": "A to Z",
@@ -272,11 +272,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Alexana",
+                  "name": "Roserock",
                   "location": "Oregon",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Rivers Marie",
