@@ -181,18 +181,18 @@
               "price": "13.75",
               "items": [
                 {
-                  "name": "Nik Weis Goldtropfchen ",
-                  "location": "Germany",
-                  "variety": "Riesling",
-                  "glassSize": "8oz",
-                  "price": "12.75"
-                },
-                {
-                  "name": "BV",
+                  "name": "BV ",
                   "location": "Napa",
                   "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
                   "price": "13.75"
+                },
+                {
+                  "name": "Stag's Leap",
+                  "location": "Napa",
+                  "variety": "Viognier",
+                  "glassSize": "8oz",
+                  "price": "14.75"
                 },
                 {
                   "name": "WALT",
@@ -206,7 +206,7 @@
             },
             {
               "name": "Bubbles Flight",
-              "price": "16.75",
+              "price": "14.75",
               "items": [
                 {
                   "name": "Beau Joie Senecourt",
@@ -223,11 +223,11 @@
                   "price": "18.75"
                 },
                 {
-                  "name": "Schamsberg",
-                  "location": "Napa Valley",
+                  "name": "Scharffenberger",
+                  "location": "Mendocino",
                   "variety": "Brut Rosé",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "10.75"
                 }
               ],
               "favorites": false
@@ -430,38 +430,38 @@
         "specials": {
           "items": [
             {
-              "name": "Trefethen Cabernet",
-              "bottle": "49.99",
-              "glass": "19.75",
+              "name": "Silver Oak Cabernet",
+              "bottle": "69.99",
+              "glass": "28.75",
               "favorites": false,
-              "notes": "Winery $75"
+              "notes": "Winery $100"
             },
             {
-              "name": "Biali Black Chicken Zinfandel",
-              "bottle": "44.99",
-              "glass": "17.75",
+              "name": "Nickel & Nickel Chardonnay",
+              "bottle": "39.99",
+              "glass": "16.75",
               "wineryPrice": 85,
-              "notes": " Winery $55",
+              "notes": " Winery $65 94pts James Suckling",
               "favorites": false
             },
             {
-              "name": "Quilt Chardonnay",
-              "bottle": "25.99",
-              "glass": "11.75",
-              "notes": "Winery $35 95pts Tasting Panel"
+              "name": "Indolente Riserva Cannonau",
+              "bottle": "31.99",
+              "glass": "13.75",
+              "notes": ""
             },
             {
-              "name": "Four Graces Pinot Noir",
-              "bottle": "21.99",
-              "glass": "9.75",
+              "name": "Arterberry Maresh \"Dundee Hills\" Pinot Noir",
+              "bottle": "33.99",
+              "glass": "14.75",
               "wineryPrice": 45,
-              "notes": "Winery $35 92pts James Suckling"
+              "notes": "93pts Wine Spectator"
             },
             {
-              "name": "Juan Gil Monastrell",
-              "bottle": "15.99",
+              "name": "Cade Sauvignon Blanc",
+              "bottle": "16.99",
               "glass": "7.75",
-              "notes": "93pts Robert Parker ",
+              "notes": "Winery $44",
               "favorites": false
             }
           ]
