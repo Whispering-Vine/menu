@@ -178,14 +178,14 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "13.75",
+              "price": "14.75",
               "items": [
                 {
-                  "name": "BV ",
+                  "name": "CADE",
                   "location": "Napa",
                   "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "13.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Stag's Leap",
@@ -234,7 +234,7 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "15.75",
+              "price": "14.75",
               "favorites": true,
               "items": [
                 {
@@ -252,17 +252,17 @@
                   "price": "13.75"
                 },
                 {
-                  "name": "Far Niente",
-                  "location": "Napa",
+                  "name": "Nickel & Nickel",
+                  "location": "Carneros, Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "20.75"
+                  "price": "16.75"
                 }
               ]
             },
             {
-              "name": "Pinot Noir Flight",
-              "price": "15.75",
+              "name": "Oregon Pinot Noir Flight",
+              "price": "13.75",
               "items": [
                 {
                   "name": "A to Z",
@@ -279,11 +279,11 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Rivers Marie",
-                  "location": "Sonoma Coast",
+                  "name": "Artberry Maresh \"Dundee Hills\"",
+                  "location": "Oregon",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "14.75"
                 }
               ]
             },
@@ -317,7 +317,7 @@
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "19.75",
+              "price": "22.75",
               "items": [
                 {
                   "name": "Post & Beam By Far Niente",
@@ -334,32 +334,32 @@
                   "price": "19.75"
                 },
                 {
-                  "name": "Dr. Stephans Collateral",
-                  "location": "Napa",
+                  "name": "Silver Oak",
+                  "location": "Alexander Valley",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "28.75"
                 }
               ]
             },
             {
               "name": "Red Blend Flight",
-              "price": "14.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Harvey & Harriet",
-                  "location": "Paso Robles",
-                  "variety": "Cabernet, Syrah, Malbec",
+                  "name": "Herculis",
+                  "location": "Sardinia",
+                  "variety": "Cabernet, Grenache, Syrah",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "11.75"
                 },
                 {
-                  "name": "Joseph Carr",
-                  "location": "Paso Robles",
-                  "variety": "Cabernet, Merlot, Cab Franc ",
+                  "name": "Leviathan",
+                  "location": "Napa",
+                  "variety": "Cabernet, Syrah, Cab Franc ",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "14.75"
                 },
                 {
                   "name": "Aperture",
@@ -402,11 +402,11 @@
               "price": "17.75",
               "items": [
                 {
-                  "name": "Juan Gil",
-                  "location": "Spain",
-                  "variety": "Mourvèdre ",
+                  "name": "Indolente Cannonau Riserva",
+                  "location": "Italy",
+                  "variety": "Grenache",
                   "glassSize": "8oz",
-                  "price": "7.75"
+                  "price": "13.75"
                 },
                 {
                   "name": "Plumpjack",
