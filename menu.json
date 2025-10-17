@@ -69,11 +69,11 @@
               }
             },
             {
-              "name": "Flowers",
-              "description": "Sonoma Coast  | Pinot Noir",
+              "name": "Martin Ray Synthesis",
+              "description": "Russian River | Pinot Noir",
               "price": {
-                "glass": 17.75,
-                "bottle": 45.99,
+                "glass": 16.75,
+                "bottle": 39.99,
                 "sale": true
               }
             },
