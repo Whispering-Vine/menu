@@ -95,11 +95,11 @@
               }
             },
             {
-              "name": "Clos Du Val",
+              "name": "Frank Family",
               "description": "Napa | Cabernet",
               "price": {
-                "glass": 16.75,
-                "bottle": 39.99,
+                "glass": 17.75,
+                "bottle": 44.99,
                 "sale": true
               }
             },
