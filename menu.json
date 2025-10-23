@@ -261,8 +261,8 @@
               ]
             },
             {
-              "name": "Oregon Pinot Noir Flight",
-              "price": "13.75",
+              "name": "Pinot Noir Flight",
+              "price": "11.75",
               "items": [
                 {
                   "name": "A to Z",
@@ -272,11 +272,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Roserock",
-                  "location": "Oregon",
+                  "name": "Chalk Hill",
+                  "location": "Sonoma",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "9.75"
                 },
                 {
                   "name": "Artberry Maresh \"Dundee Hills\"",
@@ -317,7 +317,7 @@
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "22.75",
+              "price": "21.75",
               "items": [
                 {
                   "name": "Post & Beam By Far Niente",
@@ -334,11 +334,11 @@
                   "price": "19.75"
                 },
                 {
-                  "name": "Silver Oak",
-                  "location": "Alexander Valley",
+                  "name": "Caymus",
+                  "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "28.75"
+                  "price": "25.75"
                 }
               ]
             },
@@ -399,7 +399,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "17.75",
+              "price": "16.75",
               "items": [
                 {
                   "name": "Indolente Cannonau Riserva",
@@ -416,11 +416,11 @@
                   "price": "24.75"
                 },
                 {
-                  "name": "Biali Black Chicken",
-                  "location": "Napa",
+                  "name": "Seghesio",
+                  "location": "Sonoma",
                   "variety": "Zinfandel",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "8.75"
                 }
               ],
               "favorites": true
@@ -430,38 +430,38 @@
         "specials": {
           "items": [
             {
-              "name": "Silver Oak Cabernet",
-              "bottle": "69.99",
-              "glass": "28.75",
+              "name": "Caymus Cabernet 1 LITERS",
+              "bottle": "74.99",
+              "glass": "25.75",
               "favorites": false,
-              "notes": "Winery $100"
+              "notes": "Winery $90"
             },
             {
-              "name": "Nickel & Nickel Chardonnay",
-              "bottle": "39.99",
-              "glass": "16.75",
+              "name": "Frank Family Cabernet",
+              "bottle": "44.99",
+              "glass": "17.75",
               "wineryPrice": 85,
-              "notes": " Winery $65 94pts James Suckling",
+              "notes": " Winery $60",
               "favorites": false
             },
             {
-              "name": "Indolente Riserva Cannonau",
+              "name": "Stag's Leap Viognier ",
               "bottle": "31.99",
               "glass": "13.75",
-              "notes": ""
+              "notes": "Winery $40"
             },
             {
-              "name": "Arterberry Maresh \"Dundee Hills\" Pinot Noir",
-              "bottle": "33.99",
-              "glass": "14.75",
+              "name": "Chalk Hill Pinot Noir",
+              "bottle": "21.99",
+              "glass": "9.75",
               "wineryPrice": 45,
-              "notes": "93pts Wine Spectator"
+              "notes": "Winery $30 91pts Wine Spectator"
             },
             {
-              "name": "Cade Sauvignon Blanc",
-              "bottle": "16.99",
-              "glass": "7.75",
-              "notes": "Winery $44",
+              "name": "Fradiles Red Blend",
+              "bottle": "25.99",
+              "glass": "9.75",
+              "notes": "",
               "favorites": false
             }
           ]
