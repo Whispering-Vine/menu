@@ -95,11 +95,11 @@
               }
             },
             {
-              "name": "Frank Family",
+              "name": "Clos Du Val",
               "description": "Napa | Cabernet",
               "price": {
-                "glass": 17.75,
-                "bottle": 44.99,
+                "glass": 16.75,
+                "bottle": 39.99,
                 "sale": true
               }
             },
@@ -178,14 +178,14 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "13.75",
+              "price": "14.75",
               "items": [
                 {
-                  "name": "John Anthony ",
+                  "name": "CADE",
                   "location": "Napa",
                   "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Stag's Leap",
@@ -209,11 +209,11 @@
               "price": "14.75",
               "items": [
                 {
-                  "name": "Roederer Estate ",
-                  "location": "Mendocino",
+                  "name": "Beau Joie Senecourt",
+                  "location": "Champagne, France",
                   "variety": "Brut ",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Perrier Jouet",
@@ -261,8 +261,8 @@
               ]
             },
             {
-              "name": "Pinot Noir Flight",
-              "price": "11.75",
+              "name": "Oregon Pinot Noir Flight",
+              "price": "13.75",
               "items": [
                 {
                   "name": "A to Z",
@@ -272,11 +272,11 @@
                   "price": "7.75"
                 },
                 {
-                  "name": "Chalk Hill",
-                  "location": "Sonoma",
+                  "name": "Roserock",
+                  "location": "Oregon",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "9.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Artberry Maresh \"Dundee Hills\"",
@@ -317,7 +317,7 @@
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "21.75",
+              "price": "22.75",
               "items": [
                 {
                   "name": "Post & Beam By Far Niente",
@@ -334,11 +334,11 @@
                   "price": "19.75"
                 },
                 {
-                  "name": "Caymus",
-                  "location": "Napa",
+                  "name": "Silver Oak",
+                  "location": "Alexander Valley",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "25.75"
+                  "price": "28.75"
                 }
               ]
             },
@@ -399,7 +399,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "16.75",
+              "price": "17.75",
               "items": [
                 {
                   "name": "Indolente Cannonau Riserva",
@@ -416,11 +416,11 @@
                   "price": "24.75"
                 },
                 {
-                  "name": "Seghesio",
-                  "location": "Sonoma",
+                  "name": "Biali Black Chicken",
+                  "location": "Napa",
                   "variety": "Zinfandel",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "17.75"
                 }
               ],
               "favorites": true
@@ -430,38 +430,38 @@
         "specials": {
           "items": [
             {
-              "name": "Caymus Cabernet 1 LITERS",
-              "bottle": "74.99",
-              "glass": "25.75",
+              "name": "Silver Oak Cabernet",
+              "bottle": "69.99",
+              "glass": "28.75",
               "favorites": false,
-              "notes": "Winery $90"
+              "notes": "Winery $100"
             },
             {
-              "name": "Frank Family Cabernet",
-              "bottle": "44.99",
-              "glass": "17.75",
+              "name": "Nickel & Nickel Chardonnay",
+              "bottle": "39.99",
+              "glass": "16.75",
               "wineryPrice": 85,
-              "notes": " Winery $60",
+              "notes": " Winery $65 94pts James Suckling",
               "favorites": false
             },
             {
-              "name": "Stag's Leap Viognier ",
+              "name": "Indolente Riserva Cannonau",
               "bottle": "31.99",
               "glass": "13.75",
-              "notes": "Winery $40"
+              "notes": ""
             },
             {
-              "name": "Chalk Hill Pinot Noir",
-              "bottle": "21.99",
-              "glass": "9.75",
+              "name": "Arterberry Maresh \"Dundee Hills\" Pinot Noir",
+              "bottle": "33.99",
+              "glass": "14.75",
               "wineryPrice": 45,
-              "notes": "Winery $30 91pts Wine Spectator"
+              "notes": "93pts Wine Spectator"
             },
             {
-              "name": "Fradiles Red Blend",
-              "bottle": "25.99",
-              "glass": "9.75",
-              "notes": "",
+              "name": "Cade Sauvignon Blanc",
+              "bottle": "16.99",
+              "glass": "7.75",
+              "notes": "Winery $44",
               "favorites": false
             }
           ]
@@ -799,12 +799,12 @@
               "price": "15"
             },
             {
-              "name": "SPRING PANZANELLA SALAD",
-              "description": "Spring Peas, Asparagus, Cucumber, Burrata & Feta Cheeses, Herbs, Lemony Buttermilk Vinaigrette",
+              "name": "SHAVED BRUSSELS CAESAR",
+              "description": "Pomegranate, Frico, Croutons",
               "gluten_free": false,
-              "new": true,
+              "new": false,
               "warning": false,
-              "price": "16"
+              "price": "15"
             },
             {
               "name": "GRILLED CHEESE & TOMATO SOUP",
