@@ -799,12 +799,12 @@
               "price": "15"
             },
             {
-              "name": "SPRING PANZANELLA SALAD",
-              "description": "Spring Peas, Asparagus, Cucumber, Burrata & Feta Cheeses, Herbs, Lemony Buttermilk Vinaigrette",
+              "name": "SHAVED BRUSSELS SALAD",
+              "description": "Pomegranate, Frico, Croutons, Caesar Dressing",
               "gluten_free": false,
-              "new": true,
+              "new": false,
               "warning": false,
-              "price": "16"
+              "price": "15"
             },
             {
               "name": "GRILLED CHEESE & TOMATO SOUP",
