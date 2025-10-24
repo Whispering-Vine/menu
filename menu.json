@@ -25,11 +25,11 @@
               }
             },
             {
-              "name": "Honig Reserve",
+              "name": "Honig ",
               "description": "Napa | Sauvignon Blanc",
               "price": {
-                "glass": 14.75,
-                "bottle": 34.99,
+                "glass": 8.75,
+                "bottle": 19.99,
                 "sale": false
               }
             },
