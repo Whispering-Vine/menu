@@ -301,24 +301,24 @@
                   "price": "11.75"
                 },
                 {
-                  "name": "The Mill Keeper",
+                  "name": "Band Of Vintners ",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "14.75"
                 },
                 {
-                  "name": "Trefethen",
-                  "location": "Napa",
+                  "name": "Monroy",
+                  "location": "Washington",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "19.75"
                 }
               ]
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "21.75",
+              "price": "17.75",
               "items": [
                 {
                   "name": "Post & Beam By Far Niente",
@@ -335,11 +335,11 @@
                   "price": "19.75"
                 },
                 {
-                  "name": "Caymus",
+                  "name": "Trefethen",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "25.75"
+                  "price": "17.75"
                 }
               ]
             },
