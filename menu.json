@@ -216,7 +216,7 @@
             },
             {
               "name": "Bubbles Flight",
-              "price": "14.75",
+              "price": "16.75",
               "items": [
                 {
                   "name": "Roederer Estate ",
@@ -233,11 +233,11 @@
                   "price": "18.75"
                 },
                 {
-                  "name": "Lucien Albrecht ",
-                  "location": "France",
-                  "variety": "Brut Rosé",
+                  "name": "Taittinger",
+                  "location": "Champagne. France",
+                  "variety": "Brut ",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "19.75"
                 }
               ],
               "favorites": false
