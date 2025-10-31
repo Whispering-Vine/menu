@@ -16,6 +16,15 @@
               }
             },
             {
+              "name": "Lucien Albrecht ",
+              "description": "France | Brut Rosé",
+              "price": {
+                "glass": 8.75,
+                "bottle": 19.99,
+                "sale": false
+              }
+            },
+            {
               "name": "Whispering Vine",
               "description": "California | Moscato",
               "price": {
@@ -160,15 +169,6 @@
               "price": {
                 "glass": 5.75,
                 "bottle": 14.99
-              }
-            },
-            {
-              "name": "Lucien Albrecht ",
-              "description": "France | ",
-              "price": {
-                "glass": 0,
-                "bottle": 0,
-                "sale": false
               }
             }
           ]
