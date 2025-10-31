@@ -431,38 +431,38 @@
         "specials": {
           "items": [
             {
-              "name": "Caymus Cabernet 1 LITERS",
-              "bottle": "74.99",
-              "glass": "25.75",
+              "name": "Stags Leap Cabernet",
+              "bottle": "44.99",
+              "glass": "17.75",
               "favorites": false,
-              "notes": "Winery $90"
+              "notes": "Winery $65"
             },
             {
-              "name": "Frank Family Cabernet",
+              "name": "Walt \"Sta. Rita\" Pinot Noir",
               "bottle": "44.99",
               "glass": "17.75",
               "wineryPrice": 85,
-              "notes": " Winery $60",
+              "notes": " Winery $50 95pts Wine Enthusiast",
               "favorites": false
             },
             {
-              "name": "Stag's Leap Viognier ",
-              "bottle": "31.99",
-              "glass": "13.75",
-              "notes": "Winery $40"
+              "name": "Marques De Murrieta Rioja",
+              "bottle": "29.99",
+              "glass": "12.75",
+              "notes": "94pts Robert Parker"
             },
             {
-              "name": "Chalk Hill Pinot Noir",
-              "bottle": "21.99",
-              "glass": "9.75",
+              "name": "Roederer Estate Brut",
+              "bottle": "23.99",
+              "glass": "10.75",
               "wineryPrice": 45,
-              "notes": "Winery $30 91pts Wine Spectator"
+              "notes": "Winery $33 93 pts Wine Spectator"
             },
             {
-              "name": "Fradiles Red Blend",
-              "bottle": "25.99",
-              "glass": "9.75",
-              "notes": "",
+              "name": "John Anthony Sauvignon Blanc",
+              "bottle": "24.99",
+              "glass": "11.75",
+              "notes": "Winery $40",
               "favorites": false
             }
           ]
