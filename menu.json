@@ -104,11 +104,12 @@
               }
             },
             {
-              "name": "Tresor By Ferrari Carano",
-              "description": "Napa | Cab, Cab Franc, Merlot",
+              "name": "The Prisoner Red Blend",
+              "description": "Napa | Zin, Cab, Petite Syrah",
               "price": {
                 "glass": 16.75,
-                "bottle": 38.99
+                "bottle": 39.99,
+                "sale": true
               }
             },
             {
