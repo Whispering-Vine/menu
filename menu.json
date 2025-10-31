@@ -28,9 +28,9 @@
               "name": "John Anthony",
               "description": "Napa | Sauvignon Blanc",
               "price": {
-                "glass": 8.75,
-                "bottle": 19.99,
-                "sale": false
+                "glass": 11.75,
+                "bottle": 24.99,
+                "sale": true
               }
             },
             {
