@@ -161,6 +161,15 @@
                 "glass": 5.75,
                 "bottle": 14.99
               }
+            },
+            {
+              "name": "Lucien Albrecht ",
+              "description": "France | ",
+              "price": {
+                "glass": 0,
+                "bottle": 0,
+                "sale": false
+              }
             }
           ]
         },
