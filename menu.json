@@ -179,14 +179,14 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "13.75",
+              "price": "11.75",
               "items": [
                 {
-                  "name": "John Anthony ",
-                  "location": "Napa",
+                  "name": "The Crossing",
+                  "location": "New Zealand",
                   "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "5.75"
                 },
                 {
                   "name": "Stag's Leap",
@@ -224,11 +224,11 @@
                   "price": "18.75"
                 },
                 {
-                  "name": "Scharffenberger",
-                  "location": "Mendocino",
+                  "name": "Lucien Albrecht ",
+                  "location": "France",
                   "variety": "Brut Rosé",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "8.75"
                 }
               ],
               "favorites": false
