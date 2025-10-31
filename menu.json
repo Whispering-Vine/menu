@@ -345,27 +345,27 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "15.75",
+              "price": "13.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Herculis",
-                  "location": "Sardinia",
-                  "variety": "Cabernet, Grenache, Syrah",
+                  "name": "Rabble",
+                  "location": "Paso Robles",
+                  "variety": "Cabernet, Syrah, Merlot",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "7.75"
                 },
                 {
-                  "name": "Ab",
+                  "name": "Abstract",
                   "location": "Napa",
-                  "variety": "Cabernet, Syrah, Cab Franc ",
+                  "variety": "Petite Syrah, Syrah, Grenache",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "13.75"
                 },
                 {
-                  "name": "Aperture",
+                  "name": "8 Years In The Desert",
                   "location": "Sonoma",
-                  "variety": "Cabernet, Merlot, Cab Franc",
+                  "variety": "Zinfandel, Petite Syrah",
                   "glassSize": "8oz",
                   "price": "17.75"
                 }
