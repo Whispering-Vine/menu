@@ -44,7 +44,7 @@
             },
             {
               "name": "Mer Soleil",
-              "description": "Santa Lucia Highlands | Chardonnay",
+              "description": "Santa Lucia Highlands| Chardonnay",
               "price": {
                 "glass": 7.75,
                 "bottle": 15.99,
@@ -61,7 +61,7 @@
             },
             {
               "name": "Hampton Water",
-              "description": "France | Dry Rosé",
+              "description": "France | Rosé",
               "price": {
                 "glass": 7.75,
                 "bottle": 16.99,
@@ -428,7 +428,7 @@
                 {
                   "name": "Plumpjack",
                   "location": "Napa",
-                  "variety": "Merlot",
+                  "variety": "Zinfandel",
                   "glassSize": "8oz",
                   "price": "24.75"
                 }
@@ -440,38 +440,38 @@
         "specials": {
           "items": [
             {
-              "name": "Stags Leap Cabernet",
-              "bottle": "44.99",
-              "glass": "17.75",
+              "name": "Justin Reserve Cabernet",
+              "bottle": "59.99",
+              "glass": "23.75",
               "favorites": false,
-              "notes": "Winery $65"
+              "notes": ""
             },
             {
-              "name": "Walt \"Sta. Rita\" Pinot Noir",
-              "bottle": "44.99",
+              "name": "Orin Swift 8 Years In the Desert",
+              "bottle": "45.99",
               "glass": "17.75",
               "wineryPrice": 85,
-              "notes": " Winery $50 95pts Wine Enthusiast",
+              "notes": " Winery $50 ",
               "favorites": false
             },
             {
-              "name": "Marques De Murrieta Rioja",
-              "bottle": "29.99",
-              "glass": "12.75",
-              "notes": "94pts Robert Parker"
+              "name": "Illumination By Quintessa Sauvignon Blanc",
+              "bottle": "39.99",
+              "glass": "16.75",
+              "notes": "Winery $65 95pts Jeb Dunnuck"
             },
             {
-              "name": "Roederer Estate Brut",
-              "bottle": "23.99",
+              "name": "Whitehall Lane Rassi Cabernet",
+              "bottle": "24.99",
               "glass": "10.75",
               "wineryPrice": 45,
-              "notes": "Winery $33 93pts Wine Spectator"
+              "notes": "Winery $40 "
             },
             {
-              "name": "John Anthony Sauvignon Blanc",
-              "bottle": "24.99",
-              "glass": "11.75",
-              "notes": "Winery $40",
+              "name": "Lucien Albrecht Rosé",
+              "bottle": "19.99",
+              "glass": "8.75",
+              "notes": "Winery $30",
               "favorites": false
             }
           ]
