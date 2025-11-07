@@ -195,7 +195,7 @@
                   "location": "Napa",
                   "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": ""
+                  "price": "16.75"
                 },
                 {
                   "name": "Stag's Leap",
@@ -244,15 +244,15 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "14.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Quilt",
-                  "location": "Napa",
+                  "name": "Flowers",
+                  "location": "Sonoma Coast",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Post & Beam ",
@@ -289,11 +289,11 @@
                   "price": "9.75"
                 },
                 {
-                  "name": "WALT \"Sta. Rita\"",
-                  "location": "Sta. Rita",
+                  "name": "Hartford Court",
+                  "location": "Russian River",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "14.75"
                 }
               ]
             },
@@ -303,11 +303,11 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Bezel By Cakebread",
-                  "location": "Paso Robles",
+                  "name": "Whitehall Lane Rassi",
+                  "location": "Sonoma",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Band Of Vintners ",
@@ -337,11 +337,11 @@
                   "price": "17.75"
                 },
                 {
-                  "name": "Duckhorn",
-                  "location": "Napa",
+                  "name": "Justin Reserve",
+                  "location": "Paso Robles",
                   "variety": "Cabernet ",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "23.75"
                 },
                 {
                   "name": "Monroy",
@@ -354,15 +354,15 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "13.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Rabble",
-                  "location": "Paso Robles",
-                  "variety": "Cabernet, Syrah, Merlot",
+                  "name": "Element 79",
+                  "location": "Sierra Foothills",
+                  "variety": "Zinfandel, Cab, Syrah",
                   "glassSize": "8oz",
-                  "price": "7.75"
+                  "price": "14.75"
                 },
                 {
                   "name": "Abstract",
@@ -419,9 +419,9 @@
                   "price": "13.75"
                 },
                 {
-                  "name": "Marques De Murrieta",
-                  "location": "Rioja, Spain",
-                  "variety": "Tempranillo",
+                  "name": "Mendel",
+                  "location": "Argentina",
+                  "variety": "Malbec",
                   "glassSize": "8oz",
                   "price": "12.75"
                 },
