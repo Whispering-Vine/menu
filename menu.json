@@ -188,14 +188,14 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "11.75",
+              "price": "15.75",
               "items": [
                 {
-                  "name": "The Crossing",
-                  "location": "New Zealand",
+                  "name": "Illumination By Quintessa",
+                  "location": "Napa",
                   "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "5.75"
+                  "price": ""
                 },
                 {
                   "name": "Stag's Leap",
