@@ -354,22 +354,22 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
-                {
-                  "name": "Stag's Leap The Investor",
-                  "location": "Napa",
-                  "variety": "Cab, Merlot, Cab Franc",
-                  "glassSize": "8oz",
-                  "price": "16.75"
-                },
                 {
                   "name": "Element 79",
                   "location": "Sierra Foothills",
                   "variety": "Zinfandel, Cab, Syrah",
                   "glassSize": "8oz",
                   "price": "14.75"
+                },
+                {
+                  "name": "Abstract",
+                  "location": "Napa",
+                  "variety": "Petite Syrah, Syrah, Grenache",
+                  "glassSize": "8oz",
+                  "price": "13.75"
                 },
                 {
                   "name": "8 Years In The Desert",
@@ -601,14 +601,6 @@
           "name": "Craft Beers on Tap",
           "items": [
             {
-              "name": "Revision Reno AS F*ck IPA",
-              "brewery": "Sparks",
-              "abv": "8.4%",
-              "ibu": "23",
-              "price": "$7.25",
-              "local": true
-            },
-            {
               "name": "Sierra Nevada Hazy Little Thing IPA",
               "brewery": "Chico",
               "abv": "6.7%",
@@ -695,6 +687,14 @@
               "ibu": "33",
               "price": "$7.25",
               "local": false
+            },
+            {
+              "name": "Modelo",
+              "brewery": "Mexico",
+              "abv": "4.5%",
+              "ibu": "18",
+              "price": "$6.25",
+              "local": true
             }
           ]
         },
