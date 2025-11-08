@@ -633,6 +633,22 @@
               "local": false
             },
             {
+              "name": "Russian River STS Pilsner",
+              "brewery": "Santa Rosa",
+              "abv": "5.35 %",
+              "ibu": "33",
+              "price": "$7.25",
+              "local": false
+            },
+            {
+              "name": "Russian River Blind Pig IPA",
+              "brewery": "Sonoma",
+              "abv": "8.0 %",
+              "ibu": "100",
+              "price": "$7.25",
+              "local": false
+            },
+            {
               "name": "FiftyFifty Pilsner",
               "brewery": "Truckee",
               "abv": "4.6%",
@@ -657,14 +673,6 @@
               "local": false
             },
             {
-              "name": "Russian River Blind Pig IPA",
-              "brewery": "Sonoma",
-              "abv": "8.0 %",
-              "ibu": "100",
-              "price": "$7.25",
-              "local": false
-            },
-            {
               "name": "Duvel 666 Blonde Ale",
               "brewery": "Belgium",
               "abv": "6.6%",
@@ -677,14 +685,6 @@
               "brewery": "San Diego, Ca",
               "abv": "7.0 %",
               "ibu": "70",
-              "price": "$7.25",
-              "local": false
-            },
-            {
-              "name": "Russian River STS Pilsner",
-              "brewery": "Santa Rosa",
-              "abv": "5.35 %",
-              "ibu": "33",
               "price": "$7.25",
               "local": false
             },
