@@ -694,7 +694,7 @@
               "abv": "4.5%",
               "ibu": "18",
               "price": "$6.25",
-              "local": true
+              "local": false
             }
           ]
         },
