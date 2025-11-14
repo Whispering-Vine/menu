@@ -272,28 +272,28 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "11.75",
+              "price": "15.75",
               "items": [
                 {
-                  "name": "A to Z",
+                  "name": "Four Graces",
                   "location": "Oregon",
-                  "variety": "Pinot Noir",
-                  "glassSize": "8oz",
-                  "price": "7.75"
-                },
-                {
-                  "name": "Chalk Hill",
-                  "location": "Sonoma",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
                   "price": "9.75"
                 },
                 {
-                  "name": "Hartford Court",
-                  "location": "Russian River",
+                  "name": "Cristom",
+                  "location": "Oregon",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "16.75"
+                },
+                {
+                  "name": "Flowers",
+                  "location": "Sonoma Coast",
+                  "variety": "Pinot Noir",
+                  "glassSize": "8oz",
+                  "price": "17.75"
                 }
               ]
             },
