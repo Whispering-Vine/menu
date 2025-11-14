@@ -91,7 +91,7 @@
               "description": "Paso Robles | Merlot",
               "price": {
                 "glass": 8.75,
-                "bottle": 19.99,
+                "bottle": 17.99,
                 "sale": true
               }
             },
@@ -354,22 +354,22 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "15.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
+                {
+                  "name": "Stag's Leap The Investor",
+                  "location": "Napa",
+                  "variety": "Cab, Merlot, Cab Franc",
+                  "glassSize": "8oz",
+                  "price": "16.75"
+                },
                 {
                   "name": "Element 79",
                   "location": "Sierra Foothills",
                   "variety": "Zinfandel, Cab, Syrah",
                   "glassSize": "8oz",
                   "price": "14.75"
-                },
-                {
-                  "name": "Abstract",
-                  "location": "Napa",
-                  "variety": "Petite Syrah, Syrah, Grenache",
-                  "glassSize": "8oz",
-                  "price": "13.75"
                 },
                 {
                   "name": "8 Years In The Desert",
@@ -601,6 +601,14 @@
           "name": "Craft Beers on Tap",
           "items": [
             {
+              "name": "Revision Reno AS F*ck IPA",
+              "brewery": "Sparks",
+              "abv": "8.4%",
+              "ibu": "23",
+              "price": "$7.25",
+              "local": true
+            },
+            {
               "name": "Sierra Nevada Hazy Little Thing IPA",
               "brewery": "Chico",
               "abv": "6.7%",
@@ -622,22 +630,6 @@
               "abv": "9.0%",
               "ibu": "75",
               "price": "$9.25",
-              "local": false
-            },
-            {
-              "name": "Russian River Blind Pig IPA",
-              "brewery": "Sonoma",
-              "abv": "8.0 %",
-              "ibu": "100",
-              "price": "$7.25",
-              "local": false
-            },
-            {
-              "name": "Russian River STS Pilsner",
-              "brewery": "Santa Rosa",
-              "abv": "5.35 %",
-              "ibu": "33",
-              "price": "$7.25",
               "local": false
             },
             {
@@ -673,6 +665,14 @@
               "local": false
             },
             {
+              "name": "Russian River Blind Pig IPA",
+              "brewery": "Sonoma",
+              "abv": "8.0 %",
+              "ibu": "100",
+              "price": "$7.25",
+              "local": false
+            },
+            {
               "name": "Duvel 666 Blonde Ale",
               "brewery": "Belgium",
               "abv": "6.6%",
@@ -689,11 +689,11 @@
               "local": false
             },
             {
-              "name": "Modelo",
-              "brewery": "Mexico",
-              "abv": "4.5%",
-              "ibu": "18",
-              "price": "$6.25",
+              "name": "Russian River STS Pilsner",
+              "brewery": "Santa Rosa",
+              "abv": "5.35 %",
+              "ibu": "33",
+              "price": "$7.25",
               "local": false
             }
           ]
