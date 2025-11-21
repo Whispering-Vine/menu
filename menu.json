@@ -113,11 +113,11 @@
               }
             },
             {
-              "name": "The Prisoner Red Blend",
-              "description": "Napa | Zin, Cab, Petite Syrah",
+              "name": "Whitehall Lane Tre Leoni",
+              "description": "Napa | Cab, Merlot, Malbec",
               "price": {
-                "glass": 16.75,
-                "bottle": 39.99,
+                "glass": 13.75,
+                "bottle": 29.99,
                 "sale": true
               }
             },
@@ -130,11 +130,11 @@
               }
             },
             {
-              "name": "Whispering Vine",
-              "description": "Mendocino | Zinfandel",
+              "name": "Saldo By Prisoner",
+              "description": "Napa | Zinfandel",
               "price": {
-                "glass": 8.75,
-                "bottle": 19.99,
+                "glass": 10.75,
+                "bottle": 23.99,
                 "sale": true
               }
             },
