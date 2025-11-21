@@ -255,8 +255,8 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Post & Beam ",
-                  "location": "Carneros, Napa",
+                  "name": "WALT",
+                  "location": "Sonoma Coast",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
                   "price": "13.75"
@@ -272,11 +272,11 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "15.75",
+              "price": "16.75",
               "items": [
                 {
-                  "name": "Four Graces",
-                  "location": "Oregon",
+                  "name": "Joel Gott",
+                  "location": "Santa Barbara",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
                   "price": "9.75"
@@ -289,11 +289,11 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Flowers",
+                  "name": "Sojourn \"Sangiacomo\"",
                   "location": "Sonoma Coast",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "24.75"
                 }
               ]
             },
@@ -310,18 +310,18 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Band Of Vintners ",
+                  "name": "Artesa",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "16.75"
                 },
                 {
-                  "name": "Stag's Leap",
+                  "name": "Matin Ray \"Synthesis\"",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "16.75"
                 }
               ]
             },
@@ -337,11 +337,11 @@
                   "price": "17.75"
                 },
                 {
-                  "name": "Justin Reserve",
-                  "location": "Paso Robles",
+                  "name": "CRU",
+                  "location": "Napa",
                   "variety": "Cabernet ",
                   "glassSize": "8oz",
-                  "price": "23.75"
+                  "price": "24.75"
                 },
                 {
                   "name": "Monroy",
