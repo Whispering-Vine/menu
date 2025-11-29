@@ -601,12 +601,12 @@
           "name": "Craft Beers on Tap",
           "items": [
             {
-              "name": "Revision Reno AS F*ck IPA",
-              "brewery": "Sparks",
-              "abv": "8.4%",
-              "ibu": "23",
-              "price": "$7.25",
-              "local": true
+              "name": "Modelo",
+              "brewery": "Mexico",
+              "abv": "4.5%",
+              "ibu": "18",
+              "price": "6.25",
+              "local": false
             },
             {
               "name": "Sierra Nevada Hazy Little Thing IPA",
@@ -645,14 +645,6 @@
               "brewery": "Truckee",
               "abv": "4.6%",
               "ibu": "24",
-              "price": "$6.25",
-              "local": false
-            },
-            {
-              "name": "FiftyFifty Octoberfest",
-              "brewery": "Truckee",
-              "abv": "5.5 %",
-              "ibu": "NA",
               "price": "$6.25",
               "local": false
             },
