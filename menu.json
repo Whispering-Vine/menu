@@ -317,7 +317,7 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Matin Ray \"Synthesis\"",
+                  "name": "Martin Ray \"Synthesis\"",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
@@ -337,11 +337,11 @@
                   "price": "17.75"
                 },
                 {
-                  "name": "CRU",
+                  "name": "Caymus",
                   "location": "Napa",
                   "variety": "Cabernet ",
                   "glassSize": "8oz",
-                  "price": "24.75"
+                  "price": "25.75"
                 },
                 {
                   "name": "Monroy",
@@ -365,11 +365,11 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Element 79",
-                  "location": "Sierra Foothills",
-                  "variety": "Zinfandel, Cab, Syrah",
+                  "name": "Whitehall Lane Tre Leoni",
+                  "location": "Napa",
+                  "variety": "Cab, Syrah, Merlot",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "13.75"
                 },
                 {
                   "name": "8 Years In The Desert",
@@ -968,8 +968,8 @@
               "favorites": true
             },
             {
-              "name": "ITALIAN FLATBREAD",
-              "description": "Italian Sausage, Quattro Fromaggio, Bell Peppers, Onions, Marinara Sauce",
+              "name": "SHRIMP SCAMPI FLATBREAD",
+              "description": "Garlic Bèchamel, Quattro Fromaggio, Bell Peppers, Onions",
               "gluten_free": false,
               "new": true,
               "warning": false,
@@ -985,7 +985,7 @@
               "price": "27"
             },
             {
-              "name": "3 BRAISED BISON SHORT RIB SLIDERS",
+              "name": "2 BRAISED BISON SHORT RIB SLIDERS",
               "description": "Pretzel Buns with Gorgonzola & Slaw",
               "gluten_free": false,
               "new": false,
