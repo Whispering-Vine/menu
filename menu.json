@@ -226,18 +226,18 @@
                   "price": "11.75"
                 },
                 {
-                  "name": "Perrier Jouet",
+                  "name": "Taittinger",
                   "location": "Champagne, France",
                   "variety": "Brut",
                   "glassSize": "8oz",
-                  "price": "18.75"
+                  "price": "19.75"
                 },
                 {
-                  "name": "Taittinger",
-                  "location": "Champagne. France",
-                  "variety": "Brut ",
+                  "name": "Scharmsberg",
+                  "location": "Napa",
+                  "variety": "Brut Rosé",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "17.75"
                 }
               ],
               "favorites": false
@@ -299,15 +299,15 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "15.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Whitehall Lane Rassi",
-                  "location": "Sonoma",
+                  "name": "Clos Du Val",
+                  "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Artesa",
@@ -327,21 +327,21 @@
             },
             {
               "name": "Premium Napa Cabernet Flight",
-              "price": "19.75",
+              "price": "22.75",
               "items": [
                 {
-                  "name": "Post & Beam By Far Niente",
+                  "name": "Turnbull",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
                   "price": "17.75"
                 },
                 {
-                  "name": "Caymus",
+                  "name": "Crocker Starr",
                   "location": "Napa",
-                  "variety": "Cabernet ",
+                  "variety": "Cabernet Franc",
                   "glassSize": "8oz",
-                  "price": "25.75"
+                  "price": "28.75"
                 },
                 {
                   "name": "Monroy",
