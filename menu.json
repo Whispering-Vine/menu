@@ -444,7 +444,7 @@
               "bottle": "39.99",
               "glass": "16.75",
               "favorites": false,
-              "notes": ""
+              "notes": "Winery $60"
             },
             {
               "name": "Orin Swift 8 Years In the Desert",
@@ -461,17 +461,17 @@
               "notes": "Winery $65 95pts Jeb Dunnuck"
             },
             {
-              "name": "Whitehall Lane Rassi Cabernet",
-              "bottle": "24.99",
-              "glass": "10.75",
+              "name": "Turnbull",
+              "bottle": "44.99",
+              "glass": "17.75",
               "wineryPrice": 45,
-              "notes": "Winery $40 "
+              "notes": "Winery $60"
             },
             {
-              "name": "Lucien Albrecht Rosé",
-              "bottle": "19.99",
-              "glass": "8.75",
-              "notes": "Winery $30",
+              "name": "Flowers Chardonnay",
+              "bottle": "39.99",
+              "glass": "16.75",
+              "notes": "Winery $55 93pts Wine Spectator ",
               "favorites": false
             }
           ]
