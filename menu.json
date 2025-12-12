@@ -191,11 +191,11 @@
               "price": "15.75",
               "items": [
                 {
-                  "name": "Plumpjack",
+                  "name": "Tamber Bey",
                   "location": "Napa",
                   "variety": "Sauvignon Blanc",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "13.75"
                 },
                 {
                   "name": "Stag's Leap",
@@ -282,11 +282,11 @@
                   "price": "9.75"
                 },
                 {
-                  "name": "Failla",
-                  "location": "Sonoma Coast",
+                  "name": "Arterberry Maresh",
+                  "location": "Dundee Hills, Oregon",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "13.75"
                 },
                 {
                   "name": "Sojourn \"Sangiacomo\"",
