@@ -233,7 +233,7 @@
                   "price": "19.75"
                 },
                 {
-                  "name": "Schramsberg",
+                  "name": "Scharmsberg",
                   "location": "Napa",
                   "variety": "Brut Rosé",
                   "glassSize": "8oz",
@@ -354,15 +354,15 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Stag's Leap The Investor",
+                  "name": "Neyer \"Sage Canyon\"",
                   "location": "Napa",
-                  "variety": "Cab, Merlot, Cab Franc",
+                  "variety": "Grenache, Syrah, Mourvèdre",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "12.75"
                 },
                 {
                   "name": "Leviathan",
