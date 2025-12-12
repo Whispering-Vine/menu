@@ -326,8 +326,8 @@
               ]
             },
             {
-              "name": "Premium Napa Cabernet Flight",
-              "price": "22.75",
+              "name": "Premium Cabernet Flight",
+              "price": "24.75",
               "items": [
                 {
                   "name": "Turnbull",
@@ -344,11 +344,11 @@
                   "price": "28.75"
                 },
                 {
-                  "name": "Monroy",
-                  "location": "Washington",
+                  "name": "Sinegal",
+                  "location": "Sonoma",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "27.75"
                 }
               ]
             },
