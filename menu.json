@@ -649,10 +649,10 @@
               "local": false
             },
             {
-              "name": "FiftyFifty Octoberfest",
+              "name": "Dogfish Head Grateful Dead Juicy Pale",
               "brewery": "Truckee",
-              "abv": "5.5 %",
-              "ibu": "NA",
+              "abv": "5.3%",
+              "ibu": "30",
               "price": "$6.25",
               "local": false
             },
@@ -689,11 +689,11 @@
               "local": false
             },
             {
-              "name": "Russian River STS Pilsner",
-              "brewery": "Santa Rosa",
-              "abv": "5.35 %",
-              "ibu": "33",
-              "price": "$7.25",
+              "name": "Modelo",
+              "brewery": "Mexico",
+              "abv": "4.5 %",
+              "ibu": "18",
+              "price": "$6.25",
               "local": false
             }
           ]
