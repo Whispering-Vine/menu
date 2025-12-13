@@ -440,14 +440,14 @@
         "specials": {
           "items": [
             {
-              "name": "Clos Du Val",
+              "name": "Clos Du Val Cabernet",
               "bottle": "39.99",
               "glass": "16.75",
               "favorites": false,
               "notes": "Winery $60"
             },
             {
-              "name": "Orin Swift 8 Years In the Desert",
+              "name": "Orin Swift 8 Years In the Desert Red Blend",
               "bottle": "45.99",
               "glass": "17.75",
               "wineryPrice": 85,
@@ -455,13 +455,13 @@
               "favorites": false
             },
             {
-              "name": "Illumination By Quintessa Sauvignon Blanc",
-              "bottle": "39.99",
-              "glass": "16.75",
-              "notes": "Winery $65 95pts Jeb Dunnuck"
+              "name": "Sinegal Cabernet",
+              "bottle": "69.99",
+              "glass": "27.75",
+              "notes": "Winery $95"
             },
             {
-              "name": "Turnbull",
+              "name": "Turnbull Cabernet",
               "bottle": "44.99",
               "glass": "17.75",
               "wineryPrice": 45,
