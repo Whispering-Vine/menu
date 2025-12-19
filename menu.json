@@ -188,7 +188,7 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "15.75",
+              "price": "12.75",
               "items": [
                 {
                   "name": "Tamber Bey",
@@ -198,11 +198,11 @@
                   "price": "13.75"
                 },
                 {
-                  "name": "Stag's Leap",
-                  "location": "Napa",
-                  "variety": "Viognier",
+                  "name": "Four Graces",
+                  "location": "Willamette",
+                  "variety": "Pinot Gris",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "8.75"
                 },
                 {
                   "name": "WALT",
@@ -216,7 +216,7 @@
             },
             {
               "name": "Bubbles Flight",
-              "price": "16.75",
+              "price": "13.75",
               "items": [
                 {
                   "name": "Roederer Estate ",
@@ -226,11 +226,11 @@
                   "price": "11.75"
                 },
                 {
-                  "name": "Taittinger",
-                  "location": "Champagne, France",
+                  "name": "Scharffenberger",
+                  "location": "Mendocino",
                   "variety": "Brut",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Scharmsberg",
@@ -244,22 +244,22 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
+                {
+                  "name": "Diatom",
+                  "location": "Santa Barbara",
+                  "variety": "Chardonnay",
+                  "glassSize": "8oz",
+                  "price": "10.75"
+                },
                 {
                   "name": "Flowers",
                   "location": "Sonoma Coast",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
                   "price": "16.75"
-                },
-                {
-                  "name": "WALT",
-                  "location": "Sonoma Coast",
-                  "variety": "Chardonnay",
-                  "glassSize": "8oz",
-                  "price": "13.75"
                 },
                 {
                   "name": "Nickel & Nickel",
@@ -272,21 +272,21 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "16.75",
+              "price": "17.75",
               "items": [
                 {
-                  "name": "Joel Gott",
-                  "location": "Santa Barbara",
+                  "name": "Cristom",
+                  "location": "Willamette, Oregon",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "9.75"
+                  "price": "16.75"
                 },
                 {
-                  "name": "Arterberry Maresh",
-                  "location": "Dundee Hills, Oregon",
+                  "name": "En Route",
+                  "location": "Russian River",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "13.75"
+                  "price": "17.75"
                 },
                 {
                   "name": "Sojourn \"Sangiacomo\"",
@@ -303,7 +303,7 @@
               "favorites": true,
               "items": [
                 {
-                  "name": "Clos Du Val",
+                  "name": "Whitehall Lane",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
@@ -317,11 +317,11 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Martin Ray \"Synthesis\"",
+                  "name": "Prisoner",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "17.75"
                 }
               ]
             },
@@ -330,22 +330,22 @@
               "price": "24.75",
               "items": [
                 {
-                  "name": "Turnbull",
+                  "name": "John Anthony",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "24.75"
                 },
                 {
-                  "name": "Crocker Starr",
+                  "name": "Staglin \"Salus\"",
                   "location": "Napa",
-                  "variety": "Cabernet Franc",
+                  "variety": "Cabernet ",
                   "glassSize": "8oz",
-                  "price": "28.75"
+                  "price": "24.75"
                 },
                 {
                   "name": "Sinegal",
-                  "location": "Sonoma",
+                  "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
                   "price": "27.75"
