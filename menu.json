@@ -625,14 +625,6 @@
               "local": true
             },
             {
-              "name": "Old Rasputin Imperial Stout Nitro",
-              "brewery": "North Coast, Ca",
-              "abv": "9.0%",
-              "ibu": "75",
-              "price": "$9.25",
-              "local": false
-            },
-            {
               "name": "Russian River Pliny the Elder Double IPA",
               "brewery": "Santa Rosa",
               "abv": "8.0%",
