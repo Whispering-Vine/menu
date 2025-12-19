@@ -354,15 +354,15 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "15.75",
+              "price": "12.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Neyer \"Sage Canyon\"",
-                  "location": "Napa",
-                  "variety": "Grenache, Syrah, Mourvèdre",
+                  "name": "Metier",
+                  "location": "Washington ",
+                  "variety": "Syrah, Cabernet, Syrah",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Leviathan",
@@ -372,11 +372,11 @@
                   "price": "13.75"
                 },
                 {
-                  "name": "8 Years In The Desert",
+                  "name": "Orin Swift \"Abstract\"",
                   "location": "Napa",
-                  "variety": "Zinfandel, Petite Syrah",
+                  "variety": "Petite Syrah, Syrah, Grenache",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "12.75"
                 }
               ]
             },
