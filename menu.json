@@ -440,18 +440,18 @@
         "specials": {
           "items": [
             {
-              "name": "Clos Du Val",
-              "bottle": "39.99",
-              "glass": "16.75",
+              "name": "Sinegal Caberrnet",
+              "bottle": "69.99",
+              "glass": "27.75",
               "favorites": false,
-              "notes": "Winery $60"
+              "notes": "Winery $90"
             },
             {
-              "name": "Orin Swift 8 Years In the Desert",
-              "bottle": "45.99",
-              "glass": "17.75",
+              "name": "Whitehall Lane Cabernet",
+              "bottle": "44.99",
+              "glass": "16.75",
               "wineryPrice": 85,
-              "notes": " Winery $50 ",
+              "notes": " Winery $55",
               "favorites": false
             },
             {
@@ -461,9 +461,9 @@
               "notes": "Winery $65 95pts Jeb Dunnuck"
             },
             {
-              "name": "Turnbull",
-              "bottle": "44.99",
-              "glass": "17.75",
+              "name": "En Route Pinot Noir",
+              "bottle": "39.99",
+              "glass": "16.75",
               "wineryPrice": 45,
               "notes": "Winery $60"
             },
