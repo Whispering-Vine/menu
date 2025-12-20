@@ -87,11 +87,11 @@
               }
             },
             {
-              "name": "Ancient Peaks",
-              "description": "Paso Robles | Merlot",
+              "name": "Ferrari Carano",
+              "description": "Sonoma | Merlot",
               "price": {
-                "glass": 8.75,
-                "bottle": 17.99,
+                "glass": 9.75,
+                "bottle": 21.99,
                 "sale": true
               }
             },
