@@ -327,14 +327,14 @@
             },
             {
               "name": "Premium Cabernet Flight",
-              "price": "24.75",
+              "price": "27.75",
               "items": [
                 {
-                  "name": "John Anthony",
+                  "name": "Anthem Mt. Veeder",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "24.75"
+                  "price": "34.75"
                 },
                 {
                   "name": "Staglin \"Salus\"",
