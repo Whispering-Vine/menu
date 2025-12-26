@@ -34,11 +34,11 @@
               }
             },
             {
-              "name": "John Anthony",
+              "name": "Duckhorn",
               "description": "Napa | Sauvignon Blanc",
               "price": {
-                "glass": 11.75,
-                "bottle": 24.99,
+                "glass": 10.75,
+                "bottle": 22.99,
                 "sale": true
               }
             },
@@ -87,11 +87,11 @@
               }
             },
             {
-              "name": "Ferrari Carano",
-              "description": "Sonoma | Merlot",
+              "name": "Duckhorn",
+              "description": "Napa | Merlot",
               "price": {
-                "glass": 9.75,
-                "bottle": 21.99,
+                "glass": 17.75,
+                "bottle": 39.99,
                 "sale": true
               }
             },
