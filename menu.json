@@ -233,9 +233,9 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Scharmsberg",
-                  "location": "Napa",
-                  "variety": "Brut Rosé",
+                  "name": "Jacquart",
+                  "location": "Champagne, France",
+                  "variety": "Brut ",
                   "glassSize": "8oz",
                   "price": "17.75"
                 }
@@ -289,11 +289,11 @@
                   "price": "17.75"
                 },
                 {
-                  "name": "Sojourn \"Sangiacomo\"",
+                  "name": "WALT \"Bob's Ranch\"",
                   "location": "Sonoma Coast",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "24.75"
+                  "price": "25.75"
                 }
               ]
             },
