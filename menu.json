@@ -188,14 +188,14 @@
           "items": [
             {
               "name": "White Variety Flight",
-              "price": "12.75",
+              "price": "10.75",
               "items": [
                 {
-                  "name": "Tamber Bey",
+                  "name": "Trefethen",
                   "location": "Napa",
-                  "variety": "Sauvignon Blanc",
+                  "variety": "Bone-Dry Riesling",
                   "glassSize": "8oz",
-                  "price": "13.75"
+                  "price": "8.75"
                 },
                 {
                   "name": "Four Graces",
