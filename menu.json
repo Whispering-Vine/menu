@@ -440,18 +440,18 @@
         "specials": {
           "items": [
             {
-              "name": "Sinegal Caberrnet",
-              "bottle": "69.99",
-              "glass": "27.75",
+              "name": "Ink Grade Cabernet",
+              "bottle": "59.99",
+              "glass": "23.75",
               "favorites": false,
-              "notes": "Winery $90"
+              "notes": "50% OFF Winery $120 92pts Wine Spectator"
             },
             {
-              "name": "Whitehall Lane Cabernet",
+              "name": "Flowers Pinot Noir",
               "bottle": "44.99",
-              "glass": "16.75",
+              "glass": "17.75",
               "wineryPrice": 85,
-              "notes": " Winery $55",
+              "notes": " Winery $60 94pts Jeb Dunnuck",
               "favorites": false
             },
             {
@@ -461,11 +461,11 @@
               "notes": "93pts Wine Spectator Top 100 #18"
             },
             {
-              "name": "En Route Pinot Noir",
+              "name": "Duckhorn Merlot",
               "bottle": "39.99",
               "glass": "17.75",
               "wineryPrice": 45,
-              "notes": "Winery $60"
+              "notes": "Winery $58"
             },
             {
               "name": "Flowers Chardonnay",
