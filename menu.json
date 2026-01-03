@@ -205,18 +205,18 @@
                   "price": "8.75"
                 },
                 {
-                  "name": "WALT",
-                  "location": "Sonoma",
-                  "variety": "Rosé",
+                  "name": "Meyer Nakel",
+                  "location": "Germany",
+                  "variety": "Dry Rosé",
                   "glassSize": "8oz",
-                  "price": "13.75"
+                  "price": "14.75"
                 }
               ],
               "favorites": true
             },
             {
               "name": "Bubbles Flight",
-              "price": "13.75",
+              "price": "15.75",
               "items": [
                 {
                   "name": "Roederer Estate ",
@@ -226,11 +226,11 @@
                   "price": "11.75"
                 },
                 {
-                  "name": "Scharffenberger",
-                  "location": "Mendocino",
-                  "variety": "Brut",
+                  "name": "Schramsberg",
+                  "location": "Napa",
+                  "variety": "Blanc de Blanc",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "14.75"
                 },
                 {
                   "name": "Jacquart",
