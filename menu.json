@@ -282,8 +282,8 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "En Route",
-                  "location": "Russian River",
+                  "name": "Flowers",
+                  "location": "Sonoma Coast",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
                   "price": "17.75"
@@ -344,11 +344,11 @@
                   "price": "24.75"
                 },
                 {
-                  "name": "Sinegal",
+                  "name": "Ink Grade",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "27.75"
+                  "price": "23.75"
                 }
               ]
             },
