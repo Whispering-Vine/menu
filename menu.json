@@ -441,37 +441,37 @@
         "specials": {
           "items": [
             {
-              "name": "Ink Grade Cabernet",
-              "bottle": "59.99",
-              "glass": "23.75",
+              "name": "Brewer Clifton \"Machado\" Pinot Noir",
+              "bottle": "79.99",
+              "glass": "31.75",
               "favorites": false,
-              "notes": "50% OFF Winery $120 92pts Wine Spectator"
+              "notes": "97pts James Suckling 96pts"
             },
             {
-              "name": "Flowers Pinot Noir",
-              "bottle": "44.99",
-              "glass": "17.75",
+              "name": "Heitz Napa Cabernet",
+              "bottle": "59.99",
+              "glass": "24.75",
               "wineryPrice": 85,
-              "notes": " Winery $60 94pts Jeb Dunnuck",
+              "notes": " Winery $85 99pts Decanter",
               "favorites": false
             },
             {
-              "name": "Diatom Chardonnay",
+              "name": "Beronia Rioja Reserva",
+              "bottle": "19.99",
+              "glass": "8.75",
+              "notes": "90pts Wine Spectator "
+            },
+            {
+              "name": "Scharffenberger Brut Excellence",
               "bottle": "24.99",
               "glass": "10.75",
-              "notes": "93pts Wine Spectator Top 100 #18"
-            },
-            {
-              "name": "Duckhorn Merlot",
-              "bottle": "39.99",
-              "glass": "17.75",
               "wineryPrice": 45,
-              "notes": "Winery $58"
+              "notes": "93pts Jed Dunnuck"
             },
             {
-              "name": "Schramsberg Blanc De Blanc",
-              "bottle": "35.99",
-              "glass": "16.75",
+              "name": "Pazo Das Bruxas Albarino",
+              "bottle": "23.99",
+              "glass": "10.75",
               "notes": "Winery $44 92pts Wine Spectator ",
               "favorites": false
             }
