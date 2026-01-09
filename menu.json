@@ -328,14 +328,14 @@
             },
             {
               "name": "Premium Cabernet Flight",
-              "price": "27.75",
+              "price": "23.75",
               "items": [
                 {
-                  "name": "Anthem Mt. Veeder",
+                  "name": "Heitz",
                   "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "34.75"
+                  "price": "24.75"
                 },
                 {
                   "name": "Staglin \"Salus\"",
