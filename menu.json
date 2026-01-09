@@ -276,11 +276,11 @@
               "price": "18.75",
               "items": [
                 {
-                  "name": "Cristom",
+                  "name": "Hyland \"Coury\"",
                   "location": "Willamette, Oregon",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "17.75"
                 },
                 {
                   "name": "Brewer Clifton \"Machado\"",
@@ -413,11 +413,11 @@
               "price": "16.75",
               "items": [
                 {
-                  "name": "Indolente Cannonau Riserva",
-                  "location": "Italy",
-                  "variety": "Grenache",
+                  "name": "Beronia Reserva",
+                  "location": "Rioja, Spain",
+                  "variety": "Tempranillo",
                   "glassSize": "8oz",
-                  "price": "13.75"
+                  "price": "8.75"
                 },
                 {
                   "name": "Mendel",
@@ -427,8 +427,8 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Plumpjack",
-                  "location": "Napa",
+                  "name": "Seghesio Old Vine",
+                  "location": "Sonoma",
                   "variety": "Merlot",
                   "glassSize": "8oz",
                   "price": "24.75"
@@ -470,9 +470,9 @@
             },
             {
               "name": "Pazo Das Bruxas Albarino",
-              "bottle": "23.99",
+              "bottle": "22.99",
               "glass": "10.75",
-              "notes": "Winery $44 92pts Wine Spectator ",
+              "notes": "",
               "favorites": false
             }
           ]
