@@ -338,11 +338,11 @@
                   "price": "24.75"
                 },
                 {
-                  "name": "Staglin \"Salus\"",
-                  "location": "Napa",
+                  "name": "Cherry Block",
+                  "location": "Sonoma",
                   "variety": "Cabernet ",
                   "glassSize": "8oz",
-                  "price": "24.75"
+                  "price": "36.75"
                 },
                 {
                   "name": "Ink Grade",
@@ -429,9 +429,9 @@
                 {
                   "name": "Seghesio Old Vine",
                   "location": "Sonoma",
-                  "variety": "Merlot",
+                  "variety": "Zinfandel ",
                   "glassSize": "8oz",
-                  "price": "24.75"
+                  "price": "16.75"
                 }
               ],
               "favorites": true
