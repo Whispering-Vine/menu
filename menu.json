@@ -188,22 +188,22 @@
           "caption": "Enjoy a flight of 3 wines (3 oz. each) or any 8 oz. glass",
           "items": [
             {
-              "name": "White Variety Flight",
-              "price": "10.75",
+              "name": "International White Variety Flight",
+              "price": "11.75",
               "items": [
                 {
-                  "name": "Trefethen",
-                  "location": "Napa",
-                  "variety": "Bone-Dry Riesling",
+                  "name": "Cala Civetta ",
+                  "location": "Italy",
+                  "variety": "Vermentino",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "7.75"
                 },
                 {
-                  "name": "Four Graces",
-                  "location": "Willamette",
-                  "variety": "Pinot Gris",
+                  "name": "Pazo Das Bruxas",
+                  "location": "Spain",
+                  "variety": "Albarino",
                   "glassSize": "8oz",
-                  "price": "8.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Meyer Nakel",
@@ -220,11 +220,11 @@
               "price": "15.75",
               "items": [
                 {
-                  "name": "Roederer Estate ",
+                  "name": "Scharffenberger",
                   "location": "Mendocino",
                   "variety": "Brut ",
                   "glassSize": "8oz",
-                  "price": "11.75"
+                  "price": "10.75"
                 },
                 {
                   "name": "Schramsberg",
@@ -245,15 +245,15 @@
             },
             {
               "name": "Chardonnay Flight",
-              "price": "15.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Diatom",
-                  "location": "Santa Barbara",
+                  "name": "Far Niente",
+                  "location": "Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "18.75"
                 },
                 {
                   "name": "Flowers",
@@ -273,7 +273,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "17.75",
+              "price": "18.75",
               "items": [
                 {
                   "name": "Cristom",
@@ -283,18 +283,18 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Flowers",
-                  "location": "Sonoma Coast",
+                  "name": "Brewer Clifton \"Machado\"",
+                  "location": "Sta. Rita",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "31.75"
                 },
                 {
-                  "name": "WALT \"Bob's Ranch\"",
-                  "location": "Sonoma Coast",
+                  "name": "BOEN ",
+                  "location": "Sonoma - Monterey",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "25.75"
+                  "price": "8.75"
                 }
               ]
             },
