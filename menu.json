@@ -43,11 +43,11 @@
               }
             },
             {
-              "name": "Mer Soleil",
+              "name": "BOEN",
               "description": "Santa Lucia Highlands| Chardonnay",
               "price": {
-                "glass": 7.75,
-                "bottle": 15.99,
+                "glass": 8.75,
+                "bottle": 17.99,
                 "sale": true
               }
             },
@@ -122,11 +122,12 @@
               }
             },
             {
-              "name": "Tenuta Di Arceno",
+              "name": "Ruffino",
               "description": "Italy | Chianti",
               "price": {
-                "glass": 12.75,
-                "bottle": 29.99
+                "glass": 8.75,
+                "bottle": 18.99,
+                "sale": true
               }
             },
             {
