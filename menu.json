@@ -104,11 +104,11 @@
               }
             },
             {
-              "name": "Quilt",
+              "name": "Prisoner Wine Co.",
               "description": "Napa | Cabernet",
               "price": {
-                "glass": 13.75,
-                "bottle": 29.99,
+                "glass": 17.75,
+                "bottle": 44.99,
                 "sale": true
               }
             },
