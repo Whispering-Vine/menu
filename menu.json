@@ -16,12 +16,12 @@
               }
             },
             {
-              "name": "Roederer Estate",
-              "description": "Anderson Valley | Brut Rosé",
+              "name": "Ruffino",
+              "description": "Italy | Prosecco",
               "price": {
-                "glass": 13.75,
-                "bottle": 31.99,
-                "sale": false
+                "glass": 5.75,
+                "bottle": 9.99,
+                "sale": true
               }
             },
             {
@@ -328,7 +328,7 @@
             },
             {
               "name": "Premium Cabernet Flight",
-              "price": "23.75",
+              "price": "25.75",
               "items": [
                 {
                   "name": "Heitz",
@@ -445,7 +445,7 @@
               "bottle": "79.99",
               "glass": "31.75",
               "favorites": false,
-              "notes": "97pts James Suckling 96pts"
+              "notes": "97pts James Suckling 96pts Wine Spectator"
             },
             {
               "name": "Heitz Napa Cabernet",
@@ -627,7 +627,7 @@
             },
             {
               "name": "Russian River Pliny the Elder Double IPA",
-              "brewery": "Sonoma",
+              "brewery": "Santa Rosa",
               "abv": "8.0%",
               "ibu": "100",
               "price": "$8.25",
@@ -643,7 +643,7 @@
             },
             {
               "name": "Dogfish Head Grateful Dead Juicy Pale",
-              "brewery": "Delaware",
+              "brewery": "Truckee",
               "abv": "5.3%",
               "ibu": "30",
               "price": "$6.25",
@@ -666,11 +666,11 @@
               "local": false
             },
             {
-              "name": "Russian River STS Pilsner",
-              "brewery": "Sonoma",
-              "abv": "5.4%",
-              "ibu": "34",
-              "price": "$8.25",
+              "name": "Duvel 666 Blonde Ale",
+              "brewery": "Belgium",
+              "abv": "6.6%",
+              "ibu": "20",
+              "price": "$9.25",
               "local": false
             },
             {
