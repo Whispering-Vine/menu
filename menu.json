@@ -355,7 +355,7 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "12.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
@@ -373,11 +373,11 @@
                   "price": "13.75"
                 },
                 {
-                  "name": "Orin Swift \"Abstract\"",
-                  "location": "Napa",
-                  "variety": "Petite Syrah, Syrah, Grenache",
+                  "name": "Ridge \"Lytton Springs\"",
+                  "location": "Sonoma",
+                  "variety": "Zinfandel, Petite Syrah",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "22.75"
                 }
               ]
             },
