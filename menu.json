@@ -34,11 +34,11 @@
               }
             },
             {
-              "name": "Duckhorn",
+              "name": "Silverado",
               "description": "Napa | Sauvignon Blanc",
               "price": {
-                "glass": 10.75,
-                "bottle": 22.99,
+                "glass": 8.75,
+                "bottle": 19.99,
                 "sale": true
               }
             },
