@@ -264,7 +264,7 @@
                 },
                 {
                   "name": "Nickel & Nickel",
-                  "location": "Carneros, Napa",
+                  "location": "Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
                   "price": "16.75"
@@ -273,7 +273,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "18.75",
+              "price": "17.75",
               "items": [
                 {
                   "name": "Hyland \"Coury\"",
