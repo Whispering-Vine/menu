@@ -192,18 +192,18 @@
               "price": "11.75",
               "items": [
                 {
-                  "name": "Cala Civetta ",
-                  "location": "Italy",
-                  "variety": "Vermentino",
-                  "glassSize": "8oz",
-                  "price": "7.75"
-                },
-                {
                   "name": "Pazo Das Bruxas",
                   "location": "Spain",
                   "variety": "Albarino",
                   "glassSize": "8oz",
                   "price": "10.75"
+                },
+                {
+                  "name": "Kim Crawford",
+                  "location": "New Zealand",
+                  "variety": "Sauvignon Blanc",
+                  "glassSize": "8oz",
+                  "price": "6.75"
                 },
                 {
                   "name": "Meyer Nakel",
@@ -283,8 +283,8 @@
                   "price": "17.75"
                 },
                 {
-                  "name": "Brewer Clifton \"Machado\"",
-                  "location": "Sta. Rita",
+                  "name": "WALT \"Bob's Ranch\"",
+                  "location": "Sonoma Coast",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
                   "price": "31.75"
@@ -300,7 +300,7 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "16.75",
+              "price": "17.75",
               "favorites": true,
               "items": [
                 {
@@ -318,11 +318,11 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Prisoner",
-                  "location": "Napa",
+                  "name": "Bledsoe",
+                  "location": "Washington",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "17.75"
+                  "price": "19.75"
                 }
               ]
             },
