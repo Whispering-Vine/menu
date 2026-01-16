@@ -441,37 +441,37 @@
         "specials": {
           "items": [
             {
-              "name": "Brewer Clifton \"Machado\" Pinot Noir",
+              "name": "WALT \"Bob's Ranch\" Pinot Noir",
               "bottle": "79.99",
               "glass": "31.75",
               "favorites": false,
-              "notes": "97pts James Suckling 96pts Wine Spectator"
+              "notes": "Winery $100 "
             },
             {
-              "name": "Heitz Napa Cabernet",
-              "bottle": "59.99",
-              "glass": "24.75",
+              "name": "Ridge \"Lytton Springs\" Red Blend",
+              "bottle": "56.99",
+              "glass": "22.75",
               "wineryPrice": 85,
-              "notes": " Winery $85 99pts Decanter",
+              "notes": "95pts Wine Spectator Top 100 #3",
               "favorites": false
             },
             {
-              "name": "Beronia Rioja Reserva",
-              "bottle": "19.99",
-              "glass": "8.75",
-              "notes": "90pts Wine Spectator "
+              "name": "Bledsoe Cabernet",
+              "bottle": "49.99",
+              "glass": "19.75",
+              "notes": "94pts Wine Spectator "
             },
             {
-              "name": "Scharffenberger Brut Excellence",
-              "bottle": "24.99",
-              "glass": "10.75",
+              "name": "Cakebread Chardonnay",
+              "bottle": "41.99",
+              "glass": "16.75",
               "wineryPrice": 45,
-              "notes": "93pts Jed Dunnuck"
+              "notes": ""
             },
             {
-              "name": "Pazo Das Bruxas Albarino",
-              "bottle": "22.99",
-              "glass": "10.75",
+              "name": "Madaudo \"Sicilia Etna\"",
+              "bottle": "29.99",
+              "glass": "12.75",
               "notes": "",
               "favorites": false
             }
