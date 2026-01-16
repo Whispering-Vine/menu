@@ -244,7 +244,7 @@
               "favorites": false
             },
             {
-              "name": "Chardonnay Flight",
+              "name": "Napa Chardonnay Flight",
               "price": "16.75",
               "favorites": true,
               "items": [
@@ -256,8 +256,8 @@
                   "price": "18.75"
                 },
                 {
-                  "name": "Flowers",
-                  "location": "Sonoma Coast",
+                  "name": "Cakebread",
+                  "location": "Napa",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
                   "price": "16.75"
