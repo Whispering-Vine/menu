@@ -104,11 +104,11 @@
               }
             },
             {
-              "name": "Frank Family",
+              "name": "Quilt",
               "description": "Napa | Cabernet",
               "price": {
-                "glass": 17.75,
-                "bottle": 44.99,
+                "glass": 13.75,
+                "bottle": 29.99,
                 "sale": true
               }
             },
