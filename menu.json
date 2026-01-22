@@ -300,7 +300,7 @@
             },
             {
               "name": "Cabernet Flight",
-              "price": "17.75",
+              "price": "16.75",
               "favorites": true,
               "items": [
                 {
@@ -318,24 +318,24 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "Bledsoe",
-                  "location": "Washington",
+                  "name": "My Favorite Neighbor",
+                  "location": "Paso Robles",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "19.75"
+                  "price": "16.75"
                 }
               ]
             },
             {
               "name": "Premium Cabernet Flight",
-              "price": "25.75",
+              "price": "26.75",
               "items": [
                 {
-                  "name": "Heitz",
-                  "location": "Napa",
+                  "name": "Sinegal ",
+                  "location": "Sonoma ",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "24.75"
+                  "price": "26.75"
                 },
                 {
                   "name": "Cherry Block",
@@ -355,7 +355,7 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
@@ -366,18 +366,18 @@
                   "price": "10.75"
                 },
                 {
-                  "name": "Leviathan",
+                  "name": "Chappellet",
                   "location": "Napa",
-                  "variety": "Cab, Syrah, Merlot, Petite",
+                  "variety": "Cab, Merlot, Cab Franc",
                   "glassSize": "8oz",
-                  "price": "13.75"
+                  "price": "17.75"
                 },
                 {
-                  "name": "Ridge \"Lytton Springs\"",
+                  "name": "Ferrari Carano Tresor",
                   "location": "Sonoma",
-                  "variety": "Zinfandel, Petite Syrah",
+                  "variety": "Cab, Merlot, Cab Franc",
                   "glassSize": "8oz",
-                  "price": "22.75"
+                  "price": "16.75"
                 }
               ]
             },
