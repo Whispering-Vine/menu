@@ -44,7 +44,7 @@
             },
             {
               "name": "BOEN",
-              "description": "Santa Lucia Highlands | Chardonnay",
+              "description": "Santa Lucia Highlands| Chardonnay",
               "price": {
                 "glass": 8.75,
                 "bottle": 17.99,
@@ -217,14 +217,14 @@
             },
             {
               "name": "Bubbles Flight",
-              "price": "15.75",
+              "price": "14.75",
               "items": [
                 {
-                  "name": "Scharffenberger",
-                  "location": "Mendocino",
-                  "variety": "Brut ",
+                  "name": "Lucien Albrecht ",
+                  "location": "France ",
+                  "variety": "Brut Rosé",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "8.75"
                 },
                 {
                   "name": "Schramsberg",
@@ -387,7 +387,7 @@
               "items": [
                 {
                   "name": "Fradiles",
-                  "location": "Sardinia, Italy",
+                  "location": "Sardina, Italy",
                   "variety": "Red Blend",
                   "glassSize": "8oz",
                   "price": "9.75"
@@ -401,7 +401,7 @@
                 },
                 {
                   "name": "Bagadiu",
-                  "location": "Sardinia, Italy",
+                  "location": "Sardina, Italy",
                   "variety": "Red Blend",
                   "glassSize": "8oz",
                   "price": "13.75"
@@ -441,37 +441,37 @@
         "specials": {
           "items": [
             {
-              "name": "WALT \"Bob's Ranch\" Pinot Noir",
-              "bottle": "79.99",
-              "glass": "31.75",
+              "name": "Sinegal Sonoma Cabernet",
+              "bottle": "69.99",
+              "glass": "27.75",
               "favorites": false,
-              "notes": "Winery $100 "
+              "notes": "Winery $90"
             },
             {
-              "name": "Ridge \"Lytton Springs\" Red Blend",
-              "bottle": "56.99",
-              "glass": "22.75",
+              "name": "Aperture Red Blend",
+              "bottle": "44.99",
+              "glass": "17.75",
               "wineryPrice": 85,
-              "notes": "95pts Wine Spectator Top 100 #3",
+              "notes": "Winery $60 97pts Wine Enthusiast",
               "favorites": false
             },
             {
-              "name": "Bledsoe Cabernet",
-              "bottle": "49.99",
-              "glass": "19.75",
-              "notes": "94pts Wine Spectator "
+              "name": "My Favorite Neighbor Cabernet",
+              "bottle": "39.99",
+              "glass": "16.75",
+              "notes": "Winery $50 92pts James Suckling"
             },
             {
-              "name": "Cakebread Chardonnay",
-              "bottle": "41.99",
+              "name": "Seghesio Old Vine Zinfandel",
+              "bottle": "39.99",
               "glass": "16.75",
               "wineryPrice": 45,
-              "notes": ""
+              "notes": "93pts Wine Spectator"
             },
             {
-              "name": "Madaudo \"Sicilia Etna\"",
-              "bottle": "29.99",
-              "glass": "12.75",
+              "name": "Chalk Hill Russian River Chardonnay",
+              "bottle": "26.99",
+              "glass": "11.75",
               "notes": "",
               "favorites": false
             }
