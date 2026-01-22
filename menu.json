@@ -245,7 +245,7 @@
             },
             {
               "name": "Napa Chardonnay Flight",
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true,
               "items": [
                 {
@@ -256,11 +256,11 @@
                   "price": "18.75"
                 },
                 {
-                  "name": "Cakebread",
-                  "location": "Napa",
+                  "name": "Chalk Hill",
+                  "location": "Russian River",
                   "variety": "Chardonnay",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "11.75"
                 },
                 {
                   "name": "Nickel & Nickel",
