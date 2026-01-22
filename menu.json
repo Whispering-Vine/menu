@@ -410,7 +410,7 @@
             },
             {
               "name": "Red Variety Flight",
-              "price": "16.75",
+              "price": "15.75",
               "items": [
                 {
                   "name": "Madaudo \"Sicilia Etna\"",
@@ -420,11 +420,11 @@
                   "price": "12.75"
                 },
                 {
-                  "name": "Mendel",
-                  "location": "Argentina",
-                  "variety": "Malbec",
+                  "name": "Amor Fati",
+                  "location": "Santa Maria ",
+                  "variety": "Grenache",
                   "glassSize": "8oz",
-                  "price": "12.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Seghesio Old Vine",
