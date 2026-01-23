@@ -273,7 +273,7 @@
             },
             {
               "name": "Pinot Noir Flight",
-              "price": "17.75",
+              "price": "12.75",
               "items": [
                 {
                   "name": "Hyland \"Coury\"",
@@ -283,11 +283,11 @@
                   "price": "17.75"
                 },
                 {
-                  "name": "WALT \"Bob's Ranch\"",
-                  "location": "Sonoma Coast",
+                  "name": "Four Graces",
+                  "location": "Willamette, Oregon ",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
-                  "price": "31.75"
+                  "price": "9.75"
                 },
                 {
                   "name": "BOEN ",
