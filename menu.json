@@ -78,11 +78,11 @@
               }
             },
             {
-              "name": "Duckhorn Goldeneye",
-              "description": "Anderson Valley | Pinot Noir",
+              "name": "The Calling",
+              "description": "Russian River | Pinot Noir",
               "price": {
-                "glass": 17.75,
-                "bottle": 44.99,
+                "glass": 12.75,
+                "bottle": 29.99,
                 "sale": true
               }
             },
