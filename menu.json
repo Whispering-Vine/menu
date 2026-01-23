@@ -43,7 +43,7 @@
               }
             },
             {
-              "name": "BÖEN",
+              "name": "BOEN",
               "description": "Santa Lucia Highlands| Chardonnay",
               "price": {
                 "glass": 8.75,
@@ -290,7 +290,7 @@
                   "price": "9.75"
                 },
                 {
-                  "name": "BOEN ",
+                  "name": "BÖEN ",
                   "location": "Sonoma - Monterey",
                   "variety": "Pinot Noir",
                   "glassSize": "8oz",
