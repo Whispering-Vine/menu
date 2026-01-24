@@ -634,11 +634,11 @@
               "local": false
             },
             {
-              "name": "FiftyFifty Pilsner",
-              "brewery": "Truckee",
-              "abv": "4.6%",
-              "ibu": "24",
-              "price": "$6.25",
+              "name": "Russian River Happy Hops IPA",
+              "brewery": "Sonoma",
+              "abv": "6.5 %",
+              "ibu": "50",
+              "price": "$7.25",
               "local": false
             },
             {
@@ -650,19 +650,19 @@
               "local": false
             },
             {
+              "name": "FiftyFifty Pilsner",
+              "brewery": "Truckee",
+              "abv": "4.6%",
+              "ibu": "24",
+              "price": "$6.25",
+              "local": false
+            },
+            {
               "name": "Pilsner Urquell",
               "brewery": "Czech Republic",
               "abv": "4.4%",
               "ibu": "40",
               "price": "$6.25",
-              "local": false
-            },
-            {
-              "name": "Russian River Happy Hops IPA",
-              "brewery": "Sonoma",
-              "abv": "6.5 %",
-              "ibu": "50",
-              "price": "$7.25",
               "local": false
             },
             {
@@ -687,6 +687,14 @@
               "abv": "4.5 %",
               "ibu": "18",
               "price": "$6.25",
+              "local": false
+            },
+            {
+              "name": "North Coast Rasputin Russian Imperial Stout Nitro",
+              "brewery": "Fort Bragg",
+              "abv": "9.0 %",
+              "ibu": "75",
+              "price": "$8.25",
               "local": false
             }
           ]
