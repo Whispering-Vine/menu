@@ -43,7 +43,7 @@
               }
             },
             {
-              "name": "BOEN",
+              "name": "BÖEN",
               "description": "Santa Lucia Highlands| Chardonnay",
               "price": {
                 "glass": 8.75,
@@ -682,19 +682,19 @@
               "local": false
             },
             {
-              "name": "Modelo",
-              "brewery": "Mexico",
-              "abv": "4.5 %",
-              "ibu": "18",
-              "price": "$6.25",
-              "local": false
-            },
-            {
               "name": "North Coast Rasputin Russian Imperial Stout Nitro",
               "brewery": "Fort Bragg",
               "abv": "9.0 %",
               "ibu": "75",
               "price": "$8.25",
+              "local": false
+            },
+            {
+              "name": "Modelo",
+              "brewery": "Mexico",
+              "abv": "4.5 %",
+              "ibu": "18",
+              "price": "$6.25",
               "local": false
             }
           ]
@@ -969,8 +969,8 @@
               "favorites": true
             },
             {
-              "name": "ITALIAN FLATBREAD",
-              "description": "Italian Sausage, Quattro Fromaggio, Bell Peppers, Onions, Marinara Sauce",
+              "name": "SHRIMP SCAMPI FLATBREAD",
+              "description": "Garlic Bèchamel, Quattro Fromaggio, Bell Peppers, Onions",
               "gluten_free": false,
               "new": true,
               "warning": false,
@@ -986,7 +986,7 @@
               "price": "27"
             },
             {
-              "name": "3 BRAISED BISON SHORT RIB SLIDERS",
+              "name": "2 BRAISED BISON SHORT RIB SLIDERS",
               "description": "Pretzel Buns with Gorgonzola & Slaw",
               "gluten_free": false,
               "new": false,
