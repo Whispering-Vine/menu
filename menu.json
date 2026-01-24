@@ -627,7 +627,7 @@
             },
             {
               "name": "Russian River Pliny the Elder Double IPA",
-              "brewery": "Santa Rosa",
+              "brewery": "Sonoma",
               "abv": "8.0%",
               "ibu": "100",
               "price": "$8.25",
@@ -642,11 +642,11 @@
               "local": false
             },
             {
-              "name": "Dogfish Head Grateful Dead Juicy Pale",
-              "brewery": "Truckee",
+              "name": "Russian River STS Pilsner",
+              "brewery": "Sonoma",
               "abv": "5.3%",
-              "ibu": "30",
-              "price": "$6.25",
+              "ibu": "50",
+              "price": "$7.25",
               "local": false
             },
             {
