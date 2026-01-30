@@ -462,16 +462,16 @@
               "notes": "91pts Wine Spectator"
             },
             {
-              "name": "Seghesio Old Vine Zinfandel",
-              "bottle": "39.99",
-              "glass": "16.75",
+              "name": "Daou Pessimist",
+              "bottle": "19.99",
+              "glass": "8.75",
               "wineryPrice": 45,
-              "notes": "93pts Wine Spectator"
+              "notes": "Winery $26"
             },
             {
-              "name": "Chalk Hill Russian River Chardonnay",
-              "bottle": "26.99",
-              "glass": "11.75",
+              "name": "La Quercia Abruzzo",
+              "bottle": "15.99",
+              "glass": "7.75",
               "notes": "",
               "favorites": false
             }
