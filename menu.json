@@ -441,25 +441,25 @@
         "specials": {
           "items": [
             {
-              "name": "Sinegal Sonoma Cabernet",
-              "bottle": "69.99",
-              "glass": "27.75",
+              "name": "Silver Oak",
+              "bottle": "59.99",
+              "glass": "23.75",
               "favorites": false,
-              "notes": "Winery $90"
+              "notes": "Winery $100"
             },
             {
-              "name": "Aperture Red Blend",
-              "bottle": "44.99",
+              "name": "Chappellet Mountain Cuvee",
+              "bottle": "39.99",
               "glass": "17.75",
               "wineryPrice": 85,
-              "notes": "Winery $60 97pts Wine Enthusiast",
+              "notes": "Winery $57 ",
               "favorites": false
             },
             {
-              "name": "My Favorite Neighbor Cabernet",
-              "bottle": "39.99",
-              "glass": "16.75",
-              "notes": "Winery $50 92pts James Suckling"
+              "name": "Calling Pinot Noir",
+              "bottle": "29.99",
+              "glass": "12.75",
+              "notes": "91pts Wine Spectator"
             },
             {
               "name": "Seghesio Old Vine Zinfandel",
