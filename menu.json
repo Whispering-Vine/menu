@@ -318,11 +318,11 @@
                   "price": "16.75"
                 },
                 {
-                  "name": "My Favorite Neighbor",
-                  "location": "Paso Robles",
+                  "name": "Quit",
+                  "location": "Napa",
                   "variety": "Cabernet",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "12.75"
                 }
               ]
             },
