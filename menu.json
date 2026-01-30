@@ -355,15 +355,15 @@
             },
             {
               "name": "Red Blend Flight",
-              "price": "15.75",
+              "price": "14.75",
               "favorites": true,
               "items": [
                 {
-                  "name": "Metier",
-                  "location": "Washington ",
-                  "variety": "Syrah, Cabernet, Syrah",
+                  "name": "Ferrari Carano Tresor",
+                  "location": "Sonoma ",
+                  "variety": "Cab, Merlot, Cab Franc",
                   "glassSize": "8oz",
-                  "price": "10.75"
+                  "price": "16.75"
                 },
                 {
                   "name": "Chappellet",
@@ -373,11 +373,11 @@
                   "price": "17.75"
                 },
                 {
-                  "name": "Ferrari Carano Tresor",
-                  "location": "Sonoma",
-                  "variety": "Cab, Merlot, Cab Franc",
+                  "name": "Daou Pessimist",
+                  "location": "Paso Robles",
+                  "variety": "Petite Syrah, Zin, Petite Syrah",
                   "glassSize": "8oz",
-                  "price": "16.75"
+                  "price": "8.75"
                 }
               ]
             },
