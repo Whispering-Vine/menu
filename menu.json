@@ -189,7 +189,7 @@
           "items": [
             {
               "name": "International White Variety Flight",
-              "price": "11.75",
+              "price": "8.75",
               "items": [
                 {
                   "name": "Pazo Das Bruxas",
@@ -206,11 +206,11 @@
                   "price": "6.75"
                 },
                 {
-                  "name": "Meyer Nakel",
-                  "location": "Germany",
+                  "name": "La Quercia",
+                  "location": "Italy",
                   "variety": "Dry Rosé",
                   "glassSize": "8oz",
-                  "price": "14.75"
+                  "price": "7.75"
                 }
               ],
               "favorites": true
@@ -328,7 +328,7 @@
             },
             {
               "name": "Premium Cabernet Flight",
-              "price": "26.75",
+              "price": "23.75",
               "items": [
                 {
                   "name": "Sinegal ",
@@ -338,11 +338,11 @@
                   "price": "26.75"
                 },
                 {
-                  "name": "Cherry Block",
+                  "name": "Silver Oak",
                   "location": "Sonoma",
                   "variety": "Cabernet ",
                   "glassSize": "8oz",
-                  "price": "36.75"
+                  "price": "23.75"
                 },
                 {
                   "name": "Ink Grade",
