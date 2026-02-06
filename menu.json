@@ -627,8 +627,8 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Silver Oak",
-                  "price": "23.75",
+                  "name": "Cherryblock",
+                  "price": "29.75",
                   "variety": "Cabernet ",
                   "location": "Sonoma",
                   "glassSize": "8oz"
@@ -641,7 +641,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "23.75"
+              "price": "25.75"
             },
             {
               "name": "Red Blend Flight",
