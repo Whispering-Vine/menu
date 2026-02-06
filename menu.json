@@ -606,14 +606,14 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "My Favorite Neighbor",
-                  "price": "16.75",
+                  "name": "Quilt",
+                  "price": "12.75",
                   "variety": "Cabernet",
-                  "location": "Paso Robles",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true
             },
             {
