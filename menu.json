@@ -483,7 +483,7 @@
                 {
                   "name": "Matthiasson",
                   "price": "11.75",
-                  "variety": "Dry Rose",
+                  "variety": "Dry Rosé",
                   "location": "Napa",
                   "glassSize": "8oz"
                 },
@@ -511,7 +511,7 @@
                 {
                   "name": "Lucien Albrecht ",
                   "price": "8.75",
-                  "variety": "Brut Rose",
+                  "variety": "Brut Rosé",
                   "location": "France ",
                   "glassSize": "8oz"
                 },
@@ -656,7 +656,7 @@
                 {
                   "name": "Metier",
                   "price": "11.75",
-                  "variety": "Syrsh, Cabernet, Malbec",
+                  "variety": "Syrah, Cabernet, Malbec",
                   "location": "Washington",
                   "glassSize": "8oz"
                 },
