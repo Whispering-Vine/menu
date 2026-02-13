@@ -606,34 +606,6 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Quilt",
-                  "price": "12.75",
-                  "variety": "Cabernet",
-                  "location": "Napa",
-                  "glassSize": "8oz"
-                }
-              ],
-              "price": "15.75",
-              "favorites": true
-            },
-            {
-              "name": "Premium Cabernet Flight",
-              "items": [
-                {
-                  "name": "Aperture",
-                  "price": "26.75",
-                  "variety": "Cabernet",
-                  "location": "Sonoma ",
-                  "glassSize": "8oz"
-                },
-                {
-                  "name": "Cherryblock",
-                  "price": "29.75",
-                  "variety": "Cabernet ",
-                  "location": "Sonoma",
-                  "glassSize": "8oz"
-                },
-                {
                   "name": "Ink Grade",
                   "price": "23.75",
                   "variety": "Cabernet",
@@ -641,7 +613,35 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "25.75"
+              "price": "17.75",
+              "favorites": true
+            },
+            {
+              "name": "Premium Cabernet Flight",
+              "items": [
+                {
+                  "name": "John Anthony",
+                  "price": "23.75",
+                  "variety": "Cabernet",
+                  "location": "Napa",
+                  "glassSize": "8oz"
+                },
+                {
+                  "name": "Anthem \"Mt. Veeder\"",
+                  "price": "39.75",
+                  "variety": "Cabernet ",
+                  "location": "Napa",
+                  "glassSize": "8oz"
+                },
+                {
+                  "name": "Salus",
+                  "price": "23.75",
+                  "variety": "Cabernet",
+                  "location": "Napa",
+                  "glassSize": "8oz"
+                }
+              ],
+              "price": "26.75"
             },
             {
               "name": "Red Blend Flight",
@@ -654,10 +654,10 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Titus \"Andronicus\"",
-                  "price": "13.75",
-                  "variety": "Cab, Merlot, Cab Franc",
-                  "location": "Napa",
+                  "name": "Metier",
+                  "price": "11.75",
+                  "variety": "Syrsh, Cabernet, Malbec",
+                  "location": "Washington",
                   "glassSize": "8oz"
                 },
                 {
@@ -668,7 +668,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "13.75",
+              "price": "12.75",
               "favorites": true
             },
             {
@@ -702,10 +702,10 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Tenuta Arceno",
-                  "price": "12.75",
-                  "variety": "Sangiovese",
-                  "location": "Chianti, Italy",
+                  "name": "Tenuta Ponti",
+                  "price": "10.75",
+                  "variety": "Aglianico",
+                  "location": "Italy",
                   "glassSize": "8oz"
                 },
                 {
@@ -716,10 +716,10 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Seghesio Old Vine",
+                  "name": "Titus",
                   "price": "16.75",
                   "variety": "Zinfandel ",
-                  "location": "Sonoma",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 }
               ],
@@ -733,38 +733,38 @@
         "specials": {
           "items": [
             {
-              "name": "Aperture Cabernet",
-              "glass": "23.75",
-              "notes": "Winery $75 96pts Robert Parker",
-              "bottle": "59.99",
+              "name": "Robert Foley Cabernet",
+              "glass": "27.75",
+              "notes": "Winery $100",
+              "bottle": "69.99",
               "favorites": false
             },
             {
-              "name": "Titus Andronicus Red Blend",
-              "glass": "14.75",
-              "notes": "Winery $50 ",
-              "bottle": "34.99",
+              "name": "Belle Glos Dairyman Pinot Noir",
+              "glass": "16.75",
+              "notes": "Winery $55",
+              "bottle": "39.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Admire Pinot Noir",
-              "glass": "13.75",
-              "notes": "",
-              "bottle": "31.99"
+              "name": "Stag's Leap Chardonnay",
+              "glass": "12.75",
+              "notes": "Winery $35",
+              "bottle": "27.99"
             },
             {
-              "name": "Tenuta Di Arceno Chianti",
-              "glass": "12.75",
-              "notes": "93pts Wine Spectator ",
-              "bottle": "29.99",
+              "name": "De Lille Metier Red Blend",
+              "glass": "11.75",
+              "notes": "90pts Wine Spectator ",
+              "bottle": "24.99",
               "wineryPrice": 45
             },
             {
-              "name": "Cala Civetta Vermentino",
-              "glass": "7.75",
+              "name": "Tenuta Ponti Aglianico",
+              "glass": "10.75",
               "notes": "",
-              "bottle": "15.99",
+              "bottle": "22.99",
               "favorites": false
             }
           ]
