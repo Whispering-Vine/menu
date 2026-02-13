@@ -481,10 +481,10 @@
               "name": "International White Variety Flight",
               "items": [
                 {
-                  "name": "Cala Civetta",
-                  "price": "7.75",
-                  "variety": "Vermentino",
-                  "location": "Italy",
+                  "name": "Matthiasson",
+                  "price": "11.75",
+                  "variety": "Dry Rose",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 },
                 {
@@ -495,14 +495,14 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "La Quercia",
-                  "price": "7.75",
-                  "variety": "Dry Rosé",
-                  "location": "Italy",
+                  "name": "Stag's Leap",
+                  "price": "13.75",
+                  "variety": "Viognier",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "7.75",
+              "price": "11.75",
               "favorites": true
             },
             {
@@ -511,7 +511,7 @@
                 {
                   "name": "Lucien Albrecht ",
                   "price": "8.75",
-                  "variety": "Brut Rosé",
+                  "variety": "Brut Rose",
                   "location": "France ",
                   "glassSize": "8oz"
                 },
@@ -534,11 +534,11 @@
               "favorites": false
             },
             {
-              "name": "Napa Chardonnay Flight",
+              "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Far Niente",
-                  "price": "18.75",
+                  "name": "Stag's Leap",
+                  "price": "12.75",
                   "variety": "Chardonnay",
                   "location": "Napa",
                   "glassSize": "8oz"
@@ -558,24 +558,24 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true
             },
             {
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Admire",
-                  "price": "13.75",
-                  "variety": "Pinot Noir",
-                  "location": "Sonoma",
-                  "glassSize": "8oz"
-                },
-                {
                   "name": "Four Graces",
                   "price": "9.75",
                   "variety": "Pinot Noir",
                   "location": "Willamette, Oregon ",
+                  "glassSize": "8oz"
+                },
+                {
+                  "name": "Belle Glos \"Dairyman\"",
+                  "price": "16.75",
+                  "variety": "Pinot Noir",
+                  "location": "Russian River",
                   "glassSize": "8oz"
                 },
                 {
@@ -586,7 +586,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "11.75"
+              "price": "12.75"
             },
             {
               "name": "Cabernet Flight",
@@ -620,8 +620,8 @@
               "name": "Premium Cabernet Flight",
               "items": [
                 {
-                  "name": "John Anthony",
-                  "price": "23.75",
+                  "name": "Robert Foley",
+                  "price": "27.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz"
