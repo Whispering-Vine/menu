@@ -903,13 +903,13 @@
               "description": "Champagne, France | Brut"
             },
             {
-              "name": "Ruffino",
+              "name": "Roederer Eastate",
               "price": {
                 "sale": true,
-                "glass": 5.75,
-                "bottle": 9.99
+                "glass": 13.75,
+                "bottle": 31.99
               },
-              "description": "Italy | Prosecco"
+              "description": "Anderson Valley | Brut Rosé"
             },
             {
               "name": "Whispering Vine",
