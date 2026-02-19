@@ -91,14 +91,6 @@
               "brewery": "San Diego, Ca"
             },
             {
-              "abv": "9.0 %",
-              "ibu": "75",
-              "name": "Rasputin Russian Imperial Stout Nitro",
-              "local": false,
-              "price": "$8.25",
-              "brewery": "Fort Bragg"
-            },
-            {
               "abv": "4.5 %",
               "ibu": "18",
               "name": "Modelo",
@@ -551,14 +543,14 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Nickel & Nickel",
-                  "price": "16.75",
+                  "name": "Post & Beam",
+                  "price": "14.75",
                   "variety": "Chardonnay",
-                  "location": "Napa",
+                  "location": "Carneros, Napa",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "15.75",
+              "price": "14.75",
               "favorites": true
             },
             {
@@ -572,10 +564,10 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Belle Glos \"Dairyman\"",
-                  "price": "16.75",
+                  "name": "Ashton",
+                  "price": "19.75",
                   "variety": "Pinot Noir",
-                  "location": "Russian River",
+                  "location": "Sonoma",
                   "glassSize": "8oz"
                 },
                 {
@@ -586,7 +578,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "12.75"
+              "price": "15.75"
             },
             {
               "name": "Cabernet Flight",
@@ -661,14 +653,14 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Daou Pessimist",
-                  "price": "8.75",
-                  "variety": "Petite Syrah, Zin, Petite Syrah",
-                  "location": "Paso Robles",
+                  "name": "BV Tapestry",
+                  "price": "18.75",
+                  "variety": "Cab, Merlot, Cab Franc",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "12.75",
+              "price": "16.75",
               "favorites": true
             },
             {
@@ -702,9 +694,9 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Tenuta Ponti",
-                  "price": "10.75",
-                  "variety": "Aglianico",
+                  "name": "Arcangelo ",
+                  "price": "7.75",
+                  "variety": "Negroamaro",
                   "location": "Italy",
                   "glassSize": "8oz"
                 },
@@ -723,7 +715,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "15.75",
+              "price": "14.75",
               "favorites": true
             }
           ],
@@ -733,38 +725,38 @@
         "specials": {
           "items": [
             {
-              "name": "Robert Foley Cabernet",
-              "glass": "27.75",
-              "notes": "Winery $100",
-              "bottle": "69.99",
+              "name": "Salus Cabernet",
+              "glass": "23.75",
+              "notes": "",
+              "bottle": "59.99",
               "favorites": false
             },
             {
-              "name": "Belle Glos Dairyman Pinot Noir",
-              "glass": "16.75",
-              "notes": "Winery $55",
-              "bottle": "39.99",
+              "name": "Ashton Pinot Noir",
+              "glass": "19.75",
+              "notes": "",
+              "bottle": "49.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Stag's Leap Chardonnay",
-              "glass": "12.75",
-              "notes": "Winery $35",
-              "bottle": "27.99"
+              "name": "BV Tapestry Red Blend",
+              "glass": "18.75",
+              "notes": "Winery $65",
+              "bottle": "44.99"
             },
             {
-              "name": "De Lille Metier Red Blend",
-              "glass": "11.75",
-              "notes": "90pts Wine Spectator ",
-              "bottle": "24.99",
+              "name": "Titus Zinfandel",
+              "glass": "16.75",
+              "notes": "Winery $54",
+              "bottle": "39.99",
               "wineryPrice": 45
             },
             {
-              "name": "Tenuta Ponti Aglianico",
-              "glass": "10.75",
+              "name": "Arcangelo Negroamaro",
+              "glass": "7.75",
               "notes": "",
-              "bottle": "22.99",
+              "bottle": "15.99",
               "favorites": false
             }
           ]
