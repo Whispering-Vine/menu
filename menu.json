@@ -895,7 +895,7 @@
               "description": "Champagne, France | Brut"
             },
             {
-              "name": "Roederer Eastate",
+              "name": "Roederer Estate",
               "price": {
                 "sale": true,
                 "glass": 13.75,
@@ -913,7 +913,7 @@
               "description": "California | Moscato"
             },
             {
-              "name": "Ancient Peak",
+              "name": "Ancient Peaks",
               "price": {
                 "sale": true,
                 "glass": 6.75,
