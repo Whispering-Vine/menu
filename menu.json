@@ -529,8 +529,8 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Stag's Leap",
-                  "price": "12.75",
+                  "name": "Pride",
+                  "price": "16.75",
                   "variety": "Chardonnay",
                   "location": "Napa",
                   "glassSize": "8oz"
@@ -550,7 +550,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "14.75",
+              "price": "16.75",
               "favorites": true
             },
             {
