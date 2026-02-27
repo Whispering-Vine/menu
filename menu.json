@@ -913,7 +913,7 @@
               "description": "California | Moscato"
             },
             {
-              "name": "Ancient Peak",
+              "name": "Ancient Peaks",
               "price": {
                 "sale": true,
                 "glass": 6.75,
@@ -933,9 +933,9 @@
             {
               "name": "Miner",
               "price": {
+                "sale": true,
                 "glass": 12.75,
-                "bottle": 26.99,
-                "sale": true
+                "bottle": 26.99
               },
               "description": "Napa | Chardonnay"
             },
