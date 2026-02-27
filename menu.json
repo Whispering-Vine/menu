@@ -529,8 +529,8 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Pride",
-                  "price": "16.75",
+                  "name": "Stag's Leap",
+                  "price": "12.75",
                   "variety": "Chardonnay",
                   "location": "Napa",
                   "glassSize": "8oz"
@@ -550,7 +550,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "16.75",
+              "price": "14.75",
               "favorites": true
             },
             {
@@ -646,21 +646,21 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Metier",
-                  "price": "11.75",
-                  "variety": "Syrah, Cabernet, Malbec",
-                  "location": "Washington",
+                  "name": "The Mill Keeper",
+                  "price": "8.75",
+                  "variety": "Cab, Merlot, Cab Franc",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "BV Tapestry",
-                  "price": "18.75",
+                  "name": "Terroir",
+                  "price": "10.75",
                   "variety": "Cab, Merlot, Cab Franc",
                   "location": "Napa",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "16.75",
+              "price": "12.75",
               "favorites": true
             },
             {
@@ -696,7 +696,7 @@
                 {
                   "name": "Tapiz Black Tears",
                   "price": "16.75",
-                  "variety": "Malbec",
+                  "variety": "Negroamaro",
                   "location": "Argentina",
                   "glassSize": "8oz"
                 },
@@ -895,7 +895,7 @@
               "description": "Champagne, France | Brut"
             },
             {
-              "name": "Roederer Estate",
+              "name": "Roederer Eastate",
               "price": {
                 "sale": true,
                 "glass": 13.75,
@@ -913,7 +913,7 @@
               "description": "California | Moscato"
             },
             {
-              "name": "Ancient Peaks",
+              "name": "Ancient Peak",
               "price": {
                 "sale": true,
                 "glass": 6.75,
@@ -933,9 +933,9 @@
             {
               "name": "Miner",
               "price": {
-                "sale": true,
                 "glass": 12.75,
-                "bottle": 26.99
+                "bottle": 26.99,
+                "sale": true
               },
               "description": "Napa | Chardonnay"
             },
