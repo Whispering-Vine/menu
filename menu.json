@@ -725,38 +725,38 @@
         "specials": {
           "items": [
             {
-              "name": "Salus Cabernet",
-              "glass": "23.75",
-              "notes": "",
-              "bottle": "59.99",
+              "name": "Coquerel Cabernet",
+              "glass": "16.75",
+              "notes": "Winery $65",
+              "bottle": "39.99",
               "favorites": false
             },
             {
-              "name": "Ashton Pinot Noir",
-              "glass": "19.75",
-              "notes": "",
-              "bottle": "49.99",
+              "name": "Lingua Franca Pinot Noir",
+              "glass": "16.75",
+              "notes": "92pts Wine Spectator",
+              "bottle": "39.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "BV Tapestry Red Blend",
-              "glass": "18.75",
-              "notes": "Winery $65",
-              "bottle": "44.99"
+              "name": "Tapiz Black Tears Malbec",
+              "glass": "16.75",
+              "notes": "Winery $60  96pts James Suckling",
+              "bottle": "39.99"
             },
             {
-              "name": "Titus Zinfandel",
+              "name": "G.H. MUMM Brut",
               "glass": "16.75",
-              "notes": "Winery $54",
-              "bottle": "39.99",
+              "notes": "Winery $50",
+              "bottle": "35.99",
               "wineryPrice": 45
             },
             {
-              "name": "Arcangelo Negroamaro",
+              "name": "Miner Chardonnay",
               "glass": "7.75",
-              "notes": "",
-              "bottle": "15.99",
+              "notes": "Winery $45",
+              "bottle": "26.99",
               "favorites": false
             }
           ]
