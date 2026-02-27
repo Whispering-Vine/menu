@@ -487,8 +487,8 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Stag's Leap",
-                  "price": "13.75",
+                  "name": "Miner",
+                  "price": "10.75",
                   "variety": "Viognier",
                   "location": "Napa",
                   "glassSize": "8oz"
@@ -557,34 +557,34 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Four Graces",
-                  "price": "9.75",
-                  "variety": "Pinot Noir",
-                  "location": "Willamette, Oregon ",
-                  "glassSize": "8oz"
-                },
-                {
-                  "name": "Ashton",
-                  "price": "19.75",
+                  "name": "Martin Ray",
+                  "price": "8.75",
                   "variety": "Pinot Noir",
                   "location": "Sonoma",
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "BÖEN ",
-                  "price": "8.75",
+                  "name": "Lingua Franca",
+                  "price": "16.75",
                   "variety": "Pinot Noir",
-                  "location": "Sonoma - Monterey",
+                  "location": "Willamette, Oregon",
+                  "glassSize": "8oz"
+                },
+                {
+                  "name": "Kanzler",
+                  "price": "24.75",
+                  "variety": "Pinot Noir",
+                  "location": "Russian River",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "15.75"
+              "price": "16.75"
             },
             {
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "Whitehall Lane",
+                  "name": "Coquerel",
                   "price": "16.75",
                   "variety": "Cabernet",
                   "location": "Napa",
