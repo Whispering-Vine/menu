@@ -933,9 +933,9 @@
             {
               "name": "Miner",
               "price": {
+                "sale": true,
                 "glass": 12.75,
-                "bottle": 26.99,
-                "sale": true
+                "bottle": 26.99
               },
               "description": "Napa | Chardonnay"
             },
