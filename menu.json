@@ -886,11 +886,11 @@
           "name": "Signature Selection",
           "items": [
             {
-              "name": "Beau Joie",
+              "name": "G.H. Mumm",
               "price": {
                 "sale": true,
                 "glass": 16.75,
-                "bottle": 39.99
+                "bottle": 34.99
               },
               "description": "Champagne, France | Brut"
             },
@@ -931,10 +931,11 @@
               "description": "Monterey | Chardonnay"
             },
             {
-              "name": "Quilt",
+              "name": "Miner",
               "price": {
                 "glass": 12.75,
-                "bottle": 29.99
+                "bottle": 26.99,
+                "sale": true
               },
               "description": "Napa | Chardonnay"
             },
