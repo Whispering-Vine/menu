@@ -224,11 +224,11 @@
               "gluten_free": false
             },
             {
-              "new": false,
-              "name": "THE CUBANO",
-              "price": 23,
-              "warning": false,
-              "description": "Roasted Pork Butt, Rosemary Ham, Bread & Butter Pickles, Gruyere, Dijon, Brioche Bun, Fries",
+              "new": true,
+              "name": "ALL AMERICAN BURGER",
+              "price": "24",
+              "warning": true,
+              "description": "Certified Piedmontese, American Cheese, Lettuce, Tomato, Grilled Onion, Special Sauce, Fries",
               "gluten_free": false
             },
             {
