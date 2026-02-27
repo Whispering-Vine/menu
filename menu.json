@@ -913,22 +913,22 @@
               "description": "California | Moscato"
             },
             {
-              "name": "Silverado",
+              "name": "Ancient Peak",
               "price": {
                 "sale": true,
+                "glass": 6.75,
+                "bottle": 14.99
+              },
+              "description": "Paso Robles | Sauvignon Blanc"
+            },
+            {
+              "name": "Whispering Vine",
+              "price": {
+                "sale": false,
                 "glass": 8.75,
                 "bottle": 19.99
               },
-              "description": "Napa | Sauvignon Blanc"
-            },
-            {
-              "name": "BÖEN",
-              "price": {
-                "sale": true,
-                "glass": 8.75,
-                "bottle": 17.99
-              },
-              "description": "Santa Lucia Highlands| Chardonnay"
+              "description": "Monterey | Chardonnay"
             },
             {
               "name": "Quilt",
@@ -1010,13 +1010,13 @@
               "description": "Italy | Chianti"
             },
             {
-              "name": "Saldo By Prisoner",
+              "name": "Scott Harvey Inzinerator",
               "price": {
                 "sale": true,
-                "glass": 10.75,
-                "bottle": 23.99
+                "glass": 7.75,
+                "bottle": 17.99
               },
-              "description": "Napa | Zinfandel"
+              "description": "Amador | Zinfandel"
             },
             {
               "name": "Bramare",
@@ -1038,8 +1038,8 @@
             {
               "name": "Fritz Muller 0% Alcohol ",
               "price": {
-                "glass": 6.75,
-                "bottle": 14.99
+                "glass": 7.75,
+                "bottle": 16.99
               },
               "description": "Germany | White Blend"
             },
