@@ -375,11 +375,11 @@
               "gluten_free": false
             },
             {
-              "new": false,
-              "name": "SCHNITZEL & SPAETZLE",
-              "price": "27",
+              "new": true,
+              "name": "GOCHUJANG-GLAZED PORK BELLY SKEWERS",
+              "price": "18",
               "warning": false,
-              "description": "White Marble Farms Pork, Herbed Truffle Spaetzle, Mushroom Gravy, Pickled Red Cabbage\nExtra Side of Mushroom Gravy $3",
+              "description": "Soba Noodle Salad, Sugar Snap Peas, Pickled Beech Mushrooms, Citrus Ponzo",
               "gluten_free": false
             },
             {
