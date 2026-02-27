@@ -694,10 +694,10 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Arcangelo ",
-                  "price": "7.75",
+                  "name": "Tapiz Black Tears",
+                  "price": "16.75",
                   "variety": "Negroamaro",
-                  "location": "Italy",
+                  "location": "Argentina",
                   "glassSize": "8oz"
                 },
                 {
@@ -708,14 +708,14 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Titus",
+                  "name": "Saxon Brown",
                   "price": "16.75",
                   "variety": "Zinfandel ",
-                  "location": "Napa",
+                  "location": "Sonoma",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "14.75",
+              "price": "16.75",
               "favorites": true
             }
           ],
