@@ -217,10 +217,10 @@
             },
             {
               "new": false,
-              "name": "THE CUBANO",
+              "name": "VEGGIE BURGER",
               "price": "23",
               "warning": false,
-              "description": "Roasted Pork Butt, Rosemary Ham, Bread & Butter Pickles, Gruyere, Dijon, Brioche Bun Fries",
+              "description": "Mixed Veggie Burger, Irish Cheddar, Dutch Gouda, Tomato, Arugula, Mayo, Mustard, Brioche Bun, Fries",
               "gluten_free": false
             },
             {
@@ -228,7 +228,7 @@
               "name": "ALL AMERICAN BURGER",
               "price": "21",
               "warning": true,
-              "description": "Certified Piedmontese, American Cheese, Lettuce, Tomato, Grilled Onion, Special Sauce, Fries (Sub Veggie Patty $2)",
+              "description": "Certified Piedmontese, American Cheese, Lettuce, Tomato, Grilled Onion, Special Sauce, Fries ",
               "gluten_free": false
             },
             {
