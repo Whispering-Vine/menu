@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>South Creek Menu - Landscape 11x8.5</title>
+    <!-- Importing elegant typography -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Montserrat:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --paper: #ffffff;
+            /* pure white for B&W menu */
+            --ink: #000000;
+            /* pure black */
+            --ink-light: rgba(0, 0, 0, 0.85);
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-family: 'Cormorant Garamond', serif;
+            color: var(--ink);
+        }
+
+        #menu-container {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* The specific 11x8.5 sheet constraint */
+        .page {
+            width: 11in;
+            height: 8.5in;
+            background-color: var(--paper);
+            box-sizing: border-box;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: row;
+            margin: 0;
+            padding: 0;
+            page-break-after: always;
+        }
+
+        .half-page {
+            width: 5.5in;
+            height: 8.5in;
+            box-sizing: border-box;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+
+        /* Visually show the cut line */
+        .half-page:first-child::after {
+            content: '';
+            position: absolute;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            border-right: 1px dashed rgba(0, 0, 0, 0.15);
+        }
+
+        .page-content {
+            width: 5.5in;
+            height: 8.5in;
+            padding: 0.5in 0.4in;
+            box-sizing: border-box;
+            background-color: var(--paper);
+            display: flex;
+            flex-direction: column;
+            transform: scale(0.909090);
+            /* 5.0 / 5.5 to create perfectly centered margins for cut */
+            transform-origin: center center;
+        }
+
+
+
+        .main-title {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+            letter-spacing: 0.15em;
+            text-align: center;
+            margin-bottom: 2px;
+            color: var(--ink);
+        }
+
+        .sub-title {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 13px;
+            font-style: italic;
+            text-align: center;
+            margin-bottom: 15px;
+            color: var(--ink-light);
+        }
+
+        .section-title-wrapper {
+            border-top: 1px dotted var(--ink);
+            border-bottom: 1px dotted var(--ink);
+            padding: 6px 0;
+            margin: 15px 0 10px 0;
+            text-align: center;
+        }
+
+        .section-title {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 12px;
+            font-weight: 500;
+            letter-spacing: 0.2em;
+            display: inline-block;
+        }
+
+        .section-title::before,
+        .section-title::after {
+            content: " ⸰ ";
+            font-size: 10px;
+            vertical-align: middle;
+            margin: 0 6px;
+            opacity: 0.8;
+        }
+
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 20px;
+            row-gap: 12px;
+        }
+
+        .item {
+            text-align: center;
+            margin-bottom: 8px;
+        }
+
+        .item-name-price {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 8px;
+            font-weight: 600;
+            letter-spacing: 0.1em;
+            margin-bottom: 3px;
+            line-height: 1.3;
+        }
+
+        .item-desc {
+            font-family: 'Cormorant Garamond', serif;
+            font-style: italic;
+            font-size: 11.5px;
+            line-height: 1.25;
+            color: var(--ink);
+            opacity: 0.95;
+            max-width: 90%;
+            margin: 0 auto;
+        }
+
+        /* Specialized Box for BEER matching Inspiration #1 */
+        .double-dotted-box {
+            border: 1px dotted var(--ink);
+            padding: 3px;
+            margin: 15px 0 15px 0;
+        }
+
+        .double-dotted-inner {
+            border: 1px dotted var(--ink);
+            padding: 12px;
+            display: flex;
+        }
+
+        .vertical-text-wrap {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 14px;
+            font-weight: 500;
+            border-right: 1px dotted var(--ink);
+            padding-right: 12px;
+            margin-right: 16px;
+            line-height: 1.6;
+            color: var(--ink);
+        }
+
+        .vertical-text-wrap span {
+            display: block;
+            margin-bottom: 2px;
+        }
+
+        .box-subtitle {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 9px;
+            font-weight: 600;
+            letter-spacing: 0.15em;
+            text-align: center;
+            margin-bottom: 8px;
+        }
+
+        .flex-row-between {
+            display: flex;
+            justify-content: space-between;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 7px;
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            margin-bottom: 5px;
+        }
+
+        .flight-section {
+            text-align: center;
+            margin-bottom: 6px;
+        }
+
+        .flight-title {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 8.5px;
+            font-weight: 600;
+            letter-spacing: 0.1em;
+            margin-bottom: 3px;
+        }
+
+        .flight-item {
+            font-size: 11px;
+            line-height: 1.2;
+            margin-bottom: 4px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .flight-wine {
+            font-weight: 600;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 7px;
+            letter-spacing: 0.05em;
+            text-align: center;
+        }
+
+        .flight-var {
+            font-style: italic;
+            font-size: 10px;
+            text-align: center;
+        }
+
+        .flight-price {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 6.5px;
+            letter-spacing: 0.05em;
+            margin-top: 1px;
+            color: var(--ink-light);
+        }
+
+        /* Box for Bottles */
+        .bottles-box {
+            border: 1px dotted var(--ink);
+            padding: 8px;
+            margin: 15px auto;
+            text-align: center;
+        }
+
+        /* QR Code Container */
+        .qr-codes {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 10px;
+        }
+
+        .qr-item {
+            text-align: center;
+        }
+
+        .qr-image {
+            width: 50px;
+            height: 50px;
+            margin-bottom: 5px;
+        }
+
+        .qr-label {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 6px;
+            letter-spacing: 0.05em;
+            font-weight: 600;
+        }
+
+        /* Menu Artwork */
+        .page-art {
+            max-height: 65px;
+            width: auto;
+            margin: 0 auto 15px auto;
+            display: block;
+            mix-blend-mode: multiply;
+        }
+
+        .section-art {
+            max-height: 45px;
+            width: auto;
+            margin: 0 auto 8px auto;
+            display: block;
+            mix-blend-mode: multiply;
+        }
+
+
+
+        /* Print formatting */
+        @media print {
+            @page {
+                size: letter landscape;
+                margin: 0;
+            }
+
+            body {
+                background: none;
+                padding: 0;
+                margin: 0;
+                display: block;
+            }
+
+            .page {
+                width: 11in;
+                height: 8.5in;
+                box-shadow: none;
+                margin: 0;
+                page-break-after: always;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="menu-container"></div>
+    <script>
+        const container = document.getElementById("menu-container");
+
+        function renderPage(html) {
+            const page = document.createElement("div");
+            page.className = "page";
+
+            const createHalf = () => {
+                const half = document.createElement("div");
+                half.className = "half-page";
+                const content = document.createElement("div");
+                content.className = "page-content";
+                content.innerHTML = html;
+                half.appendChild(content);
+                return half;
+            };
+
+            page.appendChild(createHalf());
+            page.appendChild(createHalf());
+
+            container.appendChild(page);
+        }
+
+        // Helper to mimic the elegant formatting of ingredients shown in the inspiration
+        const formatIngredients = (str) => str ? str.replace(/ \| /g, ', ') : '';
+
+        async function loadMenu() {
+            let menuUrl = './south-creek-menu.json';
+
+            const params = new URLSearchParams(window.location.search);
+            if (params.has('menu')) {
+                try {
+                    const decoded = decodeURIComponent(params.get('menu'));
+                    if (/^https?:\/\//.test(decoded)) {
+                        menuUrl = decoded;
+                        console.log('Fetching menu from query param:', menuUrl);
+                    }
+                } catch (e) {
+                    console.warn('Invalid menu URL in query param:', params.get('menu'), e);
+                }
+            }
+
+            try {
+                const response = await fetch(menuUrl);
+                const menuData = await response.json();
+
+                menuData.pages.forEach(p => {
+                    if (p.id === 'foothill') {
+                        renderPage(`
+                    <div class="main-title" style="margin-top: 15px;">${p.title.toUpperCase()}</div>
+                    <div class="sub-title">${p.subtitle}</div>
+                    ${p.image ? `<img src="${p.image}" class="page-art" alt="Wine Art">` : ''}
+                    <div class="section-title-wrapper" style="border: none; margin: 5px 0 10px 0;">
+                        <div class="section-title">WINES BY THE GLASS</div>
+                    </div>
+                    <div class="two-column">
+                        ${p.rows.map(row => `
+                            <div class="item">
+                                <div class="item-name-price">${row.style.toUpperCase()} - ${row.price}</div>
+                                <div class="item-desc">${row.producer}, ${row.region}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                `);
+                    } else if (p.id === 'flights') {
+                        renderPage(`
+                    <div class="main-title" style="margin-top: 5px;">${p.title.toUpperCase()}</div>
+                    <div class="sub-title" style="margin-bottom: 5px;">${p.subtitle}</div>
+                    ${p.image ? `<img src="${p.image}" class="page-art" alt="Flights Art" style="margin-bottom: 5px;">` : ''}
+                    <div class="two-column" style="margin-top: 10px; row-gap: 10px;">
+                        ${p.sections.map(sec => `
+                            <div class="flight-section">
+                                <div class="flight-title">${sec.name.toUpperCase()} - ${sec.flightPrice}</div>
+                                ${sec.items.map(item => `
+                                    <div class="flight-item">
+                                        <span class="flight-wine">${item.wine.toUpperCase()}</span>
+                                        <span class="flight-var">${item.varietal} - ${item.region}</span>
+                                        <div class="flight-price">(${item.glassSize} - ${item.glassPrice})</div>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        `).join('')}
+                    </div>
+                `);
+                    } else if (p.id === 'cocktails') {
+                        renderPage(`
+                    <div class="section-title-wrapper" style="margin-top: 20px;">
+                        <div class="section-title">${p.seasonal.title.toUpperCase()}</div>
+                    </div>
+                    ${p.seasonal.image ? `<img src="${p.seasonal.image}" class="section-art" alt="Seasonal Cocktail Art">` : ''}
+                    <div class="two-column">
+                        ${p.seasonal.items.map(item => `
+                            <div class="item">
+                                <div class="item-name-price">${item.name.toUpperCase()} - ${item.price}</div>
+                                <div class="item-desc">${formatIngredients(item.ingredients)}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                    
+                    <div class="section-title-wrapper" style="margin-top: 25px;">
+                        <div class="section-title">${p.house.title.toUpperCase()}</div>
+                    </div>
+                    ${p.house.image ? `<img src="${p.house.image}" class="section-art" alt="House Cocktail Art">` : ''}
+                    <div class="two-column">
+                        ${p.house.items.map(item => `
+                            <div class="item">
+                                <div class="item-name-price">${item.name.toUpperCase()} - ${p.house.priceLabel.replace('$', '')}</div>
+                                <div class="item-desc">${formatIngredients(item.ingredients)}</div>
+                            </div>
+                        `).join('')}
+                    </div>
+                `);
+                    } else if (p.id === 'beers') {
+                        renderPage(`
+                    <div class="double-dotted-box" style="margin-top: 5px;">
+                        <div class="double-dotted-inner">
+                            <div class="vertical-text-wrap">
+                                <span>B</span><span>E</span><span>E</span><span>R</span>
+                            </div>
+                            <div style="flex: 1; display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+                                <div>
+                                    <div class="box-subtitle">DRAFT</div>
+                                    ${p.draft.map(b => `
+                                        <div class="flex-row-between">
+                                            <span>${(b.brewery + ' ' + b.beer).toUpperCase()} ${b.local ? '°' : ''}</span>
+                                            <span>${b.price}</span>
+                                        </div>
+                                    `).join('')}
+                                </div>
+                                <div>
+                                    <div class="box-subtitle">BOTTLE & CAN</div>
+                                    ${p.bottled.items.map(b => `
+                                        <div class="flex-row-between">
+                                            <span>${b.name.toUpperCase()}</span>
+                                            <span>${b.price}</span>
+                                        </div>
+                                    `).join('')}
+                                    ${p.image ? `<img src="${p.image}" class="page-art" alt="Beer Art" style="margin-top: 5px; margin-bottom: 15px;">` : ''}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="text-align: left; font-size: 9px; font-style: italic; margin-top: 5px; margin-bottom: 15px; opacity: 0.7;">
+                        ° denotes local brewery
+                    </div>
+
+                    <div class="bottles-box" style="margin-top: 5px; margin-bottom: 20px;">
+                        <div style="text-align: center; font-family: 'Montserrat', sans-serif; font-size: 8px; font-weight: 600; margin-bottom: 4px;">${p.promo.title.toUpperCase()}</div>
+                        <div style="text-align: center; font-size: 10px; font-style: italic; color: var(--ink-light);">${p.promo.subtext}</div>
+                    </div>
+
+                    <div class="two-column">
+                        <div>
+                            <div class="section-title-wrapper" style="margin-top: 0;">
+                                <div class="section-title" style="letter-spacing: 0.1em; font-size: 11px;">SNACKS</div>
+                            </div>
+                            ${p.snacks && p.snacks.image ? `<img src="${p.snacks.image}" class="section-art" alt="Snacks Art">` : ''}
+                            ${(p.snacks ? p.snacks.items : []).map(i => `
+                                <div class="item" style="margin-bottom: 4px;">
+                                    <div class="item-name-price">${i.name.toUpperCase()} - ${i.price}</div>
+                                </div>
+                            `).join('')}
+                        </div>
+                        <div>
+                            <div class="section-title-wrapper" style="margin-top: 0;">
+                                <div class="section-title" style="letter-spacing: 0.1em; font-size: 11px;">NEIGHBORS</div>
+                            </div>
+                            <div class="qr-codes">
+                                ${p.neighbors.items.map(n => `
+                                    <div class="qr-item">
+                                        <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=${n.url}" alt="${n.name}" class="qr-image">
+                                        <div class="qr-label">${n.name.toUpperCase()}</div>
+                                        <div class="qr-label" style="font-size: 5.5px; opacity: 0.8; margin-top: 2px;">${n.phone}</div>
+                                        <div class="qr-label" style="font-size: 5px; opacity: 0.8; font-style: italic; margin-top: 2px;">${n.note}</div>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        </div>
+                    </div>
+                `);
+                    }
+                });
+            } catch (error) {
+                console.error('Error fetching or processing menu data:', error);
+            }
+        }
+
+        // Call the function on page load
+        window.addEventListener('DOMContentLoaded', loadMenu);
+    </script>
+</body>
+
+</html>
