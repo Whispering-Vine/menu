@@ -1,0 +1,530 @@
+{
+  "meta": {
+    "version": "2.0.0",
+    "updated": "2026-03-04",
+    "notes": "All menu content and section labels are sourced from this file."
+  },
+  "branding": {
+    "businessName": "Whispering Vine Wine Co.",
+    "locationName": "South Creek",
+    "palette": {
+      "paper": "#ffffff",
+      "ink": "#121212",
+      "muted": "#333333",
+      "rule": "#1f1f1f",
+      "accent": "#101010"
+    }
+  },
+  "pages": [
+    {
+      "id": "foothill",
+      "template": "foothill",
+      "title": "Whispering Vine",
+      "subtitle": "Enjoy an 8oz glass",
+      "image": "images/wine.svg",
+      "rows": [
+        {
+          "style": "Bubbles Brut Rose",
+          "producer": "Lucien Albrecht",
+          "region": "France",
+          "price": 8.75
+        },
+        {
+          "style": "Bubbles Brut",
+          "producer": "Perrier Jouet",
+          "region": "Champagne",
+          "price": 17.75
+        },
+        {
+          "style": "Moscato",
+          "producer": "Whispering Vine",
+          "region": "California",
+          "price": 5.75
+        },
+        {
+          "style": "N/A Sauvignon Blanc",
+          "producer": "Fritz Muller",
+          "region": "Germany",
+          "price": 6.75
+        },
+        {
+          "style": "Sauvignon Blanc",
+          "producer": "Duckhorn",
+          "region": "Napa",
+          "price": 10.75
+        },
+        {
+          "style": "Rose",
+          "producer": "Hampton Water",
+          "region": "France",
+          "price": 7.75
+        },
+        {
+          "style": "Chardonnay",
+          "producer": "Post & Beam",
+          "region": "Carneros",
+          "price": 14.75
+        },
+        {
+          "style": "Chardonnay",
+          "producer": "Boen",
+          "region": "Santa Lucia Highlands",
+          "price": 8.75
+        },
+        {
+          "style": "Pinot Noir",
+          "producer": "Flowers",
+          "region": "Sonoma Coast",
+          "price": 17.75
+        },
+        {
+          "style": "Pinot Noir",
+          "producer": "Whispering Vine",
+          "region": "Oregon",
+          "price": 8.75
+        },
+        {
+          "style": "Zinfandel",
+          "producer": "Whispering Vine",
+          "region": "Mendocino",
+          "price": 12.75
+        },
+        {
+          "style": "Bagadiu Red Blend",
+          "producer": "Sardinia",
+          "region": "Italy",
+          "price": 13.75
+        },
+        {
+          "style": "Cabernet Sauvignon",
+          "producer": "Whitehall Lane",
+          "region": "Cabernet",
+          "price": 17.75
+        },
+        {
+          "style": "Cabernet Sauvignon",
+          "producer": "Bezel by Cakebread",
+          "region": "Paso Robles",
+          "price": 8.75
+        }
+      ]
+    },
+    {
+      "id": "flights",
+      "template": "flights",
+      "title": "Flights",
+      "subtitle": "Three 3oz pours, or enjoy an 8oz glass",
+      "image": "images/wine_flight.svg",
+      "sections": [
+        {
+          "name": "White Variety Flight",
+          "flightPrice": 8.75,
+          "items": [
+            {
+              "wine": "Pazo Das Bruxas",
+              "region": "Spain",
+              "varietal": "Albarino",
+              "glassSize": "8oz",
+              "glassPrice": 10.75
+            },
+            {
+              "wine": "Silverado",
+              "region": "Napa",
+              "varietal": "Sauvignon Blanc",
+              "glassSize": "8oz",
+              "glassPrice": 8.75
+            },
+            {
+              "wine": "Conundrum",
+              "region": "California",
+              "varietal": "White Blend",
+              "glassSize": "8oz",
+              "glassPrice": 5.75
+            }
+          ]
+        },
+        {
+          "name": "Bubbles Flight",
+          "flightPrice": 15.75,
+          "items": [
+            {
+              "wine": "Beau Joie Senecourt",
+              "region": "Champagne",
+              "varietal": "Brut",
+              "glassSize": "8oz",
+              "glassPrice": 21.75
+            },
+            {
+              "wine": "Jacquart",
+              "region": "Champagne, France",
+              "varietal": "Brut Rose",
+              "glassSize": "8oz",
+              "glassPrice": 17.75
+            },
+            {
+              "wine": "Roederer",
+              "region": "Anderson Valley",
+              "varietal": "Brut",
+              "glassSize": "8oz",
+              "glassPrice": 13.75
+            }
+          ]
+        },
+        {
+          "name": "Chardonnay Flight",
+          "flightPrice": 16.75,
+          "items": [
+            {
+              "wine": "Cakebread",
+              "region": "Napa",
+              "varietal": "Chardonnay",
+              "glassSize": "8oz",
+              "glassPrice": 27.75
+            },
+            {
+              "wine": "Stags Leap",
+              "region": "Napa",
+              "varietal": "Chardonnay",
+              "glassSize": "8oz",
+              "glassPrice": 21.75
+            },
+            {
+              "wine": "Flowers",
+              "region": "Sonoma",
+              "varietal": "Chardonnay",
+              "glassSize": "8oz",
+              "glassPrice": 16.75
+            }
+          ]
+        },
+        {
+          "name": "Oregon Pinot Noir Flight",
+          "flightPrice": 15.75,
+          "items": [
+            {
+              "wine": "Cristom",
+              "region": "Willamette Valley",
+              "varietal": "Pinot Noir",
+              "glassSize": "8oz",
+              "glassPrice": 16.75
+            },
+            {
+              "wine": "Roserock",
+              "region": "Willamette Valley",
+              "varietal": "Pinot Noir",
+              "glassSize": "8oz",
+              "glassPrice": 17.75
+            },
+            {
+              "wine": "Four Graces",
+              "region": "Willamette Valley",
+              "varietal": "Pinot Noir",
+              "glassSize": "8oz",
+              "glassPrice": 9.75
+            }
+          ]
+        },
+        {
+          "name": "Red Variety Flight",
+          "flightPrice": 13.75,
+          "items": [
+            {
+              "wine": "Fradiles",
+              "region": "Italy",
+              "varietal": "Bovale",
+              "glassSize": "8oz",
+              "glassPrice": 9.75
+            },
+            {
+              "wine": "Duckhorn",
+              "region": "Napa",
+              "varietal": "Merlot",
+              "glassSize": "8oz",
+              "glassPrice": 17.75
+            },
+            {
+              "wine": "Saldo",
+              "region": "Napa",
+              "varietal": "Zinfandel",
+              "glassSize": "8oz",
+              "glassPrice": 12.75
+            }
+          ]
+        },
+        {
+          "name": "Red Blend Flight",
+          "flightPrice": 16.75,
+          "items": [
+            {
+              "wine": "Stags Leap The Investor",
+              "region": "Napa Valley",
+              "varietal": "Cab | Merlot | Cab Franc",
+              "glassSize": "8oz",
+              "glassPrice": 17.75
+            },
+            {
+              "wine": "Whitehall Lane Tre Leoni",
+              "region": "Napa Valley",
+              "varietal": "Cab | Merlot | Syrah",
+              "glassSize": "8oz",
+              "glassPrice": 12.75
+            },
+            {
+              "wine": "Sardinia",
+              "region": "Italy",
+              "varietal": "Bagadiu Red Blend",
+              "glassSize": "8oz",
+              "glassPrice": 13.75
+            }
+          ]
+        },
+        {
+          "name": "International Red Flight",
+          "flightPrice": 11.75,
+          "items": [
+            {
+              "wine": "Ruffino",
+              "region": "Italy",
+              "varietal": "Sangiovese",
+              "glassSize": "8oz",
+              "glassPrice": 8.75
+            },
+            {
+              "wine": "Boronia",
+              "region": "Rioja, Spain",
+              "varietal": "Tempranillo",
+              "glassSize": "8oz",
+              "glassPrice": 16.75
+            },
+            {
+              "wine": "Bramare",
+              "region": "Argentina",
+              "varietal": "Malbec",
+              "glassSize": "8oz",
+              "glassPrice": 16.75
+            }
+          ]
+        },
+        {
+          "name": "Cabernet Sauvignon Flight",
+          "flightPrice": 16.75,
+          "items": [
+            {
+              "wine": "Artesa",
+              "region": "Napa",
+              "varietal": "Cabernet",
+              "glassSize": "8oz",
+              "glassPrice": 27.75
+            },
+            {
+              "wine": "Ink Grade",
+              "region": "Napa",
+              "varietal": "Cabernet",
+              "glassSize": "8oz",
+              "glassPrice": 54.99
+            },
+            {
+              "wine": "Prisoner",
+              "region": "Napa",
+              "varietal": "Cabernet",
+              "glassSize": "8oz",
+              "glassPrice": 27.75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cocktails",
+      "template": "cocktails",
+      "seasonal": {
+        "title": "Seasonal Cocktails",
+        "image": "images/seasonal_cocktail.svg",
+        "items": [
+          {
+            "name": "Aperol Spritz",
+            "serve": "Rocks",
+            "ingredients": "Aperol | Prosecco | Soda Water",
+            "price": 12
+          },
+          {
+            "name": "Highball",
+            "serve": "Rocks",
+            "ingredients": "Whiskey | Ginger Beer | Orange Bitters",
+            "price": 11
+          },
+          {
+            "name": "Negroni",
+            "serve": "Clear Ice Co Clear Cube",
+            "ingredients": "Gin | Campari | Sweet Vermouth",
+            "price": 12
+          },
+          {
+            "name": "French 75",
+            "serve": "Up",
+            "ingredients": "Gin | Lemon Juice | Simple Syrup | Bubbles",
+            "price": 14
+          },
+          {
+            "name": "Fall Back Fashioned",
+            "serve": "Clear Ice Co Clear Cube",
+            "ingredients": "Bourbon | Montenegro | Grapefruit Bitters | Nut Bitters",
+            "price": 14
+          },
+          {
+            "name": "WV Espresso Martini",
+            "serve": "",
+            "ingredients": "Vodka | Cardamaro | Coffee Grind Espresso | Simple Syrup",
+            "price": 12
+          }
+        ]
+      },
+      "house": {
+        "title": "House Cocktails",
+        "priceLabel": "$13",
+        "image": "images/house_cocktail.svg",
+        "items": [
+          {
+            "name": "Vine Manhattan",
+            "serve": "Up",
+            "ingredients": "Whole Creek Rye | Sweet Vermouth | Bitters"
+          },
+          {
+            "name": "Blue Cheese Stuffed Dirty Martini",
+            "serve": "Up",
+            "ingredients": "Vodka | Filthy Olive Brine | Filthy Blue Cheese Stuffed Olives"
+          },
+          {
+            "name": "Vine Old Fashioned",
+            "serve": "Clear Ice Co Clear Cube",
+            "ingredients": "Bourbon | Simple Syrup | Angostura + Orange Bitters"
+          },
+          {
+            "name": "Can't Beat A Classic Marg",
+            "serve": "Rocks & Salt",
+            "ingredients": "Reposado Tequila | Lime | Cointreau | Agave"
+          }
+        ]
+      }
+    },
+    {
+      "id": "beers",
+      "template": "beers",
+      "title": "Beers",
+      "image": "images/beer.svg",
+      "draft": [
+        {
+          "brewery": "North Coast",
+          "beer": "Scrimshaw Pilsner",
+          "price": 6.25
+        },
+        {
+          "brewery": "Avery",
+          "beer": "White Rascal Ale",
+          "price": 6.25
+        },
+        {
+          "brewery": "Revision",
+          "beer": "IPA",
+          "price": 7.25,
+          "local": true
+        },
+        {
+          "brewery": "Guinness",
+          "beer": "Stout",
+          "price": 9
+        },
+        {
+          "brewery": "Belching Beaver",
+          "beer": "Peanut Butter Milk Stout",
+          "price": 6.25
+        },
+        {
+          "brewery": "Sculpin",
+          "beer": "IPA",
+          "price": 7.25
+        },
+        {
+          "brewery": "Stiegl",
+          "beer": "Radler Aperitif",
+          "price": 5.25
+        },
+        {
+          "brewery": "Parlay 6",
+          "beer": "Detour Red",
+          "price": 6.25
+        }
+      ],
+      "promo": {
+        "title": "Friday - Bottled Import Beers $2 4PM-Close",
+        "subtext": "Limited Availability"
+      },
+      "snacks": {
+        "title": "Snacks",
+        "image": "images/snacks.svg",
+        "items": [
+          {
+            "name": "Peanut Plate",
+            "price": 4
+          },
+          {
+            "name": "Cheese Meat Plate",
+            "price": 15
+          },
+          {
+            "name": "Can of Peanuts",
+            "price": 7
+          }
+        ]
+      },
+      "neighbors": {
+        "title": "Order From Our Neighbors",
+        "items": [
+          {
+            "name": "Yosh's Deli",
+            "phone": "775.853.YOSH",
+            "url": "http://qr.wvwine.co/yosh",
+            "note": "Delivery"
+          },
+          {
+            "name": "South Creek Pizza",
+            "phone": "775.622.1620",
+            "url": "http://qr.wvwine.co/scpc",
+            "note": "Pick-Up"
+          },
+          {
+            "name": "Los Compadres",
+            "phone": "775.284.1301",
+            "url": "http://qr.wvwine.co/losc",
+            "note": "Delivery"
+          }
+        ]
+      },
+      "bottled": {
+        "title": "Bottled Beers",
+        "items": [
+          {
+            "name": "Pliny the Elder",
+            "meta": "Double IPA",
+            "price": 5.99
+          },
+          {
+            "name": "Blind Pig",
+            "meta": "IPA",
+            "price": 5.99
+          },
+          {
+            "name": "Citra Flash Mob",
+            "meta": "IPA",
+            "price": 5.99
+          },
+          {
+            "name": "Happy Hops",
+            "meta": "IPA",
+            "price": 5.99
+          }
+        ]
+      }
+    }
+  ]
+}
