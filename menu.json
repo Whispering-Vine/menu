@@ -639,10 +639,10 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "Ferrari Carano Tresor",
-                  "price": "16.75",
+                  "name": "Terrior",
+                  "price": "10.75",
                   "variety": "Cab, Merlot, Cab Franc",
-                  "location": "Sonoma ",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 },
                 {
@@ -653,14 +653,14 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Terroir",
-                  "price": "10.75",
+                  "name": "Keenan Mernet",
+                  "price": "24.75",
                   "variety": "Cab, Merlot, Cab Franc",
                   "location": "Napa",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "12.75",
+              "price": "15.75",
               "favorites": true
             },
             {
@@ -694,10 +694,10 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Tapiz Black Tears",
-                  "price": "16.75",
-                  "variety": "Malbec",
-                  "location": "Argentina",
+                  "name": "San Vincente ",
+                  "price": "19.75",
+                  "variety": "Tempranillo",
+                  "location": "Rioja, Spain",
                   "glassSize": "8oz"
                 },
                 {
@@ -708,7 +708,7 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Saxon Brown",
+                  "name": "Mauritson",
                   "price": "16.75",
                   "variety": "Zinfandel ",
                   "location": "Sonoma",
@@ -725,38 +725,38 @@
         "specials": {
           "items": [
             {
-              "name": "Coquerel Cabernet",
-              "glass": "16.75",
-              "notes": "Winery $65",
-              "bottle": "39.99",
+              "name": "Keenan Mernet Red Blend",
+              "glass": "24.75",
+              "notes": "Winery $130",
+              "bottle": "59.99",
               "favorites": false
             },
             {
-              "name": "Lingua Franca Pinot Noir",
-              "glass": "16.75",
-              "notes": "92pts Wine Spectator",
-              "bottle": "39.99",
+              "name": "San Vincente Rioja",
+              "glass": "19.75",
+              "notes": "Winery $70 94pts Robert Parker",
+              "bottle": "49.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Tapiz Black Tears Malbec",
+              "name": "Mauritson Zinfandel",
               "glass": "16.75",
-              "notes": "Winery $60  96pts James Suckling",
+              "notes": "Winery $49  93pts Wine Spectator",
               "bottle": "39.99"
             },
             {
-              "name": "G.H. MUMM Brut",
+              "name": "Pride Chardonnay",
               "glass": "16.75",
               "notes": "Winery $50",
               "bottle": "35.99",
               "wineryPrice": 45
             },
             {
-              "name": "Miner Chardonnay",
+              "name": "ZAHA Cabernet",
               "glass": "12.75",
-              "notes": "Winery $45",
-              "bottle": "26.99",
+              "notes": "91pts Wine Spectator Top 100 #73",
+              "bottle": "25.99",
               "favorites": false
             }
           ]
