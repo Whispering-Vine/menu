@@ -367,7 +367,7 @@
             const params = new URLSearchParams(window.location.search);
             if (params.has('menu')) {
                 try {
-                    const decoded = decodeURIComponent(params.get('menu'));
+                    const decoded = params.get('menu');
                     if (/^https?:\/\//.test(decoded)) {
                         menuUrl = decoded;
                         console.log('Fetching menu from query param:', menuUrl);
