@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>South Creek Menu - Landscape 11x8.5</title>
+    <title>Elegant Menu - Landscape 11x8.5</title>
     <!-- Importing elegant typography -->
     <link
         href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Montserrat:wght@400;500;600&display=swap"
@@ -379,7 +379,12 @@
 
             try {
                 const response = await fetch(menuUrl);
-                const menuData = await response.json();
+                let menuData = await response.json();
+
+                // If JSON is wrapped in a "menu" object (like preview.json), unwrap it
+                if (menuData.menu && menuData.menu.pages) {
+                    menuData = menuData.menu;
+                }
 
                 menuData.pages.forEach(p => {
                     if (p.id === 'foothill') {
