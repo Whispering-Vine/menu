@@ -928,7 +928,7 @@
                 "glass": 8.75,
                 "bottle": 19.99
               },
-              "description": "Monterey | Chardonnay"
+              "description": "Oregon | Chardonnay"
             },
             {
               "name": "Miner",
@@ -958,13 +958,13 @@
               "description": "Oregon | Pinot Noir"
             },
             {
-              "name": "The Calling",
+              "name": "Patricia Green \"Freedom Hill\"",
               "price": {
                 "sale": true,
-                "glass": 12.75,
-                "bottle": 29.99
+                "glass": 15.75,
+                "bottle": 39.99
               },
-              "description": "Russian River | Pinot Noir"
+              "description": "Willamette Valley | Pinot Noir"
             },
             {
               "name": "Duckhorn",
