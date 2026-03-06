@@ -99,12 +99,12 @@
               "brewery": "Mexico"
             },
             {
-              "name": "Guinness",
-              "brewery": "Ireland",
               "abv": "4.2%",
               "ibu": "40",
+              "name": "Guinness",
+              "local": false,
               "price": "$7.25",
-              "local": false
+              "brewery": "Ireland"
             }
           ]
         },
@@ -972,7 +972,7 @@
                 "glass": 15.75,
                 "bottle": 39.99
               },
-              "description": "Willamette Valley | Pinot Noir"
+              "description": "Willamette | Pinot Noir"
             },
             {
               "name": "Duckhorn",
