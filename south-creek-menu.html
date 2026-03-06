@@ -398,8 +398,8 @@
                     <div class="two-column">
                         ${p.rows.map(row => `
                             <div class="item">
-                                <div class="item-name-price">${row.style.toUpperCase()} - ${row.price}</div>
-                                <div class="item-desc">${row.producer}, ${row.region}</div>
+                                <div class="item-name-price">${row.producer.toUpperCase()} - ${row.price}</div>
+                                <div class="item-desc">${row.style} - ${row.region}</div>
                             </div>
                         `).join('')}
                     </div>
