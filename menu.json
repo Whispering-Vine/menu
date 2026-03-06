@@ -340,7 +340,7 @@
               "gluten_free": false
             },
             {
-              "new": true,
+              "new": false,
               "name": "PAN SEARED SALMON",
               "price": "26",
               "warning": true,
