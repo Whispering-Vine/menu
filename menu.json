@@ -340,7 +340,7 @@
               "gluten_free": false
             },
             {
-              "new": false,
+              "new": true,
               "name": "PAN SEARED SALMON",
               "price": "26",
               "warning": true,
@@ -584,10 +584,10 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "Coquerel",
-                  "price": "16.75",
+                  "name": "ZAHA",
+                  "price": "10.75",
                   "variety": "Cabernet",
-                  "location": "Napa",
+                  "location": "Argentina",
                   "glassSize": "8oz"
                 },
                 {
@@ -612,8 +612,8 @@
               "name": "Premium Cabernet Flight",
               "items": [
                 {
-                  "name": "Robert Foley",
-                  "price": "27.75",
+                  "name": "Coquerel",
+                  "price": "16.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz"
@@ -633,7 +633,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "26.75"
+              "price": "24.75"
             },
             {
               "name": "Red Blend Flight",
@@ -727,7 +727,7 @@
             {
               "name": "Keenan Mernet Red Blend",
               "glass": "24.75",
-              "notes": "Winery $130",
+              "notes": "Over 1/2 OFF! Winery $130",
               "bottle": "59.99",
               "favorites": false
             },
