@@ -97,6 +97,14 @@
               "local": false,
               "price": "$6.25",
               "brewery": "Mexico"
+            },
+            {
+              "name": "Guinness",
+              "brewery": "Ireland",
+              "abv": "4.2%",
+              "ibu": "40",
+              "price": "$7.25",
+              "local": false
             }
           ]
         },
