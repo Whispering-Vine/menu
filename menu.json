@@ -620,7 +620,7 @@
               "name": "Premium Cabernet Flight",
               "items": [
                 {
-                  "name": "Coquerel",
+                  "name": "Coqurel",
                   "price": "16.75",
                   "variety": "Cabernet",
                   "location": "Napa",
@@ -634,14 +634,14 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Salus",
-                  "price": "23.75",
+                  "name": "HALL",
+                  "price": "17.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "24.75"
+              "price": "22.75"
             },
             {
               "name": "Red Blend Flight",
