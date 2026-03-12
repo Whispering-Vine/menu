@@ -516,21 +516,21 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Schramsberg",
-                  "price": "14.75",
+                  "name": "Lallier",
+                  "price": "24.75",
                   "variety": "Blanc de Blanc",
-                  "location": "Napa",
+                  "location": "Champagne, France",
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Jacquart",
-                  "price": "17.75",
+                  "name": "Scharffenberger",
+                  "price": "12.75",
                   "variety": "Brut ",
-                  "location": "Champagne, France",
+                  "location": "Mendocino ",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "14.75",
+              "price": "16.75",
               "favorites": false
             },
             {
