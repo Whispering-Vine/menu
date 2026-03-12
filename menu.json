@@ -99,12 +99,12 @@
               "brewery": "Mexico"
             },
             {
+              "name": "Guinness",
+              "brewery": "Ireland",
               "abv": "4.2%",
               "ibu": "40",
-              "name": "Guinness",
-              "local": false,
               "price": "$7.25",
-              "brewery": "Ireland"
+              "local": false
             }
           ]
         },
@@ -488,10 +488,10 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Drylands",
-                  "price": "7.75",
+                  "name": "Cakebread",
+                  "price": "12.75",
                   "variety": "Sauvignon Blanc",
-                  "location": "New Zealand",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 },
                 {
@@ -502,7 +502,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "8.75",
+              "price": "10.75",
               "favorites": true
             },
             {
@@ -544,8 +544,8 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Flowers",
-                  "price": "16.75",
+                  "name": "Walt",
+                  "price": "12.75",
                   "variety": "Chardonnay",
                   "location": "Sonoma Coast",
                   "glassSize": "8oz"
@@ -558,7 +558,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true
             },
             {
@@ -702,28 +702,28 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "San Vincente ",
-                  "price": "19.75",
+                  "name": "Ancient Peak",
+                  "price": "7.75",
+                  "variety": "Merlot",
+                  "location": "Paso Robles",
+                  "glassSize": "8oz"
+                },
+                {
+                  "name": "Marimar \"Don Miguel\"",
+                  "price": "13.75",
                   "variety": "Tempranillo",
-                  "location": "Rioja, Spain",
-                  "glassSize": "8oz"
-                },
-                {
-                  "name": "Amor Fati",
-                  "price": "16.75",
-                  "variety": "Grenache",
-                  "location": "Santa Maria ",
-                  "glassSize": "8oz"
-                },
-                {
-                  "name": "Mauritson",
-                  "price": "16.75",
-                  "variety": "Zinfandel ",
                   "location": "Sonoma",
+                  "glassSize": "8oz"
+                },
+                {
+                  "name": "Gamba",
+                  "price": "13.75",
+                  "variety": "Zinfandel ",
+                  "location": "Russian River, Sonoma",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "16.75",
+              "price": "12.75",
               "favorites": true
             }
           ],
@@ -733,38 +733,38 @@
         "specials": {
           "items": [
             {
-              "name": "Keenan Mernet Red Blend",
-              "glass": "24.75",
-              "notes": "Over 1/2 OFF! Winery $130",
-              "bottle": "59.99",
+              "name": "Hall Cabernet",
+              "glass": "17.75",
+              "notes": "Winery $70",
+              "bottle": "44.99",
               "favorites": false
             },
             {
-              "name": "San Vincente Rioja",
-              "glass": "19.75",
-              "notes": "Winery $70 94pts Robert Parker",
-              "bottle": "49.99",
+              "name": "Marimar \"Don Miguel\" Tempranillo",
+              "glass": "13.75",
+              "notes": "1/2 OFF Winery $64",
+              "bottle": "31.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Mauritson Zinfandel",
-              "glass": "16.75",
-              "notes": "Winery $49  93pts Wine Spectator",
-              "bottle": "39.99"
+              "name": "Gamba Family Zinfandel",
+              "glass": "13.75",
+              "notes": "Winery $55  ",
+              "bottle": "29.99"
             },
             {
-              "name": "Pride Chardonnay",
-              "glass": "16.75",
-              "notes": "Winery $50",
-              "bottle": "35.99",
+              "name": "Walt Chardonnay",
+              "glass": "12.75",
+              "notes": "Winery $40 91pts Wine Spectator",
+              "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "ZAHA Cabernet",
-              "glass": "10.75",
-              "notes": "91pts Wine Spectator Top 100 #73",
-              "bottle": "25.99",
+              "name": "Cakebread Sauvignon Blanc",
+              "glass": "12.75",
+              "notes": "",
+              "bottle": "29.99",
               "favorites": false
             }
           ]
@@ -972,7 +972,7 @@
                 "glass": 15.75,
                 "bottle": 39.99
               },
-              "description": "Willamette | Pinot Noir"
+              "description": "Willamette Valley | Pinot Noir"
             },
             {
               "name": "Duckhorn",
