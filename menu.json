@@ -733,38 +733,38 @@
         "specials": {
           "items": [
             {
-              "name": "Hall Cabernet",
+              "name": "Sinegal Napa Cabernet",
               "glass": "17.75",
-              "notes": "Winery $70",
+              "notes": "Winery $90",
               "bottle": "44.99",
               "favorites": false
             },
             {
-              "name": "Marimar \"Don Miguel\" Tempranillo",
-              "glass": "13.75",
-              "notes": "1/2 OFF Winery $64",
-              "bottle": "31.99",
+              "name": "WALT \"Las Brisa\" Pinot Noir",
+              "glass": "16.75",
+              "notes": "Winery $50 93 Wine Enthusiast",
+              "bottle": "39.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Gamba Family Zinfandel",
+              "name": "My Favorite Neighbor",
               "glass": "13.75",
-              "notes": "Winery $55  ",
+              "notes": "Winery $50 ",
               "bottle": "29.99"
             },
             {
-              "name": "Walt Chardonnay",
+              "name": "HALL Sauvignon Blanc",
               "glass": "12.75",
-              "notes": "Winery $40 91pts Wine Spectator",
+              "notes": "",
               "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "Cakebread Sauvignon Blanc",
+              "name": "Ceretto Arneis",
               "glass": "12.75",
               "notes": "",
-              "bottle": "29.99",
+              "bottle": "24.99",
               "favorites": false
             }
           ]
