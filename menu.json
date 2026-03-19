@@ -537,10 +537,10 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Pride",
-                  "price": "16.75",
+                  "name": "Jordan",
+                  "price": "12.75",
                   "variety": "Chardonnay",
-                  "location": "Napa",
+                  "location": "Sonoma",
                   "glassSize": "8oz"
                 },
                 {
@@ -558,7 +558,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "15.75",
+              "price": "13.75",
               "favorites": true
             },
             {
