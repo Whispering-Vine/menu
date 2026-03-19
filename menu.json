@@ -572,10 +572,10 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Lingua Franca",
+                  "name": "WALT \"Las Brisa\"",
                   "price": "16.75",
                   "variety": "Pinot Noir",
-                  "location": "Willamette, Oregon",
+                  "location": "Sonoma Coast",
                   "glassSize": "8oz"
                 },
                 {
@@ -592,10 +592,10 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "ZAHA",
-                  "price": "10.75",
+                  "name": "My Favorite Neighbor",
+                  "price": "13.75",
                   "variety": "Cabernet",
-                  "location": "Argentina",
+                  "location": "Paso Robles",
                   "glassSize": "8oz"
                 },
                 {
@@ -613,7 +613,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "17.75",
+              "price": "16.75",
               "favorites": true
             },
             {
@@ -634,14 +634,14 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "HALL",
-                  "price": "17.75",
+                  "name": "Sinegal",
+                  "price": "25.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "22.75"
+              "price": "25.75"
             },
             {
               "name": "Red Blend Flight",
