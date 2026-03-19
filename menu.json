@@ -99,12 +99,12 @@
               "brewery": "Mexico"
             },
             {
-              "name": "Guinness",
-              "brewery": "Ireland",
               "abv": "4.2%",
               "ibu": "40",
+              "name": "Guinness",
+              "local": false,
               "price": "$7.25",
-              "local": false
+              "brewery": "Ireland"
             }
           ]
         },
@@ -921,13 +921,13 @@
               "description": "California | Moscato"
             },
             {
-              "name": "Ancient Peaks",
+              "name": "HALL",
               "price": {
-                "sale": true,
-                "glass": 6.75,
-                "bottle": 14.99
+                "sale": false,
+                "glass": 12.75,
+                "bottle": 29.99
               },
-              "description": "Paso Robles | Sauvignon Blanc"
+              "description": "Napa | Sauvignon Blanc"
             },
             {
               "name": "Whispering Vine",
@@ -994,9 +994,9 @@
             {
               "name": "Prisoner Wine Co.",
               "price": {
-                "sale": false,
-                "glass": 17.75,
-                "bottle": 44.99
+                "sale": true,
+                "glass": 14.75,
+                "bottle": 34.99
               },
               "description": "Napa | Cabernet"
             },
