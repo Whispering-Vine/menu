@@ -488,10 +488,10 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Cakebread",
-                  "price": "12.75",
-                  "variety": "Sauvignon Blanc",
-                  "location": "Napa",
+                  "name": "Ceretto",
+                  "price": "10.75",
+                  "variety": "Arneis",
+                  "location": "Italy",
                   "glassSize": "8oz"
                 },
                 {
@@ -502,7 +502,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "10.75",
+              "price": "9.75",
               "favorites": true
             },
             {
@@ -762,7 +762,7 @@
             },
             {
               "name": "Ceretto Arneis",
-              "glass": "12.75",
+              "glass": "10.75",
               "notes": "",
               "bottle": "24.99",
               "favorites": false
