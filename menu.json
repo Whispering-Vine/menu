@@ -825,22 +825,22 @@
         "seasonal": {
           "items": [
             {
-              "name": "CHURCHILL SAGE HOT TODDY",
+              "name": "YAMATO 46",
               "price": "14",
-              "serving": "Served Hot",
-              "description": "Frey Ranch Bourbon | Sage Infused Honey | Lemon Juice"
+              "serving": "Served Up",
+              "description": "Awayoki Strawberry Gin | Limoncello | Lemon Juice | Strawberry-Shiso Shrub Syrup | Sparkling Brut"
             },
             {
-              "name": "AMBER SOLSTICE",
+              "name": "",
               "price": "14",
-              "serving": "On the Rocks",
-              "description": "Reposado Tequila | Amaro | Lemon Juice | Agave | Angostura"
+              "serving": "",
+              "description": ""
             },
             {
-              "name": "POMEGRANATE NEGRONI",
+              "name": "",
               "price": "14",
-              "serving": "On a Large Clear Cube",
-              "description": "Gin | Cocchi Americano | Lo-Fi Amaro | Pomegranate Liqueur"
+              "serving": "",
+              "description": ""
             },
             {
               "name": "FALLON BUCK",
@@ -855,10 +855,10 @@
               "description": ""
             },
             {
-              "name": "FALL SPICED SPRITZ",
+              "name": "",
               "price": "14",
-              "serving": "On the Rocks",
-              "description": "Spiced Pear Liqueur | Spiced Rum | Lemon Juice | Sparkling Wine | Soda Water"
+              "serving": "",
+              "description": ""
             },
             {
               "name": "WV ESPRESSO MARTINI",
@@ -879,10 +879,10 @@
               "description": "Gray Whale Gin | Lime Juice | Grapefruit Juice | Simple Syrup | Lavender Bitters"
             },
             {
-              "name": "PEAR MULE",
+              "name": "PEACH MULE",
               "price": "14",
               "serving": "On the Rocks",
-              "description": "Pear Infused Vodka | Lime Juice | Ginger Beer"
+              "description": "Peach Infused Vodka | Lemon Juice | Ginger Beer"
             }
           ]
         }
