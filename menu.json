@@ -551,14 +551,14 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Cakebread",
-                  "price": "17.75",
+                  "name": "Post & Beam",
+                  "price": "14.75",
                   "variety": "Chardonnay",
                   "location": "Carneros, Napa",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "14.75",
+              "price": "13.75",
               "favorites": true
             },
             {
@@ -572,17 +572,17 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Roserock",
-                  "price": "16.75",
-                  "variety": "Pinot Noir",
-                  "location": "Willamette Valley, Oregon",
-                  "glassSize": "8oz"
-                },
-                {
                   "name": "WALT \"Las Brisa\"",
                   "price": "16.75",
                   "variety": "Pinot Noir",
                   "location": "Sonoma Coast",
+                  "glassSize": "8oz"
+                },
+                {
+                  "name": "Kanzler",
+                  "price": "24.75",
+                  "variety": "Pinot Noir",
+                  "location": "Russian River",
                   "glassSize": "8oz"
                 }
               ],
@@ -810,10 +810,10 @@
               "description": "Premium Bourbon | Simple Syrup\nOrange Bitters | Angostura Bitters"
             },
             {
-              "name": "PATRÓN FLIGHT",
-              "price": "20",
-              "serving": "REGULARLY VALUED $50!",
-              "description": "Enjoy a one-ounce pour each of \nPatrón El Alto, El Cielo, and Silver"
+              "name": "FRENCH 75",
+              "description": "Gin | Lemon Juice\nSimple Syrup | Sparkling Wine",
+              "serving": "Served Up",
+              "price": "14"
             }
           ],
           "caption": "Our signature cocktails"
@@ -849,10 +849,10 @@
               "description": "Frey Ranch Bourbon | Simple Syrup | Crème de Cassis | Lemon Juice | Angostura"
             },
             {
-              "name": "FRENCH 75",
+              "name": "",
               "price": "14",
               "serving": "Served Up",
-              "description": "Gin | Lemon Juice\nSimple Syrup | Sparkling Wine"
+              "description": ""
             },
             {
               "name": "FALL SPICED SPRITZ",
