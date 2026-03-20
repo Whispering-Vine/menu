@@ -831,16 +831,16 @@
               "description": "Awayoki Strawberry Gin | Limoncello | Lemon Juice | Strawberry-Shiso Shrub Syrup | Sparkling Brut"
             },
             {
-              "name": "",
+              "name": "MANGO MOJITO",
               "price": "14",
-              "serving": "",
-              "description": ""
+              "serving": "On the Rocks",
+              "description": "Malahat Rum | Mando-Mint Simple Syrup | Lime Juice |Rinquinquin à la Pêche Liqueur | Soda Water"
             },
             {
-              "name": "",
+              "name": "CLEF NOTE SPRITZ",
               "price": "14",
-              "serving": "",
-              "description": ""
+              "serving": "On the Rocks",
+              "description": "Luxardo Cherry Liqueur | Elderflower Liqueur | Lime Juice | Sparkling Wine | Splash Soda Water"
             },
             {
               "name": "FALLON BUCK",
@@ -849,10 +849,10 @@
               "description": "Frey Ranch Bourbon | Simple Syrup | Crème de Cassis | Lemon Juice | Angostura"
             },
             {
-              "name": "",
+              "name": "WV CAFÉ DE OLLA MARTINI",
               "price": "14",
               "serving": "Served Up",
-              "description": ""
+              "description": "Patrón Blanco | Rumchata | Coffee | Cafe de Olla Syrup "
             },
             {
               "name": "",
