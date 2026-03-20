@@ -551,14 +551,14 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Post & Beam",
-                  "price": "14.75",
+                  "name": "Cakebread",
+                  "price": "17.75",
                   "variety": "Chardonnay",
                   "location": "Carneros, Napa",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "13.75",
+              "price": "14.75",
               "favorites": true
             },
             {
@@ -572,17 +572,17 @@
                   "glassSize": "8oz"
                 },
                 {
+                  "name": "Roserock",
+                  "price": "16.75",
+                  "variety": "Pinot Noir",
+                  "location": "Willamette Valley, Oregon",
+                  "glassSize": "8oz"
+                },
+                {
                   "name": "WALT \"Las Brisa\"",
                   "price": "16.75",
                   "variety": "Pinot Noir",
                   "location": "Sonoma Coast",
-                  "glassSize": "8oz"
-                },
-                {
-                  "name": "Kanzler",
-                  "price": "24.75",
-                  "variety": "Pinot Noir",
-                  "location": "Russian River",
                   "glassSize": "8oz"
                 }
               ],
@@ -734,9 +734,9 @@
           "items": [
             {
               "name": "Sinegal Napa Cabernet",
-              "glass": "17.75",
+              "glass": "25.75",
               "notes": "Winery $90",
-              "bottle": "44.99",
+              "bottle": "69.99",
               "favorites": false
             },
             {
@@ -810,10 +810,10 @@
               "description": "Premium Bourbon | Simple Syrup\nOrange Bitters | Angostura Bitters"
             },
             {
-              "name": "FRENCH 75",
-              "description": "Gin | Lemon Juice\nSimple Syrup | Sparkling Wine",
-              "serving": "Served Up",
-              "price": "14"
+              "name": "PATRÓN FLIGHT",
+              "price": "20",
+              "serving": "REGULARLY VALUED $50!",
+              "description": "Enjoy a one-ounce pour each of \nPatrón El Alto, El Cielo, and Silver"
             }
           ],
           "caption": "Our signature cocktails"
@@ -825,22 +825,22 @@
         "seasonal": {
           "items": [
             {
-              "name": "YAMATO 46",
+              "name": "CHURCHILL SAGE HOT TODDY",
               "price": "14",
-              "serving": "Served Up",
-              "description": "Awayoki Strawberry Gin | Limoncello | Lemon Juice | Strawberry-Shiso Shrub Syrup | Sparkling Brut"
+              "serving": "Served Hot",
+              "description": "Frey Ranch Bourbon | Sage Infused Honey | Lemon Juice"
             },
             {
-              "name": "MANGO MOJITO",
+              "name": "AMBER SOLSTICE",
               "price": "14",
               "serving": "On the Rocks",
-              "description": "Malahat Rum | Mango-Mint Simple Syrup | Lime Juice |Rinquinquin à la Pêche Liqueur | Soda Water"
+              "description": "Reposado Tequila | Amaro | Lemon Juice | Agave | Angostura"
             },
             {
-              "name": "CLEF NOTE SPRITZ",
+              "name": "POMEGRANATE NEGRONI",
               "price": "14",
-              "serving": "On the Rocks",
-              "description": "Luxardo Cherry Liqueur | Elderflower Liqueur | Lime Juice | Sparkling Wine | Splash Soda Water"
+              "serving": "On a Large Clear Cube",
+              "description": "Gin | Cocchi Americano | Lo-Fi Amaro | Pomegranate Liqueur"
             },
             {
               "name": "FALLON BUCK",
@@ -849,10 +849,16 @@
               "description": "Frey Ranch Bourbon | Simple Syrup | Crème de Cassis | Lemon Juice | Angostura"
             },
             {
-              "name": "WV CAFÉ DE OLLA MARTINI",
+              "name": "FRENCH 75",
               "price": "14",
               "serving": "Served Up",
-              "description": "Patrón Blanco | Rumchata | Coffee | Grind Espresso Liqueur | Cafe de Olla Syrup "
+              "description": "Gin | Lemon Juice\nSimple Syrup | Sparkling Wine"
+            },
+            {
+              "name": "FALL SPICED SPRITZ",
+              "price": "14",
+              "serving": "On the Rocks",
+              "description": "Spiced Pear Liqueur | Spiced Rum | Lemon Juice | Sparkling Wine | Soda Water"
             },
             {
               "name": "WV ESPRESSO MARTINI",
@@ -864,7 +870,7 @@
               "name": "PICON PUNCH",
               "price": "14",
               "serving": "On the Rocks",
-              "description": "Ferino Amer | Grenadine | St Remy VSOP | Soda Water"
+              "description": "Ferani Amer | Grenadine | St Remy VSOP | Soda Water"
             },
             {
               "name": "GRAPEFRUIT LAVENDER GIMLET",
@@ -873,10 +879,10 @@
               "description": "Gray Whale Gin | Lime Juice | Grapefruit Juice | Simple Syrup | Lavender Bitters"
             },
             {
-              "name": "PEACH MULE",
+              "name": "PEAR MULE",
               "price": "14",
               "serving": "On the Rocks",
-              "description": "Peach Infused Vodka | Lemon Juice | Ginger Beer"
+              "description": "Pear Infused Vodka | Lime Juice | Ginger Beer"
             }
           ]
         }
@@ -966,7 +972,7 @@
                 "glass": 15.75,
                 "bottle": 39.99
               },
-              "description": "Oregon | Pinot Noir"
+              "description": "Willamette Valley | Pinot Noir"
             },
             {
               "name": "Duckhorn",
