@@ -551,14 +551,14 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Cakebread",
-                  "price": "17.75",
+                  "name": "Post & Beam",
+                  "price": "14.75",
                   "variety": "Chardonnay",
                   "location": "Carneros, Napa",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "14.75",
+              "price": "13.75",
               "favorites": true
             },
             {
@@ -808,12 +808,6 @@
               "price": "14",
               "serving": "On a Large Clear Cube",
               "description": "Premium Bourbon | Simple Syrup\nOrange Bitters | Angostura Bitters"
-            },
-            {
-              "name": "PATRÓN FLIGHT",
-              "price": "20",
-              "serving": "REGULARLY VALUED $50!",
-              "description": "Enjoy a one-ounce pour each of \nPatrón El Alto, El Cielo, and Silver"
             }
           ],
           "caption": "Our signature cocktails"
