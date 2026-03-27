@@ -903,13 +903,13 @@
               "description": "Champagne, France | Brut"
             },
             {
-              "name": "Roederer Estate",
+              "name": "Lucien Albrecht",
               "price": {
-                "sale": true,
-                "glass": 13.75,
-                "bottle": 31.99
+                "sale": false,
+                "glass": 8.75,
+                "bottle": 19.99
               },
-              "description": "Anderson Valley | Brut Rosé"
+              "description": "France | Brut Rosé"
             },
             {
               "name": "Whispering Vine",
