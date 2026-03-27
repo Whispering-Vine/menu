@@ -481,10 +481,10 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Drylands",
-                  "price": "7.75",
+                  "name": "Round Pond",
+                  "price": "10.75",
                   "variety": "Sauvignon Blanc",
-                  "location": "New Zealand",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 },
                 {
@@ -502,24 +502,24 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "9.75",
+              "price": "10.75",
               "favorites": true
             },
             {
               "name": "Bubbles Flight",
               "items": [
                 {
-                  "name": "Lucien Albrecht ",
-                  "price": "8.75",
-                  "variety": "Brut Rosé",
-                  "location": "France ",
+                  "name": "Weingut Frank",
+                  "price": "10.75",
+                  "variety": "Gruner Veltliner",
+                  "location": "Austria",
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Lallier",
-                  "price": "24.75",
+                  "name": "Selim",
+                  "price": "10.75",
                   "variety": "Brut",
-                  "location": "Champagne, France",
+                  "location": "Italy",
                   "glassSize": "8oz"
                 },
                 {
@@ -530,7 +530,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "16.75",
+              "price": "10.75",
               "favorites": false
             },
             {
