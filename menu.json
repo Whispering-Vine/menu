@@ -620,10 +620,10 @@
               "name": "Premium Cabernet Flight",
               "items": [
                 {
-                  "name": "Coquerel",
-                  "price": "16.75",
+                  "name": "Jordan",
+                  "price": "19.75",
                   "variety": "Cabernet",
-                  "location": "Napa",
+                  "location": "Sonoma",
                   "glassSize": "8oz"
                 },
                 {
@@ -716,10 +716,10 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Gamba",
-                  "price": "13.75",
+                  "name": "BACA",
+                  "price": "12.75",
                   "variety": "Zinfandel ",
-                  "location": "Russian River, Sonoma",
+                  "location": "Paso Robles",
                   "glassSize": "8oz"
                 }
               ],
