@@ -573,7 +573,7 @@
                 },
                 {
                   "name": "Arterberry Maresh \"Dundee Hills\"",
-                  "price": "12.75",
+                  "price": "13.75",
                   "variety": "Pinot Noir",
                   "location": "Oregon",
                   "glassSize": "8oz"
@@ -755,7 +755,7 @@
             },
             {
               "name": "Round Pond Sauvignon Blanc",
-              "glass": "12.75",
+              "glass": "10.75",
               "notes": "Winery $30",
               "bottle": "22.99",
               "wineryPrice": 45
