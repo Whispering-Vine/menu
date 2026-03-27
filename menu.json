@@ -733,38 +733,38 @@
         "specials": {
           "items": [
             {
-              "name": "Sinegal Napa Cabernet",
-              "glass": "17.75",
-              "notes": "Winery $90",
-              "bottle": "44.99",
+              "name": "Jordan Cabernet",
+              "glass": "19.75",
+              "notes": "Winery $60",
+              "bottle": "49.99",
               "favorites": false
             },
             {
-              "name": "WALT \"Las Brisa\" Pinot Noir",
-              "glass": "16.75",
-              "notes": "Winery $50 93 Wine Enthusiast",
-              "bottle": "39.99",
+              "name": "Arterberry Maresh Dundee Hills Pinot Noir",
+              "glass": "13.75",
+              "notes": "93pts Wine Spectator",
+              "bottle": "33.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "My Favorite Neighbor",
-              "glass": "13.75",
-              "notes": "Winery $50 ",
-              "bottle": "29.99"
+              "name": "BACA Zinfandel",
+              "glass": "12.75",
+              "notes": "Winery $35",
+              "bottle": "27.99"
             },
             {
-              "name": "HALL Sauvignon Blanc",
+              "name": "Round Pond Sauvignon Blanc",
               "glass": "12.75",
-              "notes": "",
-              "bottle": "29.99",
+              "notes": "Winery $30",
+              "bottle": "22.99",
               "wineryPrice": 45
             },
             {
-              "name": "Ceretto Arneis",
-              "glass": "10.75",
-              "notes": "",
-              "bottle": "24.99",
+              "name": "Tan Fruit Chardonnay ",
+              "glass": "8.75",
+              "notes": "93pts Robert Parker",
+              "bottle": "19.99",
               "favorites": false
             }
           ]
