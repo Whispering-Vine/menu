@@ -544,21 +544,21 @@
                   "glassSize": "8oz"
                 },
                 {
+                  "name": "Tan Fruit",
+                  "price": "8.75",
+                  "variety": "Chardonnay",
+                  "location": "Oregon",
+                  "glassSize": "8oz"
+                },
+                {
                   "name": "Walt",
                   "price": "12.75",
                   "variety": "Chardonnay",
                   "location": "Sonoma Coast",
                   "glassSize": "8oz"
-                },
-                {
-                  "name": "Post & Beam",
-                  "price": "14.75",
-                  "variety": "Chardonnay",
-                  "location": "Carneros, Napa",
-                  "glassSize": "8oz"
                 }
               ],
-              "price": "13.75",
+              "price": "8.75",
               "favorites": true
             },
             {
@@ -572,21 +572,21 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "WALT \"Las Brisa\"",
-                  "price": "16.75",
+                  "name": "Arterberry Maresh \"Dundee Hills\"",
+                  "price": "12.75",
                   "variety": "Pinot Noir",
-                  "location": "Sonoma Coast",
+                  "location": "Oregon",
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Kanzler",
-                  "price": "24.75",
+                  "name": "Marimar",
+                  "price": "17.75",
                   "variety": "Pinot Noir",
                   "location": "Russian River",
                   "glassSize": "8oz"
                 }
               ],
-              "price": "16.75"
+              "price": "13.75"
             },
             {
               "name": "Cabernet Flight",
