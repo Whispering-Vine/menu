@@ -733,25 +733,25 @@
         "specials": {
           "items": [
             {
-              "name": "Jordan Cabernet",
-              "glass": "19.75",
-              "notes": "Winery $60",
-              "bottle": "49.99",
+              "name": "Plumpjack Merlot",
+              "glass": "24.75",
+              "notes": "Winery $80",
+              "bottle": "59.99",
               "favorites": false
             },
             {
-              "name": "Arterberry Maresh Dundee Hills Pinot Noir",
-              "glass": "13.75",
-              "notes": "93pts Wine Spectator",
-              "bottle": "33.99",
+              "name": "Costa Arente Amarone",
+              "glass": "19.75",
+              "notes": "1/2 OFF Winery $10",
+              "bottle": "49.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "BACA Zinfandel",
-              "glass": "12.75",
-              "notes": "Winery $35",
-              "bottle": "27.99"
+              "name": "Obsidian Cabernet ",
+              "glass": "16.75",
+              "notes": "",
+              "bottle": "39.99"
             },
             {
               "name": "Round Pond Sauvignon Blanc",
