@@ -11,14 +11,6 @@
           "name": "Craft Beers on Tap",
           "items": [
             {
-              "abv": "8.4%",
-              "ibu": "23",
-              "name": "Revision Reno AS F*ck IPA",
-              "local": true,
-              "price": "$7.25",
-              "brewery": "Sparks"
-            },
-            {
               "abv": "6.7%",
               "ibu": "35",
               "name": "Sierra Nevada Hazy Little Thing IPA",
@@ -40,14 +32,6 @@
               "name": "Russian River Pliny the Elder Double IPA",
               "local": false,
               "price": "$8.25",
-              "brewery": "Sonoma"
-            },
-            {
-              "abv": "6.5 %",
-              "ibu": "50",
-              "name": "Russian River Happy Hops IPA",
-              "local": false,
-              "price": "$7.25",
               "brewery": "Sonoma"
             },
             {
