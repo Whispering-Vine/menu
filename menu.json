@@ -702,24 +702,24 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Ancient Peak",
-                  "price": "7.75",
-                  "variety": "Merlot",
-                  "location": "Paso Robles",
-                  "glassSize": "8oz"
-                },
-                {
                   "name": "Marimar \"Don Miguel\"",
                   "price": "13.75",
-                  "variety": "Tempranillo",
+                  "variety": "Tempranillo ",
                   "location": "Sonoma",
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "BACA",
-                  "price": "12.75",
-                  "variety": "Zinfandel ",
-                  "location": "Paso Robles",
+                  "name": "Costa Arente",
+                  "price": "19.75",
+                  "variety": "Amarone",
+                  "location": "Italy",
+                  "glassSize": "8oz"
+                },
+                {
+                  "name": "Plumpjack Merlot",
+                  "price": "24.75",
+                  "variety": "Merlot",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 }
               ],
