@@ -502,7 +502,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "10.75",
+              "price": "12.75",
               "favorites": true
             },
             {
@@ -620,8 +620,8 @@
               "name": "Premium Cabernet Flight",
               "items": [
                 {
-                  "name": "Jordan",
-                  "price": "19.75",
+                  "name": "Obsidian Cabernet ",
+                  "price": "16.75",
                   "variety": "Cabernet",
                   "location": "Sonoma",
                   "glassSize": "8oz"
@@ -641,7 +641,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "25.75"
+              "price": "23.75"
             },
             {
               "name": "Red Blend Flight",
