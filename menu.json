@@ -1047,16 +1047,16 @@
             {
               "name": "Fritz Muller 0% Alcohol ",
               "price": {
-                "glass": 8.75,
-                "bottle": 18.99
+                "glass": 7.75,
+                "bottle": 16.99
               },
               "description": "Germany | White Blend"
             },
             {
               "name": "Giesen 0% Alcohol",
               "price": {
-                "glass": 5.75,
-                "bottle": 14.99
+                "glass": 8.75,
+                "bottle": 18.99
               },
               "description": "New Zealand | Red Blend"
             }
