@@ -11,6 +11,14 @@
           "name": "Craft Beers on Tap",
           "items": [
             {
+              "name": "Revision Reno As F*ck Hazy IPA",
+              "brewery": "Sparks",
+              "abv": "8.4%",
+              "ibu": "23",
+              "price": "$7.25",
+              "local": true
+            },
+            {
               "abv": "6.7%",
               "ibu": "35",
               "name": "Sierra Nevada Hazy Little Thing IPA",
@@ -542,7 +550,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "8.75",
+              "price": "11.75",
               "favorites": true
             },
             {
