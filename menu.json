@@ -11,12 +11,12 @@
           "name": "Craft Beers on Tap",
           "items": [
             {
-              "name": "Revision Reno As F*ck Hazy IPA",
-              "brewery": "Sparks",
               "abv": "8.4%",
               "ibu": "23",
+              "name": "Revision Reno As F*ck Hazy IPA",
+              "local": true,
               "price": "$7.25",
-              "local": true
+              "brewery": "Sparks"
             },
             {
               "abv": "6.7%",
