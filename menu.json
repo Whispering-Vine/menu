@@ -913,11 +913,11 @@
               "description": "California | Moscato"
             },
             {
-              "name": "HALL",
+              "name": "Twomey By Silver Oak",
               "price": {
-                "sale": false,
-                "glass": 12.75,
-                "bottle": 29.99
+                "sale": true,
+                "glass": 11.75,
+                "bottle": 26.99
               },
               "description": "Napa | Sauvignon Blanc"
             },
