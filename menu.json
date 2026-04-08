@@ -529,10 +529,10 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Jordan",
-                  "price": "12.75",
+                  "name": "Chalk Hill",
+                  "price": "11.75",
                   "variety": "Chardonnay",
-                  "location": "Sonoma",
+                  "location": "Russian River",
                   "glassSize": "8oz"
                 },
                 {
@@ -564,8 +564,8 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Arterberry Maresh \"Dundee Hills\"",
-                  "price": "13.75",
+                  "name": "Broadley",
+                  "price": "8.75",
                   "variety": "Pinot Noir",
                   "location": "Oregon",
                   "glassSize": "8oz"
@@ -578,7 +578,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "13.75"
+              "price": "12.75"
             },
             {
               "name": "Cabernet Flight",
@@ -591,10 +591,10 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Artesa",
+                  "name": "Obsidian",
                   "price": "16.75",
                   "variety": "Cabernet",
-                  "location": "Napa",
+                  "location": "Sonoma",
                   "glassSize": "8oz"
                 },
                 {
@@ -612,8 +612,8 @@
               "name": "Premium Cabernet Flight",
               "items": [
                 {
-                  "name": "Obsidian Cabernet ",
-                  "price": "16.75",
+                  "name": "Rombauer",
+                  "price": "21.75",
                   "variety": "Cabernet",
                   "location": "Sonoma",
                   "glassSize": "8oz"
