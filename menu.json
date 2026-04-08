@@ -725,38 +725,38 @@
         "specials": {
           "items": [
             {
-              "name": "Perrier Jouet \"Belle Epoque\" Rose",
-              "glass": "24.75",
-              "notes": "Winery $80",
-              "bottle": "59.99",
+              "name": "Perrier Jouet \"Belle Epoque\" Rosé",
+              "glass": "",
+              "notes": "Winery $360 96pts James Suckling",
+              "bottle": "199.99",
               "favorites": false
             },
             {
-              "name": "Costa Arente Amarone",
-              "glass": "19.75",
-              "notes": "1/2 OFF Winery $100",
-              "bottle": "49.99",
+              "name": "Rombauer Cabernet",
+              "glass": "21.75",
+              "notes": "Winery $65",
+              "bottle": "59.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Obsidian Cabernet ",
-              "glass": "16.75",
-              "notes": "",
-              "bottle": "39.99"
+              "name": "Twomey Sauvignon Blanc",
+              "glass": "11.75",
+              "notes": "Winery $36",
+              "bottle": "26.99"
             },
             {
-              "name": "Meyer Nakel Rosé",
-              "glass": "14.75",
+              "name": "Chalk Hill Russian River Chardonnay",
+              "glass": "11.75",
               "notes": "",
-              "bottle": "34.99",
+              "bottle": "26.99",
               "wineryPrice": 45
             },
             {
-              "name": "Mill Keeper Red Blend",
+              "name": "Broadley Willamette Valley Pinot Noir",
               "glass": "8.75",
               "notes": "",
-              "bottle": "17.99",
+              "bottle": "19.99",
               "favorites": false
             }
           ]
