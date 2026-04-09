@@ -501,17 +501,17 @@
               "name": "Bubbles Flight",
               "items": [
                 {
-                  "name": "Weingut Frank",
-                  "price": "10.75",
-                  "variety": "Gruner Veltliner",
-                  "location": "Austria",
+                  "name": "Emmolo",
+                  "price": "8.75",
+                  "variety": "Brut",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Selim",
-                  "price": "10.75",
+                  "name": "Lytle Barnett",
+                  "price": "24.75",
                   "variety": "Brut",
-                  "location": "Italy",
+                  "location": "Willamette, Oregon ",
                   "glassSize": "8oz"
                 },
                 {
@@ -522,7 +522,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "10.75",
+              "price": "15.75",
               "favorites": false
             },
             {
