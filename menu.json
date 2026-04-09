@@ -473,8 +473,8 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Round Pond",
-                  "price": "10.75",
+                  "name": "Emmolo",
+                  "price": "8.75",
                   "variety": "Sauvignon Blanc",
                   "location": "Napa",
                   "glassSize": "8oz"
@@ -494,7 +494,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "12.75",
+              "price": "11.75",
               "favorites": true
             },
             {
