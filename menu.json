@@ -501,10 +501,10 @@
               "name": "Bubbles Flight",
               "items": [
                 {
-                  "name": "Piper-Sonoma",
+                  "name": "Emmolo",
                   "price": "8.75",
                   "variety": "Brut",
-                  "location": "Sonoma",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 },
                 {
@@ -725,38 +725,38 @@
         "specials": {
           "items": [
             {
-              "name": "Perrier Jouet \"Belle Epoque\" Rosé",
-              "glass": "",
-              "notes": "Winery $360 96pts James Suckling",
-              "bottle": "199.99",
+              "name": "Roederer 245 Champagne",
+              "glass": "23.75",
+              "notes": "Winery $70",
+              "bottle": "59.99",
               "favorites": false
             },
             {
-              "name": "Rombauer Cabernet",
-              "glass": "21.75",
-              "notes": "Winery $65",
-              "bottle": "59.99",
+              "name": "Faust Cabernet",
+              "glass": "18.75",
+              "notes": "Winery $70",
+              "bottle": "44.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Twomey Sauvignon Blanc",
-              "glass": "11.75",
-              "notes": "Winery $36",
-              "bottle": "26.99"
+              "name": "Flowers Pinot Noir",
+              "glass": "18.75",
+              "notes": "Winery $55",
+              "bottle": "44.99"
             },
             {
-              "name": "Chalk Hill Russian River Chardonnay",
-              "glass": "11.75",
-              "notes": "",
-              "bottle": "26.99",
+              "name": "Ridge Three Valleys Red Blend",
+              "glass": "13.75",
+              "notes": "93pts Wine Spectator",
+              "bottle": "32.99",
               "wineryPrice": 45
             },
             {
-              "name": "Broadley Willamette Valley Pinot Noir",
-              "glass": "8.75",
-              "notes": "",
-              "bottle": "19.99",
+              "name": "Emmolo Sauvignon Blanc",
+              "glass": "7.75",
+              "notes": "Winery $22",
+              "bottle": "16.99",
               "favorites": false
             }
           ]
