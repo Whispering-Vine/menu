@@ -571,10 +571,10 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Marimar",
-                  "price": "17.75",
+                  "name": "Flowers",
+                  "price": "18.75",
                   "variety": "Pinot Noir",
-                  "location": "Russian River",
+                  "location": "Sonoma ",
                   "glassSize": "8oz"
                 }
               ],
@@ -591,8 +591,8 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Obsidian",
-                  "price": "16.75",
+                  "name": "Faust",
+                  "price": "18.75",
                   "variety": "Cabernet",
                   "location": "Sonoma",
                   "glassSize": "8oz"
@@ -605,7 +605,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "16.75",
+              "price": "17.75",
               "favorites": true
             },
             {
