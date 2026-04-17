@@ -508,17 +508,17 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Roederer 245 ",
-                  "price": "23.75",
+                  "name": "Scharffenberger",
+                  "price": "12.75",
                   "variety": "Brut",
-                  "location": "Champagne, France ",
+                  "location": "Mendocino",
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Scharffenberger",
-                  "price": "12.75",
+                  "name": "Roederer 245",
+                  "price": "23.75",
                   "variety": "Brut ",
-                  "location": "Mendocino ",
+                  "location": "Champagne, France",
                   "glassSize": "8oz"
                 }
               ],
