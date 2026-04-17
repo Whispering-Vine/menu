@@ -474,7 +474,7 @@
               "items": [
                 {
                   "name": "Emmolo",
-                  "price": "8.75",
+                  "price": "7.75",
                   "variety": "Sauvignon Blanc",
                   "location": "Napa",
                   "glassSize": "8oz"
@@ -594,7 +594,7 @@
                   "name": "Faust",
                   "price": "18.75",
                   "variety": "Cabernet",
-                  "location": "Sonoma",
+                  "location": "Napa",
                   "glassSize": "8oz"
                 },
                 {
@@ -701,10 +701,10 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Costa Arente",
-                  "price": "19.75",
-                  "variety": "Amarone",
-                  "location": "Italy",
+                  "name": "Gamble",
+                  "price": "13.75",
+                  "variety": "Zinfandel",
+                  "location": "Russian River, Sonoma",
                   "glassSize": "8oz"
                 },
                 {
