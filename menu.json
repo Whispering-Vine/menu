@@ -639,17 +639,17 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "Terrior",
-                  "price": "10.75",
+                  "name": "The Mill Keeper",
+                  "price": "8.75",
                   "variety": "Cab, Merlot, Cab Franc",
                   "location": "Napa",
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "The Mill Keeper",
-                  "price": "8.75",
-                  "variety": "Cab, Merlot, Cab Franc",
-                  "location": "Napa",
+                  "name": "Etrusca",
+                  "price": "16.75",
+                  "variety": "Zin, Alicante Bouschet, Petite Syrah",
+                  "location": "Russian River",
                   "glassSize": "8oz"
                 },
                 {
@@ -660,7 +660,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "10.75",
+              "price": "13.75",
               "favorites": true
             },
             {
