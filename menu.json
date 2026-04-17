@@ -958,13 +958,13 @@
               "description": "Oregon | Pinot Noir"
             },
             {
-              "name": "Patricia Green \"Freedom Hill\"",
+              "name": "Hartford Court",
               "price": {
-                "sale": true,
-                "glass": 15.75,
-                "bottle": 39.99
+                "sale": false,
+                "glass": 14.75,
+                "bottle": 33.99
               },
-              "description": "Oregon | Pinot Noir"
+              "description": "Russian River | Pinot Noir"
             },
             {
               "name": "Duckhorn",
