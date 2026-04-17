@@ -931,13 +931,13 @@
               "description": "Oregon | Chardonnay"
             },
             {
-              "name": "Miner",
+              "name": "Chalk Hill",
               "price": {
                 "sale": true,
-                "glass": 12.75,
+                "glass": 11.75,
                 "bottle": 26.99
               },
-              "description": "Napa | Chardonnay"
+              "description": "Russian River | Chardonnay"
             },
             {
               "name": "Hampton Water",
