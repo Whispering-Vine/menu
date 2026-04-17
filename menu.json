@@ -529,17 +529,17 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Chalk Hill",
-                  "price": "11.75",
-                  "variety": "Chardonnay",
-                  "location": "Russian River",
-                  "glassSize": "8oz"
-                },
-                {
                   "name": "Tan Fruit",
                   "price": "8.75",
                   "variety": "Chardonnay",
-                  "location": "Oregon",
+                  "location": "Oregon ",
+                  "glassSize": "8oz"
+                },
+                {
+                  "name": "Flowers",
+                  "price": "16.75",
+                  "variety": "Chardonnay",
+                  "location": "Sonoma Coast",
                   "glassSize": "8oz"
                 },
                 {
@@ -550,7 +550,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "11.75",
+              "price": "13.75",
               "favorites": true
             },
             {
