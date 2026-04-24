@@ -958,11 +958,11 @@
               "description": "Oregon | Pinot Noir"
             },
             {
-              "name": "Hartford Court",
+              "name": "The Calling",
               "price": {
-                "sale": false,
-                "glass": 14.75,
-                "bottle": 33.99
+                "sale": true,
+                "glass": 13.75,
+                "bottle": 29.99
               },
               "description": "Russian River | Pinot Noir"
             },
