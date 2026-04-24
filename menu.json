@@ -62,7 +62,7 @@
               "abv": "4.6%",
               "ibu": "24",
               "name": "FiftyFifty Pilsner",
-              "local": false,
+              "local": true,
               "price": "$6.25",
               "brewery": "Truckee"
             },
