@@ -725,38 +725,38 @@
         "specials": {
           "items": [
             {
-              "name": "Roederer 245 Champagne",
-              "glass": "23.75",
-              "notes": "Winery $70",
-              "bottle": "59.99",
+              "name": "Caymus - Suisun Gran Durif (Petite Syrah)",
+              "glass": "18.75",
+              "notes": "Winery $60",
+              "bottle": "44.99",
               "favorites": false
             },
             {
-              "name": "Faust Cabernet",
-              "glass": "18.75",
-              "notes": "Winery $70",
-              "bottle": "44.99",
+              "name": "Round Pond \"Kith & Kin\" Cabernet",
+              "glass": "16.75",
+              "notes": "Winery $50",
+              "bottle": "39.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Flowers Pinot Noir",
-              "glass": "18.75",
-              "notes": "Winery $55",
-              "bottle": "44.99"
+              "name": "Leviathan Red Blend",
+              "glass": "14.75",
+              "notes": "Winery $40",
+              "bottle": "34.99"
             },
             {
-              "name": "Ridge Three Valleys Red Blend",
-              "glass": "13.75",
-              "notes": "93pts Wine Spectator",
-              "bottle": "32.99",
+              "name": "The Calling Pinot Noir",
+              "glass": "12.75",
+              "notes": "Winery $40 93pts Wine Enthusiast",
+              "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "Emmolo Sauvignon Blanc",
+              "name": "Hartford Court Chardonnay ",
               "glass": "7.75",
-              "notes": "Winery $22",
-              "bottle": "16.99",
+              "notes": "",
+              "bottle": "26.99",
               "favorites": false
             }
           ]
