@@ -43,14 +43,6 @@
               "brewery": "Sonoma"
             },
             {
-              "name": "Russian River Happy Hops",
-              "brewery": "Sonoma",
-              "abv": "6.5%",
-              "ibu": "50",
-              "price": "$7.25",
-              "local": false
-            },
-            {
               "abv": "5.3%",
               "ibu": "50",
               "name": "Russian River STS Pilsner",
@@ -599,8 +591,8 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Round Pond - Kith & Kin",
-                  "price": "16.75",
+                  "name": "Faust",
+                  "price": "18.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz"
@@ -647,9 +639,9 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "Leviathan",
-                  "price": "14.75",
-                  "variety": "Cab, Petite Syrah, Merlot ",
+                  "name": "The Mill Keeper",
+                  "price": "8.75",
+                  "variety": "Cab, Merlot, Cab Franc",
                   "location": "Napa",
                   "glassSize": "8oz"
                 },
@@ -668,7 +660,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "15.75",
+              "price": "13.75",
               "favorites": true
             },
             {
@@ -709,10 +701,10 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Caymus - Suisun Grand Durif",
-                  "price": "18.75",
-                  "variety": "Petite Syrah",
-                  "location": "Suisun",
+                  "name": "Gamble",
+                  "price": "13.75",
+                  "variety": "Zinfandel",
+                  "location": "Russian River, Sonoma",
                   "glassSize": "8oz"
                 },
                 {
@@ -733,38 +725,38 @@
         "specials": {
           "items": [
             {
-              "name": "Caymus - Suisun Gran Durif (Petite Syrah)",
-              "glass": "18.75",
-              "notes": "Winery $60",
-              "bottle": "44.99",
+              "name": "Roederer 245 Champagne",
+              "glass": "23.75",
+              "notes": "Winery $70",
+              "bottle": "59.99",
               "favorites": false
             },
             {
-              "name": "Round Pond \"Kith & Kin\" Cabernet",
-              "glass": "16.75",
-              "notes": "Winery $50",
-              "bottle": "39.99",
+              "name": "Faust Cabernet",
+              "glass": "18.75",
+              "notes": "Winery $70",
+              "bottle": "44.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Leviathan Red Blend",
-              "glass": "14.75",
-              "notes": "Winery $40",
-              "bottle": "34.99"
+              "name": "Flowers Pinot Noir",
+              "glass": "18.75",
+              "notes": "Winery $55",
+              "bottle": "44.99"
             },
             {
-              "name": "The Calling Pinot Noir",
+              "name": "Ridge Three Valleys Red Blend",
               "glass": "13.75",
-              "notes": "Winery $40   93pts Wine Enthusiast",
-              "bottle": "29.99",
+              "notes": "93pts Wine Spectator",
+              "bottle": "32.99",
               "wineryPrice": 45
             },
             {
-              "name": "Hartford Court Chardonnay ",
-              "glass": "12.75",
-              "notes": "",
-              "bottle": "26.99",
+              "name": "Emmolo Sauvignon Blanc",
+              "glass": "7.75",
+              "notes": "Winery $22",
+              "bottle": "16.99",
               "favorites": false
             }
           ]
@@ -942,7 +934,7 @@
               "name": "Chalk Hill",
               "price": {
                 "sale": true,
-                "glass": 11.75,
+                "glass": 12.75,
                 "bottle": 26.99
               },
               "description": "Russian River | Chardonnay"
@@ -966,11 +958,11 @@
               "description": "Oregon | Pinot Noir"
             },
             {
-              "name": "The Calling",
+              "name": "Hartford Court",
               "price": {
-                "sale": true,
-                "glass": 13.75,
-                "bottle": 29.99
+                "sale": false,
+                "glass": 14.75,
+                "bottle": 33.99
               },
               "description": "Russian River | Pinot Noir"
             },
@@ -1019,13 +1011,13 @@
               "description": "Italy | Chianti"
             },
             {
-              "name": "Gamba \"Family Vineyard\" ",
+              "name": "Scott Harvey Inzinerator",
               "price": {
                 "sale": true,
-                "glass": 13.75,
-                "bottle": 29.99
+                "glass": 7.75,
+                "bottle": 17.99
               },
-              "description": "Russian River | Zinfandel"
+              "description": "Amador | Zinfandel"
             },
             {
               "name": "Tapiz \"Black Tears\"",
