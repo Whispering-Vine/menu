@@ -43,6 +43,14 @@
               "brewery": "Sonoma"
             },
             {
+              "name": "Russian River Happy Hops IPA",
+              "brewery": "Sonoma",
+              "abv": "6.2%",
+              "ibu": "50",
+              "price": "$6.25",
+              "local": false
+            },
+            {
               "abv": "5.3%",
               "ibu": "50",
               "name": "Russian River STS Pilsner",
