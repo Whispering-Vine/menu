@@ -591,8 +591,8 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Faust",
-                  "price": "18.75",
+                  "name": "Round Pond - Kith & Kin",
+                  "price": "17.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz"
@@ -639,9 +639,9 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "The Mill Keeper",
-                  "price": "8.75",
-                  "variety": "Cab, Merlot, Cab Franc",
+                  "name": "Leviathan",
+                  "price": "14.75",
+                  "variety": "Cab, Petite Syrah, Merlot ",
                   "location": "Napa",
                   "glassSize": "8oz"
                 },
@@ -660,7 +660,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "13.75",
+              "price": "15.75",
               "favorites": true
             },
             {
@@ -754,7 +754,7 @@
             },
             {
               "name": "Hartford Court Chardonnay ",
-              "glass": "7.75",
+              "glass": "12.75",
               "notes": "",
               "bottle": "26.99",
               "favorites": false
