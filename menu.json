@@ -565,17 +565,17 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Martin Ray",
-                  "price": "8.75",
-                  "variety": "Pinot Noir",
-                  "location": "Sonoma",
-                  "glassSize": "8oz"
-                },
-                {
                   "name": "Broadley",
                   "price": "8.75",
                   "variety": "Pinot Noir",
-                  "location": "Oregon",
+                  "location": "Oregon ",
+                  "glassSize": "8oz"
+                },
+                {
+                  "name": "Sinegal",
+                  "price": "18.75",
+                  "variety": "Pinot Noir",
+                  "location": "Sonoma",
                   "glassSize": "8oz"
                 },
                 {
@@ -586,7 +586,7 @@
                   "glassSize": "8oz"
                 }
               ],
-              "price": "12.75"
+              "price": "15.75"
             },
             {
               "name": "Cabernet Flight",
