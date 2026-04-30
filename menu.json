@@ -599,8 +599,8 @@
                   "glassSize": "8oz"
                 },
                 {
-                  "name": "Round Pond - Kith & Kin",
-                  "price": "16.75",
+                  "name": "The Calling",
+                  "price": "13.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz"
@@ -702,9 +702,16 @@
               "name": "Red Variety Flight",
               "items": [
                 {
+                  "name": "Tenuta Di Arceno Riserva",
+                  "price": "17.75",
+                  "variety": "Sangiovese",
+                  "location": "Chianti, Italy",
+                  "glassSize": "8oz"
+                },
+                {
                   "name": "Marimar \"Don Miguel\"",
                   "price": "13.75",
-                  "variety": "Tempranillo ",
+                  "variety": "Tempranillo",
                   "location": "Sonoma",
                   "glassSize": "8oz"
                 },
@@ -713,13 +720,6 @@
                   "price": "18.75",
                   "variety": "Petite Syrah",
                   "location": "Suisun",
-                  "glassSize": "8oz"
-                },
-                {
-                  "name": "Plumpjack Merlot",
-                  "price": "24.75",
-                  "variety": "Merlot",
-                  "location": "Napa",
                   "glassSize": "8oz"
                 }
               ],
@@ -733,38 +733,38 @@
         "specials": {
           "items": [
             {
-              "name": "Caymus - Suisun Gran Durif (Petite Syrah)",
-              "glass": "18.75",
-              "notes": "Winery $60",
-              "bottle": "44.99",
+              "name": "John Anthony Cabernet",
+              "glass": "22.75",
+              "notes": "Winery $85",
+              "bottle": "59.99",
               "favorites": false
             },
             {
-              "name": "Round Pond \"Kith & Kin\" Cabernet",
-              "glass": "16.75",
-              "notes": "Winery $50",
-              "bottle": "39.99",
+              "name": "Sinegal Pinot Noir ",
+              "glass": "18.75",
+              "notes": "",
+              "bottle": "44.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Leviathan Red Blend",
-              "glass": "14.75",
-              "notes": "Winery $40",
-              "bottle": "34.99"
+              "name": "Tenuta Di Acreno Chianti Classico Riserva",
+              "glass": "17.75",
+              "notes": "94pts Wine Spectator Top 100 #24",
+              "bottle": "44.99"
             },
             {
-              "name": "The Calling Pinot Noir",
+              "name": "The Calling Cabernet",
               "glass": "13.75",
-              "notes": "Winery $40   93pts Wine Enthusiast",
-              "bottle": "29.99",
+              "notes": "91pts Wine Enthusiast",
+              "bottle": "34.99",
               "wineryPrice": 45
             },
             {
-              "name": "Hartford Court Chardonnay ",
+              "name": "Mark Herold Sauvignon Blanc",
               "glass": "12.75",
-              "notes": "",
-              "bottle": "26.99",
+              "notes": "Winery $45",
+              "bottle": "29.99",
               "favorites": false
             }
           ]
