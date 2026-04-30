@@ -537,10 +537,10 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Tan Fruit",
+                  "name": "Bonanza",
                   "price": "8.75",
                   "variety": "Chardonnay",
-                  "location": "Oregon ",
+                  "location": "California",
                   "glassSize": "8oz"
                 },
                 {
