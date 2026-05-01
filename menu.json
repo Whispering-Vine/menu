@@ -75,14 +75,6 @@
               "brewery": "Czech Republic"
             },
             {
-              "abv": "6.6%",
-              "ibu": "20",
-              "name": "Duvel 666 Blonde Ale",
-              "local": false,
-              "price": "$9.25",
-              "brewery": "Belgium"
-            },
-            {
               "abv": "7.0 %",
               "ibu": "70",
               "name": "Sculpin IPA",
