@@ -43,12 +43,12 @@
               "brewery": "Sonoma"
             },
             {
-              "name": "Russian River Happy Hops",
-              "brewery": "Sonoma",
               "abv": "6.5%",
               "ibu": "50",
+              "name": "Russian River Happy Hops",
+              "local": false,
               "price": "$7.25",
-              "local": false
+              "brewery": "Sonoma"
             },
             {
               "abv": "5.3%",
@@ -898,8 +898,8 @@
               "name": "Ruffino Lumina",
               "price": {
                 "sale": false,
-                "glass": 6.75,
-                "bottle": 14.99
+                "glass": 8.75,
+                "bottle": 19.99
               },
               "description": "Italy | Prosecco"
             },
