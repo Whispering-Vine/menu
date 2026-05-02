@@ -1,0 +1,23 @@
+name: Sync Fourth Street Toast Prices
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 0"
+
+jobs:
+  sync_prices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
+      - name: Sync prices
+        run: node sync-prices.js
+        env:
+          STACK_AUTH_API_KEY: ${{ secrets.STACK_AUTH_API_KEY }}
