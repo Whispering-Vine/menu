@@ -16,7 +16,16 @@
               "name": "Revision Reno As F*ck Hazy IPA",
               "local": true,
               "price": "$7.25",
-              "brewery": "Sparks"
+              "brewery": "Sparks",
+              "toastLink": {
+                "id": "67bfc7c3-2a7e-4ae9-832e-f2f354b79693",
+                "name": "Revision Reno AS F*ck IPA",
+                "price": 7.25,
+                "categoryPath": "Beer > Draft",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760339"
+              }
             },
             {
               "abv": "6.7%",
@@ -24,7 +33,16 @@
               "name": "Sierra Nevada Hazy Little Thing IPA",
               "local": false,
               "price": "$6.25",
-              "brewery": "Chico"
+              "brewery": "Chico",
+              "toastLink": {
+                "id": "0dc232be-2d5b-4e26-ac66-4b580c9178de",
+                "name": "Sierra Nevada Hazy Little Thing IPA",
+                "price": 6.25,
+                "categoryPath": "Beer > Draft",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760341"
+              }
             },
             {
               "abv": "4.9%",
@@ -32,7 +50,16 @@
               "name": "Pigeon Head Lager",
               "local": true,
               "price": "$6.25",
-              "brewery": "Reno"
+              "brewery": "Reno",
+              "toastLink": {
+                "id": "9c2777c1-31af-4323-b710-668dd54d3850",
+                "name": "Pigeon Head Lager",
+                "price": 6.25,
+                "categoryPath": "Beer > Draft",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760343"
+              }
             },
             {
               "abv": "8.0%",
@@ -40,7 +67,16 @@
               "name": "Russian River Pliny the Elder Double IPA",
               "local": false,
               "price": "$8.25",
-              "brewery": "Sonoma"
+              "brewery": "Sonoma",
+              "toastLink": {
+                "id": "b8a48ecf-cd61-46a7-8fea-f4806c17b404",
+                "name": "Russian River Pliny the Elder Double IPA",
+                "price": 8.25,
+                "categoryPath": "Beer > Draft",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760345"
+              }
             },
             {
               "abv": "6.5%",
@@ -48,7 +84,16 @@
               "name": "Russian River Happy Hops",
               "local": false,
               "price": "$7.25",
-              "brewery": "Sonoma"
+              "brewery": "Sonoma",
+              "toastLink": {
+                "id": "2cc42510-31b4-4078-a2af-452873e11aa9",
+                "name": "Russian River Happy Hops IPA",
+                "price": 7.25,
+                "categoryPath": "Beer > Draft",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760347"
+              }
             },
             {
               "abv": "5.3%",
@@ -56,7 +101,16 @@
               "name": "Russian River STS Pilsner",
               "local": false,
               "price": "$7.25",
-              "brewery": "Sonoma"
+              "brewery": "Sonoma",
+              "toastLink": {
+                "id": "52deb951-7d29-46cf-8880-4a5fd47a9c54",
+                "name": "Russian River STS Pilsner",
+                "price": 7.25,
+                "categoryPath": "Beer > Draft",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760349"
+              }
             },
             {
               "abv": "4.6%",
@@ -64,7 +118,16 @@
               "name": "FiftyFifty Pilsner",
               "local": false,
               "price": "$6.25",
-              "brewery": "Truckee"
+              "brewery": "Truckee",
+              "toastLink": {
+                "id": "0252c6cd-6a29-4b7c-b51b-1c2451d38789",
+                "name": "FiftyFifty Pilsner",
+                "price": 6.25,
+                "categoryPath": "Beer > Draft",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760501"
+              }
             },
             {
               "abv": "4.4%",
@@ -72,7 +135,16 @@
               "name": "Pilsner Urquell",
               "local": false,
               "price": "$6.25",
-              "brewery": "Czech Republic"
+              "brewery": "Czech Republic",
+              "toastLink": {
+                "id": "9dded387-5742-4c66-b1d2-91d3ed226372",
+                "name": "Pilsner Urquell",
+                "price": 6.25,
+                "categoryPath": "Beer > Draft",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760503"
+              }
             },
             {
               "abv": "7.0 %",
@@ -80,7 +152,16 @@
               "name": "Sculpin IPA",
               "local": false,
               "price": "$7.25",
-              "brewery": "San Diego, Ca"
+              "brewery": "San Diego, Ca",
+              "toastLink": {
+                "id": "9aa2f4f9-4cac-4c0d-8b20-9a7ac641a052",
+                "name": "Sculpin IPA",
+                "price": 7.25,
+                "categoryPath": "Beer > Draft",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760507"
+              }
             },
             {
               "abv": "4.5 %",
@@ -88,7 +169,16 @@
               "name": "Modelo",
               "local": false,
               "price": "$6.25",
-              "brewery": "Mexico"
+              "brewery": "Mexico",
+              "toastLink": {
+                "id": "ff8f3205-fbae-486c-a5d0-e33bdca4c2b1",
+                "name": "Modelo",
+                "price": 6.25,
+                "categoryPath": "Beer > Draft",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760509"
+              }
             },
             {
               "abv": "4.2%",
@@ -109,28 +199,64 @@
               "ibu": "HIGH",
               "name": "Pliny the Elder Double IPA",
               "local": false,
-              "price": "$5.99"
+              "price": "$5.99",
+              "toastLink": {
+                "id": "ff51513f-c8d0-4919-ad32-98bd75864bb5",
+                "name": "Pliny the Elder Double IPA",
+                "price": 5.99,
+                "categoryPath": "Beer > Bottles",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860761218"
+              }
             },
             {
               "abv": "6.3%",
               "ibu": "MED",
               "name": "Blind Pig IPA",
               "local": false,
-              "price": "$5.99"
+              "price": "$5.99",
+              "toastLink": {
+                "id": "d8be5f80-5c06-4ce9-9abd-66c586cb553f",
+                "name": "Blind Pig IPA",
+                "price": 5.99,
+                "categoryPath": "Beer > Bottles",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860761220"
+              }
             },
             {
               "abv": "7.0%",
               "ibu": "MED",
               "name": "Citra Flash Mob IPA",
               "local": false,
-              "price": "$5.99"
+              "price": "$5.99",
+              "toastLink": {
+                "id": "0936c6b5-e8b1-422f-b282-0331cd885ba8",
+                "name": "Citra Flash Mob IPA",
+                "price": 5.99,
+                "categoryPath": "Beer > Bottles",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860761222"
+              }
             },
             {
               "abv": "6.5%",
               "ibu": "LOW",
               "name": "Happy Hops IPA",
               "local": false,
-              "price": "$5.99"
+              "price": "$5.99",
+              "toastLink": {
+                "id": "6115319b-52ac-49cb-a59f-7841a3b7a059",
+                "name": "Happy Hops IPA",
+                "price": 5.99,
+                "categoryPath": "Beer > Bottles",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860761224"
+              }
             }
           ],
           "notes": "Check out our front fridge for Russian River Brewing Co bottles. While supplies last."
@@ -156,6 +282,15 @@
               "price": "15",
               "warning": false,
               "favorites": true,
+              "toastLink": {
+                "id": "beccc7a4-dfea-4e08-9b24-69764679c8c5",
+                "name": "SEASONAL CITRUS & GOAT CHEESE SALAD",
+                "price": 15,
+                "categoryPath": "Food > Soups, Salads, & Sides",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759398"
+              },
               "description": "(GF) Mixed Greens, Candied Pecans, Verjus Vinaigrette",
               "gluten_free": true
             },
@@ -164,6 +299,15 @@
               "name": "BLUE GODDESS WEDGE SALAD",
               "price": "15",
               "warning": false,
+              "toastLink": {
+                "id": "dea0ca3d-f3c8-420d-a37a-5794d9305232",
+                "name": "BLUE GODDESS WEDGE SALAD",
+                "price": 15,
+                "categoryPath": "Food > Soups, Salads, & Sides",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759500"
+              },
               "description": "Baby Romaine, Applewood Smoked Bacon, Grape Tomatoes, Crisp Onion, Creamy Dill Blue Goddess Dressing",
               "gluten_free": false
             },
@@ -172,6 +316,15 @@
               "name": "SHAVED BRUSSELS SALAD",
               "price": "15",
               "warning": false,
+              "toastLink": {
+                "id": "160203b3-bbba-4b54-92a3-d77412179d25",
+                "name": "SHAVED BRUSSELS SALAD",
+                "price": 15,
+                "categoryPath": "Food > Soups, Salads, & Sides",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759502"
+              },
               "description": "Pomegranate, Frico, Croutons, Caesar Dressing",
               "gluten_free": false
             },
@@ -180,6 +333,15 @@
               "name": "GRILLED CHEESE & TOMATO SOUP",
               "price": "15",
               "warning": false,
+              "toastLink": {
+                "id": "47487389-80c4-4b62-9860-c4fe6b8405ac",
+                "name": "GRILLED CHEESE & TOMATO SOUP",
+                "price": 15,
+                "categoryPath": "Food > Soups, Salads, & Sides",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759504"
+              },
               "description": "Irish Cheddar, Dutch Gouda, Rustic Baguette",
               "gluten_free": false
             },
@@ -189,6 +351,15 @@
               "price": 7,
               "warning": false,
               "favorites": true,
+              "toastLink": {
+                "id": "35d5fee9-d1a5-4126-a047-5afa197a6794",
+                "name": "TATER TOTS",
+                "price": 7,
+                "categoryPath": "Food > Soups, Salads, & Sides",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000002076019896"
+              },
               "description": "Your Choice of Truffle Salt or Salt & Vinegar, Served with House Buttermilk Dipping Sauce",
               "gluten_free": false
             },
@@ -197,6 +368,15 @@
               "name": "FRENCH FRIES",
               "price": 7,
               "warning": false,
+              "toastLink": {
+                "id": "7ab30a7e-4662-4f5a-84e5-246453b8fd07",
+                "name": "FRENCH FRIES",
+                "price": 7,
+                "categoryPath": "Food > Soups, Salads, & Sides",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759512"
+              },
               "description": "Choice of Ketchup and/or House Buttermilk Dipping Sauce",
               "gluten_free": false
             }
@@ -212,6 +392,15 @@
               "price": "24",
               "warning": true,
               "favorites": true,
+              "toastLink": {
+                "id": "d54f122f-c211-4425-9c6d-8ca3a4d7619a",
+                "name": "GOURMET ANGUS BURGER",
+                "price": 24,
+                "categoryPath": "Food > Burgers & Sandwiches",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759519"
+              },
               "description": "Mushroom Brie, Bacon Jam, Arugula, Mayo, Mustard, Brioche Bun, Fries",
               "gluten_free": false
             },
@@ -220,6 +409,15 @@
               "name": "VEGGIE BURGER",
               "price": "23",
               "warning": false,
+              "toastLink": {
+                "id": "4804e8ca-eb1f-4cb8-9098-1dc59d608a40",
+                "name": "VEGGIE BURGER",
+                "price": 23,
+                "categoryPath": "Food > Burgers & Sandwiches",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759522"
+              },
               "description": "Mixed Veggie Burger, Irish Cheddar, Dutch Gouda, Tomato, Arugula, Mayo, Mustard, Brioche Bun, Fries",
               "gluten_free": false
             },
@@ -228,6 +426,15 @@
               "name": "ALL AMERICAN BURGER",
               "price": "21",
               "warning": true,
+              "toastLink": {
+                "id": "a0b3cda7-9478-4922-a874-a269a7fea87a",
+                "name": "ALL AMERICAN BURGER",
+                "price": 21,
+                "categoryPath": "Food > Burgers & Sandwiches",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000002116149798"
+              },
               "description": "Certified Piedmontese, American Cheese, Lettuce, Tomato, Grilled Onion, Special Sauce, Fries ",
               "gluten_free": false
             },
@@ -236,6 +443,15 @@
               "name": "CRAB ROLL",
               "price": 24,
               "warning": false,
+              "toastLink": {
+                "id": "7e07531d-8490-4dc0-afaf-6b634f96af50",
+                "name": "CRAB ROLL",
+                "price": 24,
+                "categoryPath": "Food > Burgers & Sandwiches",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759526"
+              },
               "description": "Atlantic Red Crab & Jumbo Lump Crab Salad, Brioche Bun, Fries",
               "gluten_free": false
             }
@@ -250,6 +466,15 @@
               "name": "HOUSE MARINATED OLIVE VARIETY",
               "price": 5,
               "warning": false,
+              "toastLink": {
+                "id": "fd5931cb-3708-4b69-adb5-7647f91dab64",
+                "name": "HOUSE MARINATED OLIVE VARIETY",
+                "price": 5,
+                "categoryPath": "Food > Starters (Served all day)",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759388"
+              },
               "description": "",
               "gluten_free": true
             },
@@ -258,6 +483,15 @@
               "name": "VIRGINIA GOURMET PEANUT ASSORTMENT",
               "price": 4,
               "warning": false,
+              "toastLink": {
+                "id": "4581764d-64c1-4fc5-a133-144d5a574c01",
+                "name": "VIRGINIA GOURMET PEANUT ASSORTMENT",
+                "price": 4,
+                "categoryPath": "Food > Starters (Served all day)",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759390"
+              },
               "description": "",
               "gluten_free": false
             },
@@ -266,6 +500,15 @@
               "name": "HUMMUS WITH PAPADUM",
               "price": 6,
               "warning": false,
+              "toastLink": {
+                "id": "ad4520f1-4b15-4eda-bb3f-5f9cf0608460",
+                "name": "HUMMUS WITH PAPADUM",
+                "price": 6,
+                "categoryPath": "Food > Starters (Served all day)",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759392"
+              },
               "description": "",
               "gluten_free": true
             },
@@ -275,6 +518,15 @@
               "price": "26",
               "warning": false,
               "favorites": true,
+              "toastLink": {
+                "id": "dee1aa63-866b-4a28-9ab1-699963a4761a",
+                "name": "CHARCUTERIE BOARD",
+                "price": 26,
+                "categoryPath": "Food > Starters (Served all day)",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759394"
+              },
               "description": "IL Numero Uno 600 Day Parma Prociutto, Fra'mani Rosemary Ham, Garlic & Herb Eurocreme Cheese, Iowa Breeze Prairie Cheese, Shaft's Bleu Cheese, Mini French Baguette, Pickled Vegetables, Marcona Almonds, Grapes, Olives",
               "gluten_free": false
             }
@@ -296,6 +548,15 @@
               "price": "24",
               "warning": true,
               "favorites": true,
+              "toastLink": {
+                "id": "fd4d543a-2c5a-4241-8a6d-855b1b7de81c",
+                "name": "AHI TUNA POKE",
+                "price": 24,
+                "categoryPath": "Food > Entrées & Shareables",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759530"
+              },
               "description": "Soy Sauce, Ginger, Spicy Sambal Sauce, Sesame Rice Crisps",
               "gluten_free": false
             },
@@ -304,6 +565,15 @@
               "name": "ESCARGOT WITH COGNAC & GARLIC",
               "price": "22",
               "warning": false,
+              "toastLink": {
+                "id": "b19e27b0-5ead-44ac-ba60-45a91a891c8c",
+                "name": "ESCARGOT WITH COGNAC & GARLIC",
+                "price": 22,
+                "categoryPath": "Food > Entrées & Shareables",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759532"
+              },
               "description": "Served with Grilled Bread",
               "gluten_free": false
             },
@@ -312,6 +582,15 @@
               "name": "SMOKED CHILI GLAZED FLANK STEAK",
               "price": "25",
               "warning": true,
+              "toastLink": {
+                "id": "7b0f4040-94ce-463c-b609-0606e2fb9a16",
+                "name": "SMOKED CHILI GLAZED FLANK STEAK",
+                "price": 25,
+                "categoryPath": "Food > Entrées & Shareables",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759534"
+              },
               "description": "Sweet Corn Succotash, Poblano, Tobacco Onions",
               "gluten_free": false
             },
@@ -320,6 +599,15 @@
               "name": "CIOPPINO",
               "price": "28",
               "warning": false,
+              "toastLink": {
+                "id": "daa05a16-7189-4567-9581-88aaa8c2aa4f",
+                "name": "CIOPPINO",
+                "price": 28,
+                "categoryPath": "Food > Entrées & Shareables",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759536"
+              },
               "description": "Clams, Mussels, Shrimp, Scallops, Ling Cod, Braised Fennel, Shell Pasta, Grilled Bread with Garlic Oil",
               "gluten_free": false
             },
@@ -328,6 +616,15 @@
               "name": "STEAMED MANILA CLAMS & MUSSELS",
               "price": "26",
               "warning": false,
+              "toastLink": {
+                "id": "52ee5ab9-286f-44d2-a184-f8b664418ae1",
+                "name": "STEAMED MANILA CLAMS & MUSSELS",
+                "price": 26,
+                "categoryPath": "Food > Entrées & Shareables",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759538"
+              },
               "description": "Thai Red Curry Sauce, Grilled Bread with Garlic Oil",
               "gluten_free": false
             },
@@ -336,6 +633,15 @@
               "name": "3 COCONUT SHRIMP",
               "price": "19",
               "warning": false,
+              "toastLink": {
+                "id": "cf643a03-58d4-4792-8106-9f13938423c3",
+                "name": "COCONUT SHRIMP",
+                "price": 19,
+                "categoryPath": "Food > Entrées & Shareables",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759540"
+              },
               "description": "Served over Asian Slaw with Sweet & Spicy Chili Sauce",
               "gluten_free": false
             },
@@ -345,6 +651,15 @@
               "price": "26",
               "warning": true,
               "favorites": true,
+              "toastLink": {
+                "id": "5e4f16ba-89aa-4794-ad1d-37c914b3bdd4",
+                "name": "PAN SEARED SALMON",
+                "price": 26,
+                "categoryPath": "Food > Entrées & Shareables",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759542"
+              },
               "description": "Israeli Couscous Salad, Chardonnay Beurre Blanc, Broccolini ",
               "gluten_free": false
             },
@@ -353,6 +668,15 @@
               "name": "STEWED ITALIAN MEATBALLS",
               "price": "24",
               "warning": false,
+              "toastLink": {
+                "id": "7e23ecbc-72a7-4ad9-b06b-ae26a051334e",
+                "name": "STEWED ITALIAN MEATBALLS",
+                "price": 24,
+                "categoryPath": "Food > Entrées & Shareables",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759544"
+              },
               "description": "Beef, Pork & Veal, Roasted Vegetables, Marinara, Parmesan",
               "gluten_free": false
             },
@@ -362,6 +686,15 @@
               "price": 18,
               "warning": false,
               "favorites": true,
+              "toastLink": {
+                "id": "3220ca30-2fd9-4a15-855d-6d85040f121f",
+                "name": "WILD MUSHROOM FLATBREAD",
+                "price": 18,
+                "categoryPath": "Food > Entrées & Shareables",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759546"
+              },
               "description": "Hedgehog & Black Trumpet Mushrooms, Carmelized Onions, Sherry Mascarpone Cream, Arugula",
               "gluten_free": false
             },
@@ -371,6 +704,15 @@
               "price": 18,
               "warning": false,
               "favorites": false,
+              "toastLink": {
+                "id": "c808f7f5-b769-4bd2-9251-d0f88523c8b6",
+                "name": "ITALIAN FLATBREAD",
+                "price": 18,
+                "categoryPath": "Food > Entrées & Shareables",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759548"
+              },
               "description": "Italian Sausage, Quattro Fromaggio, Bell Peppers, Onions, Marinara Sauce",
               "gluten_free": false
             },
@@ -379,6 +721,15 @@
               "name": "GOCHUJANG-GLAZED PORK BELLY SKEWERS",
               "price": "18",
               "warning": false,
+              "toastLink": {
+                "id": "fe1f378e-2b31-4f37-9405-389b9927e1e1",
+                "name": "PORK BELLY SKEWERS",
+                "price": 18,
+                "categoryPath": "Food > Entrées & Shareables",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000002118248824"
+              },
               "description": "Soba Noodle Salad, Sugar Snap Peas, Pickled Beech Mushrooms, Citrus Ponzo",
               "gluten_free": false
             },
@@ -387,6 +738,15 @@
               "name": "3 BRAISED BISON SHORT RIB SLIDERS",
               "price": 17,
               "warning": false,
+              "toastLink": {
+                "id": "92dfb274-4d9d-4bcd-8ad1-57c307a8e08b",
+                "name": "BRAISED BISON SHORT RIB SLIDERS",
+                "price": 17,
+                "categoryPath": "Food > Entrées & Shareables",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759552"
+              },
               "description": "Pretzel Buns with Gorgonzola & Slaw",
               "gluten_free": false
             }
@@ -402,6 +762,15 @@
               "price": "19",
               "warning": false,
               "favorites": true,
+              "toastLink": {
+                "id": "ddbe0a70-36b0-4e33-acf8-ad060feff417",
+                "name": "DUCK CONFIT",
+                "price": 19,
+                "categoryPath": "Food > Tacos",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759557"
+              },
               "description": "3 Corn Tortillas, Hatch Chili Cream, Pickled Shallots, Cotija Cheese",
               "gluten_free": true
             },
@@ -410,6 +779,15 @@
               "name": "INDIAN-SPICED LENTIL",
               "price": 18,
               "warning": false,
+              "toastLink": {
+                "id": "a7c1d0e3-6176-4048-9571-9a842bcc2e9a",
+                "name": "INDIAN-SPICED LENTIL",
+                "price": 18,
+                "categoryPath": "Food > Tacos",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759559"
+              },
               "description": "3 Corn Tortillas, Hatch Chili Cream, Pickled Shallots, Cotija Cheese",
               "gluten_free": true
             },
@@ -418,6 +796,15 @@
               "name": "KOREAN BRAISED SHORT RIB",
               "price": 18,
               "warning": false,
+              "toastLink": {
+                "id": "4b67fcf6-9ffc-414e-bf30-b1a39704ff3c",
+                "name": "KOREAN BRAISED SHORT RIB",
+                "price": 18,
+                "categoryPath": "Food > Tacos",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759561"
+              },
               "description": "3 Flour Tortillas, Gochujang, Seasonal Pickled Vegetables",
               "gluten_free": false
             }
@@ -432,6 +819,15 @@
               "name": "CHOCOLATE MOUSSE",
               "price": "10",
               "warning": false,
+              "toastLink": {
+                "id": "2ea46edd-d72b-412f-bd9c-2ab7bc15b879",
+                "name": "CHOCOLATE MOUSSE",
+                "price": 10,
+                "categoryPath": "Food > Desserts",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759565"
+              },
               "description": "With Shaved Valrhona Chocolate",
               "gluten_free": false
             },
@@ -449,6 +845,15 @@
               "name": "ICE CREAM SANDWICH",
               "price": 8,
               "warning": false,
+              "toastLink": {
+                "id": "dbf16419-45b5-4302-93e7-d7472b2ff1ce",
+                "name": "ICE CREAM SANDWICH",
+                "price": 8,
+                "categoryPath": "Food > Desserts",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759569"
+              },
               "description": "Your Choice of Ice Cream Between Two White Chocolate Macadamia Cookies",
               "gluten_free": false
             },
@@ -457,6 +862,15 @@
               "name": "COINTREAU CRÈME BRULEE",
               "price": "10",
               "warning": false,
+              "toastLink": {
+                "id": "f53b589a-53dc-432c-a864-a2c65ee52f76",
+                "name": "COINTREAU CRÈME BRULEE",
+                "price": 10,
+                "categoryPath": "Food > Desserts",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860759571"
+              },
               "description": "With Fresh Raspberries",
               "gluten_free": false
             }
@@ -477,25 +891,61 @@
                   "price": "12.75",
                   "variety": "Sauvignon Blanc",
                   "location": "Napa",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "2d4713c2-4674-4482-93fe-949a9c0a1ebd",
+                    "name": "G WHITE VARIETY #1",
+                    "price": 7.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759972"
+                  }
                 },
                 {
                   "name": "Meyer Nakel",
                   "price": "14.75",
                   "variety": "Dry Rosé",
                   "location": "Germany",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "12bd1729-8904-4b1e-adc6-e5b8fdd43b2e",
+                    "name": "G WHITE VARIETY #2",
+                    "price": 14.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759790"
+                  }
                 },
                 {
                   "name": "Miner",
                   "price": "10.75",
                   "variety": "Viognier",
                   "location": "Napa",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
+                    "name": "G WHITE VARIEY #3",
+                    "price": 10.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759950"
+                  }
                 }
               ],
               "price": "13.75",
-              "favorites": true
+              "favorites": true,
+              "toastLink": {
+                "id": "ae5a10aa-e5be-4406-993b-ed264a0b57f7",
+                "name": "White Variety FLIGHT",
+                "price": 11.75,
+                "categoryPath": "Wines by the Glass > Flights",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760315"
+              }
             },
             {
               "name": "Bubbles Flight",
@@ -505,25 +955,61 @@
                   "price": "8.75",
                   "variety": "Brut",
                   "location": "Sonoma",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "22b2342c-ca3a-4fbe-8198-5fb87590ff7e",
+                    "name": "G BUBBLES #1",
+                    "price": 8.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759981"
+                  }
                 },
                 {
                   "name": "Taittinger",
                   "price": "18.75",
                   "variety": "Brut",
                   "location": "Champagne, France",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "7e5b5c1d-210c-4ded-83a1-cd8d06ee1273",
+                    "name": "G BUBBLES #2",
+                    "price": 12.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759985"
+                  }
                 },
                 {
                   "name": "Roederer 245",
                   "price": "23.75",
                   "variety": "Brut ",
                   "location": "Champagne, France",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "cbf3b195-ea50-40e4-8530-d32d3dc419c8",
+                    "name": "G BUBBLES #3",
+                    "price": 23.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759989"
+                  }
                 }
               ],
               "price": "16.75",
-              "favorites": false
+              "favorites": false,
+              "toastLink": {
+                "id": "27ae853f-8a49-4da2-b5de-f83a0bee05a7",
+                "name": "Bubbles FLIGHT",
+                "price": 15.75,
+                "categoryPath": "Wines by the Glass > Flights",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760317"
+              }
             },
             {
               "name": "Chardonnay Flight",
@@ -533,25 +1019,61 @@
                   "price": "8.75",
                   "variety": "Chardonnay",
                   "location": "California",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "082b932f-8c0f-46bd-b6e9-c892246237ca",
+                    "name": "G CHARD #1",
+                    "price": 8.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759796"
+                  }
                 },
                 {
                   "name": "Flowers",
                   "price": "16.75",
                   "variety": "Chardonnay",
                   "location": "Sonoma Coast",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "6c82215e-55b2-4f1e-afbd-0fa8aedbe62d",
+                    "name": "G CHARD #2",
+                    "price": 16.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759952"
+                  }
                 },
                 {
                   "name": "Hartfort Court",
                   "price": "12.75",
                   "variety": "Chardonnay",
                   "location": "Russian River, Sonoma ",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "1be1535d-6aa6-4c0c-9cfa-fa1037a3bb2b",
+                    "name": "G CHARD #3",
+                    "price": 12.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759954"
+                  }
                 }
               ],
               "price": "13.75",
-              "favorites": true
+              "favorites": true,
+              "toastLink": {
+                "id": "138fc5f9-ec8b-4d7a-a5b5-fb16daf0a07c",
+                "name": "Chardonnay FLIGHT",
+                "price": 13.75,
+                "categoryPath": "Wines by the Glass > Flights",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760320"
+              }
             },
             {
               "name": "Pinot Noir Flight",
@@ -561,24 +1083,60 @@
                   "price": "8.75",
                   "variety": "Pinot Noir",
                   "location": "Oregon ",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "7f1046f0-c6ab-4e76-9440-a1be3315f224",
+                    "name": "G PINOT #1",
+                    "price": 8.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759686"
+                  }
                 },
                 {
                   "name": "Sinegal",
                   "price": "18.75",
                   "variety": "Pinot Noir",
                   "location": "Sonoma",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "223bfd29-94c6-401a-9523-0392558ac9a2",
+                    "name": "G PINOT #2",
+                    "price": 8.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759766"
+                  }
                 },
                 {
                   "name": "Flowers",
                   "price": "18.75",
                   "variety": "Pinot Noir",
                   "location": "Sonoma ",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "4b83b982-9fcc-4bb4-a70d-5ec2a50fa792",
+                    "name": "G PINOT #3",
+                    "price": 18.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759674"
+                  }
                 }
               ],
-              "price": "15.75"
+              "price": "15.75",
+              "toastLink": {
+                "id": "6226d808-2f03-48ba-8a05-f1dabf09da41",
+                "name": "Pinot Noir FLIGHT",
+                "price": 12.75,
+                "categoryPath": "Wines by the Glass > Flights",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760323"
+              }
             },
             {
               "name": "Cabernet Flight",
@@ -588,25 +1146,61 @@
                   "price": "13.75",
                   "variety": "Cabernet",
                   "location": "Paso Robles",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "821a58cf-e815-40fc-b3e6-2a0611603a75",
+                    "name": "G CABERNET #1",
+                    "price": 13.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759754"
+                  }
                 },
                 {
                   "name": "The Calling",
                   "price": "13.75",
                   "variety": "Cabernet",
                   "location": "Napa",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "c66fdffd-76aa-4d23-81bf-7692cc67391e",
+                    "name": "G CABERNET #2",
+                    "price": 18.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759756"
+                  }
                 },
                 {
                   "name": "Ink Grade",
                   "price": "23.75",
                   "variety": "Cabernet",
                   "location": "Napa",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "defeb5ea-b1fe-4c68-9612-e7722bb15abe",
+                    "name": "G CABERNET #3",
+                    "price": 23.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759772"
+                  }
                 }
               ],
               "price": "17.75",
-              "favorites": true
+              "favorites": true,
+              "toastLink": {
+                "id": "5ae95fa9-3fa5-450a-8634-4de2e1b78e3e",
+                "name": "Cabernet FLIGHT",
+                "price": 17.75,
+                "categoryPath": "Wines by the Glass > Flights",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760325"
+              }
             },
             {
               "name": "Premium Cabernet Flight",
@@ -616,24 +1210,60 @@
                   "price": "21.75",
                   "variety": "Cabernet",
                   "location": "Sonoma",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "92c3bfdc-7d43-4a41-8a59-e058aa49af6b",
+                    "name": "G PREMIUM #1",
+                    "price": 21.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759774"
+                  }
                 },
                 {
                   "name": "Anthem \"Mt. Veeder\"",
                   "price": "39.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "3fa7fc08-3784-4e0c-a6dd-d1ce9cb252c0",
+                    "name": "G PREMIUM #2",
+                    "price": 39.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759776"
+                  }
                 },
                 {
                   "name": "John Anthony",
                   "price": "22.75",
                   "variety": "Cabernet",
                   "location": "Napa",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "fa9e3cff-e436-48f2-b4ea-e2ecb3f60314",
+                    "name": "G PREMIUM #3",
+                    "price": 25.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001960198590"
+                  }
                 }
               ],
-              "price": "24.75"
+              "price": "24.75",
+              "toastLink": {
+                "id": "f0a237dd-1c67-4f55-8fc6-e89045a6946a",
+                "name": "Premium FLIGHT",
+                "price": 23.75,
+                "categoryPath": "Wines by the Glass > Flights",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760327"
+              }
             },
             {
               "name": "Red Blend Flight",
@@ -643,25 +1273,61 @@
                   "price": "14.75",
                   "variety": "Cab, Petite Syrah, Merlot ",
                   "location": "Napa",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "96864ba9-05d9-4b27-8150-bdcab1cdfffd",
+                    "name": "G RED BLEND #1",
+                    "price": 8.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759762"
+                  }
                 },
                 {
                   "name": "Etrusca",
                   "price": "16.75",
                   "variety": "Zin, Alicante Bouschet, Petite Syrah",
                   "location": "Russian River",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "b628c3de-925f-4788-bc39-21fe550b14d3",
+                    "name": "G RED BLEND #2",
+                    "price": 16.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759694"
+                  }
                 },
                 {
                   "name": "Ridge Three Valleys",
                   "price": "13.75",
                   "variety": "Zin, Carignane, Petite Syrah",
                   "location": "Sonoma",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "99429fd2-71a2-46ec-97c8-42321eaea6fd",
+                    "name": "G RED BLEND #3",
+                    "price": 13.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001958154046"
+                  }
                 }
               ],
               "price": "15.75",
-              "favorites": true
+              "favorites": true,
+              "toastLink": {
+                "id": "05976ce2-06c7-40ee-8c2b-2e88187a3187",
+                "name": "Red Blend FLIGHT",
+                "price": 13.75,
+                "categoryPath": "Wines by the Glass > Flights",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760329"
+              }
             },
             {
               "name": "Italian Red Flight",
@@ -671,24 +1337,60 @@
                   "price": "9.75",
                   "variety": "Red Blend",
                   "location": "Sardina, Italy",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "d16cda06-e1de-434b-9954-5cc0c2e9b3ca",
+                    "name": "G ITALIAN RED #1",
+                    "price": 9.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759688"
+                  }
                 },
                 {
                   "name": "Antiogue",
                   "price": "14.75",
                   "variety": "Red Blend",
                   "location": "Sardinia, Italy",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "29be4a8d-089c-4be7-95b3-af556cdc1c8c",
+                    "name": "G ITALIAN RED #2",
+                    "price": 14.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759752"
+                  }
                 },
                 {
                   "name": "Bagadiu",
                   "price": "13.75",
                   "variety": "Red Blend",
                   "location": "Sardina, Italy",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "0781cace-838e-486e-ba4a-3b8f28877076",
+                    "name": "G ITALIAN RED #3",
+                    "price": 13.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759750"
+                  }
                 }
               ],
-              "price": "13.75"
+              "price": "13.75",
+              "toastLink": {
+                "id": "50a89945-9c34-4003-9b03-2c6aaa27dfd1",
+                "name": "Italian Red FLIGHT",
+                "price": 13.75,
+                "categoryPath": "Wines by the Glass > Flights",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760331"
+              }
             },
             {
               "name": "Red Variety Flight",
@@ -698,25 +1400,61 @@
                   "price": "17.75",
                   "variety": "Sangiovese",
                   "location": "Chianti, Italy",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "47377e05-6b29-4ecc-b4ef-051eb8324520",
+                    "name": "G RED VARIETY #1",
+                    "price": 13.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759692"
+                  }
                 },
                 {
                   "name": "Marimar \"Don Miguel\"",
                   "price": "13.75",
                   "variety": "Tempranillo",
                   "location": "Sonoma",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "b4f52391-55cb-4d15-92be-c771672c652c",
+                    "name": "G RED VARIETY #2",
+                    "price": 13.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759758"
+                  }
                 },
                 {
                   "name": "Caymus - Suisun Grand Durif",
                   "price": "18.75",
                   "variety": "Petite Syrah",
                   "location": "Suisun",
-                  "glassSize": "8oz"
+                  "glassSize": "8oz",
+                  "toastLink": {
+                    "id": "dc450024-e14f-45cc-8bc6-3b93deadb1a3",
+                    "name": "G RED VARIETY #3",
+                    "price": 24.75,
+                    "categoryPath": "Wines by the Glass > Flights",
+                    "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                    "locationName": "Whispering Vine Wine Co. - 4th Street",
+                    "multiLocationId": "1600000001860759760"
+                  }
                 }
               ],
               "price": "17.75",
-              "favorites": true
+              "favorites": true,
+              "toastLink": {
+                "id": "69b3359d-a736-47fe-b2d5-ce7e1b1e3553",
+                "name": "Red Variety FLIGHT",
+                "price": 17.75,
+                "categoryPath": "Wines by the Glass > Flights",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760333"
+              }
             }
           ],
           "title": "Flights & Glasses",
@@ -775,30 +1513,75 @@
               "name": "VINE PALOMA",
               "price": "14",
               "serving": "On the Rocks | Salted Rim",
+              "toastLink": {
+                "id": "ca2a6424-33fc-45b7-9346-0a85aa356615",
+                "name": "VINE PALOMA",
+                "price": 14,
+                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860763798"
+              },
               "description": "Mi Campo Tequila | Lime Juice\nGrapefruit Juice | Q Grapefruit Soda"
             },
             {
               "name": "CLASSIC MARGARITA",
               "price": "14",
               "serving": "On the Rocks | Salted Rim",
+              "toastLink": {
+                "id": "405d355f-c740-494d-9659-6c6ebeace212",
+                "name": "CLASSIC MARGARITA",
+                "price": 14,
+                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860763950"
+              },
               "description": "Mi Campo Tequila | Cointreau\nAgave | Lime"
             },
             {
               "name": "VINE MANHATTAN",
               "price": "14",
               "serving": "Served Up",
+              "toastLink": {
+                "id": "d4a830fa-6147-4651-ad1e-5c6af571b8f3",
+                "name": "VINE MANHATTAN",
+                "price": 14,
+                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860763952"
+              },
               "description": "Premium Rye | Antica Sweet Vermouth\nGran Marnier | Angostura\nPeychaud's Bitters"
             },
             {
               "name": "BLUE CHEESE STUFFED DIRTY MARTINI",
               "price": "14",
               "serving": "Served Up",
+              "toastLink": {
+                "id": "27406351-a9f6-46bb-994b-74fa0717a22c",
+                "name": "BLUE CHEESE STUFFED DIRTY MARTINI",
+                "price": 14,
+                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860763954"
+              },
               "description": "Vodka | Filthy Olive Brine\nBlue Cheese Stuffed Olives"
             },
             {
               "name": "VINE OLD FASHIONED",
               "price": "14",
               "serving": "On a Large Clear Cube",
+              "toastLink": {
+                "id": "b0ef8db6-9456-491f-a6b0-e898b7b24159",
+                "name": "VINE OLD FASHIONED",
+                "price": 14,
+                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860763956"
+              },
               "description": "Premium Bourbon | Simple Syrup\nOrange Bitters | Angostura Bitters"
             },
             {
@@ -820,6 +1603,7 @@
               "name": "CHURCHILL SAGE HOT TODDY",
               "price": "14",
               "serving": "Served Hot",
+              "toastLink": null,
               "description": "Frey Ranch Bourbon | Sage Infused Honey | Lemon Juice"
             },
             {
@@ -838,12 +1622,30 @@
               "name": "FALLON BUCK",
               "price": "14",
               "serving": "On a Large Clear Cube",
+              "toastLink": {
+                "id": "b1ea96af-86ea-4636-aae8-adf9452edc82",
+                "name": "FALLON BUCK",
+                "price": 14,
+                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860763784"
+              },
               "description": "Frey Ranch Bourbon | Simple Syrup | Crème de Cassis | Lemon Juice | Angostura"
             },
             {
               "name": "FRENCH 75",
               "price": "14",
               "serving": "Served Up",
+              "toastLink": {
+                "id": "250131ae-4194-4c9e-836b-d17dfeed7593",
+                "name": "FRENCH 75",
+                "price": 14,
+                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860763786"
+              },
               "description": "Gin | Lemon Juice\nSimple Syrup | Sparkling Wine"
             },
             {
@@ -856,18 +1658,45 @@
               "name": "WV ESPRESSO MARTINI",
               "price": "14",
               "serving": "Served Up with Pressed Mint",
+              "toastLink": {
+                "id": "1b560902-dfbc-4edd-9280-eace6c20fe81",
+                "name": "WV ESPRESSO MARTINI",
+                "price": 14,
+                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860763790"
+              },
               "description": "Vodka | Cardamaro\nCoffee | Grind Espresso Liqueur | Simple Syrup"
             },
             {
               "name": "PICON PUNCH",
               "price": "14",
               "serving": "On the Rocks",
+              "toastLink": {
+                "id": "8dc89286-6fdb-42d2-adcd-79afdbd8429e",
+                "name": "PICON PUNCH",
+                "price": 14,
+                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860763792"
+              },
               "description": "Ferani Amer | Grenadine | St Remy VSOP | Soda Water"
             },
             {
               "name": "GRAPEFRUIT LAVENDER GIMLET",
               "price": "14",
               "serving": "Served Up",
+              "toastLink": {
+                "id": "ad8dc541-ad96-4304-8a1d-cd8ae539887b",
+                "name": "GRAPEFRUIT LAVENDER GIMLET",
+                "price": 14,
+                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860763794"
+              },
               "description": "Gray Whale Gin | Lime Juice | Grapefruit Juice | Simple Syrup | Lavender Bitters"
             },
             {
@@ -892,6 +1721,17 @@
                 "glass": 16.75,
                 "bottle": 34.99
               },
+              "toastLinks": {
+                "glass": {
+                  "id": "8bb94a81-3b62-4608-b0c5-545f1b285028",
+                  "name": "GH Mumm Brut GLS",
+                  "price": 16.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002121873321"
+                }
+              },
               "description": "Champagne, France | Brut"
             },
             {
@@ -900,6 +1740,17 @@
                 "sale": false,
                 "glass": 6.75,
                 "bottle": 14.99
+              },
+              "toastLinks": {
+                "glass": {
+                  "id": "5382aa40-a26c-4b41-af44-3876d5546966",
+                  "name": "G RUFFINO PROSECCO",
+                  "price": 7.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000001860759983"
+                }
               },
               "description": "Italy | Prosecco"
             },
@@ -910,6 +1761,17 @@
                 "glass": 5.75,
                 "bottle": 12.99
               },
+              "toastLinks": {
+                "glass": {
+                  "id": "f0e56835-4c89-4b95-968a-4ee9e24d3397",
+                  "name": "G MOSCATO",
+                  "price": 5.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002123144115"
+                }
+              },
               "description": "California | Moscato"
             },
             {
@@ -918,6 +1780,17 @@
                 "sale": true,
                 "glass": 11.75,
                 "bottle": 26.99
+              },
+              "toastLinks": {
+                "glass": {
+                  "id": "1912bc15-b6bd-43a4-90f4-41d0c186f01c",
+                  "name": "G SAUV BLANC",
+                  "price": 11.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002123854702"
+                }
               },
               "description": "Napa | Sauvignon Blanc"
             },
@@ -928,6 +1801,17 @@
                 "glass": 8.75,
                 "bottle": 19.99
               },
+              "toastLinks": {
+                "glass": {
+                  "id": "27b2d3c3-e6f4-4975-90bb-6abd530d9a7a",
+                  "name": "G HOUSE CHARD",
+                  "price": 8.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002122555330"
+                }
+              },
               "description": "Oregon | Chardonnay"
             },
             {
@@ -936,6 +1820,17 @@
                 "sale": true,
                 "glass": 11.75,
                 "bottle": 26.99
+              },
+              "toastLinks": {
+                "glass": {
+                  "id": "39ccba02-e16e-408a-b31a-df6c27cc84be",
+                  "name": "G HIGH END CHARD",
+                  "price": 11.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002123091913"
+                }
               },
               "description": "Russian River | Chardonnay"
             },
@@ -946,6 +1841,17 @@
                 "glass": 7.75,
                 "bottle": 16.99
               },
+              "toastLinks": {
+                "glass": {
+                  "id": "8fcf2b92-5729-4952-90dd-4e22a0264f10",
+                  "name": "G HOUSE ROSÉ",
+                  "price": 7.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002124079900"
+                }
+              },
               "description": "France | Rosé"
             },
             {
@@ -954,6 +1860,17 @@
                 "sale": false,
                 "glass": 8.75,
                 "bottle": 19.99
+              },
+              "toastLinks": {
+                "glass": {
+                  "id": "5cd90589-fd73-4e6c-8544-55347a19248f",
+                  "name": "G HOUSE PN",
+                  "price": 8.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002122319331"
+                }
               },
               "description": "Oregon | Pinot Noir"
             },
@@ -964,6 +1881,17 @@
                 "glass": 13.75,
                 "bottle": 29.99
               },
+              "toastLinks": {
+                "glass": {
+                  "id": "1ef19488-ee0c-4351-97f8-c38a60999aa9",
+                  "name": "G HIGH END PN",
+                  "price": 14.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002124110750"
+                }
+              },
               "description": "Russian River | Pinot Noir"
             },
             {
@@ -973,6 +1901,17 @@
                 "glass": 17.75,
                 "bottle": 39.99
               },
+              "toastLinks": {
+                "glass": {
+                  "id": "f013159e-b24e-4432-b8b5-0d04a7439b7b",
+                  "name": "G HOUSE MERLOT",
+                  "price": 17.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002123042022"
+                }
+              },
               "description": "Napa | Merlot"
             },
             {
@@ -980,6 +1919,17 @@
               "price": {
                 "glass": 8.75,
                 "bottle": 19.99
+              },
+              "toastLinks": {
+                "glass": {
+                  "id": "178ad793-9cee-4f2b-b1b2-8f9c8c19ceed",
+                  "name": "G HOUSE CAB",
+                  "price": 8.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002123038510"
+                }
               },
               "description": "Washington | Cabernet"
             },
@@ -990,6 +1940,17 @@
                 "glass": 14.75,
                 "bottle": 34.99
               },
+              "toastLinks": {
+                "glass": {
+                  "id": "f5e38daa-6cb2-426a-a085-b4b8f8e748af",
+                  "name": "G HIGH END CAB",
+                  "price": 14.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002122384436"
+                }
+              },
               "description": "Napa | Cabernet"
             },
             {
@@ -998,6 +1959,17 @@
                 "sale": true,
                 "glass": 8.75,
                 "bottle": 23.99
+              },
+              "toastLinks": {
+                "glass": {
+                  "id": "a0060243-c391-4578-a5d9-1dd20de6abda",
+                  "name": "G RED BLEND",
+                  "price": 8.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002123042023"
+                }
               },
               "description": "Napa | Cab, Merlot, Malbec"
             },
@@ -1008,6 +1980,17 @@
                 "glass": 8.75,
                 "bottle": 18.99
               },
+              "toastLinks": {
+                "glass": {
+                  "id": "8ff693d7-9fa7-4501-a58d-13a99ed57ca8",
+                  "name": "G CHIANTI",
+                  "price": 8.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002121139528"
+                }
+              },
               "description": "Italy | Chianti"
             },
             {
@@ -1016,6 +1999,17 @@
                 "sale": true,
                 "glass": 13.75,
                 "bottle": 29.99
+              },
+              "toastLinks": {
+                "glass": {
+                  "id": "fe628eb5-ce6c-410e-8ab3-419e5f9a7031",
+                  "name": "G HOUSE ZIN",
+                  "price": 7.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002122858923"
+                }
               },
               "description": "Russian River | Zinfandel"
             },
@@ -1026,6 +2020,17 @@
                 "glass": 16.75,
                 "bottle": 39.99
               },
+              "toastLinks": {
+                "glass": {
+                  "id": "a8e30f76-a5c1-4cd0-a2f6-9436a17b3cd8",
+                  "name": "G MALBEC",
+                  "price": 16.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000002122111394"
+                }
+              },
               "description": "Argentina | Malbec"
             },
             {
@@ -1033,6 +2038,17 @@
               "price": {
                 "glass": 5.75,
                 "bottle": 13.99
+              },
+              "toastLinks": {
+                "glass": {
+                  "id": "f71aae5c-10ca-4b2f-b1f3-ce31de49e650",
+                  "name": "Giesen Sauvignon Blanc 0% GLS",
+                  "price": 5.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000001860759999"
+                }
               },
               "description": "New Zealand | Sauvignon Blanc"
             },
@@ -1042,6 +2058,17 @@
                 "glass": 7.75,
                 "bottle": 16.99
               },
+              "toastLinks": {
+                "glass": {
+                  "id": "d0e2d70a-692f-4818-8171-1da20b784207",
+                  "name": "Fritz Müller White Blend 0% GLS",
+                  "price": 7.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000001860760303"
+                }
+              },
               "description": "Germany | White Blend"
             },
             {
@@ -1049,6 +2076,17 @@
               "price": {
                 "glass": 8.75,
                 "bottle": 18.99
+              },
+              "toastLinks": {
+                "glass": {
+                  "id": "22dc95a3-0247-4cac-9f52-f17fb5cdace9",
+                  "name": "Giesen Red Blend 0% GLS",
+                  "price": 8.75,
+                  "categoryPath": "Wines by the Glass > Signature",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000001860760301"
+                }
               },
               "description": "New Zealand | Red Blend"
             }
