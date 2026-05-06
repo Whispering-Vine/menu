@@ -292,7 +292,8 @@
                 "multiLocationId": "1600000001860759398"
               },
               "description": "(GF) Mixed Greens, Candied Pecans, Verjus Vinaigrette",
-              "gluten_free": true
+              "gluten_free": true,
+              "winePairing": null
             },
             {
               "new": false,
@@ -1730,6 +1731,15 @@
                   "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
                   "locationName": "Whispering Vine Wine Co. - 4th Street",
                   "multiLocationId": "1600000002121873321"
+                },
+                "bottle": {
+                  "id": "6e7e2db6-0879-4d3b-a6f4-05f5ab48fc9e",
+                  "name": "GH Mumm Brut *",
+                  "price": 34.99,
+                  "categoryPath": "Wine Bottles > Champagne",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000001830322559"
                 }
               },
               "description": "Champagne, France | Brut"
@@ -2014,7 +2024,7 @@
               "description": "Russian River | Zinfandel"
             },
             {
-              "name": "Tapiz \"Black Tears\"",
+              "name": "Bramare",
               "price": {
                 "sale": false,
                 "glass": 16.75,
