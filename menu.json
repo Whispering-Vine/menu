@@ -1464,37 +1464,37 @@
         "specials": {
           "items": [
             {
-              "name": "John Anthony Cabernet",
-              "glass": "22.75",
-              "notes": "Winery $85",
-              "bottle": "59.99",
+              "name": "Mount Veeder",
+              "glass": "19.75",
+              "notes": "Winery $70",
+              "bottle": "49.99",
               "favorites": false
             },
             {
-              "name": "Sinegal Pinot Noir ",
+              "name": "Taittinger La Française",
               "glass": "18.75",
-              "notes": "",
+              "notes": "Winery $70  95pts Tasting Panel",
               "bottle": "44.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Tenuta Di Acreno Chianti Classico Riserva",
-              "glass": "17.75",
-              "notes": "94pts Wine Spectator Top 100 #24",
-              "bottle": "44.99"
+              "name": "Sentium Sauvignon Blanc",
+              "glass": "19.75",
+              "notes": "Winery $75 94pts James Suckling",
+              "bottle": "49.99"
             },
             {
-              "name": "The Calling Cabernet",
-              "glass": "13.75",
-              "notes": "91pts Wine Enthusiast",
-              "bottle": "34.99",
+              "name": "Ruffino Riserva Ducale Gran Selezione",
+              "glass": "14.75",
+              "notes": "94pts Wine Spectator",
+              "bottle": "35.99",
               "wineryPrice": 45
             },
             {
-              "name": "Mark Herold Sauvignon Blanc",
+              "name": "Failla Sonoma Pinot Noir",
               "glass": "12.75",
-              "notes": "Winery $45",
+              "notes": "Winery $39  93pts Wine Spectator",
               "bottle": "29.99",
               "favorites": false
             }
