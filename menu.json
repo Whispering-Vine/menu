@@ -1397,8 +1397,8 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Tenuta Di Arceno Riserva",
-                  "price": "17.75",
+                  "name": "Ruffino Riserva Ducale",
+                  "price": "14.75",
                   "variety": "Sangiovese",
                   "location": "Chianti, Italy",
                   "glassSize": "8oz",
@@ -1445,7 +1445,7 @@
                   }
                 }
               ],
-              "price": "17.75",
+              "price": "16.75",
               "favorites": true,
               "toastLink": {
                 "id": "69b3359d-a736-47fe-b2d5-ce7e1b1e3553",
