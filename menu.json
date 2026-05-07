@@ -293,7 +293,15 @@
               },
               "description": "(GF) Mixed Greens, Candied Pecans, Verjus Vinaigrette",
               "gluten_free": true,
-              "winePairing": null
+              "winePairing": {
+                "id": "8bb94a81-3b62-4608-b0c5-545f1b285028",
+                "name": "GH Mumm Brut GLS",
+                "price": 16.75,
+                "categoryPath": "Wines by the Glass > Signature",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000002121873321"
+              }
             },
             {
               "new": false,
@@ -310,7 +318,16 @@
                 "multiLocationId": "1600000001860759500"
               },
               "description": "Baby Romaine, Applewood Smoked Bacon, Grape Tomatoes, Crisp Onion, Creamy Dill Blue Goddess Dressing",
-              "gluten_free": false
+              "gluten_free": false,
+              "winePairing": {
+                "id": "3164123e-9358-4126-a768-e1cb8a0a4928",
+                "name": "Twomey Sauv Blanc",
+                "price": 26.99,
+                "categoryPath": "Wine Bottles > Sauvignon Blanc",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001830322734"
+              }
             },
             {
               "new": false,
