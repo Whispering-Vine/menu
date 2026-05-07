@@ -1096,8 +1096,8 @@
                   }
                 },
                 {
-                  "name": "Sinegal",
-                  "price": "18.75",
+                  "name": "Miner",
+                  "price": "21.75",
                   "variety": "Pinot Noir",
                   "location": "Sonoma",
                   "glassSize": "8oz",
@@ -1128,7 +1128,7 @@
                   }
                 }
               ],
-              "price": "15.75",
+              "price": "16.75",
               "toastLink": {
                 "id": "6226d808-2f03-48ba-8a05-f1dabf09da41",
                 "name": "Pinot Noir FLIGHT",
