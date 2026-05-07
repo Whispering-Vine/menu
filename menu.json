@@ -1210,7 +1210,7 @@
                   "name": "Rombauer",
                   "price": "21.75",
                   "variety": "Cabernet",
-                  "location": "Sonoma",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "92c3bfdc-7d43-4a41-8a59-e058aa49af6b",
@@ -1223,8 +1223,8 @@
                   }
                 },
                 {
-                  "name": "Anthem \"Mt. Veeder\"",
-                  "price": "39.75",
+                  "name": "Mt. Veeder",
+                  "price": "19.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1255,7 +1255,7 @@
                   }
                 }
               ],
-              "price": "24.75",
+              "price": "21.75",
               "toastLink": {
                 "id": "f0a237dd-1c67-4f55-8fc6-e89045a6946a",
                 "name": "Premium FLIGHT",
