@@ -984,10 +984,10 @@
                   }
                 },
                 {
-                  "name": "Roederer 245",
-                  "price": "23.75",
+                  "name": "Roederer ",
+                  "price": "10.75",
                   "variety": "Brut ",
-                  "location": "Champagne, France",
+                  "location": "Anderson Valley",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "cbf3b195-ea50-40e4-8530-d32d3dc419c8",
@@ -1000,7 +1000,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "13.75",
               "favorites": false,
               "toastLink": {
                 "id": "27ae853f-8a49-4da2-b5de-f83a0bee05a7",
