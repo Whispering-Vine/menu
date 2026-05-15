@@ -1239,8 +1239,8 @@
                   }
                 },
                 {
-                  "name": "John Anthony",
-                  "price": "22.75",
+                  "name": "Collateral",
+                  "price": "24.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1255,7 +1255,7 @@
                   }
                 }
               ],
-              "price": "21.75",
+              "price": "22.75",
               "toastLink": {
                 "id": "f0a237dd-1c67-4f55-8fc6-e89045a6946a",
                 "name": "Premium FLIGHT",
@@ -1464,7 +1464,7 @@
         "specials": {
           "items": [
             {
-              "name": "D.R. Stephens Cabernet",
+              "name": "D.R. Stephens Collateral",
               "glass": "24.75",
               "notes": "",
               "bottle": "59.99",
