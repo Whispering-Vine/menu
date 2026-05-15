@@ -1397,10 +1397,10 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Ruffino Riserva Ducale",
-                  "price": "14.75",
-                  "variety": "Sangiovese",
-                  "location": "Chianti, Italy",
+                  "name": "Marimar \"Don Miguel\"",
+                  "price": "13.75",
+                  "variety": "Tempranillo",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "47377e05-6b29-4ecc-b4ef-051eb8324520",
@@ -1413,10 +1413,10 @@
                   }
                 },
                 {
-                  "name": "Marimar \"Don Miguel\"",
-                  "price": "13.75",
-                  "variety": "Tempranillo",
-                  "location": "Sonoma",
+                  "name": "Balerin Amarone",
+                  "price": "16.75",
+                  "variety": "Corvina",
+                  "location": "Italy",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "b4f52391-55cb-4d15-92be-c771672c652c",
@@ -1429,10 +1429,10 @@
                   }
                 },
                 {
-                  "name": "Caymus - Suisun Grand Durif",
-                  "price": "18.75",
-                  "variety": "Petite Syrah",
-                  "location": "Suisun",
+                  "name": "Day",
+                  "price": "13.75",
+                  "variety": "Zinfandel ",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "dc450024-e14f-45cc-8bc6-3b93deadb1a3",
@@ -1445,7 +1445,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true,
               "toastLink": {
                 "id": "69b3359d-a736-47fe-b2d5-ce7e1b1e3553",
