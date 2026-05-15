@@ -1464,25 +1464,25 @@
         "specials": {
           "items": [
             {
-              "name": "Mount Veeder Cabernet",
-              "glass": "19.75",
-              "notes": "Winery $70",
-              "bottle": "49.99",
+              "name": "D.R. Stephens Cabernet",
+              "glass": "24.75",
+              "notes": "",
+              "bottle": "59.99",
               "favorites": false
             },
             {
-              "name": "Taittinger La Française",
+              "name": "Joseph Mellot Sancerre",
               "glass": "18.75",
-              "notes": "Winery $70  95pts Tasting Panel",
-              "bottle": "49.99",
+              "notes": "",
+              "bottle": "44.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Sentium Sauvignon Blanc",
-              "glass": "19.75",
-              "notes": "Winery $75 94pts James Suckling",
-              "bottle": "49.99"
+              "name": "Balerin Amarone",
+              "glass": "16.75",
+              "notes": "Winery $50 91pts Wine Enthusiast",
+              "bottle": "39.99"
             },
             {
               "name": "Ruffino Riserva Ducale Gran Selezione",
