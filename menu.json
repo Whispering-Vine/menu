@@ -1964,11 +1964,11 @@
               "description": "Napa | Cabernet"
             },
             {
-              "name": "Elizabeth Rose",
+              "name": "Altocedro",
               "price": {
                 "sale": true,
                 "glass": 8.75,
-                "bottle": 23.99
+                "bottle": 21.99
               },
               "toastLinks": {
                 "glass": {
@@ -1981,7 +1981,7 @@
                   "multiLocationId": "1600000002123042023"
                 }
               },
-              "description": "Napa | Cab, Merlot, Malbec"
+              "description": "Argentina | Cab, Merlot, Petite Verdot"
             },
             {
               "name": "Ruffino",
