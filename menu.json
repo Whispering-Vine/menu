@@ -888,10 +888,10 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Sentium",
-                  "price": "19.75",
+                  "name": "Joseph Mellot Sancerre",
+                  "price": "18.75",
                   "variety": "Sauvignon Blanc",
-                  "location": "Napa",
+                  "location": "France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "2d4713c2-4674-4482-93fe-949a9c0a1ebd",
@@ -984,10 +984,10 @@
                   }
                 },
                 {
-                  "name": "Roederer ",
-                  "price": "10.75",
-                  "variety": "Brut ",
-                  "location": "Anderson Valley",
+                  "name": "G.H. Mumm",
+                  "price": "16.75",
+                  "variety": "Brut Rosé",
+                  "location": "Champagne, France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "cbf3b195-ea50-40e4-8530-d32d3dc419c8",
@@ -1000,7 +1000,7 @@
                   }
                 }
               ],
-              "price": "13.75",
+              "price": "15.75",
               "favorites": false,
               "toastLink": {
                 "id": "27ae853f-8a49-4da2-b5de-f83a0bee05a7",
