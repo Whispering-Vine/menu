@@ -187,6 +187,14 @@
               "local": false,
               "price": "$7.25",
               "brewery": "Ireland"
+            },
+            {
+              "name": "Boneyard Diablo Rojo Red",
+              "brewery": "Oregon",
+              "abv": "5.5%",
+              "ibu": "30",
+              "price": "$7.25",
+              "local": false
             }
           ]
         },
