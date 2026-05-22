@@ -1278,10 +1278,10 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "Leviathan",
-                  "price": "14.75",
-                  "variety": "Cab, Petite Syrah, Merlot ",
-                  "location": "Napa",
+                  "name": "Hassan",
+                  "price": "16.75",
+                  "variety": "Cabernet, Cabernet Franc, Merlot",
+                  "location": "Sardina, Italy",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "96864ba9-05d9-4b27-8150-bdcab1cdfffd",
@@ -1437,8 +1437,8 @@
                   }
                 },
                 {
-                  "name": "Day",
-                  "price": "13.75",
+                  "name": "Gamba \"Messina\"",
+                  "price": "17.75",
                   "variety": "Zinfandel ",
                   "location": "Sonoma",
                   "glassSize": "8oz",
@@ -1453,7 +1453,7 @@
                   }
                 }
               ],
-              "price": "15.75",
+              "price": "16.75",
               "favorites": true,
               "toastLink": {
                 "id": "69b3359d-a736-47fe-b2d5-ce7e1b1e3553",
