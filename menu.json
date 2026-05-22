@@ -914,7 +914,7 @@
                 {
                   "name": "Meyer Nakel",
                   "price": "14.75",
-                  "variety": "Dry Rosé",
+                  "variety": "Dry ",
                   "location": "Germany",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1104,7 +1104,7 @@
                   }
                 },
                 {
-                  "name": "Miner",
+                  "name": "Martinelli \"Bondi\" ",
                   "price": "21.75",
                   "variety": "Pinot Noir",
                   "location": "Santa Lucia Highlands",
@@ -1472,22 +1472,22 @@
         "specials": {
           "items": [
             {
-              "name": "D.R. Stephens Collateral",
-              "glass": "24.75",
-              "notes": "",
-              "bottle": "59.99",
+              "name": "Robert Foley Claret",
+              "glass": "39.75",
+              "notes": "98pts Jeb Dunnuck",
+              "bottle": "99.99",
               "favorites": false
             },
             {
-              "name": "Joseph Mellot Sancerre",
-              "glass": "18.75",
-              "notes": "",
-              "bottle": "44.99",
+              "name": "Martinelli \"Bondi Home Ranch\" Pinot Noir",
+              "glass": "29.75",
+              "notes": "94pts Wine Spectator",
+              "bottle": "75.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Balerin Amarone",
+              "name": "G.H. Mumm ",
               "glass": "16.75",
               "notes": "Winery $50 91pts Wine Enthusiast",
               "bottle": "39.99"
