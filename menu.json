@@ -1215,9 +1215,9 @@
               "name": "Premium Cabernet Flight",
               "items": [
                 {
-                  "name": "Rombauer",
-                  "price": "21.75",
-                  "variety": "Cabernet",
+                  "name": "Robert Foley Claret",
+                  "price": "39.75",
+                  "variety": "Cabernet Blend",
                   "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1263,7 +1263,7 @@
                   }
                 }
               ],
-              "price": "22.75",
+              "price": "25.75",
               "toastLink": {
                 "id": "f0a237dd-1c67-4f55-8fc6-e89045a6946a",
                 "name": "Premium FLIGHT",
