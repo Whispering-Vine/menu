@@ -914,7 +914,7 @@
                 {
                   "name": "Meyer Nakel",
                   "price": "14.75",
-                  "variety": "Dry ",
+                  "variety": "Dry Rosé",
                   "location": "Germany",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1487,23 +1487,23 @@
               "wineryPrice": 85
             },
             {
-              "name": "G.H. Mumm ",
+              "name": "G.H. Mumm Rosé",
               "glass": "16.75",
-              "notes": "Winery $50 91pts Wine Enthusiast",
+              "notes": "Winery $65 91pts Wine Spectator",
               "bottle": "39.99"
             },
             {
-              "name": "DAY Zinfandel",
-              "glass": "13.75",
-              "notes": "93pts Wine Spectator",
-              "bottle": "29.99",
+              "name": "Gamba \"Messana\" Zinfandel",
+              "glass": "17.75",
+              "notes": "",
+              "bottle": "39.99",
               "wineryPrice": 45
             },
             {
-              "name": "HAHN SLH Pinot Noir",
-              "glass": "10.75",
+              "name": "Tenuta Asinara Hassan",
+              "glass": "16.75",
               "notes": "",
-              "bottle": "24.99",
+              "bottle": "39.99",
               "favorites": false
             }
           ]
