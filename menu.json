@@ -1088,10 +1088,10 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Hahn SLH",
-                  "price": "10.75",
+                  "name": "Martin Ray",
+                  "price": "8.75",
                   "variety": "Pinot Noir",
-                  "location": "Santa Lucia Highlands",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "7f1046f0-c6ab-4e76-9440-a1be3315f224",
@@ -1136,7 +1136,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "17.75",
               "toastLink": {
                 "id": "6226d808-2f03-48ba-8a05-f1dabf09da41",
                 "name": "Pinot Noir FLIGHT",
