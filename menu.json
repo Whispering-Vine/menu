@@ -1024,10 +1024,10 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Bonanza",
-                  "price": "8.75",
+                  "name": "Ferrari Carano Tre Terre",
+                  "price": "10.75",
                   "variety": "Chardonnay",
-                  "location": "California",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "082b932f-8c0f-46bd-b6e9-c892246237ca",
