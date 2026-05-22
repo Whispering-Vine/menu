@@ -896,8 +896,8 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Joseph Mellot Sancerre",
-                  "price": "18.75",
+                  "name": "Les Fontenells Sancerre",
+                  "price": "16.75",
                   "variety": "Sauvignon Blanc",
                   "location": "France",
                   "glassSize": "8oz",
@@ -944,7 +944,7 @@
                   }
                 }
               ],
-              "price": "15.75",
+              "price": "14.75",
               "favorites": true,
               "toastLink": {
                 "id": "ae5a10aa-e5be-4406-993b-ed264a0b57f7",
