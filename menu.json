@@ -1294,10 +1294,10 @@
                   }
                 },
                 {
-                  "name": "Etrusca",
-                  "price": "16.75",
-                  "variety": "Zin, Alicante Bouschet, Petite Syrah",
-                  "location": "Russian River",
+                  "name": "Vall Llach Embruix",
+                  "price": "11.75",
+                  "variety": "Grenache, Merlot, Syrah",
+                  "location": "Spain",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "b628c3de-925f-4788-bc39-21fe550b14d3",
@@ -1473,7 +1473,7 @@
           "items": [
             {
               "name": "Perrier Jouet Grand Brut",
-              "glass": "39.75",
+              "glass": "18.75",
               "notes": "Winery $70",
               "bottle": "49.99",
               "favorites": false
@@ -1496,7 +1496,7 @@
               "name": "Les Fontenelles Sancerre",
               "glass": "16.75",
               "notes": "",
-              "bottle": "39.99",
+              "bottle": "38.99",
               "wineryPrice": 45
             },
             {
