@@ -957,13 +957,13 @@
               }
             },
             {
-              "name": "Bubbles Flight",
+              "name": "Champagne Flight",
               "items": [
                 {
-                  "name": "Piper-Sonoma",
-                  "price": "8.75",
+                  "name": "Perrier Jouet ",
+                  "price": "18.75",
                   "variety": "Brut",
-                  "location": "Sonoma",
+                  "location": "Champagne",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "22b2342c-ca3a-4fbe-8198-5fb87590ff7e",
@@ -1008,7 +1008,7 @@
                   }
                 }
               ],
-              "price": "15.75",
+              "price": "17.75",
               "favorites": false,
               "toastLink": {
                 "id": "27ae853f-8a49-4da2-b5de-f83a0bee05a7",
@@ -1310,10 +1310,10 @@
                   }
                 },
                 {
-                  "name": "Ferrari Carano Tresor",
-                  "price": "16.75",
-                  "variety": "Zin, Carignane, Petite Syrah",
-                  "location": "Sonoma",
+                  "name": "BV Tapestry",
+                  "price": "18.75",
+                  "variety": "Cabernet, Cabernet Franc, Merlot",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "99429fd2-71a2-46ec-97c8-42321eaea6fd",
@@ -1479,31 +1479,31 @@
               "favorites": false
             },
             {
-              "name": "Martinelli \"Bondi Home Ranch\" Pinot Noir",
-              "glass": "29.75",
-              "notes": "94pts Wine Spectator",
-              "bottle": "75.99",
+              "name": "Beaulieu Vineyard Tapestry",
+              "glass": "18.75",
+              "notes": "Winery $65",
+              "bottle": "44.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "G.H. Mumm Rosé",
-              "glass": "16.75",
-              "notes": "Winery $65 91pts Wine Spectator",
-              "bottle": "39.99"
+              "name": "Post & Beam Cabernet",
+              "glass": "18.75",
+              "notes": "Winery $55",
+              "bottle": "44.99"
             },
             {
-              "name": "Gamba \"Messana\" Zinfandel",
-              "glass": "17.75",
+              "name": "Les Fontenelles Sancerre",
+              "glass": "16.75",
               "notes": "",
               "bottle": "39.99",
               "wineryPrice": 45
             },
             {
-              "name": "Tenuta Asinara Hassan",
-              "glass": "16.75",
+              "name": "Vall Llach Embruix Red Blend",
+              "glass": "11.75",
               "notes": "",
-              "bottle": "39.99",
+              "bottle": "26.99",
               "favorites": false
             }
           ]
