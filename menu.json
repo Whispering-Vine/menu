@@ -1040,10 +1040,10 @@
                   }
                 },
                 {
-                  "name": "Flowers",
-                  "price": "16.75",
+                  "name": "BOEN",
+                  "price": "8.75",
                   "variety": "Chardonnay",
-                  "location": "Sonoma Coast",
+                  "location": "Monterey",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "6c82215e-55b2-4f1e-afbd-0fa8aedbe62d",
@@ -1072,7 +1072,7 @@
                   }
                 }
               ],
-              "price": "13.75",
+              "price": "11.75",
               "favorites": true,
               "toastLink": {
                 "id": "138fc5f9-ec8b-4d7a-a5b5-fb16daf0a07c",
@@ -1151,10 +1151,10 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "My Favorite Neighbor",
+                  "name": "Post & Beam By Far Niente",
                   "price": "13.75",
                   "variety": "Cabernet",
-                  "location": "Paso Robles",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "821a58cf-e815-40fc-b3e6-2a0611603a75",
@@ -1170,7 +1170,7 @@
                   "name": "The Calling",
                   "price": "13.75",
                   "variety": "Cabernet",
-                  "location": "Napa",
+                  "location": "Alexander Valley",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "c66fdffd-76aa-4d23-81bf-7692cc67391e",
