@@ -896,7 +896,7 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Les Fontenells Sancerre",
+                  "name": "Les Fontenelles Sancerre",
                   "price": "16.75",
                   "variety": "Sauvignon Blanc",
                   "location": "France",
@@ -912,7 +912,7 @@
                   }
                 },
                 {
-                  "name": "Meyer Nakel",
+                  "name": "Meyer Näkel",
                   "price": "14.75",
                   "variety": "Dry Rosé",
                   "location": "Germany",
@@ -1040,7 +1040,7 @@
                   }
                 },
                 {
-                  "name": "BOEN",
+                  "name": "BÖEN",
                   "price": "8.75",
                   "variety": "Chardonnay",
                   "location": "Monterey",
@@ -1152,7 +1152,7 @@
               "items": [
                 {
                   "name": "Post & Beam By Far Niente",
-                  "price": "13.75",
+                  "price": "19.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz",
