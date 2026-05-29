@@ -1312,7 +1312,7 @@
                 {
                   "name": "Ferrari Carano Tresor",
                   "price": "16.75",
-                  "variety": "Cabernet, Cabernet Franc, Merlot",
+                  "variety": "Zin, Carignane, Petite Syrah",
                   "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1472,10 +1472,10 @@
         "specials": {
           "items": [
             {
-              "name": "Robert Foley Claret",
+              "name": "Perrier Jouet Grand Brut",
               "glass": "39.75",
-              "notes": "98pts Jeb Dunnuck",
-              "bottle": "99.99",
+              "notes": "Winery $70",
+              "bottle": "49.99",
               "favorites": false
             },
             {
