@@ -896,7 +896,7 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Les Fontenelles Sancerre",
+                  "name": "Les Fontenells Sancerre",
                   "price": "16.75",
                   "variety": "Sauvignon Blanc",
                   "location": "France",
@@ -1216,7 +1216,7 @@
               "items": [
                 {
                   "name": "Auctioneer Howell Mountain",
-                  "price": "24.75",
+                  "price": "23.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1439,7 +1439,7 @@
                 {
                   "name": "Runquist",
                   "price": "13.75",
-                  "variety": "Petite Syrah",
+                  "variety": "Petie Syrah",
                   "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1831,11 +1831,11 @@
               "description": "California | Moscato"
             },
             {
-              "name": "Twomey By Silver Oak",
+              "name": "Charles Krug",
               "price": {
                 "sale": true,
-                "glass": 11.75,
-                "bottle": 26.99
+                "glass": 7.75,
+                "bottle": 17.99
               },
               "toastLinks": {
                 "glass": {
