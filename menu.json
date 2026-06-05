@@ -1437,9 +1437,9 @@
                   }
                 },
                 {
-                  "name": "Gamba \"Messina\"",
-                  "price": "17.75",
-                  "variety": "Zinfandel ",
+                  "name": "Runquist",
+                  "price": "13.75",
+                  "variety": "Petie Syrah",
                   "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1493,10 +1493,10 @@
               "bottle": "39.99"
             },
             {
-              "name": "Les Fontenelles Sancerre",
-              "glass": "16.75",
+              "name": "Runquist Petite Syrah",
+              "glass": "13.75",
               "notes": "",
-              "bottle": "36.99",
+              "bottle": "30.99",
               "wineryPrice": 45
             },
             {
