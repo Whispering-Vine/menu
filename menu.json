@@ -896,7 +896,7 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Les Fontenelles Sancerre",
+                  "name": "Les Fontenells Sancerre",
                   "price": "16.75",
                   "variety": "Sauvignon Blanc",
                   "location": "France",
@@ -912,7 +912,7 @@
                   }
                 },
                 {
-                  "name": "Meyer Näkel",
+                  "name": "Meyer Nakel",
                   "price": "14.75",
                   "variety": "Dry Rosé",
                   "location": "Germany",
@@ -1040,7 +1040,7 @@
                   }
                 },
                 {
-                  "name": "BÖEN",
+                  "name": "BOEN",
                   "price": "8.75",
                   "variety": "Chardonnay",
                   "location": "Monterey",
@@ -1152,7 +1152,7 @@
               "items": [
                 {
                   "name": "Post & Beam By Far Niente",
-                  "price": "18.75",
+                  "price": "13.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1472,25 +1472,25 @@
         "specials": {
           "items": [
             {
-              "name": "Perrier Jouet Grand Brut",
-              "glass": "18.75",
-              "notes": "Winery $70",
-              "bottle": "49.99",
+              "name": "Auctioneer Howell Mountain Cabernet",
+              "glass": "24.75",
+              "notes": "Winery $60",
+              "bottle": "59.99",
               "favorites": false
             },
             {
-              "name": "Beaulieu Vineyard Tapestry",
+              "name": "Belle Glos Dairyman Pinot Noir",
               "glass": "18.75",
-              "notes": "Winery $65",
+              "notes": "Winery $55",
               "bottle": "44.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Post & Beam Cabernet",
-              "glass": "18.75",
-              "notes": "Winery $55",
-              "bottle": "44.99"
+              "name": "Roland Lavantureux \"Vaux Carres\" Chablis",
+              "glass": "16.75",
+              "notes": "Winery $45",
+              "bottle": "39.99"
             },
             {
               "name": "Les Fontenelles Sancerre",
@@ -1500,10 +1500,10 @@
               "wineryPrice": 45
             },
             {
-              "name": "Vall Llach Embruix Red Blend",
-              "glass": "11.75",
-              "notes": "",
-              "bottle": "26.99",
+              "name": "Chateau Thivin \"Brouilly\" Beaujolais ",
+              "glass": "8.75",
+              "notes": "Winery $30",
+              "bottle": "19.99",
               "favorites": false
             }
           ]
