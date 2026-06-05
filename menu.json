@@ -1024,10 +1024,10 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Ferrari Carano Tre Terre",
-                  "price": "10.75",
+                  "name": "Rolan Lavantureux \"Vaux Carres\"",
+                  "price": "16.75",
                   "variety": "Chardonnay",
-                  "location": "Sonoma",
+                  "location": "Chablis, France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "082b932f-8c0f-46bd-b6e9-c892246237ca",
@@ -1072,7 +1072,7 @@
                   }
                 }
               ],
-              "price": "11.75",
+              "price": "13.75",
               "favorites": true,
               "toastLink": {
                 "id": "138fc5f9-ec8b-4d7a-a5b5-fb16daf0a07c",
