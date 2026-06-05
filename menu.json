@@ -1215,9 +1215,9 @@
               "name": "Premium Cabernet Flight",
               "items": [
                 {
-                  "name": "Robert Foley Claret",
-                  "price": "39.75",
-                  "variety": "Cabernet Blend",
+                  "name": "Auctioneer Howell Mountain",
+                  "price": "23.75",
+                  "variety": "Cabernet ",
                   "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1247,10 +1247,10 @@
                   }
                 },
                 {
-                  "name": "Collateral",
-                  "price": "24.75",
-                  "variety": "Cabernet",
-                  "location": "Napa",
+                  "name": "Cayenna",
+                  "price": "36.75",
+                  "variety": "Cabernet Blend",
+                  "location": "Italy",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "fa9e3cff-e436-48f2-b4ea-e2ecb3f60314",
@@ -1263,7 +1263,7 @@
                   }
                 }
               ],
-              "price": "25.75",
+              "price": "24.75",
               "toastLink": {
                 "id": "f0a237dd-1c67-4f55-8fc6-e89045a6946a",
                 "name": "Premium FLIGHT",
