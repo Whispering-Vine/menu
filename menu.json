@@ -1104,10 +1104,10 @@
                   }
                 },
                 {
-                  "name": "Martinelli \"Bondi\" ",
-                  "price": "29.75",
+                  "name": "Flowers",
+                  "price": "18.75",
                   "variety": "Pinot Noir",
-                  "location": "Santa Lucia Highlands",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "223bfd29-94c6-401a-9523-0392558ac9a2",
@@ -1120,10 +1120,10 @@
                   }
                 },
                 {
-                  "name": "Flowers",
+                  "name": "Belle Glos Dairyman",
                   "price": "18.75",
                   "variety": "Pinot Noir",
-                  "location": "Sonoma ",
+                  "location": "Russian River",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "4b83b982-9fcc-4bb4-a70d-5ec2a50fa792",
@@ -1136,7 +1136,7 @@
                   }
                 }
               ],
-              "price": "17.75",
+              "price": "15.75",
               "toastLink": {
                 "id": "6226d808-2f03-48ba-8a05-f1dabf09da41",
                 "name": "Pinot Noir FLIGHT",
