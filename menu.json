@@ -1831,11 +1831,11 @@
               "description": "California | Moscato"
             },
             {
-              "name": "Twomey By Silver Oak",
+              "name": "Charles Krug",
               "price": {
                 "sale": true,
-                "glass": 11.75,
-                "bottle": 26.99
+                "glass": 7.75,
+                "bottle": 17.99
               },
               "toastLinks": {
                 "glass": {
