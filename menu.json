@@ -1294,10 +1294,10 @@
                   }
                 },
                 {
-                  "name": "Vall Llach Embruix",
+                  "name": "Le Pigeoulet",
                   "price": "11.75",
-                  "variety": "Grenache, Merlot, Syrah",
-                  "location": "Spain",
+                  "variety": "Grenache, Syrah, Carignan",
+                  "location": "France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "b628c3de-925f-4788-bc39-21fe550b14d3",
