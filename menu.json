@@ -1421,10 +1421,10 @@
                   }
                 },
                 {
-                  "name": "Marimar \"Don Miguel\"",
-                  "price": "13.75",
+                  "name": "Truchard",
+                  "price": "9.75",
                   "variety": "Tempranillo",
-                  "location": "Sonoma",
+                  "location": "Merlot",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "b4f52391-55cb-4d15-92be-c771672c652c",
