@@ -928,10 +928,10 @@
                   }
                 },
                 {
-                  "name": "Miner",
-                  "price": "10.75",
-                  "variety": "Viognier",
-                  "location": "Napa",
+                  "name": "De Wetshof Bon Vallon",
+                  "price": "9.75",
+                  "variety": "Unoaked Chardonnay",
+                  "location": "South Africa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
