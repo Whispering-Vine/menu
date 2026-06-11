@@ -1088,8 +1088,8 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Martin Ray",
-                  "price": "8.75",
+                  "name": "Admire",
+                  "price": "13.75",
                   "variety": "Pinot Noir",
                   "location": "Sonoma",
                   "glassSize": "8oz",
@@ -1494,7 +1494,7 @@
             },
             {
               "name": "De Wetshof Bon Vallon Chardonnay",
-              "glass": ".75",
+              "glass": "9.75",
               "notes": "",
               "bottle": "23.99",
               "wineryPrice": 45
