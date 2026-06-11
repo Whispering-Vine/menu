@@ -893,13 +893,13 @@
         "flights": {
           "items": [
             {
-              "name": "White Variety Flight",
+              "name": "Import White Variety Flight",
               "items": [
                 {
-                  "name": "Les Fontenells Sancerre",
-                  "price": "16.75",
+                  "name": "Drylands",
+                  "price": "7.75",
                   "variety": "Sauvignon Blanc",
-                  "location": "France",
+                  "location": "New Zealand",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "2d4713c2-4674-4482-93fe-949a9c0a1ebd",
