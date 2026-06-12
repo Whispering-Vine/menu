@@ -1310,8 +1310,8 @@
                   }
                 },
                 {
-                  "name": "BV Tapestry",
-                  "price": "18.75",
+                  "name": "Stag's Leap The Investor",
+                  "price": "17.75",
                   "variety": "Cabernet, Cabernet Franc, Merlot",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1472,10 +1472,10 @@
         "specials": {
           "items": [
             {
-              "name": "Auctioneer Howell Mountain Cabernet",
-              "glass": "24.75",
-              "notes": "Winery $60",
-              "bottle": "59.99",
+              "name": "Stag's Leap The Investor Red Blend",
+              "glass": "17.75",
+              "notes": "Winery $70",
+              "bottle": "44.99",
               "favorites": false
             },
             {
