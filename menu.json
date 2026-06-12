@@ -1040,10 +1040,10 @@
                   }
                 },
                 {
-                  "name": "BOEN",
-                  "price": "8.75",
+                  "name": "Crossbarn",
+                  "price": "10.75",
                   "variety": "Chardonnay",
-                  "location": "Monterey",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "6c82215e-55b2-4f1e-afbd-0fa8aedbe62d",
