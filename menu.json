@@ -912,7 +912,7 @@
                   }
                 },
                 {
-                  "name": "Meyer Nakel",
+                  "name": "Meyer Näkel",
                   "price": "14.75",
                   "variety": "Dry Rosé",
                   "location": "Germany",
@@ -1294,7 +1294,7 @@
                   }
                 },
                 {
-                  "name": "Le Pigeoulet",
+                  "name": "Pigeoulet",
                   "price": "11.75",
                   "variety": "Grenache, Syrah, Carignan",
                   "location": "France",
@@ -1310,7 +1310,7 @@
                   }
                 },
                 {
-                  "name": "Stag's Leap The Investor",
+                  "name": "Stags' Leap The Investor",
                   "price": "17.75",
                   "variety": "Cabernet, Cabernet Franc, Merlot",
                   "location": "Napa",
@@ -1423,8 +1423,8 @@
                 {
                   "name": "Truchard",
                   "price": "9.75",
-                  "variety": "Tempranillo",
-                  "location": "Merlot",
+                  "variety": "Merlot",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "b4f52391-55cb-4d15-92be-c771672c652c",
@@ -1472,7 +1472,7 @@
         "specials": {
           "items": [
             {
-              "name": "Stag's Leap The Investor Red Blend",
+              "name": "Stags' Leap The Investor Red Blend",
               "glass": "17.75",
               "notes": "Winery $70",
               "bottle": "44.99",
@@ -1487,7 +1487,7 @@
               "wineryPrice": 85
             },
             {
-              "name": "Le Pigeoulet Rouge",
+              "name": "Pigeoulet Rouge",
               "glass": "11.75",
               "notes": "",
               "bottle": "26.99"
