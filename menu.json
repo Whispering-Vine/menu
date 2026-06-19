@@ -928,10 +928,10 @@
                   }
                 },
                 {
-                  "name": "De Wetshof Bon Vallon",
-                  "price": "9.75",
-                  "variety": "Unoaked Chardonnay",
-                  "location": "South Africa",
+                  "name": "Champalou Vouvray",
+                  "price": "11.75",
+                  "variety": "Chenin Blanc",
+                  "location": "France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -1439,8 +1439,8 @@
                 {
                   "name": "Runquist",
                   "price": "13.75",
-                  "variety": "Petie Syrah",
-                  "location": "Sonoma",
+                  "variety": "Zinfandel",
+                  "location": "Amador ",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "dc450024-e14f-45cc-8bc6-3b93deadb1a3",
@@ -1472,37 +1472,37 @@
         "specials": {
           "items": [
             {
-              "name": "Stags' Leap The Investor Red Blend",
-              "glass": "17.75",
-              "notes": "Winery $70",
-              "bottle": "44.99",
-              "favorites": false
-            },
-            {
-              "name": "Admire Pinot Noir",
+              "name": "Runquist Zinfandel",
               "glass": "13.75",
               "notes": "",
               "bottle": "31.99",
+              "favorites": false
+            },
+            {
+              "name": "Quilt Chardonnay",
+              "glass": "12.75",
+              "notes": "93pts Tasting Panel",
+              "bottle": "29.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Pigeoulet Rouge",
+              "name": "Champalou Vouvray",
               "glass": "11.75",
               "notes": "",
               "bottle": "26.99"
             },
             {
-              "name": "De Wetshof Bon Vallon Chardonnay",
+              "name": "Architect Cabernet",
               "glass": "9.75",
-              "notes": "",
-              "bottle": "23.99",
+              "notes": "Winery $34 91pts Wine Enthusiast ",
+              "bottle": "24.99",
               "wineryPrice": 45
             },
             {
-              "name": "Truchard Merlot",
+              "name": "Ken Wright Pinot Noir",
               "glass": "9.75",
-              "notes": "Winery $30",
+              "notes": "",
               "bottle": "24.99",
               "favorites": false
             }
