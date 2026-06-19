@@ -1933,9 +1933,9 @@
             {
               "name": "Admire",
               "price": {
-                "sale": true,
+                "sale": false,
                 "glass": 13.75,
-                "bottle": 29.99
+                "bottle": 31.99
               },
               "toastLinks": {
                 "glass": {
