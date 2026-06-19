@@ -944,7 +944,7 @@
                   }
                 }
               ],
-              "price": "14.75",
+              "price": "11.75",
               "favorites": true,
               "toastLink": {
                 "id": "ae5a10aa-e5be-4406-993b-ed264a0b57f7",
@@ -1040,10 +1040,10 @@
                   }
                 },
                 {
-                  "name": "Crossbarn",
-                  "price": "10.75",
+                  "name": "Quilt",
+                  "price": "12.75",
                   "variety": "Chardonnay",
-                  "location": "Sonoma",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "6c82215e-55b2-4f1e-afbd-0fa8aedbe62d",
