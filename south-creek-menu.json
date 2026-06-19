@@ -82,16 +82,16 @@
             "producer": "Sardinia"
           },
           {
-            "price": 17.75,
+            "price": 17.03,
             "style": "Cabernet Sauvignon",
             "region": "Cabernet",
-            "producer": "Whitehall Lane"
+            "producer": "MY FAVORITE NEIGHBOR"
           },
           {
-            "price": 8.75,
+            "price": 0.7,
             "style": "Cabernet Sauvignon",
-            "region": "Paso Robles",
-            "producer": "Bezel by Cakebread"
+            "region": "Argentina",
+            "producer": "ZAHA"
           }
         ],
         "image": "images/wine_glass.svg",
