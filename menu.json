@@ -912,9 +912,9 @@
                   }
                 },
                 {
-                  "name": "Meyer Näkel",
-                  "price": "14.75",
-                  "variety": "Dry Rosé",
+                  "name": "Von Buhl",
+                  "price": "9.75",
+                  "variety": "Bone Dry Riesling",
                   "location": "Germany",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -944,7 +944,7 @@
                   }
                 }
               ],
-              "price": "11.75",
+              "price": "10.75",
               "favorites": true,
               "toastLink": {
                 "id": "ae5a10aa-e5be-4406-993b-ed264a0b57f7",
