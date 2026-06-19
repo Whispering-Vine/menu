@@ -1088,10 +1088,10 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Admire",
-                  "price": "13.75",
+                  "name": "Ken Wright",
+                  "price": "9.75",
                   "variety": "Pinot Noir",
-                  "location": "Sonoma",
+                  "location": "Willamette Valley",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "7f1046f0-c6ab-4e76-9440-a1be3315f224",
