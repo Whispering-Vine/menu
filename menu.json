@@ -1167,8 +1167,8 @@
                   }
                 },
                 {
-                  "name": "The Calling",
-                  "price": "13.75",
+                  "name": "Architect ",
+                  "price": "9.75",
                   "variety": "Cabernet",
                   "location": "Alexander Valley",
                   "glassSize": "8oz",
@@ -1199,7 +1199,7 @@
                   }
                 }
               ],
-              "price": "17.75",
+              "price": "16.75",
               "favorites": true,
               "toastLink": {
                 "id": "5ae95fa9-3fa5-450a-8634-4de2e1b78e3e",
