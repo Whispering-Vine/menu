@@ -10,10 +10,10 @@
         "id": "foothill",
         "rows": [
           {
-            "price": 8.75,
+            "price": 16.75,
             "style": "Bubbles Brut Rosé",
-            "region": "France",
-            "producer": "Lucien Albrecht"
+            "region": "Sonoma",
+            "producer": "MARTIN RAY"
           },
           {
             "price": 17.75,
@@ -34,22 +34,22 @@
             "producer": "Fritz Muller"
           },
           {
-            "price": 10.75,
+            "price": 0.7,
             "style": "Sauvignon Blanc",
             "region": "Napa",
-            "producer": "Duckhorn"
+            "producer": "Honig"
           },
           {
             "price": 7.75,
             "style": "Rose",
             "region": "France",
-            "producer": "Hampton Water"
+            "producer": "Whispering Vine"
           },
           {
-            "price": 14.75,
+            "price": 12.75,
             "style": "Chardonnay",
-            "region": "Carneros",
-            "producer": "Post & Beam"
+            "region": "Napa",
+            "producer": "Quilt"
           },
           {
             "price": 8.75,
