@@ -297,28 +297,28 @@
             "name": "Cabernet Sauvignon Flight",
             "items": [
               {
-                "wine": "Artesa",
+                "wine": "Coquerel",
                 "region": "Napa",
                 "varietal": "Cabernet",
                 "glassSize": "8oz",
-                "glassPrice": 27.75
+                "glassPrice": 16.75
               },
               {
                 "wine": "Ink Grade",
                 "region": "Napa",
                 "varietal": "Cabernet",
                 "glassSize": "8oz",
-                "glassPrice": 54.99
+                "glassPrice": 23.75
               },
               {
                 "wine": "Prisoner",
                 "region": "Napa",
                 "varietal": "Cabernet",
                 "glassSize": "8oz",
-                "glassPrice": 27.75
+                "glassPrice": 17.75
               }
             ],
-            "flightPrice": 16.75
+            "flightPrice": 17.75
           }
         ],
         "subtitle": "Three 3oz pours, or enjoy an 8oz glass",
