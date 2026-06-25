@@ -162,18 +162,18 @@
             "name": "Chardonnay Flight",
             "items": [
               {
-                "wine": "Cakebread",
-                "region": "Napa",
+                "wine": "Hartford Court",
+                "region": "Russian River",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
-                "glassPrice": 27.75
+                "glassPrice": 11.75
               },
               {
-                "wine": "Stags Leap",
+                "wine": "Frank Family",
                 "region": "Napa",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
-                "glassPrice": 21.75
+                "glassPrice": 11.75
               },
               {
                 "wine": "Flowers",
@@ -183,7 +183,7 @@
                 "glassPrice": 16.75
               }
             ],
-            "flightPrice": 16.75
+            "flightPrice": 14.75
           },
           {
             "name": "Oregon Pinot Noir Flight",
