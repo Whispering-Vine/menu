@@ -186,7 +186,7 @@
             "flightPrice": 13.75
           },
           {
-            "name": "Oregon Pinot Noir Flight",
+            "name": "Pinot Noir Flight",
             "items": [
               {
                 "wine": "Broadley",
@@ -196,21 +196,21 @@
                 "glassPrice": 8.75
               },
               {
-                "wine": "Roserock",
+                "wine": "Cristom",
                 "region": "Willamette Valley",
+                "varietal": "Pinot Noir",
+                "glassSize": "8oz",
+                "glassPrice": 16.75
+              },
+              {
+                "wine": "Flowers",
+                "region": "Sonoma Coast",
                 "varietal": "Pinot Noir",
                 "glassSize": "8oz",
                 "glassPrice": 17.75
-              },
-              {
-                "wine": "Four Graces",
-                "region": "Willamette Valley",
-                "varietal": "Pinot Noir",
-                "glassSize": "8oz",
-                "glassPrice": 9.75
               }
             ],
-            "flightPrice": 15.75
+            "flightPrice": 14.75
           },
           {
             "name": "Red Variety Flight",
