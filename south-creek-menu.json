@@ -108,55 +108,55 @@
             "name": "White Variety Flight",
             "items": [
               {
-                "wine": "Pazo Das Bruxas",
-                "region": "Spain",
-                "varietal": "Albarino",
-                "glassSize": "8oz",
-                "glassPrice": 10.75
-              },
-              {
-                "wine": "Silverado",
-                "region": "Napa",
+                "wine": "Drylands",
+                "region": "New Zealand",
                 "varietal": "Sauvignon Blanc",
                 "glassSize": "8oz",
-                "glassPrice": 8.75
+                "glassPrice": 7.75
               },
               {
-                "wine": "Conundrum",
-                "region": "California",
-                "varietal": "White Blend",
+                "wine": "Elk Cove",
+                "region": "Oregon ",
+                "varietal": "Pinot Gris",
                 "glassSize": "8oz",
-                "glassPrice": 5.75
+                "glassPrice": 7.75
+              },
+              {
+                "wine": "Von Buhl",
+                "region": "Germany",
+                "varietal": "Bone Dry Riesling",
+                "glassSize": "8oz",
+                "glassPrice": 9.75
               }
             ],
-            "flightPrice": 8.75
+            "flightPrice": 7.75
           },
           {
             "name": "Bubbles Flight",
             "items": [
               {
-                "wine": "Beau Joie Senecourt",
-                "region": "Champagne",
+                "wine": "Alfred Gratien",
+                "region": "Champagne, France",
                 "varietal": "Brut",
                 "glassSize": "8oz",
-                "glassPrice": 21.75
+                "glassPrice": 16.75
               },
               {
-                "wine": "Jacquart",
+                "wine": "Taittinger",
                 "region": "Champagne, France",
-                "varietal": "Brut Rose",
+                "varietal": "Brut ",
                 "glassSize": "8oz",
                 "glassPrice": 17.75
               },
               {
-                "wine": "Roederer",
-                "region": "Anderson Valley",
+                "wine": "Pierre Gimonnet",
+                "region": "Champagne, France",
                 "varietal": "Brut",
                 "glassSize": "8oz",
-                "glassPrice": 13.75
+                "glassPrice": 26.75
               }
             ],
-            "flightPrice": 15.75
+            "flightPrice": 18.75
           },
           {
             "name": "Chardonnay Flight",
