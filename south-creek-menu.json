@@ -277,21 +277,21 @@
                 "glassPrice": 8.75
               },
               {
-                "wine": "Boronia",
-                "region": "Rioja, Spain",
-                "varietal": "Tempranillo",
+                "wine": "Brecca",
+                "region": "Spain",
+                "varietal": "Grenache ",
                 "glassSize": "8oz",
-                "glassPrice": 16.75
+                "glassPrice": 7.75
               },
               {
-                "wine": "Bramare",
-                "region": "Argentina",
-                "varietal": "Malbec",
+                "wine": "Pigeoulet",
+                "region": "France",
+                "varietal": "Grenache,Syrah,Mourvedre",
                 "glassSize": "8oz",
-                "glassPrice": 16.75
+                "glassPrice": 8.75
               }
             ],
-            "flightPrice": 11.75
+            "flightPrice": 7.75
           },
           {
             "name": "Cabernet Sauvignon Flight",
