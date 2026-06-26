@@ -893,7 +893,7 @@
         "flights": {
           "items": [
             {
-              "name": "Import White Variety Flight",
+              "name": "White Variety Flight",
               "items": [
                 {
                   "name": "Drylands",
@@ -928,10 +928,10 @@
                   }
                 },
                 {
-                  "name": "Champalou Vouvray",
-                  "price": "11.75",
+                  "name": "Aperture",
+                  "price": "12.75",
                   "variety": "Chenin Blanc",
-                  "location": "France",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -992,8 +992,8 @@
                   }
                 },
                 {
-                  "name": "G.H. Mumm",
-                  "price": "16.75",
+                  "name": "Telmont",
+                  "price": "23.75",
                   "variety": "Brut Rosé",
                   "location": "Champagne, France",
                   "glassSize": "8oz",
@@ -1008,7 +1008,7 @@
                   }
                 }
               ],
-              "price": "17.75",
+              "price": "18.75",
               "favorites": false,
               "toastLink": {
                 "id": "27ae853f-8a49-4da2-b5de-f83a0bee05a7",
@@ -1405,7 +1405,7 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Chateau Thivin \"Reversion\"",
+                  "name": "Domaine Dupeuble Beaujolais ",
                   "price": "8.75",
                   "variety": "Gamay",
                   "location": "Beaujolais, France",
