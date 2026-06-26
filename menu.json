@@ -1487,23 +1487,23 @@
               "wineryPrice": 85
             },
             {
-              "name": "Champalou Vouvray",
-              "glass": "11.75",
+              "name": "Band Of Vintners Cabernet",
+              "glass": "14.75",
               "notes": "",
-              "bottle": "26.99"
+              "bottle": "34.99"
             },
             {
-              "name": "Architect Cabernet",
-              "glass": "9.75",
-              "notes": "Winery $34 91pts Wine Enthusiast ",
-              "bottle": "24.99",
+              "name": "Aperture Chenin Blanc",
+              "glass": "12.75",
+              "notes": "91pts Wine Spectator Top 100 #71",
+              "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "Ken Wright Pinot Noir",
-              "glass": "9.75",
-              "notes": "",
-              "bottle": "24.99",
+              "name": "Domaine Dupeuble Beaujolais",
+              "glass": "8.75",
+              "notes": "91 Wine Enthusiast",
+              "bottle": "19.99",
               "favorites": false
             }
           ]
