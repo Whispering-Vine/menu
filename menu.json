@@ -1472,17 +1472,17 @@
         "specials": {
           "items": [
             {
-              "name": "Runquist Zinfandel",
-              "glass": "13.75",
+              "name": "Crocker & Starr Cab Franc Blend",
+              "glass": "26.75",
               "notes": "",
-              "bottle": "31.99",
+              "bottle": "69.99",
               "favorites": false
             },
             {
-              "name": "Quilt Chardonnay",
-              "glass": "12.75",
-              "notes": "93pts Tasting Panel",
-              "bottle": "29.99",
+              "name": "Alpha Omega II Red Blend",
+              "glass": "19.75",
+              "notes": "",
+              "bottle": "49.99",
               "favorites": false,
               "wineryPrice": 85
             },
