@@ -1151,8 +1151,8 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "A Gardener's Path",
-                  "price": "15.75",
+                  "name": "Band Of Vitners",
+                  "price": "14.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1310,9 +1310,9 @@
                   }
                 },
                 {
-                  "name": "Stags' Leap The Investor",
-                  "price": "17.75",
-                  "variety": "Cabernet, Cabernet Franc, Merlot",
+                  "name": "Crocker & Starr",
+                  "price": "26.75",
+                  "variety": "Cabernet Franc, Cabernet, Merlot",
                   "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1326,7 +1326,7 @@
                   }
                 }
               ],
-              "price": "15.75",
+              "price": "18.75",
               "favorites": true,
               "toastLink": {
                 "id": "05976ce2-06c7-40ee-8c2b-2e88187a3187",
@@ -1405,7 +1405,7 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Domaine Dupeuble Beaujolais ",
+                  "name": "Domaine Dupeuble ",
                   "price": "8.75",
                   "variety": "Gamay",
                   "location": "Beaujolais, France",
