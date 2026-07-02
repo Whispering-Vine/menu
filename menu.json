@@ -1421,10 +1421,10 @@
                   }
                 },
                 {
-                  "name": "Truchard",
-                  "price": "9.75",
-                  "variety": "Merlot",
-                  "location": "Napa",
+                  "name": "Domaine De Terrebrune",
+                  "price": "16.75",
+                  "variety": "Mourvèdre",
+                  "location": "France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "b4f52391-55cb-4d15-92be-c771672c652c",
