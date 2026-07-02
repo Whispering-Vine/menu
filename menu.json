@@ -893,7 +893,7 @@
         "flights": {
           "items": [
             {
-              "name": "White Variety Flight",
+              "name": "International White Variety Flight",
               "items": [
                 {
                   "name": "Drylands",
@@ -928,10 +928,10 @@
                   }
                 },
                 {
-                  "name": "Aperture",
-                  "price": "12.75",
-                  "variety": "Chenin Blanc",
-                  "location": "Sonoma",
+                  "name": "Heritage Du Pie Saint Loup",
+                  "price": "9.75",
+                  "variety": "Dry Rosé",
+                  "location": "France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -944,7 +944,7 @@
                   }
                 }
               ],
-              "price": "10.75",
+              "price": "9.75",
               "favorites": true,
               "toastLink": {
                 "id": "ae5a10aa-e5be-4406-993b-ed264a0b57f7",
@@ -957,7 +957,7 @@
               }
             },
             {
-              "name": "Champagne Flight",
+              "name": "Bubbles Flight",
               "items": [
                 {
                   "name": "Perrier Jouet ",
@@ -992,8 +992,8 @@
                   }
                 },
                 {
-                  "name": "Telmont",
-                  "price": "23.75",
+                  "name": "Scharffenberger",
+                  "price": "10.75",
                   "variety": "Brut Rosé",
                   "location": "Champagne, France",
                   "glassSize": "8oz",
@@ -1008,7 +1008,7 @@
                   }
                 }
               ],
-              "price": "18.75",
+              "price": "16.75",
               "favorites": false,
               "toastLink": {
                 "id": "27ae853f-8a49-4da2-b5de-f83a0bee05a7",
@@ -1040,10 +1040,10 @@
                   }
                 },
                 {
-                  "name": "Ferrari Carano \"Tre Terre\"",
-                  "price": "10.75",
+                  "name": "Siduri",
+                  "price": "11.75",
                   "variety": "Chardonnay",
-                  "location": "Sonoma",
+                  "location": "Willamette Valley, Oregon",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "6c82215e-55b2-4f1e-afbd-0fa8aedbe62d",
@@ -1072,7 +1072,7 @@
                   }
                 }
               ],
-              "price": "13.75",
+              "price": "14.75",
               "favorites": true,
               "toastLink": {
                 "id": "138fc5f9-ec8b-4d7a-a5b5-fb16daf0a07c",
@@ -1472,38 +1472,38 @@
         "specials": {
           "items": [
             {
-              "name": "Crocker & Starr Cab Franc Blend",
-              "glass": "26.75",
+              "name": "Brewer Clifton \"Machado\" Pinot Noir",
+              "glass": "31.75",
               "notes": "",
-              "bottle": "69.99",
+              "bottle": "79.99",
               "favorites": false
             },
             {
-              "name": "Alpha Omega II Red Blend",
-              "glass": "0.00",
+              "name": "Lewis \"The Big Blend\"",
+              "glass": "29.75",
               "notes": "",
-              "bottle": "49.99",
+              "bottle": "74.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Band Of Vintners Cabernet",
-              "glass": "14.75",
+              "name": "Domaine De Terrebrune",
+              "glass": "16.75",
               "notes": "",
-              "bottle": "34.99"
+              "bottle": "39.99"
             },
             {
-              "name": "Aperture Chenin Blanc",
-              "glass": "12.75",
-              "notes": "91pts Wine Spectator Top 100 #71",
-              "bottle": "29.99",
+              "name": "Siduri Willamette Valley Chardonnay",
+              "glass": "11.75",
+              "notes": "91pts Wine Enthusiast Winery $40",
+              "bottle": "26.99",
               "wineryPrice": 45
             },
             {
-              "name": "Domaine Dupeuble Beaujolais",
-              "glass": "8.75",
-              "notes": "91 Wine Enthusiast",
-              "bottle": "19.99",
+              "name": "Scharffenberger Brut Rosé",
+              "glass": "10.75",
+              "notes": "92pts James Suckling",
+              "bottle": "24.99",
               "favorites": false
             }
           ]
