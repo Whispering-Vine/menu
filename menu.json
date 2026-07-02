@@ -1911,9 +1911,9 @@
               "description": "Oregon | Rosé"
             },
             {
-              "name": "Broadley",
+              "name": "Mertin Ray",
               "price": {
-                "sale": false,
+                "sale": true,
                 "glass": 8.75,
                 "bottle": 19.99
               },
@@ -1928,7 +1928,7 @@
                   "multiLocationId": "1600000002122319331"
                 }
               },
-              "description": "Oregon | Pinot Noir"
+              "description": "Sonoma | Pinot Noir"
             },
             {
               "name": "Admire",
