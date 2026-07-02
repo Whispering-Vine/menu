@@ -1871,11 +1871,11 @@
               "description": "North Coast | Chardonnay"
             },
             {
-              "name": "Chalk Hill",
+              "name": "Quilt",
               "price": {
-                "sale": true,
-                "glass": 11.75,
-                "bottle": 26.99
+                "sale": false,
+                "glass": 12.75,
+                "bottle": 29.99
               },
               "toastLinks": {
                 "glass": {
@@ -1888,7 +1888,7 @@
                   "multiLocationId": "1600000002123091913"
                 }
               },
-              "description": "Russian River | Chardonnay"
+              "description": "Napa | Chardonnay"
             },
             {
               "name": "Whispering Vine",
@@ -1951,10 +1951,10 @@
               "description": "Sonoma | Pinot Noir"
             },
             {
-              "name": "Duckhorn",
+              "name": "Quattro Theory",
               "price": {
                 "sale": true,
-                "glass": 17.75,
+                "glass": 16.75,
                 "bottle": 39.99
               },
               "toastLinks": {
