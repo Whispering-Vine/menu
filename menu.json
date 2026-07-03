@@ -1665,7 +1665,7 @@
             {
               "name": "DUBLIN AFTER DARK ESPRESSO MARTINI",
               "price": "14",
-              "serving": "Served Up with Pressed Mint",
+              "serving": "Served Up",
               "toastLink": {
                 "id": "1b560902-dfbc-4edd-9280-eace6c20fe81",
                 "name": "WV ESPRESSO MARTINI",
@@ -1716,14 +1716,14 @@
             {
               "name": "Vine & Spice Bloody Mary",
               "price": "14",
-              "serving": "Celery & Olives",
-              "description": "Tabasco Vodka | Bloody Mary Mix "
+              "serving": "On The Rocks with Celery & Olives",
+              "description": "Tabasco Vodka | Bloody Mary Mix (Horseradish Added on Request)"
             },
             {
               "name": "Golden Hour Spritz",
               "price": "14",
               "serving": "On the Rocks",
-              "description": "Lime | Sparkling Wine | Soda Water"
+              "description": "Nectarine Liqueur | Lime | Sparkling Wine | Soda Water"
             }
           ]
         }
