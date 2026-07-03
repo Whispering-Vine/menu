@@ -1531,7 +1531,7 @@
                 "locationName": "Whispering Vine Wine Co. - 4th Street",
                 "multiLocationId": "1600000001860763798"
               },
-              "description": "Mi Campo Tequila | Lime Juice\nGrapefruit Juice | Q Grapefruit Soda"
+              "description": "Corazón Tequila | Lime Juice\nGrapefruit Juice | Q Grapefruit Soda"
             },
             {
               "name": "CLASSIC MARGARITA",
@@ -1546,7 +1546,7 @@
                 "locationName": "Whispering Vine Wine Co. - 4th Street",
                 "multiLocationId": "1600000001860763950"
               },
-              "description": "Mi Campo Tequila | Cointreau\nAgave | Lime"
+              "description": "Gran Agave Reposado Tequila | Cointreau\nAgave | Lime"
             },
             {
               "name": "VINE MANHATTAN",
@@ -1561,7 +1561,7 @@
                 "locationName": "Whispering Vine Wine Co. - 4th Street",
                 "multiLocationId": "1600000001860763952"
               },
-              "description": "Premium Rye | Antica Sweet Vermouth\nGran Marnier | Angostura\nPeychaud's Bitters"
+              "description": "Premium Rye | Antica Sweet Vermouth\nGran Marnier | Angostura | Peychaud's Bitters"
             },
             {
               "name": "BLUE CHEESE STUFFED DIRTY MARTINI",
@@ -1645,7 +1645,7 @@
                 "locationName": "Whispering Vine Wine Co. - 4th Street",
                 "multiLocationId": "1600000002071520142"
               },
-              "description": "Malahat Rum | Mango-Mint Simple Syrup | Lime Juice |Rinquinquin à la Pêche Liqueur | Eucalyptus Bitters | Soda Water"
+              "description": "Don Q Rum | Mango-Mint Simple Syrup | Lime Juice |Rinquinquin à la Pêche Liqueur  Eucalyptus Bitters | Soda Water"
             },
             {
               "name": "FALLON BUCK",
@@ -1705,13 +1705,13 @@
                 "locationName": "Whispering Vine Wine Co. - 4th Street",
                 "multiLocationId": "1600000002071520140"
               },
-              "description": "Peach Infused Vodka | Lemon Juice | Ginger Beer"
+              "description": "Peach Infused Vodka | Lemon Juice  Ginger Beer"
             },
             {
               "name": "PAINKILLER PUNCH",
               "price": "14",
               "serving": "On the Rocks with Grated Nutmeg",
-              "description": "Chairman's Reserve Spiced Rum | Pineapple Juice | Creme de Cacao | Orange Juice"
+              "description": "Chairman's Reserve Spiced Rum | Pineapple Juice | Creme de Coconut | Orange Juice"
             },
             {
               "name": "Vine & Spice Bloody Mary",
@@ -1723,7 +1723,7 @@
               "name": "Golden Hour Spritz",
               "price": "14",
               "serving": "On the Rocks",
-              "description": "Nectarine Liqueur | Lime | Sparkling Wine | Soda Water"
+              "description": "Nectarine Liqueur | Limoncello | Sparkling Wine | Soda Water"
             }
           ]
         }
