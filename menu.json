@@ -1630,7 +1630,7 @@
                 "locationName": "Whispering Vine Wine Co. - 4th Street",
                 "multiLocationId": "1600000002071520134"
               },
-              "description": "Awayoki Strawberry Gin | Limoncello | Lemon Juice | Strawberry-Shiso Shrub Syrup | Sparkling Brut"
+              "description": "Awayuki Strawberry Gin | Kanade Yuzu Liqueur | Lemon Juice | Strawberry-Shiso Shrub Syrup | Sparkling Brut"
             },
             {
               "name": "MANGO MOJITO",
@@ -1648,21 +1648,6 @@
               "description": "Malahat Rum | Mango-Mint Simple Syrup | Lime Juice |Rinquinquin à la Pêche Liqueur | Eucalyptus Bitters | Soda Water"
             },
             {
-              "name": "CLEF NOTE SPRITZ",
-              "price": "14",
-              "serving": "On the Rocks",
-              "toastLink": {
-                "id": "0476363d-4650-4903-ad36-8eac19fceb45",
-                "name": "CLEF NOTE SPRITZ",
-                "price": 14,
-                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
-                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
-                "locationName": "Whispering Vine Wine Co. - 4th Street",
-                "multiLocationId": "1600000002071520136"
-              },
-              "description": "Luxardo Cherry Liqueur | Elderflower Liqueur | Lime Juice | Sparkling Wine | Splash Soda Water"
-            },
-            {
               "name": "FALLON BUCK",
               "price": "14",
               "serving": "On a Large Clear Cube",
@@ -1678,22 +1663,7 @@
               "description": "Frey Ranch Bourbon | Simple Syrup | Crème de Cassis | Lemon Juice | Angostura"
             },
             {
-              "name": "WV CAFÉ DE OLLA MARTINI",
-              "price": "14",
-              "serving": "Served Up",
-              "toastLink": {
-                "id": "17ad974d-3d5b-4322-8355-9c1201187a8b",
-                "name": "WV CAFÉ DE OLLA MARTINI",
-                "price": 14,
-                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
-                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
-                "locationName": "Whispering Vine Wine Co. - 4th Street",
-                "multiLocationId": "1600000002071520138"
-              },
-              "description": "Patrón Blanco | Rumchata | Coffee | Grind Espresso Liqueur | Cafe de Olla Syrup "
-            },
-            {
-              "name": "WV ESPRESSO MARTINI",
+              "name": "DUBLIN AFTER DARK ESPRESSO MARTINI",
               "price": "14",
               "serving": "Served Up with Pressed Mint",
               "toastLink": {
@@ -1705,22 +1675,7 @@
                 "locationName": "Whispering Vine Wine Co. - 4th Street",
                 "multiLocationId": "1600000001860763790"
               },
-              "description": "Vodka | Cardamaro\nCoffee | Grind Espresso Liqueur | Simple Syrup"
-            },
-            {
-              "name": "PICON PUNCH",
-              "price": "14",
-              "serving": "On the Rocks",
-              "toastLink": {
-                "id": "8dc89286-6fdb-42d2-adcd-79afdbd8429e",
-                "name": "PICON PUNCH",
-                "price": 14,
-                "categoryPath": "Cocktails > SPECIALTY COCKTAILS",
-                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
-                "locationName": "Whispering Vine Wine Co. - 4th Street",
-                "multiLocationId": "1600000001860763792"
-              },
-              "description": "Ferino Amer | Grenadine | St Remy VSOP | Soda Water"
+              "description": "Reposado Tequila | Grind Espresso Liqueur | Hazelnut Liqueur | Guiness Floater"
             },
             {
               "name": "GRAPEFRUIT LAVENDER GIMLET",
@@ -1751,6 +1706,24 @@
                 "multiLocationId": "1600000002071520140"
               },
               "description": "Peach Infused Vodka | Lemon Juice | Ginger Beer"
+            },
+            {
+              "name": "PAINKILLER PUNCH",
+              "price": "14",
+              "serving": "On the Rocks with Grated Nutmeg",
+              "description": "Chairman's Reserve Spiced Rum | Pineapple Juice | Creme de Cacao | Orange Juice"
+            },
+            {
+              "name": "Vine & Spice Bloody Mary",
+              "price": "14",
+              "serving": "Celery & Olives",
+              "description": "Tabasco Vodka | Bloody Mary Mix "
+            },
+            {
+              "name": "Golden Hour Spritz",
+              "price": "14",
+              "serving": "On the Rocks",
+              "description": "Lime | Sparkling Wine | Soda Water"
             }
           ]
         }
