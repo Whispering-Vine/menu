@@ -893,7 +893,7 @@
         "flights": {
           "items": [
             {
-              "name": "International White Variety Flight",
+              "name": "White Variety Flight",
               "items": [
                 {
                   "name": "Drylands",
@@ -928,10 +928,10 @@
                   }
                 },
                 {
-                  "name": "Heritage Du Pie Saint Loup",
-                  "price": "9.75",
+                  "name": "WALT",
+                  "price": "13.75",
                   "variety": "Dry Rosé",
-                  "location": "France",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -944,7 +944,7 @@
                   }
                 }
               ],
-              "price": "9.75",
+              "price": "10.75",
               "favorites": true,
               "toastLink": {
                 "id": "ae5a10aa-e5be-4406-993b-ed264a0b57f7",
@@ -1024,8 +1024,8 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Rolan Lavantureux \"Vaux Carres\"",
-                  "price": "16.75",
+                  "name": "Regnard Saint Pierre ",
+                  "price": "12.75",
                   "variety": "Chardonnay",
                   "location": "Chablis, France",
                   "glassSize": "8oz",
@@ -1072,7 +1072,7 @@
                   }
                 }
               ],
-              "price": "14.75",
+              "price": "12.75",
               "favorites": true,
               "toastLink": {
                 "id": "138fc5f9-ec8b-4d7a-a5b5-fb16daf0a07c",
@@ -1088,8 +1088,8 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Broadley",
-                  "price": "8.75",
+                  "name": "Domaine Roy Fils",
+                  "price": "17.75",
                   "variety": "Pinot Noir",
                   "location": "Willamette Valley",
                   "glassSize": "8oz",
@@ -1104,10 +1104,10 @@
                   }
                 },
                 {
-                  "name": "Brewer Clifton \"Machado\"",
+                  "name": "Brewer Clifton \"Machado\" Pinot Noir",
                   "price": "31.75",
                   "variety": "Pinot Noir",
-                  "location": "Sonoma",
+                  "location": "Sta. Rita",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "223bfd29-94c6-401a-9523-0392558ac9a2",
@@ -1120,10 +1120,10 @@
                   }
                 },
                 {
-                  "name": "Belle Glos Dairyman",
-                  "price": "18.75",
+                  "name": "BÖEN",
+                  "price": "8.75",
                   "variety": "Pinot Noir",
-                  "location": "Russian River",
+                  "location": "Monterey",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "4b83b982-9fcc-4bb4-a70d-5ec2a50fa792",
@@ -1437,10 +1437,10 @@
                   }
                 },
                 {
-                  "name": "Runquist",
-                  "price": "13.75",
+                  "name": "Opolo",
+                  "price": "10.75",
                   "variety": "Zinfandel",
-                  "location": "Amador ",
+                  "location": "Paso Robles",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "dc450024-e14f-45cc-8bc6-3b93deadb1a3",
@@ -1472,37 +1472,37 @@
         "specials": {
           "items": [
             {
-              "name": "Brewer Clifton \"Machado\" Pinot Noir",
-              "glass": "31.75",
-              "notes": "",
-              "bottle": "79.99",
+              "name": "Daou Reserve Cabernet",
+              "glass": "18.75",
+              "notes": "Winery $60 95pts James Suckling",
+              "bottle": "44.99",
               "favorites": false
             },
             {
-              "name": "Lewis \"The Big Blend\"",
-              "glass": "29.75",
-              "notes": "",
-              "bottle": "74.99",
+              "name": "Domaine Roy Fils Pinot Noir",
+              "glass": "17.75",
+              "notes": "Winery $47 93pts Wine Spectator",
+              "bottle": "39.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Domaine De Terrebrune",
-              "glass": "16.75",
-              "notes": "",
-              "bottle": "39.99"
+              "name": "Regnard Saint Pierre-Saint Chablis",
+              "glass": "12.75",
+              "notes": "Winery $40",
+              "bottle": "29.99"
             },
             {
-              "name": "Siduri Willamette Valley Chardonnay",
-              "glass": "11.75",
-              "notes": "91pts Wine Enthusiast Winery $40",
-              "bottle": "26.99",
+              "name": "WALT Dry Rosé",
+              "glass": "13.75",
+              "notes": "Winery $40",
+              "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "Scharffenberger Brut Rosé",
+              "name": "Opolo Mountain Cuvee Zinfandel",
               "glass": "10.75",
-              "notes": "92pts James Suckling",
+              "notes": "Winery $32",
               "bottle": "24.99",
               "favorites": false
             }
