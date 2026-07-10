@@ -2003,11 +2003,11 @@
               "description": "Argentina | Cab, Merlot, Petite Verdot"
             },
             {
-              "name": "Ruffino",
+              "name": "La Quercia",
               "price": {
-                "sale": true,
-                "glass": 8.75,
-                "bottle": 18.99
+                "sale": false,
+                "glass": 6.75,
+                "bottle": 15.99
               },
               "toastLinks": {
                 "glass": {
@@ -2020,7 +2020,7 @@
                   "multiLocationId": "1600000002121139528"
                 }
               },
-              "description": "Italy | Chianti"
+              "description": "Italy | Montepulciano"
             },
             {
               "name": "Gamba \"Messana Vineyard\" ",
