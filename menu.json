@@ -1151,10 +1151,10 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "Band Of Vitners",
-                  "price": "14.75",
+                  "name": "Architect",
+                  "price": "9.75",
                   "variety": "Cabernet",
-                  "location": "Napa",
+                  "location": "Alexander Valley",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "821a58cf-e815-40fc-b3e6-2a0611603a75",
@@ -1167,10 +1167,10 @@
                   }
                 },
                 {
-                  "name": "Architect ",
-                  "price": "9.75",
+                  "name": "Ink Grade",
+                  "price": "23.75",
                   "variety": "Cabernet",
-                  "location": "Alexander Valley",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "c66fdffd-76aa-4d23-81bf-7692cc67391e",
@@ -1183,10 +1183,10 @@
                   }
                 },
                 {
-                  "name": "Ink Grade",
-                  "price": "23.75",
+                  "name": "DAOU Reserve ",
+                  "price": "18.75",
                   "variety": "Cabernet",
-                  "location": "Napa",
+                  "location": "Paso Robles",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "defeb5ea-b1fe-4c68-9612-e7722bb15abe",
@@ -1199,7 +1199,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "17.75",
               "favorites": true,
               "toastLink": {
                 "id": "5ae95fa9-3fa5-450a-8634-4de2e1b78e3e",
@@ -1231,7 +1231,7 @@
                   }
                 },
                 {
-                  "name": "Mt. Veeder",
+                  "name": "Groth",
                   "price": "19.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
