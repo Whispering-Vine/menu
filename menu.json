@@ -1804,11 +1804,11 @@
               "description": "California | Moscato"
             },
             {
-              "name": "Honig",
+              "name": "HALL",
               "price": {
-                "sale": true,
-                "glass": 8.75,
-                "bottle": 19.99
+                "sale": false,
+                "glass": 10.75,
+                "bottle": 24.99
               },
               "toastLinks": {
                 "glass": {
