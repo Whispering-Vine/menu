@@ -995,7 +995,7 @@
                   "name": "Scharffenberger",
                   "price": "10.75",
                   "variety": "Brut Rosé",
-                  "location": "Mendocino",
+                  "location": "Champagne, France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "cbf3b195-ea50-40e4-8530-d32d3dc419c8",
@@ -1804,11 +1804,11 @@
               "description": "California | Moscato"
             },
             {
-              "name": "HALL",
+              "name": "Twomey By Silver Oak",
               "price": {
                 "sale": false,
-                "glass": 8.75,
-                "bottle": 24.99
+                "glass": 11.75,
+                "bottle": 26.99
               },
               "toastLinks": {
                 "glass": {
@@ -1924,7 +1924,7 @@
               "description": "Sonoma | Pinot Noir"
             },
             {
-              "name": "Quattro Theory",
+              "name": "Duckhorn",
               "price": {
                 "sale": true,
                 "glass": 16.75,
