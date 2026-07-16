@@ -1437,8 +1437,8 @@
                   }
                 },
                 {
-                  "name": "Opolo \"Mountain\"",
-                  "price": "10.75",
+                  "name": "Rabble",
+                  "price": "8.75",
                   "variety": "Zinfandel",
                   "location": "Paso Robles",
                   "glassSize": "8oz",
@@ -1453,7 +1453,7 @@
                   }
                 }
               ],
-              "price": "13.75",
+              "price": "11.75",
               "favorites": true,
               "toastLink": {
                 "id": "69b3359d-a736-47fe-b2d5-ce7e1b1e3553",
