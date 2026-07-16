@@ -1041,7 +1041,7 @@
                 },
                 {
                   "name": "Groth",
-                  "price": "11.75",
+                  "price": "17.75",
                   "variety": "Chardonnay",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1057,7 +1057,7 @@
                 },
                 {
                   "name": "Frank Family",
-                  "price": "11.75",
+                  "price": "13.75",
                   "variety": "Chardonnay",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1072,7 +1072,7 @@
                   }
                 }
               ],
-              "price": "17.75",
+              "price": "14.75",
               "favorites": true,
               "toastLink": {
                 "id": "138fc5f9-ec8b-4d7a-a5b5-fb16daf0a07c",
@@ -1151,8 +1151,8 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "Architect",
-                  "price": "9.75",
+                  "name": "Clos Du Val",
+                  "price": "16.75",
                   "variety": "Cabernet",
                   "location": "Alexander Valley",
                   "glassSize": "8oz",
