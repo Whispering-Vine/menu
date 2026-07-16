@@ -896,10 +896,10 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Drylands",
-                  "price": "7.75",
+                  "name": "Cakebread",
+                  "price": "12.75",
                   "variety": "Sauvignon Blanc",
-                  "location": "New Zealand",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "2d4713c2-4674-4482-93fe-949a9c0a1ebd",
@@ -912,10 +912,10 @@
                   }
                 },
                 {
-                  "name": "Von Buhl",
-                  "price": "9.75",
-                  "variety": "Bone Dry Riesling",
-                  "location": "Germany",
+                  "name": "Pazo Das Bruxas",
+                  "price": "10.75",
+                  "variety": "Albariño",
+                  "location": "Spain",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "12bd1729-8904-4b1e-adc6-e5b8fdd43b2e",
@@ -928,10 +928,10 @@
                   }
                 },
                 {
-                  "name": "WALT",
-                  "price": "13.75",
+                  "name": "Meyer Näkel",
+                  "price": "14.75",
                   "variety": "Dry Rosé",
-                  "location": "Sonoma",
+                  "location": "Germany",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -944,7 +944,7 @@
                   }
                 }
               ],
-              "price": "10.75",
+              "price": "13.75",
               "favorites": true,
               "toastLink": {
                 "id": "ae5a10aa-e5be-4406-993b-ed264a0b57f7",
@@ -992,10 +992,10 @@
                   }
                 },
                 {
-                  "name": "Scharffenberger",
-                  "price": "10.75",
-                  "variety": "Brut Rosé",
-                  "location": "Champagne, France",
+                  "name": "Schramsberger",
+                  "price": "14.75",
+                  "variety": "Blanc de Blanc",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "cbf3b195-ea50-40e4-8530-d32d3dc419c8",
@@ -1008,7 +1008,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "17.75",
               "favorites": false,
               "toastLink": {
                 "id": "27ae853f-8a49-4da2-b5de-f83a0bee05a7",
@@ -1024,10 +1024,10 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Regnard Saint-Pierre ",
-                  "price": "12.75",
+                  "name": "Trefethen",
+                  "price": "11.75",
                   "variety": "Chardonnay",
-                  "location": "Chablis, France",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "082b932f-8c0f-46bd-b6e9-c892246237ca",
@@ -1040,10 +1040,10 @@
                   }
                 },
                 {
-                  "name": "Siduri",
+                  "name": "Groth",
                   "price": "11.75",
                   "variety": "Chardonnay",
-                  "location": "Willamette Valley, Oregon",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "6c82215e-55b2-4f1e-afbd-0fa8aedbe62d",
@@ -1056,10 +1056,10 @@
                   }
                 },
                 {
-                  "name": "Hartfort Court",
-                  "price": "12.75",
+                  "name": "Frank Family",
+                  "price": "11.75",
                   "variety": "Chardonnay",
-                  "location": "Russian River, Sonoma ",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "1be1535d-6aa6-4c0c-9cfa-fa1037a3bb2b",
@@ -1072,7 +1072,7 @@
                   }
                 }
               ],
-              "price": "12.75",
+              "price": "17.75",
               "favorites": true,
               "toastLink": {
                 "id": "138fc5f9-ec8b-4d7a-a5b5-fb16daf0a07c",
@@ -1104,10 +1104,10 @@
                   }
                 },
                 {
-                  "name": "Brewer Clifton \"Machado\" Pinot Noir",
-                  "price": "31.75",
+                  "name": "Artberry Maresh Old Vine",
+                  "price": "22.75",
                   "variety": "Pinot Noir",
-                  "location": "Sta. Rita",
+                  "location": "Willamette Valley",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "223bfd29-94c6-401a-9523-0392558ac9a2",
@@ -1136,7 +1136,7 @@
                   }
                 }
               ],
-              "price": "19.75",
+              "price": "16.75",
               "toastLink": {
                 "id": "6226d808-2f03-48ba-8a05-f1dabf09da41",
                 "name": "Pinot Noir FLIGHT",
@@ -1215,8 +1215,8 @@
               "name": "Premium Cabernet Flight",
               "items": [
                 {
-                  "name": "Auctioneer Howell Mountain",
-                  "price": "23.75",
+                  "name": "Rombauer",
+                  "price": "24.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1247,10 +1247,10 @@
                   }
                 },
                 {
-                  "name": "Cayenna",
-                  "price": "36.75",
-                  "variety": "Cabernet Blend",
-                  "location": "Italy",
+                  "name": "Silver Oak",
+                  "price": "24.75",
+                  "variety": "Cabernet ",
+                  "location": "Alexander Valley",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "fa9e3cff-e436-48f2-b4ea-e2ecb3f60314",
@@ -1472,38 +1472,38 @@
         "specials": {
           "items": [
             {
-              "name": "Daou Reserve Cabernet",
-              "glass": "18.75",
-              "notes": "Winery $60 95pts James Suckling",
-              "bottle": "44.99",
+              "name": "Silver Oak Alexander Valley Cabernet",
+              "glass": "24.75",
+              "notes": "Winery $100 ",
+              "bottle": "59.99",
               "favorites": false
             },
             {
-              "name": "Domaine Roy Fils Pinot Noir",
-              "glass": "17.75",
-              "notes": "Winery $47 93pts Wine Spectator",
-              "bottle": "39.99",
+              "name": "Artberry Maresh Old Vines",
+              "glass": "22.75",
+              "notes": "95pts Robert Parker",
+              "bottle": "56.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Regnard Saint Pierre-Saint Chablis",
-              "glass": "12.75",
-              "notes": "Winery $40",
-              "bottle": "29.99"
+              "name": "Meyer Näkel Rosé",
+              "glass": "14.75",
+              "notes": "",
+              "bottle": "35.99"
             },
             {
-              "name": "WALT Dry Rosé",
+              "name": "Frank Family Chardonnay",
               "glass": "13.75",
               "notes": "Winery $40",
-              "bottle": "29.99",
+              "bottle": "24.99",
               "wineryPrice": 45
             },
             {
-              "name": "Opolo Mountain Cuvee Zinfandel",
-              "glass": "10.75",
-              "notes": "Winery $32",
-              "bottle": "24.99",
+              "name": "Chateau Ducasse White Bordeaux ",
+              "glass": "8.75",
+              "notes": "",
+              "bottle": "19.99",
               "favorites": false
             }
           ]
