@@ -898,7 +898,7 @@
                 {
                   "name": "Greywacke",
                   "price": "9.75",
-                  "variety": "Sauvignon Blanc Blend",
+                  "variety": "Sauvignon Blanc ",
                   "location": "New Zealand",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1231,7 +1231,7 @@
                   }
                 },
                 {
-                  "name": "Groth",
+                  "name": "Gamble",
                   "price": "19.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
