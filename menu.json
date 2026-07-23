@@ -896,10 +896,10 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Chateau Ducasse",
-                  "price": "8.75",
+                  "name": "Greywacke",
+                  "price": "9.75",
                   "variety": "Sauvignon Blanc Blend",
-                  "location": "Bordeaux, France",
+                  "location": "New Zealand",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "2d4713c2-4674-4482-93fe-949a9c0a1ebd",
@@ -1088,7 +1088,7 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Domaine Roy Fils",
+                  "name": "Lingua franca",
                   "price": "17.75",
                   "variety": "Pinot Noir",
                   "location": "Willamette Valley",
@@ -1104,10 +1104,10 @@
                   }
                 },
                 {
-                  "name": "Artberry Maresh Old Vine",
-                  "price": "22.75",
+                  "name": "Brewer Clifton \"Machado\"",
+                  "price": "31.75",
                   "variety": "Pinot Noir",
-                  "location": "Willamette Valley",
+                  "location": "Sta. Rita Hills",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "223bfd29-94c6-401a-9523-0392558ac9a2",
@@ -1136,7 +1136,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "17.75",
               "toastLink": {
                 "id": "6226d808-2f03-48ba-8a05-f1dabf09da41",
                 "name": "Pinot Noir FLIGHT",
@@ -1151,10 +1151,10 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "Clos Du Val",
+                  "name": "Frank Family",
                   "price": "16.75",
                   "variety": "Cabernet",
-                  "location": "Alexander Valley",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "821a58cf-e815-40fc-b3e6-2a0611603a75",
@@ -1437,10 +1437,10 @@
                   }
                 },
                 {
-                  "name": "Rabble",
-                  "price": "8.75",
+                  "name": "Biali \"Black Chicken\"",
+                  "price": "18.75",
                   "variety": "Zinfandel",
-                  "location": "Paso Robles",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "dc450024-e14f-45cc-8bc6-3b93deadb1a3",
@@ -1453,7 +1453,7 @@
                   }
                 }
               ],
-              "price": "11.75",
+              "price": "15.75",
               "favorites": true,
               "toastLink": {
                 "id": "69b3359d-a736-47fe-b2d5-ce7e1b1e3553",
@@ -1472,38 +1472,38 @@
         "specials": {
           "items": [
             {
-              "name": "Silver Oak Alexander Valley Cabernet",
-              "glass": "24.75",
-              "notes": "Winery $100 ",
-              "bottle": "59.99",
+              "name": "Frank Family Cabernet",
+              "glass": "17.75",
+              "notes": "Winery $60",
+              "bottle": "39.99",
               "favorites": false
             },
             {
-              "name": "Artberry Maresh Old Vines",
-              "glass": "22.75",
-              "notes": "95pts Robert Parker",
-              "bottle": "56.99",
+              "name": "Darioush Chardonnay",
+              "glass": "19.75",
+              "notes": "Winery $60",
+              "bottle": "49.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Meyer Näkel Rosé",
-              "glass": "14.75",
-              "notes": "",
-              "bottle": "35.99"
+              "name": "Biali \"Black Chicken\" Zinfandel",
+              "glass": "18.75",
+              "notes": "Winery $55 94pts Wine Spectator",
+              "bottle": "44.99"
             },
             {
-              "name": "Frank Family Chardonnay",
-              "glass": "13.75",
-              "notes": "Winery $40",
-              "bottle": "24.99",
+              "name": "Lingua Franca Pinot Noir",
+              "glass": "16.75",
+              "notes": "92pts Wine Spectator",
+              "bottle": "39.99",
               "wineryPrice": 45
             },
             {
-              "name": "Chateau Ducasse White Bordeaux ",
-              "glass": "8.75",
-              "notes": "",
-              "bottle": "19.99",
+              "name": "Greywacke Sauvignon Blanc",
+              "glass": "9.75",
+              "notes": "94pts Robert Parker",
+              "bottle": "23.99",
               "favorites": false
             }
           ]
@@ -1767,7 +1767,7 @@
               "name": "Nino Franco Rustico",
               "price": {
                 "sale": false,
-                "glass": 10.75,
+                "glass": 9.75,
                 "bottle": 24.99
               },
               "toastLinks": {
