@@ -912,10 +912,10 @@
                   }
                 },
                 {
-                  "name": "Pazo Das Bruxas",
+                  "name": "Champalou Vouvray",
                   "price": "10.75",
-                  "variety": "Albariño",
-                  "location": "Spain",
+                  "variety": "Chenin Blanc",
+                  "location": "France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "12bd1729-8904-4b1e-adc6-e5b8fdd43b2e",
@@ -928,10 +928,10 @@
                   }
                 },
                 {
-                  "name": "Meyer Näkel",
-                  "price": "14.75",
+                  "name": "La Quercia",
+                  "price": "6.75",
                   "variety": "Dry Rosé",
-                  "location": "Germany",
+                  "location": "Italy",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -944,7 +944,7 @@
                   }
                 }
               ],
-              "price": "11.75",
+              "price": "9.75",
               "favorites": true,
               "toastLink": {
                 "id": "ae5a10aa-e5be-4406-993b-ed264a0b57f7",
@@ -992,10 +992,10 @@
                   }
                 },
                 {
-                  "name": "Schramsberger",
-                  "price": "14.75",
-                  "variety": "Blanc de Blanc",
-                  "location": "Napa",
+                  "name": "Scharffenberger",
+                  "price": "10.75",
+                  "variety": "Brut",
+                  "location": "Mendocino",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "cbf3b195-ea50-40e4-8530-d32d3dc419c8",
@@ -1008,7 +1008,7 @@
                   }
                 }
               ],
-              "price": "17.75",
+              "price": "16.75",
               "favorites": false,
               "toastLink": {
                 "id": "27ae853f-8a49-4da2-b5de-f83a0bee05a7",
@@ -1024,10 +1024,10 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Trefethen",
+                  "name": "Siduri",
                   "price": "11.75",
                   "variety": "Chardonnay",
-                  "location": "Napa",
+                  "location": "Willamette Valley, Oregon",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "082b932f-8c0f-46bd-b6e9-c892246237ca",
@@ -1040,8 +1040,8 @@
                   }
                 },
                 {
-                  "name": "Groth",
-                  "price": "17.75",
+                  "name": "Darioush",
+                  "price": "19.75",
                   "variety": "Chardonnay",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1072,7 +1072,7 @@
                   }
                 }
               ],
-              "price": "14.75",
+              "price": "15.75",
               "favorites": true,
               "toastLink": {
                 "id": "138fc5f9-ec8b-4d7a-a5b5-fb16daf0a07c",
@@ -1088,7 +1088,7 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Lingua franca",
+                  "name": "Lingua Franca",
                   "price": "17.75",
                   "variety": "Pinot Noir",
                   "location": "Willamette Valley",
