@@ -1275,7 +1275,7 @@
               }
             },
             {
-              "name": "Red Blend Flight",
+              "name": "International Red Blend Flight",
               "items": [
                 {
                   "name": "Hassan",
@@ -1310,10 +1310,10 @@
                   }
                 },
                 {
-                  "name": "Stag's Leap Investor",
-                  "price": "17.75",
-                  "variety": "Cabernet, Merlot, Cab Franc",
-                  "location": "Napa",
+                  "name": "Istentu",
+                  "price": "19.75",
+                  "variety": "Grenache, Boval",
+                  "location": "Italy",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "99429fd2-71a2-46ec-97c8-42321eaea6fd",
