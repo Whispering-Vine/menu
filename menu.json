@@ -1472,31 +1472,31 @@
         "specials": {
           "items": [
             {
-              "name": "Frank Family Cabernet",
-              "glass": "17.75",
-              "notes": "Winery $60",
-              "bottle": "39.99",
+              "name": "DR Stehens Collatreral",
+              "glass": "24.75",
+              "notes": "Winery $95",
+              "bottle": "59.99",
               "favorites": false
             },
             {
-              "name": "Darioush Chardonnay",
-              "glass": "19.75",
-              "notes": "Winery $60",
-              "bottle": "49.99",
+              "name": "Jordan Chardonnay",
+              "glass": "12.75",
+              "notes": "Winery $42",
+              "bottle": "29.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Biali \"Black Chicken\" Zinfandel",
-              "glass": "18.75",
-              "notes": "Winery $55 94pts Wine Spectator",
-              "bottle": "44.99"
+              "name": "WALT \"Las Brisa\" Pinot Noir",
+              "glass": "16.75",
+              "notes": "Winery $50 93pts Wine Enthusiast",
+              "bottle": "39.99"
             },
             {
-              "name": "Lingua Franca Pinot Noir",
-              "glass": "16.75",
+              "name": "Martinelli Rosé",
+              "glass": "12.75",
               "notes": "92pts Wine Spectator",
-              "bottle": "39.99",
+              "bottle": "29.99",
               "wineryPrice": 45
             },
             {
