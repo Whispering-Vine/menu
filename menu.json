@@ -2023,11 +2023,11 @@
               "description": "Italy | Montepulciano"
             },
             {
-              "name": "Gamba \"Messana Vineyard\" ",
+              "name": "Element 79",
               "price": {
                 "sale": true,
-                "glass": 16.75,
-                "bottle": 39.99
+                "glass": 14.75,
+                "bottle": 34.99
               },
               "toastLinks": {
                 "glass": {
@@ -2040,7 +2040,7 @@
                   "multiLocationId": "1600000002122858923"
                 }
               },
-              "description": "Russian River | Zinfandel"
+              "description": "Fair Play | Zinfandel"
             },
             {
               "name": "TEHO",
