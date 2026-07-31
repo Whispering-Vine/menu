@@ -1804,11 +1804,11 @@
               "description": "California | Moscato"
             },
             {
-              "name": "Twomey By Silver Oak",
+              "name": "Silver Oak",
               "price": {
                 "sale": false,
-                "glass": 11.75,
-                "bottle": 26.99
+                "glass": 14.75,
+                "bottle": 36.99
               },
               "toastLinks": {
                 "glass": {
