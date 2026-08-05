@@ -1884,11 +1884,11 @@
               "description": "Oregon | Rosé"
             },
             {
-              "name": "Martin Ray",
+              "name": "BÖEN",
               "price": {
                 "sale": true,
                 "glass": 8.75,
-                "bottle": 19.99
+                "bottle": 17.99
               },
               "toastLinks": {
                 "glass": {
@@ -1901,7 +1901,7 @@
                   "multiLocationId": "1600000002122319331"
                 }
               },
-              "description": "Sonoma | Pinot Noir"
+              "description": "Sta. Rita | Pinot Noir"
             },
             {
               "name": "WALT \"Las Brisa\"",
