@@ -166,7 +166,7 @@
             {
               "abv": "4.5 %",
               "ibu": "18",
-              "name": "Modelo",
+              "name": "Pacifico",
               "local": false,
               "price": "$6.25",
               "brewery": "Mexico",
@@ -896,10 +896,10 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Greywacke",
-                  "price": "9.75",
+                  "name": "Pascual Jolivet",
+                  "price": "18.75",
                   "variety": "Sauvignon Blanc ",
-                  "location": "New Zealand",
+                  "location": "France, Sancerre",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "2d4713c2-4674-4482-93fe-949a9c0a1ebd",
@@ -944,7 +944,7 @@
                   }
                 }
               ],
-              "price": "11.75",
+              "price": "14.75",
               "favorites": true,
               "toastLink": {
                 "id": "ae5a10aa-e5be-4406-993b-ed264a0b57f7",
@@ -1120,10 +1120,10 @@
                   }
                 },
                 {
-                  "name": "BÖEN",
-                  "price": "8.75",
+                  "name": "Charlie Clay",
+                  "price": "16.75",
                   "variety": "Pinot Noir",
-                  "location": "Monterey",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "4b83b982-9fcc-4bb4-a70d-5ec2a50fa792",
@@ -1247,8 +1247,8 @@
                   }
                 },
                 {
-                  "name": "Collateral",
-                  "price": "24.75",
+                  "name": "Faust",
+                  "price": "17.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1263,7 +1263,7 @@
                   }
                 }
               ],
-              "price": "24.75",
+              "price": "19.75",
               "toastLink": {
                 "id": "f0a237dd-1c67-4f55-8fc6-e89045a6946a",
                 "name": "Premium FLIGHT",
@@ -1294,9 +1294,9 @@
                   }
                 },
                 {
-                  "name": "Pigeoulet",
-                  "price": "9.75",
-                  "variety": "Grenache, Syrah, Carignan",
+                  "name": "Terre d' Ombre",
+                  "price": "11.75",
+                  "variety": "Mourvedre, Grenache",
                   "location": "France",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1326,7 +1326,7 @@
                   }
                 }
               ],
-              "price": "15.75",
+              "price": "16.75",
               "favorites": true,
               "toastLink": {
                 "id": "05976ce2-06c7-40ee-8c2b-2e88187a3187",
@@ -1437,10 +1437,10 @@
                   }
                 },
                 {
-                  "name": "Runquist ",
-                  "price": "10.75",
-                  "variety": "Cabernet Franc",
-                  "location": "Amador",
+                  "name": "Saxon Brown \"Fighting Brothers\"",
+                  "price": "16.75",
+                  "variety": "Zinfandel",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "dc450024-e14f-45cc-8bc6-3b93deadb1a3",
@@ -1453,7 +1453,7 @@
                   }
                 }
               ],
-              "price": "12.75",
+              "price": "14.75",
               "favorites": true,
               "toastLink": {
                 "id": "69b3359d-a736-47fe-b2d5-ce7e1b1e3553",
@@ -1472,38 +1472,38 @@
         "specials": {
           "items": [
             {
-              "name": "DR Stehens Collatreral",
-              "glass": "24.75",
-              "notes": "Winery $95",
-              "bottle": "59.99",
+              "name": "Faust Cabernet",
+              "glass": "17.75",
+              "notes": "Winery $70 96pts James Suckling",
+              "bottle": "44.99",
               "favorites": false
             },
             {
-              "name": "Jordan Chardonnay",
-              "glass": "12.75",
-              "notes": "Winery $42",
-              "bottle": "29.99",
+              "name": "Pascual Jolivet Sancerre",
+              "glass": "18.75",
+              "notes": "",
+              "bottle": "44.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "WALT \"Las Brisa\" Pinot Noir",
+              "name": "Saxon Brown \"Fighting Brothers\" Zinfandel",
               "glass": "16.75",
-              "notes": "Winery $50 93pts Wine Enthusiast",
-              "bottle": "39.99"
+              "notes": "Winery $60 93pts Wine Enthusiast",
+              "bottle": "36.99"
             },
             {
-              "name": "Martinelli Rosé",
+              "name": "Siduri Russian River Pinot Noir",
               "glass": "12.75",
-              "notes": "",
+              "notes": "Winery $40 94pts Wine Enthusiast",
               "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "Runquist Cabernet Franc",
-              "glass": "10.75",
+              "name": "Terre d' Ombre",
+              "glass": "11.75",
               "notes": "",
-              "bottle": "23.99",
+              "bottle": "25.99",
               "favorites": false
             }
           ]
