@@ -896,7 +896,7 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Pascual Jolivet",
+                  "name": "Pascal Jolivet",
                   "price": "18.75",
                   "variety": "Sauvignon Blanc ",
                   "location": "France, Sancerre",
@@ -1476,35 +1476,90 @@
               "glass": "17.75",
               "notes": "Winery $70 96pts James Suckling",
               "bottle": "44.99",
-              "favorites": false
+              "favorites": false,
+              "toastLinks": {
+                "bottle": {
+                  "categoryPath": "Wine Bottles > Cabernet Sauvignon",
+                  "id": "a21bdc69-e475-4433-aa94-e094ea0ddf4b",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000001830323538",
+                  "name": "Faust Cab *",
+                  "price": 44.99
+                }
+              }
             },
             {
-              "name": "Pascual Jolivet Sancerre",
+              "name": "Pascal Jolivet Sancerre",
               "glass": "18.75",
               "notes": "",
               "bottle": "44.99",
               "favorites": false,
-              "wineryPrice": 85
+              "wineryPrice": 85,
+              "toastLinks": {
+                "bottle": {
+                  "categoryPath": "Wine Bottles > Sauvignon Blanc",
+                  "id": "3442f92c-197d-4b32-916d-cf4f2bcb16cc",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000001830316242",
+                  "name": "Pascal Jolivet Sancerre",
+                  "price": 44.99
+                }
+              }
             },
             {
               "name": "Saxon Brown \"Fighting Brothers\" Zinfandel",
               "glass": "16.75",
               "notes": "Winery $60 93pts Wine Enthusiast",
-              "bottle": "36.99"
+              "bottle": "36.99",
+              "toastLinks": {
+                "bottle": {
+                  "categoryPath": "Wine Bottles > Pinot Noir",
+                  "id": "04ffe1a6-6869-4f59-935f-b9bb225f223e",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000001830309501",
+                  "name": "Saxon brown Pinot Noir Fighting B",
+                  "price": 36.99
+                }
+              }
             },
             {
               "name": "Siduri Russian River Pinot Noir",
               "glass": "12.75",
               "notes": "Winery $40 94pts Wine Enthusiast",
               "bottle": "29.99",
-              "wineryPrice": 45
+              "wineryPrice": 45,
+              "toastLinks": {
+                "bottle": {
+                  "categoryPath": "Wine Bottles > Pinot Noir",
+                  "id": "d35015e8-5a43-41c8-9903-c01185dc3542",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000001830311525",
+                  "name": "Siduri Russian River Pinot Noir *",
+                  "price": 29.99
+                }
+              }
             },
             {
               "name": "Terre d' Ombre",
               "glass": "11.75",
               "notes": "",
               "bottle": "25.99",
-              "favorites": false
+              "favorites": false,
+              "toastLinks": {
+                "bottle": {
+                  "categoryPath": "Wine Bottles > Red Blend",
+                  "id": "cb0fbd04-8679-4384-b186-74cc231d5856",
+                  "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                  "locationName": "Whispering Vine Wine Co. - 4th Street",
+                  "multiLocationId": "1600000001830323496",
+                  "name": "Terre d Ombre Red Wine",
+                  "price": 25.99
+                }
+              }
             }
           ]
         }
