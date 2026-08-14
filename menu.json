@@ -2023,11 +2023,11 @@
               "description": "Italy | Montepulciano"
             },
             {
-              "name": "Element 79",
+              "name": "Rabble",
               "price": {
                 "sale": true,
-                "glass": 14.75,
-                "bottle": 34.99
+                "glass": 8.75,
+                "bottle": 19.99
               },
               "toastLinks": {
                 "glass": {
@@ -2040,7 +2040,7 @@
                   "multiLocationId": "1600000002122858923"
                 }
               },
-              "description": "Fair Play | Zinfandel"
+              "description": "Paso Robles | Zinfandel"
             },
             {
               "name": "TEHO",
