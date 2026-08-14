@@ -1167,10 +1167,10 @@
                   }
                 },
                 {
-                  "name": "Ink Grade",
-                  "price": "23.75",
+                  "name": "Mac & Billy",
+                  "price": "12.75",
                   "variety": "Cabernet",
-                  "location": "Napa",
+                  "location": "Paso Robles",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "c66fdffd-76aa-4d23-81bf-7692cc67391e",
@@ -1199,7 +1199,7 @@
                   }
                 }
               ],
-              "price": "17.75",
+              "price": "16.75",
               "favorites": true,
               "toastLink": {
                 "id": "5ae95fa9-3fa5-450a-8634-4de2e1b78e3e",
@@ -1247,8 +1247,8 @@
                   }
                 },
                 {
-                  "name": "Faust",
-                  "price": "17.75",
+                  "name": "Beringer Private Reserve",
+                  "price": "39.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1263,7 +1263,7 @@
                   }
                 }
               ],
-              "price": "19.75",
+              "price": "26.75",
               "toastLink": {
                 "id": "f0a237dd-1c67-4f55-8fc6-e89045a6946a",
                 "name": "Premium FLIGHT",
@@ -1275,7 +1275,7 @@
               }
             },
             {
-              "name": "International Red Blend Flight",
+              "name": "Red Blend Flight",
               "items": [
                 {
                   "name": "Hassan",
@@ -1294,10 +1294,10 @@
                   }
                 },
                 {
-                  "name": "Terre d' Ombre",
-                  "price": "11.75",
-                  "variety": "Mourvedre, Grenache",
-                  "location": "France",
+                  "name": "Hourglass",
+                  "price": "16.75",
+                  "variety": "Petite Syrah, Cabernet, Merlot",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "b628c3de-925f-4788-bc39-21fe550b14d3",
@@ -1326,7 +1326,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "17.75",
               "favorites": true,
               "toastLink": {
                 "id": "05976ce2-06c7-40ee-8c2b-2e88187a3187",
@@ -1437,10 +1437,10 @@
                   }
                 },
                 {
-                  "name": "Ramble",
-                  "price": "8.75",
-                  "variety": "Zinfandel",
-                  "location": "Paso Robles",
+                  "name": "Juan Gil",
+                  "price": "7.75",
+                  "variety": "Mourvèdre ",
+                  "location": "Spain",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "dc450024-e14f-45cc-8bc6-3b93deadb1a3",
