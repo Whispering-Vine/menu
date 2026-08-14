@@ -912,10 +912,10 @@
                   }
                 },
                 {
-                  "name": "Champalou Vouvray",
+                  "name": "Massican",
                   "price": "10.75",
-                  "variety": "Chenin Blanc",
-                  "location": "France",
+                  "variety": "Pinot Grigio",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "12bd1729-8904-4b1e-adc6-e5b8fdd43b2e",
@@ -1043,7 +1043,7 @@
                   "name": "Far Niente",
                   "price": "18.75",
                   "variety": "Chardonnay",
-                  "location": "Sonoma",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "6c82215e-55b2-4f1e-afbd-0fa8aedbe62d",
