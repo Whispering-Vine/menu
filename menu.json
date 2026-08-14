@@ -928,10 +928,10 @@
                   }
                 },
                 {
-                  "name": "Martinelli",
+                  "name": "BY OTT",
                   "price": "12.75",
-                  "variety": "Dry Rosé of Pinot Noir",
-                  "location": "Sonoma ",
+                  "variety": "Dry Rosé ",
+                  "location": "France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -1040,8 +1040,8 @@
                   }
                 },
                 {
-                  "name": "Jordan",
-                  "price": "12.75",
+                  "name": "Far Niente",
+                  "price": "18.75",
                   "variety": "Chardonnay",
                   "location": "Sonoma",
                   "glassSize": "8oz",
@@ -1072,7 +1072,7 @@
                   }
                 }
               ],
-              "price": "12.75",
+              "price": "15.75",
               "favorites": true,
               "toastLink": {
                 "id": "138fc5f9-ec8b-4d7a-a5b5-fb16daf0a07c",
