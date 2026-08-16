@@ -189,12 +189,12 @@
               "brewery": "Ireland"
             },
             {
-              "abv": "5.5%",
-              "ibu": "30",
-              "name": "Boneyard Diablo Rojo Red",
+              "abv": "4.5%",
+              "ibu": "18",
+              "name": "Pacifico",
               "local": false,
-              "price": "$7.25",
-              "brewery": "Oregon"
+              "price": "$6.25",
+              "brewery": "Mexico"
             }
           ]
         },
@@ -1904,7 +1904,7 @@
               "description": "Sta. Rita | Pinot Noir"
             },
             {
-              "name": "WALT \"Las Brisa\"",
+              "name": "WALT \"La Brisa\"",
               "price": {
                 "sale": false,
                 "glass": 16.75,
@@ -2023,11 +2023,11 @@
               "description": "Italy | Montepulciano"
             },
             {
-              "name": "Rabble",
+              "name": "Element 75",
               "price": {
                 "sale": true,
-                "glass": 8.75,
-                "bottle": 19.99
+                "glass": 16.75,
+                "bottle": 39.99
               },
               "toastLinks": {
                 "glass": {
@@ -2040,7 +2040,7 @@
                   "multiLocationId": "1600000002122858923"
                 }
               },
-              "description": "Paso Robles | Zinfandel"
+              "description": "Fair Play | Zinfandel"
             },
             {
               "name": "TEHO",
