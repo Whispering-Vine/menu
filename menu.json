@@ -1764,11 +1764,11 @@
               "description": "Champagne, France | Brut"
             },
             {
-              "name": "Nino Franco Rustico",
+              "name": "G.H. Mumm",
               "price": {
-                "sale": false,
-                "glass": 9.75,
-                "bottle": 24.99
+                "sale": true,
+                "glass": 17.75,
+                "bottle": 39.99
               },
               "toastLinks": {
                 "glass": {
@@ -1781,7 +1781,7 @@
                   "multiLocationId": "1600000001860759983"
                 }
               },
-              "description": "Italy | Prosecco"
+              "description": "Champagne | Brut Rosé"
             },
             {
               "name": "Whispering Vine",
@@ -1827,8 +1827,8 @@
               "name": "Whispering Vine",
               "price": {
                 "sale": false,
-                "glass": 6.75,
-                "bottle": 14.99
+                "glass": 8.75,
+                "bottle": 19.99
               },
               "toastLinks": {
                 "glass": {
@@ -1841,7 +1841,7 @@
                   "multiLocationId": "1600000002122555330"
                 }
               },
-              "description": "Anderson Valley | Chardonnay"
+              "description": "Oregon | Chardonnay"
             },
             {
               "name": "Jordan",
