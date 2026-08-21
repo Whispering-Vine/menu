@@ -1884,11 +1884,11 @@
               "description": "Oregon | Rosé"
             },
             {
-              "name": "BÖEN",
+              "name": "Whispering Vine",
               "price": {
-                "sale": true,
+                "sale": false,
                 "glass": 8.75,
-                "bottle": 17.99
+                "bottle": 18.99
               },
               "toastLinks": {
                 "glass": {
@@ -1901,7 +1901,7 @@
                   "multiLocationId": "1600000002122319331"
                 }
               },
-              "description": "Sta. Rita | Pinot Noir"
+              "description": "Oregon | Pinot Noir"
             },
             {
               "name": "WALT \"Las Brisa\"",
@@ -1963,9 +1963,9 @@
               "description": "Washington | Cabernet"
             },
             {
-              "name": "Prisoner Wine Co.",
+              "name": "The Calling",
               "price": {
-                "sale": true,
+                "sale": false,
                 "glass": 14.75,
                 "bottle": 34.99
               },
@@ -1980,14 +1980,14 @@
                   "multiLocationId": "1600000002122384436"
                 }
               },
-              "description": "Napa | Cabernet"
+              "description": "Alexander Valley, Sonoma | Cabernet"
             },
             {
-              "name": "Altocedro",
+              "name": "Prisoner Wine Co. SALDO",
               "price": {
-                "sale": true,
+                "sale": false,
                 "glass": 8.75,
-                "bottle": 21.99
+                "bottle": 19.99
               },
               "toastLinks": {
                 "glass": {
@@ -2000,7 +2000,7 @@
                   "multiLocationId": "1600000002123042023"
                 }
               },
-              "description": "Argentina | Cab, Merlot, Petite Verdot"
+              "description": "Napa | Petite Syrah, Syrah, Cabernet"
             },
             {
               "name": "La Quercia",
