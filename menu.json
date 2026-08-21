@@ -189,12 +189,12 @@
               "brewery": "Ireland"
             },
             {
-              "abv": "4.5%",
-              "ibu": "18",
-              "name": "Cali Squeeze Blood Orange Hefeweizen",
+              "abv": "5.5%",
+              "ibu": "30",
+              "name": "Boneyard Diablo Rojo Red",
               "local": false,
-              "price": "$6.25",
-              "brewery": "Paso Robles"
+              "price": "$7.25",
+              "brewery": "Oregon"
             }
           ]
         },
@@ -1024,10 +1024,10 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Siduri",
-                  "price": "11.75",
+                  "name": "Domaine Gilles Pouilly Fuisse",
+                  "price": "15.75",
                   "variety": "Chardonnay",
-                  "location": "Willamette Valley, Oregon",
+                  "location": "Burgundy, France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "082b932f-8c0f-46bd-b6e9-c892246237ca",
@@ -1120,10 +1120,10 @@
                   }
                 },
                 {
-                  "name": "Charlie Clay",
-                  "price": "16.75",
+                  "name": "WALT \"Blue Jay\"",
+                  "price": "15.75",
                   "variety": "Pinot Noir",
-                  "location": "Sonoma",
+                  "location": "Anderson Valley",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "4b83b982-9fcc-4bb4-a70d-5ec2a50fa792",
@@ -1405,10 +1405,10 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Chateau Thivin",
+                  "name": "Becca",
                   "price": "8.75",
-                  "variety": "Gamay",
-                  "location": "Beaujolais, France",
+                  "variety": "Grenache",
+                  "location": "Spain",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "47377e05-6b29-4ecc-b4ef-051eb8324520",
@@ -1421,8 +1421,8 @@
                   }
                 },
                 {
-                  "name": "Quattro Theory",
-                  "price": "16.75",
+                  "name": "Pride Mountain",
+                  "price": "23.75",
                   "variety": "Merlot",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1437,10 +1437,10 @@
                   }
                 },
                 {
-                  "name": "Juan Gil",
+                  "name": "Klinker Brick",
                   "price": "7.75",
-                  "variety": "Mourvèdre ",
-                  "location": "Spain",
+                  "variety": "Syrah",
+                  "location": "Lodi",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "dc450024-e14f-45cc-8bc6-3b93deadb1a3",
@@ -1453,7 +1453,7 @@
                   }
                 }
               ],
-              "price": "11.75",
+              "price": "13.75",
               "favorites": true,
               "toastLink": {
                 "id": "69b3359d-a736-47fe-b2d5-ce7e1b1e3553",
@@ -1472,38 +1472,38 @@
         "specials": {
           "items": [
             {
-              "name": "Beringer Privare Reserve Cabernet",
-              "glass": "39.75",
-              "notes": "Winery $180 50% OFF WINERY!",
-              "bottle": "89.99",
+              "name": "Tamber Bey Rabicano",
+              "glass": "25.75",
+              "notes": "Winery $85 91pts Robert Parker ",
+              "bottle": "64.99",
               "favorites": false
             },
             {
-              "name": "Far Niente Chardonnay",
-              "glass": "18.75",
-              "notes": "Winery $70",
-              "bottle": "49.99",
+              "name": "Pride Mountain Merlot",
+              "glass": "23.75",
+              "notes": "Winery $72",
+              "bottle": "59.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Hourglass II Red Blend",
-              "glass": "16.75",
-              "notes": "Winery $50 94pts Wine Spectator",
-              "bottle": "39.99"
+              "name": "WALT \"Blue Jay\"",
+              "glass": "15.75",
+              "notes": "Winery $50 91pts Wine Spectator",
+              "bottle": "34.99"
             },
             {
-              "name": "BY OTT Rosé",
-              "glass": "12.75",
+              "name": "Domaine Gilles Noblet Pouilly Fuisse",
+              "glass": "15.75",
               "notes": "",
-              "bottle": "30.99",
+              "bottle": "36.99",
               "wineryPrice": 45
             },
             {
-              "name": "Juan Gil ",
-              "glass": "8.75",
-              "notes": "",
-              "bottle": "18.99",
+              "name": "Klinker Brick Syrah ",
+              "glass": "7.75",
+              "notes": "Winery $24",
+              "bottle": "17.99",
               "favorites": false
             }
           ]
@@ -1904,7 +1904,7 @@
               "description": "Sta. Rita | Pinot Noir"
             },
             {
-              "name": "WALT \"La Brisa\"",
+              "name": "WALT \"Las Brisa\"",
               "price": {
                 "sale": false,
                 "glass": 16.75,
@@ -2023,11 +2023,11 @@
               "description": "Italy | Montepulciano"
             },
             {
-              "name": "Element 75",
+              "name": "Rabble",
               "price": {
                 "sale": true,
-                "glass": 16.75,
-                "bottle": 39.99
+                "glass": 8.75,
+                "bottle": 19.99
               },
               "toastLinks": {
                 "glass": {
@@ -2040,7 +2040,7 @@
                   "multiLocationId": "1600000002122858923"
                 }
               },
-              "description": "Fair Play | Zinfandel"
+              "description": "Paso Robles | Zinfandel"
             },
             {
               "name": "TEHO",
@@ -2103,7 +2103,7 @@
             {
               "name": "Giesen 0% Alcohol",
               "price": {
-                "glass": 6.75,
+                "glass": 8.75,
                 "bottle": 13.99
               },
               "toastLinks": {
