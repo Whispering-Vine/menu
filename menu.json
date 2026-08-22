@@ -1278,10 +1278,10 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "Hassan",
-                  "price": "16.75",
+                  "name": "Unshackled By Prisoner Co.",
+                  "price": "8.75",
                   "variety": "Cabernet, Cabernet Franc, Merlot",
-                  "location": "Sardina, Italy",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "96864ba9-05d9-4b27-8150-bdcab1cdfffd",
@@ -1326,7 +1326,7 @@
                   }
                 }
               ],
-              "price": "17.75",
+              "price": "15.75",
               "favorites": true,
               "toastLink": {
                 "id": "05976ce2-06c7-40ee-8c2b-2e88187a3187",
