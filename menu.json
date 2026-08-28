@@ -1247,9 +1247,9 @@
                   }
                 },
                 {
-                  "name": "Tamber Bey Rubicano",
-                  "price": "25.75",
-                  "variety": "Cabernet Blend",
+                  "name": "Heitz Lot C-91",
+                  "price": "27.75",
+                  "variety": "Cabernet ",
                   "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1263,7 +1263,7 @@
                   }
                 }
               ],
-              "price": "23.75",
+              "price": "24.75",
               "toastLink": {
                 "id": "f0a237dd-1c67-4f55-8fc6-e89045a6946a",
                 "name": "Premium FLIGHT",
@@ -1326,7 +1326,7 @@
                   }
                 }
               ],
-              "price": "$17.75",
+              "price": "15.75",
               "favorites": true,
               "toastLink": {
                 "id": "05976ce2-06c7-40ee-8c2b-2e88187a3187",
@@ -1405,7 +1405,7 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Breca",
+                  "name": "Becca",
                   "price": "8.75",
                   "variety": "Grenache",
                   "location": "Spain",
@@ -1421,10 +1421,10 @@
                   }
                 },
                 {
-                  "name": "Pride Mountain",
-                  "price": "23.75",
-                  "variety": "Merlot",
-                  "location": "Napa",
+                  "name": "Jeff Runquist",
+                  "price": "11.75",
+                  "variety": "Barbera",
+                  "location": "Plymouth",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "b4f52391-55cb-4d15-92be-c771672c652c",
@@ -1453,7 +1453,7 @@
                   }
                 }
               ],
-              "price": "14.75",
+              "price": "9.75",
               "favorites": true,
               "toastLink": {
                 "id": "69b3359d-a736-47fe-b2d5-ce7e1b1e3553",
@@ -1472,38 +1472,38 @@
         "specials": {
           "items": [
             {
-              "name": "Tamber Bey Rabicano",
-              "glass": "25.75",
-              "notes": "Winery $85 91pts Robert Parker ",
-              "bottle": "64.99",
+              "name": "Heitz Lot C-91",
+              "glass": "27.75",
+              "notes": "Winery $120 97pts James Suckling",
+              "bottle": "69.99",
               "favorites": false
             },
             {
-              "name": "Pride Mountain Merlot",
-              "glass": "23.75",
-              "notes": "Winery $72",
-              "bottle": "59.99",
+              "name": "Les Fontenelles Sancerre",
+              "glass": "16.75",
+              "notes": "",
+              "bottle": "36.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "WALT \"Blue Jay\"",
-              "glass": "15.75",
-              "notes": "Winery $50 91pts Wine Spectator",
-              "bottle": "34.99"
+              "name": "Jeff Runquist Barbera",
+              "glass": "11.75",
+              "notes": "",
+              "bottle": "25.99"
             },
             {
-              "name": "Domaine Gilles Noblet Pouilly Fuisse",
-              "glass": "15.75",
-              "notes": "",
-              "bottle": "36.99",
+              "name": "BACA Cabernet",
+              "glass": "12.75",
+              "notes": "91pts Wine Enthusiast",
+              "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "Klinker Brick Syrah ",
-              "glass": "7.75",
-              "notes": "Winery $24",
-              "bottle": "17.99",
+              "name": "Seghesio Chardonnay",
+              "glass": "8.75",
+              "notes": "",
+              "bottle": "19.99",
               "favorites": false
             }
           ]
@@ -1983,7 +1983,7 @@
               "description": "Alexander Valley, Sonoma | Cabernet"
             },
             {
-              "name": "SALDO",
+              "name": "Prisoner Wine Co. SALDO",
               "price": {
                 "sale": false,
                 "glass": 8.75,
@@ -2000,7 +2000,7 @@
                   "multiLocationId": "1600000002123042023"
                 }
               },
-              "description": "Napa | Petite Syrah, Cabernet"
+              "description": "Napa | Petite Syrah, Syrah, Cabernet"
             },
             {
               "name": "La Quercia",
