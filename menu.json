@@ -1151,8 +1151,8 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "Frank Family",
-                  "price": "17.75",
+                  "name": "BACA",
+                  "price": "12.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1199,7 +1199,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "15.75",
               "favorites": true,
               "toastLink": {
                 "id": "5ae95fa9-3fa5-450a-8634-4de2e1b78e3e",
