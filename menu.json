@@ -912,10 +912,10 @@
                   }
                 },
                 {
-                  "name": "Massican",
-                  "price": "10.75",
-                  "variety": "Pinot Grigio",
-                  "location": "Sonoma",
+                  "name": "Les Fontenelles",
+                  "price": "16.75",
+                  "variety": "Sauvignon Blanc",
+                  "location": "Sancerre, France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "12bd1729-8904-4b1e-adc6-e5b8fdd43b2e",
@@ -944,7 +944,7 @@
                   }
                 }
               ],
-              "price": "12.75",
+              "price": "14.75",
               "favorites": true,
               "toastLink": {
                 "id": "ae5a10aa-e5be-4406-993b-ed264a0b57f7",
@@ -1024,10 +1024,10 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Domaine Gilles Pouilly Fuisse",
-                  "price": "15.75",
+                  "name": "Seghesio",
+                  "price": "8.75",
                   "variety": "Chardonnay",
-                  "location": "Burgundy, France",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "082b932f-8c0f-46bd-b6e9-c892246237ca",
@@ -1072,7 +1072,7 @@
                   }
                 }
               ],
-              "price": "15.75",
+              "price": "14.75",
               "favorites": true,
               "toastLink": {
                 "id": "138fc5f9-ec8b-4d7a-a5b5-fb16daf0a07c",
