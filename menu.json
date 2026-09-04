@@ -1088,10 +1088,10 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Siduri",
-                  "price": "10.75",
+                  "name": "Domaine Roy Fils",
+                  "price": "12.75",
                   "variety": "Pinot Noir",
-                  "location": "Santa Lucia Highlands",
+                  "location": "Willamette Valley",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "7f1046f0-c6ab-4e76-9440-a1be3315f224",
