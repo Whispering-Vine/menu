@@ -896,10 +896,10 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "BY OTT",
-                  "price": "12.75",
-                  "variety": "Dry Rosé ",
-                  "location": "France",
+                  "name": "Honig",
+                  "price": "8.75",
+                  "variety": "Sauvignon Blanc",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "2d4713c2-4674-4482-93fe-949a9c0a1ebd",
@@ -912,10 +912,10 @@
                   }
                 },
                 {
-                  "name": "Les Fontenelles",
-                  "price": "16.75",
-                  "variety": "Sauvignon Blanc",
-                  "location": "Sancerre, France",
+                  "name": "Aperture",
+                  "price": "12.75",
+                  "variety": "Chenin Blanc",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "12bd1729-8904-4b1e-adc6-e5b8fdd43b2e",
@@ -928,10 +928,10 @@
                   }
                 },
                 {
-                  "name": "Aperture",
+                  "name": "Charles Joguet",
                   "price": "12.75",
-                  "variety": "Chenin Blanc",
-                  "location": "Sonoma",
+                  "variety": "Dry Rosé ",
+                  "location": "France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -944,7 +944,7 @@
                   }
                 }
               ],
-              "price": "14.75",
+              "price": "11.75",
               "favorites": true,
               "toastLink": {
                 "id": "ae5a10aa-e5be-4406-993b-ed264a0b57f7",
