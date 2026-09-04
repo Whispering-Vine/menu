@@ -1151,8 +1151,8 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "BACA",
-                  "price": "12.75",
+                  "name": "Unshackled By Prisoner",
+                  "price": "8.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1199,7 +1199,7 @@
                   }
                 }
               ],
-              "price": "15.75",
+              "price": "14.75",
               "favorites": true,
               "toastLink": {
                 "id": "5ae95fa9-3fa5-450a-8634-4de2e1b78e3e",
@@ -1278,10 +1278,10 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "Unshackled By Prisoner Co.",
-                  "price": "8.75",
+                  "name": "Aperture",
+                  "price": "17.75",
                   "variety": "Cabernet, Cabernet Franc, Merlot",
-                  "location": "Napa",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "96864ba9-05d9-4b27-8150-bdcab1cdfffd",
@@ -1326,7 +1326,7 @@
                   }
                 }
               ],
-              "price": "15.75",
+              "price": "17.75",
               "favorites": true,
               "toastLink": {
                 "id": "05976ce2-06c7-40ee-8c2b-2e88187a3187",
