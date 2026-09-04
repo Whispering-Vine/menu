@@ -896,10 +896,10 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "A to Z",
-                  "price": "7.75",
+                  "name": "BY OTT",
+                  "price": "12.75",
                   "variety": "Dry Rosé ",
-                  "location": "Oregon",
+                  "location": "France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "2d4713c2-4674-4482-93fe-949a9c0a1ebd",
@@ -944,7 +944,7 @@
                   }
                 }
               ],
-              "price": "12.75",
+              "price": "14.75",
               "favorites": true,
               "toastLink": {
                 "id": "ae5a10aa-e5be-4406-993b-ed264a0b57f7",
@@ -1983,7 +1983,7 @@
               "description": "Alexander Valley, Sonoma | Cabernet"
             },
             {
-              "name": "SALDO",
+              "name": "Prisoner Wine Co. SALDO",
               "price": {
                 "sale": false,
                 "glass": 8.75,
@@ -2023,11 +2023,11 @@
               "description": "Italy | Montepulciano"
             },
             {
-              "name": "Rabble",
+              "name": "Mauritson",
               "price": {
                 "sale": true,
-                "glass": 8.75,
-                "bottle": 19.99
+                "glass": 16.75,
+                "bottle": 39.99
               },
               "toastLinks": {
                 "glass": {
@@ -2040,7 +2040,7 @@
                   "multiLocationId": "1600000002122858923"
                 }
               },
-              "description": "Paso Robles | Zinfandel"
+              "description": "Dry Creek, Sonoma | Zinfandel"
             },
             {
               "name": "Bramare",
