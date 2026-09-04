@@ -1167,10 +1167,10 @@
                   }
                 },
                 {
-                  "name": "Mac & Billy",
+                  "name": "Charles Krug",
                   "price": "12.75",
                   "variety": "Cabernet",
-                  "location": "Paso Robles",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "c66fdffd-76aa-4d23-81bf-7692cc67391e",
@@ -1183,10 +1183,10 @@
                   }
                 },
                 {
-                  "name": "DAOU Reserve ",
-                  "price": "18.75",
+                  "name": "Gamble",
+                  "price": "19.75",
                   "variety": "Cabernet",
-                  "location": "Paso Robles",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "defeb5ea-b1fe-4c68-9612-e7722bb15abe",
