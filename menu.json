@@ -1231,7 +1231,7 @@
                   }
                 },
                 {
-                  "name": "Gamble",
+                  "name": "Aperture",
                   "price": "19.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
@@ -1247,10 +1247,10 @@
                   }
                 },
                 {
-                  "name": "Heitz Lot C-91",
-                  "price": "27.75",
+                  "name": "DAOU Reserve",
+                  "price": "18.75",
                   "variety": "Cabernet ",
-                  "location": "Napa",
+                  "location": "Paso Robles",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "fa9e3cff-e436-48f2-b4ea-e2ecb3f60314",
@@ -1263,7 +1263,7 @@
                   }
                 }
               ],
-              "price": "24.75",
+              "price": "21.75",
               "toastLink": {
                 "id": "f0a237dd-1c67-4f55-8fc6-e89045a6946a",
                 "name": "Premium FLIGHT",
@@ -1472,35 +1472,35 @@
         "specials": {
           "items": [
             {
-              "name": "Heitz Lot C-91",
-              "glass": "27.75",
-              "notes": "Winery $120 97pts James Suckling",
-              "bottle": "69.99",
+              "name": "Aperture Cabernet",
+              "glass": "19.75",
+              "notes": "Winery $75 96pts Robert Parker",
+              "bottle": "59.99",
               "favorites": false
             },
             {
-              "name": "Les Fontenelles Sancerre",
+              "name": "Bramare \"Lujan de Cuyo\" Malbec",
               "glass": "16.75",
-              "notes": "",
-              "bottle": "36.99",
+              "notes": "Winery $60 ",
+              "bottle": "39.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Jeff Runquist Barbera",
-              "glass": "11.75",
-              "notes": "",
-              "bottle": "25.99"
+              "name": "Charles Krug Cabernet",
+              "glass": "12.75",
+              "notes": "Winery $41",
+              "bottle": "29.99"
             },
             {
-              "name": "BACA Cabernet",
-              "glass": "12.75",
-              "notes": "91pts Wine Enthusiast",
-              "bottle": "29.99",
+              "name": "Cotes Des Roses Sparkling Rosé",
+              "glass": "9.75",
+              "notes": "92pts Wine Enthusiast",
+              "bottle": "24.99",
               "wineryPrice": 45
             },
             {
-              "name": "Seghesio Chardonnay",
+              "name": "Honig Sauvignon Blanc",
               "glass": "8.75",
               "notes": "",
               "bottle": "19.99",
