@@ -1437,10 +1437,10 @@
                   }
                 },
                 {
-                  "name": "Klinker Brick",
-                  "price": "7.75",
-                  "variety": "Syrah",
-                  "location": "Lodi",
+                  "name": "Educated Guess",
+                  "price": "12.75",
+                  "variety": "Merlot",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "dc450024-e14f-45cc-8bc6-3b93deadb1a3",
@@ -1453,7 +1453,7 @@
                   }
                 }
               ],
-              "price": "9.75",
+              "price": "11.75",
               "favorites": true,
               "toastLink": {
                 "id": "69b3359d-a736-47fe-b2d5-ce7e1b1e3553",
