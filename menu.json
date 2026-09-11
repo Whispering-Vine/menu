@@ -1040,10 +1040,10 @@
                   }
                 },
                 {
-                  "name": "Far Niente",
-                  "price": "18.75",
+                  "name": "Ramey",
+                  "price": "17.75",
                   "variety": "Chardonnay",
-                  "location": "Napa",
+                  "location": "Russian River, Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "6c82215e-55b2-4f1e-afbd-0fa8aedbe62d",
@@ -1088,10 +1088,10 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Domaine Roy Fils",
-                  "price": "12.75",
+                  "name": "Siduri",
+                  "price": "10.75",
                   "variety": "Pinot Noir",
-                  "location": "Willamette Valley",
+                  "location": "Santa Lucia Highlands",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "7f1046f0-c6ab-4e76-9440-a1be3315f224",
@@ -1151,8 +1151,8 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "Unshackled By Prisoner",
-                  "price": "8.75",
+                  "name": "Post & Beam By Far Niente",
+                  "price": "17.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1199,7 +1199,7 @@
                   }
                 }
               ],
-              "price": "14.75",
+              "price": "16.75",
               "favorites": true,
               "toastLink": {
                 "id": "5ae95fa9-3fa5-450a-8634-4de2e1b78e3e",
@@ -1278,10 +1278,10 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "Aperture",
-                  "price": "17.75",
+                  "name": "Unshackled By Prisoner Co.",
+                  "price": "8.75",
                   "variety": "Cabernet, Cabernet Franc, Merlot",
-                  "location": "Sonoma",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "96864ba9-05d9-4b27-8150-bdcab1cdfffd",
@@ -1326,7 +1326,7 @@
                   }
                 }
               ],
-              "price": "17.75",
+              "price": "15.75",
               "favorites": true,
               "toastLink": {
                 "id": "05976ce2-06c7-40ee-8c2b-2e88187a3187",
@@ -1472,38 +1472,38 @@
         "specials": {
           "items": [
             {
-              "name": "Aperture Cabernet",
-              "glass": "19.75",
-              "notes": "Winery $75 96pts Robert Parker",
-              "bottle": "59.99",
+              "name": "Post & Beam By Far Niente Cabernet",
+              "glass": "17.75",
+              "notes": "Winery $55 ",
+              "bottle": "44.99",
               "favorites": false
             },
             {
-              "name": "Bramare \"Lujan de Cuyo\" Malbec",
-              "glass": "16.75",
-              "notes": "Winery $60 ",
-              "bottle": "39.99",
+              "name": "Ramey \"Russian River\" Chardonnay ",
+              "glass": "17.75",
+              "notes": "95pts Robert Parker",
+              "bottle": "44.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Charles Krug Cabernet",
-              "glass": "12.75",
-              "notes": "Winery $41",
-              "bottle": "29.99"
+              "name": "Merryvale Pinot Noir",
+              "glass": "16.75",
+              "notes": "Winery $55 93pts Wine Spectator",
+              "bottle": "39.99"
             },
             {
-              "name": "Cotes Des Roses Sparkling Rosé",
-              "glass": "9.75",
-              "notes": "92pts Wine Enthusiast",
-              "bottle": "24.99",
+              "name": "Educated Guess Merlot",
+              "glass": "12.75",
+              "notes": "93pts Wine Spectator",
+              "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "Honig Sauvignon Blanc",
+              "name": "Chateau Pey La Tour Bordeaux",
               "glass": "8.75",
               "notes": "",
-              "bottle": "19.99",
+              "bottle": "21.99",
               "favorites": false
             }
           ]
