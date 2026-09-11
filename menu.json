@@ -1278,10 +1278,10 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "Unshackled By Prisoner Co.",
-                  "price": "8.75",
-                  "variety": "Cabernet, Cabernet Franc, Merlot",
-                  "location": "Napa",
+                  "name": "Chateau Pey La Tour",
+                  "price": "9.75",
+                  "variety": "Merlot, Cabernet, Cabernet Franc",
+                  "location": "Bordeaux, France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "96864ba9-05d9-4b27-8150-bdcab1cdfffd",
