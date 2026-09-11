@@ -896,9 +896,9 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Honig",
-                  "price": "8.75",
-                  "variety": "Sauvignon Blanc",
+                  "name": "Whispering Vine",
+                  "price": "7.75",
+                  "variety": "Oregon",
                   "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
