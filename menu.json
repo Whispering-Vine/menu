@@ -96,23 +96,6 @@
               }
             },
             {
-              "abv": "5.3%",
-              "ibu": "50",
-              "name": "Russian River STS Pilsner",
-              "local": false,
-              "price": "$7.25",
-              "brewery": "Sonoma",
-              "toastLink": {
-                "id": "52deb951-7d29-46cf-8880-4a5fd47a9c54",
-                "name": "Russian River STS Pilsner",
-                "price": 7.25,
-                "categoryPath": "Beer > Draft",
-                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
-                "locationName": "Whispering Vine Wine Co. - 4th Street",
-                "multiLocationId": "1600000001860760349"
-              }
-            },
-            {
               "abv": "4.6%",
               "ibu": "24",
               "name": "FiftyFifty Pilsner",
@@ -1405,7 +1388,7 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Becca",
+                  "name": "Breca",
                   "price": "8.75",
                   "variety": "Grenache",
                   "location": "Spain",
