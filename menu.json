@@ -1104,10 +1104,10 @@
                   }
                 },
                 {
-                  "name": "Merryvale",
-                  "price": "16.75",
+                  "name": "Hartford Court",
+                  "price": "14.75",
                   "variety": "Pinot Noir",
-                  "location": "Sonoma Coast",
+                  "location": "Russian River",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "223bfd29-94c6-401a-9523-0392558ac9a2",
@@ -1136,7 +1136,7 @@
                   }
                 }
               ],
-              "price": "13.75",
+              "price": "12.75",
               "toastLink": {
                 "id": "6226d808-2f03-48ba-8a05-f1dabf09da41",
                 "name": "Pinot Noir FLIGHT",
