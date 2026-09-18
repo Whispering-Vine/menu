@@ -96,6 +96,23 @@
               }
             },
             {
+              "abv": "5.3%",
+              "ibu": "50",
+              "name": "Russian River STS Pilsner",
+              "local": false,
+              "price": "$7.25",
+              "brewery": "Sonoma",
+              "toastLink": {
+                "id": "52deb951-7d29-46cf-8880-4a5fd47a9c54",
+                "name": "Russian River STS Pilsner",
+                "price": 7.25,
+                "categoryPath": "Beer > Draft",
+                "locationGuid": "40e0ade6-a5d8-4041-bca5-40f8604d3a49",
+                "locationName": "Whispering Vine Wine Co. - 4th Street",
+                "multiLocationId": "1600000001860760349"
+              }
+            },
+            {
               "abv": "4.6%",
               "ibu": "24",
               "name": "FiftyFifty Pilsner",
@@ -881,8 +898,8 @@
                 {
                   "name": "Whispering Vine",
                   "price": "7.75",
-                  "variety": "Sauvignon Blanc",
-                  "location": "Oregon",
+                  "variety": "Oregon",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "2d4713c2-4674-4482-93fe-949a9c0a1ebd",
@@ -1388,7 +1405,7 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Breca",
+                  "name": "Becca",
                   "price": "8.75",
                   "variety": "Grenache",
                   "location": "Spain",
@@ -1455,37 +1472,37 @@
         "specials": {
           "items": [
             {
-              "name": "Post & Beam By Far Niente Cabernet",
-              "glass": "17.75",
-              "notes": "Winery $55 ",
-              "bottle": "44.99",
+              "name": "Lewis Cabernet",
+              "glass": "26.75",
+              "notes": "93pts Jeb Dunnuck",
+              "bottle": "69.99",
               "favorites": false
             },
             {
-              "name": "Ramey \"Russian River\" Chardonnay ",
-              "glass": "17.75",
-              "notes": "95pts Robert Parker",
-              "bottle": "44.99",
+              "name": "Plumpjack Merlot",
+              "glass": "24.75",
+              "notes": "Winery $78",
+              "bottle": "59.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Merryvale Pinot Noir",
-              "glass": "16.75",
-              "notes": "Winery $55 93pts Wine Spectator",
-              "bottle": "39.99"
+              "name": "Nickle & Nickel \"Truchard\" Chardonnay",
+              "glass": "17.75",
+              "notes": "Winery $65 ",
+              "bottle": "44.99"
             },
             {
-              "name": "Educated Guess Merlot",
-              "glass": "12.75",
-              "notes": "93pts Wine Spectator",
-              "bottle": "29.99",
+              "name": "Ramey Claret",
+              "glass": "14.75",
+              "notes": "94pts Wine Enthusiast",
+              "bottle": "34.99",
               "wineryPrice": 45
             },
             {
-              "name": "Chateau Pey La Tour Bordeaux",
+              "name": "Seghesio Zinfandel",
               "glass": "8.75",
-              "notes": "",
+              "notes": "92pts Wine Spectator ",
               "bottle": "21.99",
               "favorites": false
             }
@@ -1966,7 +1983,7 @@
               "description": "Alexander Valley, Sonoma | Cabernet"
             },
             {
-              "name": "SALDO",
+              "name": "Prisoner Wine Co. SALDO",
               "price": {
                 "sale": false,
                 "glass": 8.75,
@@ -1983,7 +2000,7 @@
                   "multiLocationId": "1600000002123042023"
                 }
               },
-              "description": "Napa | Petite Syrah, Cabernet"
+              "description": "Napa | Petite Syrah, Syrah, Cabernet"
             },
             {
               "name": "La Quercia",
@@ -2006,7 +2023,7 @@
               "description": "Italy | Montepulciano"
             },
             {
-              "name": "Biale Black Chicken",
+              "name": "Biali Black Chicken",
               "price": {
                 "sale": true,
                 "glass": 17.75,
