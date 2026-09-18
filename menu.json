@@ -1421,10 +1421,10 @@
                   }
                 },
                 {
-                  "name": "Jeff Runquist",
-                  "price": "11.75",
-                  "variety": "Barbera",
-                  "location": "Plymouth",
+                  "name": "Plumpjack",
+                  "price": "24.75",
+                  "variety": "Merlot",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "b4f52391-55cb-4d15-92be-c771672c652c",
@@ -1437,10 +1437,10 @@
                   }
                 },
                 {
-                  "name": "Educated Guess",
-                  "price": "12.75",
-                  "variety": "Merlot",
-                  "location": "Napa",
+                  "name": "Jeff Runquist",
+                  "price": "13.75",
+                  "variety": "Petite Syrah",
+                  "location": "Plymouth",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "dc450024-e14f-45cc-8bc6-3b93deadb1a3",
@@ -1453,7 +1453,7 @@
                   }
                 }
               ],
-              "price": "11.75",
+              "price": "16.75",
               "favorites": true,
               "toastLink": {
                 "id": "69b3359d-a736-47fe-b2d5-ce7e1b1e3553",
@@ -1494,7 +1494,7 @@
             },
             {
               "name": "Ramey Claret",
-              "glass": "14.75",
+              "glass": "13.75",
               "notes": "94pts Wine Enthusiast",
               "bottle": "34.99",
               "wineryPrice": 45
