@@ -1844,11 +1844,11 @@
               "description": "Oregon | Chardonnay"
             },
             {
-              "name": "Jordan",
+              "name": "ZD Winery",
               "price": {
                 "sale": false,
-                "glass": 12.75,
-                "bottle": 29.99
+                "glass": 16.75,
+                "bottle": 39.99
               },
               "toastLinks": {
                 "glass": {
@@ -1904,7 +1904,7 @@
               "description": "Oregon | Pinot Noir"
             },
             {
-              "name": "WALT \"Las Brisa\"",
+              "name": "Cristom",
               "price": {
                 "sale": false,
                 "glass": 16.75,
@@ -1921,7 +1921,7 @@
                   "multiLocationId": "1600000002124110750"
                 }
               },
-              "description": "Sonoma | Pinot Noir"
+              "description": "Oregon  | Pinot Noir"
             },
             {
               "name": "Duckhorn",
