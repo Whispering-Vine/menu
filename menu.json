@@ -1231,8 +1231,8 @@
                   }
                 },
                 {
-                  "name": "Aperture",
-                  "price": "19.75",
+                  "name": "Lewis",
+                  "price": "26.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1263,7 +1263,7 @@
                   }
                 }
               ],
-              "price": "21.75",
+              "price": "23.75",
               "toastLink": {
                 "id": "f0a237dd-1c67-4f55-8fc6-e89045a6946a",
                 "name": "Premium FLIGHT",
@@ -1500,10 +1500,10 @@
               "wineryPrice": 45
             },
             {
-              "name": "Seghesio Zinfandel",
-              "glass": "8.75",
-              "notes": "92pts Wine Spectator ",
-              "bottle": "21.99",
+              "name": "Runquist Petite Syrah",
+              "glass": "13.75",
+              "notes": "",
+              "bottle": "30.99",
               "favorites": false
             }
           ]
