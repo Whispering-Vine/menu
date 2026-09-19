@@ -1405,7 +1405,7 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Becca",
+                  "name": "Breca",
                   "price": "8.75",
                   "variety": "Grenache",
                   "location": "Spain",
@@ -1983,7 +1983,7 @@
               "description": "Alexander Valley, Sonoma | Cabernet"
             },
             {
-              "name": "Prisoner Wine Co. SALDO",
+              "name": "SALDO",
               "price": {
                 "sale": false,
                 "glass": 8.75,
@@ -2023,7 +2023,7 @@
               "description": "Italy | Montepulciano"
             },
             {
-              "name": "Biali Black Chicken",
+              "name": "Biale Black Chicken",
               "price": {
                 "sale": true,
                 "glass": 17.75,
