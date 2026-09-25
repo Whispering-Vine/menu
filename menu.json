@@ -1040,8 +1040,8 @@
                   }
                 },
                 {
-                  "name": "Nickel & Nickel \"Truchard\"",
-                  "price": "17.75",
+                  "name": "Truchard",
+                  "price": "12.75",
                   "variety": "Chardonnay",
                   "location": "Sonoma",
                   "glassSize": "8oz",
@@ -1072,7 +1072,7 @@
                   }
                 }
               ],
-              "price": "14.75",
+              "price": "12.75",
               "favorites": true,
               "toastLink": {
                 "id": "138fc5f9-ec8b-4d7a-a5b5-fb16daf0a07c",
@@ -1231,9 +1231,9 @@
                   }
                 },
                 {
-                  "name": "Lewis",
-                  "price": "26.75",
-                  "variety": "Cabernet ",
+                  "name": "Robert Foley Claret",
+                  "price": "39.75",
+                  "variety": "Cabernet Blend",
                   "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1263,7 +1263,7 @@
                   }
                 }
               ],
-              "price": "23.75",
+              "price": "25.75",
               "toastLink": {
                 "id": "f0a237dd-1c67-4f55-8fc6-e89045a6946a",
                 "name": "Premium FLIGHT",
@@ -1278,9 +1278,9 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "Ramey",
+                  "name": "Ridge Three Valleys",
                   "price": "13.75",
-                  "variety": "Merlot, Cabernet, Cabernet Franc",
+                  "variety": "Zinfandel, Petite Syrah",
                   "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1405,10 +1405,10 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Breca",
-                  "price": "8.75",
+                  "name": "Clavesana",
+                  "price": "10.75",
                   "variety": "Grenache",
-                  "location": "Spain",
+                  "location": "Italy",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "47377e05-6b29-4ecc-b4ef-051eb8324520",
@@ -1472,38 +1472,38 @@
         "specials": {
           "items": [
             {
-              "name": "Lewis Cabernet",
-              "glass": "26.75",
-              "notes": "93pts Jeb Dunnuck",
-              "bottle": "69.99",
+              "name": "Foley Claret",
+              "glass": "39.75",
+              "notes": "Winery $125 96pts Jeb Dunnuck",
+              "bottle": "99.99",
               "favorites": false
             },
             {
-              "name": "Plumpjack Merlot",
-              "glass": "24.75",
-              "notes": "Winery $78",
-              "bottle": "59.99",
+              "name": "Taittinger Champagne",
+              "glass": "18.75",
+              "notes": "Winery $70",
+              "bottle": "49.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Nickle & Nickel \"Truchard\" Chardonnay",
-              "glass": "17.75",
-              "notes": "Winery $65 ",
-              "bottle": "44.99"
+              "name": "Ridge Three Valleys",
+              "glass": "13.75",
+              "notes": "93pts Wine Spectator",
+              "bottle": "32.99"
             },
             {
-              "name": "Ramey Claret",
-              "glass": "13.75",
-              "notes": "94pts Wine Enthusiast",
-              "bottle": "34.99",
+              "name": "Truchard Chardonnay",
+              "glass": "12.75",
+              "notes": "Winery $35",
+              "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "Runquist Petite Syrah",
-              "glass": "13.75",
+              "name": "Clavesana Nebbiolo",
+              "glass": "10.75",
               "notes": "",
-              "bottle": "30.99",
+              "bottle": "22.99",
               "favorites": false
             }
           ]
