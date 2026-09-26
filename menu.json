@@ -1618,9 +1618,9 @@
         "seasonal": {
           "items": [
             {
-              "name": "YAMATO 46",
+              "name": "OMEN",
               "price": "14",
-              "serving": "Served Up",
+              "serving": "On a Large Clear Cube",
               "toastLink": {
                 "id": "272b15dd-9157-4acb-bd42-1979cda573f1",
                 "name": "YAMATO 46",
@@ -1630,10 +1630,10 @@
                 "locationName": "Whispering Vine Wine Co. - 4th Street",
                 "multiLocationId": "1600000002071520134"
               },
-              "description": "Awayuki Strawberry Gin | Kanade Yuzu Liqueur | Lemon Juice | Strawberry-Shiso Shrub Syrup | Sparkling Brut"
+              "description": "High West Bourbon | Smoked Pecan-Thyme Maple Syrup | Angostura | Liquid Smoke Rinsed Glass"
             },
             {
-              "name": "MANGO MOJITO",
+              "name": "PRECURSOR",
               "price": "14",
               "serving": "On the Rocks",
               "toastLink": {
@@ -1645,12 +1645,12 @@
                 "locationName": "Whispering Vine Wine Co. - 4th Street",
                 "multiLocationId": "1600000002071520142"
               },
-              "description": "Don Q Rum | Mango-Mint Simple Syrup | Lime Juice |Rinquinquin à la Pêche Liqueur  Eucalyptus Bitters | Soda Water"
+              "description": "Reposado Tequila | Lime Juice |Golden Kiwi-Persimmon Agave | Habañero Bitters | Tajin Rim"
             },
             {
-              "name": "FALLON BUCK",
+              "name": "NUTTER BUTTER",
               "price": "14",
-              "serving": "On a Large Clear Cube",
+              "serving": "On the Rocks",
               "toastLink": {
                 "id": "b1ea96af-86ea-4636-aae8-adf9452edc82",
                 "name": "FALLON BUCK",
@@ -1660,12 +1660,12 @@
                 "locationName": "Whispering Vine Wine Co. - 4th Street",
                 "multiLocationId": "1600000001860763784"
               },
-              "description": "Frey Ranch Bourbon | Simple Syrup | Crème de Cassis | Lemon Juice | Angostura"
+              "description": "Screwball Peanut Butter Whiskey | Horchata Liqueur | Coffee | Averna | Chocolate Bitters"
             },
             {
-              "name": "DUBLIN AFTER DARK ESPRESSO MARTINI",
+              "name": "WV PSL MARTINI",
               "price": "14",
-              "serving": "Served Up",
+              "serving": "Served Hot or Cold",
               "toastLink": {
                 "id": "1b560902-dfbc-4edd-9280-eace6c20fe81",
                 "name": "WV ESPRESSO MARTINI",
@@ -1675,7 +1675,7 @@
                 "locationName": "Whispering Vine Wine Co. - 4th Street",
                 "multiLocationId": "1600000001860763790"
               },
-              "description": "Reposado Tequila | Grind Espresso Liqueur | Hazelnut Liqueur | Guinness Floater"
+              "description": "Vanilla Vodka | Coffee| Horchata Liqueur | Pumpkin Spice Syrup | Hazelnut Liqueur | Cinnamon-Cardamom Whipped Cream Optional"
             },
             {
               "name": "GRAPEFRUIT LAVENDER GIMLET",
