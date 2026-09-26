@@ -1693,7 +1693,7 @@
               "description": "Gray Whale Gin | Lime Juice | Grapefruit Juice | Simple Syrup | Lavender Bitters"
             },
             {
-              "name": "PEACH MULE",
+              "name": "PEAR MULE",
               "price": "14",
               "serving": "On the Rocks",
               "toastLink": {
@@ -1705,7 +1705,7 @@
                 "locationName": "Whispering Vine Wine Co. - 4th Street",
                 "multiLocationId": "1600000002071520140"
               },
-              "description": "Peach Infused Vodka | Lemon Juice  Ginger Beer"
+              "description": "Pear Infused Vodka | Lemon Juice |  Ginger Beer"
             },
             {
               "name": "PAINKILLER PUNCH",
@@ -1714,16 +1714,16 @@
               "description": "Chairman's Reserve Spiced Rum | Pineapple Juice | Creme de Coconut | Orange Juice"
             },
             {
-              "name": "Vine & Spice Bloody Mary",
+              "name": "VINE & SPICE BLOODY MARY",
               "price": "14",
               "serving": "On The Rocks with Celery & Olives",
               "description": "Tabasco Vodka | Bloody Mary Mix (Horseradish Added on Request)"
             },
             {
-              "name": "Golden Hour Spritz",
+              "name": "CRANBERRY SPRITZ",
               "price": "14",
               "serving": "On the Rocks",
-              "description": "Nectarine Liqueur | Limoncello | Sparkling Wine | Soda Water"
+              "description": "Cranberry Vodka | Limoncello | Sparkling Wine | Soda Water"
             }
           ]
         }
