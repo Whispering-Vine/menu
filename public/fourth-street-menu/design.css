@@ -1,0 +1,1407 @@
+/* Fourth Street v11.15. Shared, fixed print design; measurements are PDF points. */
+@font-face {
+  font-family: Marcellus;
+  src: url("/fourth-street-menu/fonts/Marcellus.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+}
+@font-face {
+  font-family: Montserrat;
+  src: url("/fourth-street-menu/fonts/Montserrat.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+}
+@font-face {
+  font-family: Montserrat;
+  src: url("/fourth-street-menu/fonts/Montserrat-Italic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 400;
+  font-display: block;
+}
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  background: #eee;
+}
+body {
+  font-family: Montserrat, sans-serif;
+  font-size: 9pt;
+  font-weight: 400;
+  font-synthesis: none;
+}
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  font-weight: 400;
+}
+button {
+  font: inherit;
+}
+#menu-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 22px;
+  padding: 22px 0;
+}
+.page {
+  width: 612pt;
+  height: 792pt;
+  flex-shrink: 0;
+  background: #fff;
+  position: relative;
+  padding: 55pt 60.5pt 48pt;
+  break-after: page;
+  page-break-after: always;
+}
+.page:last-child {
+  break-after: auto;
+  page-break-after: auto;
+}
+.page:before,
+.page:after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+  border: 1.2pt solid #111;
+  inset: 28.8pt;
+}
+.page:after {
+  inset: 33pt;
+  border-width: 0.5pt;
+}
+.page-content {
+  height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.page-heading {
+  flex-shrink: 0;
+  text-align: center;
+}
+.page-heading h1 {
+  font:
+    17pt/22pt Marcellus,
+    serif;
+  text-transform: uppercase;
+  border-bottom: 0.55pt solid #111;
+  padding-bottom: 8pt;
+}
+.caption,
+.description {
+  font-family: Montserrat, sans-serif;
+  font-size: 9pt;
+  font-style: italic;
+  line-height: 12.5pt;
+  font-weight: 400;
+}
+.page-heading > .caption {
+  margin-top: 10pt;
+}
+.section-heading {
+  text-align: center;
+  margin-bottom: 12pt;
+  position: relative;
+}
+.section-heading h2 {
+  font:
+    15pt/19pt Marcellus,
+    serif;
+  text-transform: uppercase;
+}
+.section-heading .caption {
+  font-size: 8.5pt;
+  line-height: 12pt;
+  margin-top: 3pt;
+}
+.name {
+  font-family: Marcellus, serif;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.price {
+  font:
+    9.5pt/13pt Montserrat,
+    sans-serif;
+  white-space: nowrap;
+  font-style: normal;
+  flex-shrink: 0;
+}
+.leader {
+  align-items: baseline;
+  gap: 4pt;
+  min-width: 0;
+}
+.row-copy {
+  min-width: 0;
+  flex: 0 1 auto;
+}
+.leader > .row-copy {
+  align-self: baseline;
+}
+.dots {
+  flex: 1 1 6pt;
+  border-bottom: 0.55pt dotted #111;
+  align-self: flex-end;
+  margin-bottom: 4pt;
+}
+.leader > .price,
+.flight-price {
+  align-self: flex-end;
+}
+.row-copy .description {
+  margin-left: 4pt;
+}
+.badge {
+  background: #000;
+  color: white;
+  display: inline-block;
+  white-space: nowrap;
+}
+.badge.gf {
+  color: #000;
+  background: #fff;
+  font-size: 5.6pt;
+  line-height: 6.7pt;
+}
+.favorite-star {
+  font-family: Marcellus, serif;
+  font-size: 11pt;
+}
+.two-columns {
+  display: grid;
+  grid-template-columns: 232pt 1fr;
+  gap: 40.2pt;
+  position: relative;
+}
+.two-columns:before {
+  content: "";
+  position: absolute;
+  left: 245.5pt;
+  top: 0;
+  bottom: 0;
+  width: 0.6pt;
+  background: #111;
+}
+.double-border {
+  border: 0.8pt solid #000;
+  outline: 0.5pt solid #000;
+  outline-offset: -3pt;
+}
+/* Signature */
+.signature-list {
+  margin: 22pt 21.6pt 0;
+}
+.signature-group h2 {
+  font-size: 13pt;
+  line-height: 17pt;
+}
+.wine-icons {
+  position: absolute;
+  right: 0;
+  bottom: 1pt;
+  gap: 31pt;
+}
+.wine-icons svg {
+  height: 12pt;
+  width: 12pt;
+}
+.wine-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 42pt 42pt;
+  gap: 4pt;
+  align-items: baseline;
+  min-height: 21.2pt;
+}
+.wine-row .name {
+  font-size: 11pt;
+  line-height: 14pt;
+}
+.wine-row > .price {
+  text-align: right;
+}
+.wine-row .description {
+  font-size: 9pt;
+  line-height: 12pt;
+}
+.signature-group:last-child {
+  margin-bottom: 0;
+}
+.special-flight {
+  margin-top: 12pt;
+}
+/* Flights */
+.page-flights {
+  padding: 51pt 56.5pt 46pt;
+}
+.page-flights .page-heading h1 {
+  font-size: 16pt;
+  line-height: 21pt;
+  padding-bottom: 8pt;
+}
+.page-flights .page-heading > .caption {
+  font-size: 9pt;
+  margin-top: 7pt;
+}
+.flights-grid {
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 23pt;
+}
+.flights-grid:before {
+  left: 50%;
+}
+.flights-grid > div {
+  flex-direction: column;
+  justify-content: space-between;
+}
+.flight-heading {
+  white-space: nowrap;
+}
+.flight-wine {
+  font-size: 9.7pt;
+  margin: 0;
+  align-items: baseline;
+}
+.flight-wine .description {
+  font-size: 9pt;
+}
+.flight-price {
+  white-space: nowrap;
+}
+.flight-price .price {
+  font-size: 7.5pt;
+  line-height: 12pt;
+}
+.glass-size {
+  font:
+    italic 5.6pt Montserrat,
+    sans-serif;
+}
+.featured-flight {
+  margin: 10pt 54pt 0;
+  padding: 9pt 8pt 7pt;
+}
+.featured-flight .flight-price .price {
+  font-size: 7.5pt;
+}
+.featured-flight .glass-size {
+  font-size: 7pt;
+}
+.weekly-specials {
+  border-top: 0.6pt solid #000;
+  margin-top: 21pt;
+  padding-top: 7pt;
+}
+.weekly-specials .section-heading {
+  margin-bottom: 10pt;
+}
+.weekly-specials h2 {
+  font-size: 12pt;
+  line-height: 17pt;
+}
+.weekly-specials .wine-icons {
+  gap: 33pt;
+}
+/* Cocktails */
+.page-cocktails .page-heading {
+  margin-bottom: 13pt;
+}
+.cocktail-grid > div {
+  display: flex;
+  flex-direction: column;
+}
+.cocktail {
+  font-size: 10.5pt;
+  line-height: 14pt;
+}
+.cocktail .description {
+  margin-top: 2pt;
+  line-height: 11.4pt;
+}
+.cocktail .name {
+  white-space: nowrap;
+}
+.cocktail .leader {
+  gap: 4pt;
+}
+.featured-cocktail {
+  width: 338pt;
+  margin: 18pt auto 0;
+  padding: 8pt 30pt 10pt;
+  text-align: center;
+  min-height: 64pt;
+}
+.featured-cocktail .leader {
+  justify-content: center;
+  font-size: 12pt;
+}
+.featured-cocktail .price {
+  font-size: 10.4pt;
+}
+.featured-cocktail .description {
+  margin-top: 6pt;
+  line-height: 13pt;
+}
+.cocktail-section.house {
+  margin-top: 17pt;
+  padding-top: 8pt;
+  border-top: 0.6pt solid #000;
+}
+.house .section-heading h2 {
+  letter-spacing: 0;
+}
+.house .cocktail {
+  min-height: 45pt;
+}
+.cocktail-footer {
+  margin-top: auto;
+  border-top: 0.6pt solid #000;
+  text-align: center;
+  font-size: 8pt;
+  white-space: nowrap;
+}
+.kitchen-round {
+  font-size: 6.1pt;
+  line-height: 11pt;
+  margin-top: 4pt;
+}
+.kitchen-round .price {
+  font: inherit;
+}
+/* Beer */
+.beer-list {
+  margin: 21pt 21.6pt 0;
+}
+.beer-row {
+  font-size: 11pt;
+  line-height: 14pt;
+  min-height: 20.45pt;
+}
+.beer-row .description {
+  margin-left: 6pt;
+}
+.beer-list.bottled {
+  margin-top: 6pt;
+}
+.bottled .section-heading h2 {
+  letter-spacing: 0;
+}
+.bottled .section-heading {
+  margin-bottom: 17pt;
+}
+.bottled .beer-row {
+  min-height: 22.45pt;
+}
+.spirits-grid {
+  border-top: 0.6pt solid #000;
+  text-align: center;
+  padding-top: 11pt;
+}
+.spirits-grid:before {
+  left: 50%;
+}
+.spirits-grid h2 {
+  line-height: 19pt;
+}
+.spirits-grid .caption {
+  font-size: 9pt;
+}
+.spirit-pours {
+  white-space: pre-line;
+  font:
+    11pt/17pt Marcellus,
+    serif;
+}
+.spirit-price {
+  font-size: 8pt;
+  margin-top: 8pt;
+}
+.spirits-caption {
+  white-space: pre-line;
+  font:
+    8.5pt/14pt Montserrat,
+    sans-serif;
+  margin-top: -1pt;
+}
+.spirits-qr {
+  display: block;
+  width: 58pt;
+  height: 58pt;
+  margin: 3pt auto 0;
+}
+.beer-footer {
+  border-top: 0.6pt solid #000;
+  padding-top: 7pt;
+  text-align: center;
+  font-size: 8.3pt;
+  line-height: 13pt;
+  margin-top: auto;
+}
+/* Kitchen */
+.kitchen-header {
+  height: 35pt;
+  flex-shrink: 0;
+  margin-bottom: 8pt;
+}
+.kitchen-header h1 {
+  font:
+    16pt/19pt Montserrat,
+    sans-serif;
+  text-transform: uppercase;
+}
+.kitchen-header .description {
+  font-size: 8pt;
+  line-height: 12pt;
+}
+.kitchen-header.chef {
+  text-align: right;
+}
+.chef h2 {
+  font:
+    12pt/17pt Marcellus,
+    serif;
+  text-transform: uppercase;
+}
+.chef > div {
+  font-size: 8pt;
+  line-height: 12pt;
+}
+.food-columns {
+  flex: 1;
+  min-height: 0;
+  padding-top: 5pt;
+}
+.food-section .section-heading {
+  margin-bottom: 11pt;
+}
+.food-section .section-heading h2 {
+  font-size: 15pt;
+  line-height: 19pt;
+}
+.food-section .caption {
+  text-transform: none;
+}
+.food-item {
+  margin-bottom: 13pt;
+}
+.food-item:last-child {
+  margin-bottom: 0;
+}
+.food-name {
+  font-size: 11pt;
+}
+.food-item .description {
+  font-size: 9pt;
+  line-height: 12.6pt;
+  margin-top: 1pt;
+}
+.food-section + .food-section {
+  margin-top: 15pt;
+}
+.section-starters .caption {
+  text-transform: capitalize;
+}
+.section-starters .food-item {
+  margin-bottom: 13pt;
+}
+.section-starters .food-item:last-child {
+  margin-bottom: 0;
+}
+.section-tacos .food-name {
+  font-size: 10.24pt;
+}
+.section-tacos .description {
+  font-size: 8.38pt;
+  line-height: 11.85pt;
+}
+.section-tacos .price {
+  font-size: 8.84pt;
+}
+.section-tacos .section-heading h2 {
+  font-size: 14pt;
+}
+.section-tacos .food-item {
+  margin-bottom: 14pt;
+}
+.food-legend {
+  border-top: 0.6pt solid #000;
+  flex-shrink: 0;
+  margin-top: 20pt;
+  padding-top: 13pt;
+  text-align: center;
+  font-size: 6.6pt;
+  line-height: 11pt;
+}
+.food-legend > div:first-child {
+  letter-spacing: 0.8pt;
+}
+.food-legend .badge {
+  margin-left: 0;
+}
+.page-food-2 .food-columns {
+  flex: 0 0 auto;
+}
+.page-food-2 .food-section .section-heading h2 {
+  letter-spacing: 0;
+}
+.page-food-2 .food-item .description {
+  line-height: 11.3pt;
+}
+.burger-offer {
+  padding: 8pt 8pt 6pt;
+}
+.burger-offer h3 {
+  font:
+    11pt/15pt Marcellus,
+    serif;
+  text-transform: uppercase;
+}
+.burger-offer > .description {
+  font-size: 7.2pt;
+  line-height: 11pt;
+  margin: 1pt 0 7pt;
+}
+.offer-option {
+  min-height: 17pt;
+  font-size: 7.6pt;
+}
+.offer-option .price {
+  font-size: 8.2pt;
+  line-height: 12pt;
+}
+.desserts {
+  border-top: 0.4pt solid #999;
+  margin-top: 20pt;
+  padding-top: 8pt;
+}
+.desserts .section-heading {
+  margin-bottom: 9pt;
+}
+.desserts .food-item {
+  margin-bottom: 12pt;
+}
+.food-advisory {
+  margin-top: auto;
+  border-top: 0.6pt solid #000;
+  display: flex;
+  align-items: center;
+  gap: 18pt;
+  font-size: 6pt;
+  line-height: 10pt;
+}
+.food-advisory > div {
+  flex: 1;
+}
+.food-advisory > span {
+  font:
+    8pt/11pt Marcellus,
+    serif;
+  text-align: center;
+}
+.food-advisory > svg {
+  flex-shrink: 0;
+}
+@page {
+  size: letter;
+  margin: 0;
+}
+@media print {
+  html,
+  body {
+    background: #fff;
+  }
+  #menu-container {
+    display: block;
+    padding: 0;
+    gap: 0;
+  }
+  .page {
+    margin: 0;
+    box-shadow: none;
+  }
+  .visual-hidden {
+    display: none !important;
+  }
+}
+/* Measured against the visible v11.15 pages (no PDF overlay layers). */
+.page-content > * {
+  flex-shrink: 0;
+}
+.dots {
+  flex-basis: 0;
+  min-width: 0;
+}
+.favorite-star {
+  height: 8pt;
+  vertical-align: 0;
+  display: inline-block;
+  margin-right: 1pt;
+}
+.signature-list .name,
+.beer-row .name,
+.page-food-1 .food-name .name {
+  letter-spacing: 0.5pt;
+}
+.signature-list .wine-row > .leader {
+  padding-right: 4pt;
+}
+.page-food-1 {
+  padding-bottom: 60pt;
+}
+.page-food-1 .food-columns {
+  padding-top: 3pt;
+}
+.page-food-1 .food-item .description {
+  max-width: 201pt;
+}
+.page-food-1 .food-columns > div:nth-child(2) .food-item .description {
+  max-width: 196pt;
+}
+.page-food-1 .section-starters .caption {
+  text-transform: none;
+}
+.page-food-1 .food-item {
+  margin-bottom: 10pt;
+}
+.page-food-1 .food-section + .food-section {
+  margin-top: 14pt;
+}
+.cocktail-section .section-heading {
+  margin-bottom: 6pt;
+}
+.cocktail-grid > div {
+  gap: 0;
+}
+.cocktail {
+  min-height: 48pt;
+}
+.cocktail:not(:last-child) {
+  min-height: 62pt;
+}
+.featured-cocktail {
+  margin-top: 5pt;
+}
+.featured-cocktail .description {
+  margin-inline: auto;
+}
+.house .cocktail-grid > div {
+  gap: 0;
+}
+.house .cocktail:not(:last-child) {
+  min-height: 61pt;
+}
+.cocktail-footer {
+  padding-top: 25pt;
+}
+.cocktail-footer .name {
+  font-size: 11pt;
+}
+.flights-grid {
+  height: 370pt;
+}
+.flights-grid > div {
+  display: grid;
+  padding-bottom: 0;
+}
+.flight-heading {
+  font-family: Marcellus, serif;
+}
+.flight-wine .description {
+  line-height: 15pt;
+}
+.flight-wine .row-copy {
+  flex: 0 1 auto;
+}
+.featured-flight .flight-heading {
+  letter-spacing: 0;
+}
+.page-food-2 .food-columns {
+  min-height: 445pt;
+}
+.page-food-2 .food-item {
+  margin-bottom: 16pt;
+}
+.page-food-2 .section-burgers .food-item {
+  min-height: 37.6pt;
+}
+.page-food-2 .section-sides .food-item:last-child {
+  margin-bottom: 0;
+}
+.page-food-2 .food-advisory {
+  font-size: 7pt;
+}
+.burger-offer {
+  margin-top: 23pt;
+}
+.food-advisory {
+  padding-top: 8pt;
+}
+.food-advisory > div {
+  max-width: 360pt;
+}
+.food-advisory > svg {
+  width: 44pt;
+  height: 44pt;
+}
+.flights-grid > div {
+  min-height: 0;
+  grid-template-rows: 86pt 94pt 104pt 1fr;
+  gap: 0;
+}
+.flight-wine .description {
+  margin-left: 0;
+}
+.flight-wine .name {
+  letter-spacing: 0;
+}
+.flight-heading {
+  font-size: 11.2pt;
+  letter-spacing: 0.65pt;
+}
+.flight-wine .row-copy {
+  font-size: 9pt;
+}
+.flight-wine .name {
+  font-size: 9.7pt;
+}
+.flight-wine .glass-size {
+  letter-spacing: 0;
+}
+.featured-flight .flight-heading {
+  font-size: 11pt;
+}
+.featured-flight .flight-heading {
+  margin-bottom: 5pt;
+}
+.featured-flight {
+  margin-top: 10pt;
+  padding-top: 8pt;
+  padding-bottom: 4pt;
+}
+.weekly-specials .wine-row .name {
+  font-size: 10.39pt;
+}
+.weekly-specials .price {
+  font-size: 9pt;
+}
+.weekly-specials .wine-row {
+  grid-template-columns: minmax(0, 1fr) 30pt 40pt;
+}
+.weekly-specials .description {
+  font-size: 9pt;
+}
+.cocktail-grid > div:first-child .description {
+  max-width: 231.1pt;
+}
+.cocktail-grid > div:last-child .description {
+  max-width: 217.6pt;
+}
+.cocktail-footer .kitchen-round {
+  font-size: 7pt;
+}
+.page-food-1 .section-starters .food-name .row-copy,
+.page-food-1 .section-small-plates .food-name .row-copy {
+  max-width: 190pt;
+}
+.page-food-1 .section-tacos {
+  margin-top: 9pt;
+}
+.page-food-1 .section-tacos .description {
+  max-width: 205pt;
+}
+.page-food-1 .section-tacos .food-name .name {
+  letter-spacing: 0.45pt;
+}
+.page-food-2 .food-item .description {
+  font-size: 8.9pt;
+  letter-spacing: -0.025pt;
+}
+.page-food-2 .section-burgers .food-item .description {
+  font-size: 8.9pt;
+}
+.page-food-2 .section-mains .food-item:first-child .description {
+  font-size: 8.85pt;
+  letter-spacing: -0.04pt;
+}
+.page-food-2 .section-mains .food-item {
+  margin-bottom: 17pt;
+}
+.page-food-2 .section-mains .food-item:last-child {
+  margin-bottom: 0;
+}
+.page-food-2 .section-sides .food-item {
+  margin-bottom: 14pt;
+}
+.page-food-2 .section-burgers .food-item:last-child {
+  margin-bottom: 0;
+}
+.page-food-2 .desserts .food-item {
+  margin-bottom: 11pt;
+}
+.page-food-2 .desserts .food-item:last-child {
+  margin-bottom: 0;
+}
+.page-food-2 .desserts {
+  margin-top: 20pt;
+}
+.page-food-2 .food-advisory {
+  margin-top: auto;
+}
+/* Flowing row copy; the shared layout function positions the vector leader. */
+.leader {
+  display: block;
+  position: relative;
+  line-height: inherit;
+}
+.leader > .row-copy,
+.leader > .name {
+  display: inline;
+}
+.leader > .dots {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 3pt;
+  margin: 0;
+}
+.leader:has(> .price) {
+  padding-right: 23pt;
+}
+.leader > .price,
+.leader > .flight-price {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  padding-left: 4pt;
+}
+.wine-row > .leader {
+  font-size: 11pt;
+  line-height: 14pt;
+}
+.wine-row .row-copy .description {
+  margin-left: 4pt;
+}
+.beer-row {
+  padding-right: 26pt !important;
+}
+.beer-row .row-copy {
+  white-space: nowrap;
+}
+.beer-row .dots {
+  bottom: 7pt;
+}
+.beer-row > .price {
+  bottom: 4pt;
+}
+.flight-wine {
+  padding-right: 31pt;
+  line-height: 15pt;
+}
+.flight-wine .row-copy {
+  line-height: 15pt;
+}
+.flight-heading {
+  line-height: 15pt;
+}
+.featured-flight .flight-wine .name {
+  font-size: 7.6pt;
+}
+.flight-wine.compact .description {
+  font-size: 8.5pt;
+}
+.flight-wine.compact {
+  padding-right: 29pt;
+}
+.food-name {
+  line-height: 14.2pt;
+}
+.page-food-1 .section-starters .food-name,
+.page-food-1 .section-small-plates .food-name {
+  padding-right: 42pt;
+}
+.page-food-1 .food-name .row-copy {
+  max-width: none;
+}
+.cocktail .leader {
+  line-height: 14pt;
+}
+.cocktail .description {
+  white-space: pre-line;
+}
+.cocktail-grid > div .description {
+  max-width: none;
+}
+.featured-cocktail .leader {
+  display: flex;
+  padding-right: 0;
+  gap: 11pt;
+}
+.featured-cocktail .leader > .price {
+  position: static;
+  padding: 0;
+}
+.featured-cocktail .description {
+  max-width: 250pt;
+}
+.offer-option {
+  line-height: 17pt;
+}
+.offer-option > .price {
+  bottom: 2pt;
+}
+.offer-option > .dots {
+  bottom: 5pt;
+}
+.leader > .row-copy,
+.leader > .name {
+  position: static;
+  z-index: auto;
+  box-shadow: none;
+}
+.food-item .badge {
+  box-shadow: none;
+}
+/* Leaders are measured after fonts load; text has no opaque masks or overlays. */
+.leader {
+  isolation: auto;
+}
+.leader > .row-copy,
+.leader > .name {
+  background: transparent;
+  box-decoration-break: slice;
+  -webkit-box-decoration-break: slice;
+}
+.leader > .dots {
+  z-index: auto;
+}
+.leader > .price,
+.leader > .flight-price {
+  background: transparent;
+}
+.signature-group .section-heading {
+  margin-bottom: 8pt;
+}
+.signature-group {
+  margin-bottom: 5pt;
+}
+.beer-list .section-heading {
+  margin-bottom: 16pt;
+}
+.beer-list.bottled .section-heading {
+  margin-bottom: 14pt;
+}
+.spirits-grid {
+  margin-top: 15pt;
+}
+.page-food-1 .section-small-plates .section-heading,
+.page-food-1 .section-flatbreads .section-heading,
+.page-food-1 .section-tacos .section-heading {
+  margin-bottom: 7pt;
+}
+.page-food-1 .section-starters > .section-heading,
+.page-food-1 .section-salads > .section-heading {
+  transform: translateY(3pt);
+}
+.page-food-1 .food-columns {
+  padding-bottom: 12pt;
+}
+.flights-grid {
+  margin-top: 11pt;
+}
+.flight-heading {
+  margin-bottom: 5pt;
+}
+.featured-flight {
+  width: 400pt;
+  margin-inline: auto;
+}
+.page-flights .weekly-specials {
+  margin-top: 21pt;
+}
+.featured-flight .flight-wine {
+  line-height: 17pt;
+}
+.featured-flight .flight-wine .row-copy {
+  line-height: 17pt;
+}
+.flight-wine .description {
+  white-space: pre-line;
+}
+.flight-wine .name {
+  margin-right: 3pt;
+}
+.weekly-specials .wine-row {
+  min-height: 18pt;
+}
+.page-food-2 .offer-option {
+  min-height: 17pt;
+}
+.spirits-grid > section:last-child h2 {
+  max-width: 200pt;
+  margin-inline: auto;
+}
+
+/* v11.15 reference geometry. Text remains embedded TrueType, including badges. */
+@font-face {
+  font-family: Montserrat;
+  src: url("/fourth-street-menu/fonts/Montserrat-SemiBold.ttf")
+    format("truetype");
+  font-style: normal;
+  font-weight: 600;
+  font-display: block;
+}
+@font-face {
+  font-family: "Menu Badge";
+  src: url("/fourth-street-menu/fonts/DejaVuSans-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: block;
+}
+.page-heading h1 {
+  letter-spacing: 4.42pt;
+}
+.page-flights .page-heading h1 {
+  letter-spacing: 4.16pt;
+}
+.section-heading h2 {
+  letter-spacing: 2.1pt;
+}
+.signature-group h2 {
+  letter-spacing: 1.82pt;
+}
+.kitchen-header h1 {
+  font-family: Marcellus, serif;
+  letter-spacing: 3.2pt;
+}
+.chef h2 {
+  letter-spacing: 2.04pt;
+  transform: translateY(1.5pt);
+}
+.chef > div {
+  letter-spacing: 0.4pt;
+  transform: translateY(-0.75pt);
+}
+.wine-icons {
+  display: block;
+  inset: 0;
+  pointer-events: none;
+}
+.wine-icons svg {
+  position: absolute;
+  stroke-width: 1.5;
+}
+.signature-group .wine-icons svg {
+  width: 14pt;
+  height: 14pt;
+  top: 1.77pt;
+}
+.signature-group .wine-icons svg:first-child {
+  left: 383.91pt;
+}
+.signature-group .wine-icons svg:last-child {
+  left: 429.25pt;
+}
+.weekly-specials .wine-icons svg {
+  width: 12pt;
+  height: 12pt;
+}
+.weekly-specials .wine-icons svg:first-child {
+  left: 435.7164pt;
+}
+.weekly-specials .wine-icons svg:last-child {
+  left: 481.3413pt;
+}
+.badge {
+  font:
+    700 6.2pt/10pt "Menu Badge",
+    sans-serif;
+  letter-spacing: 0;
+  height: 10pt;
+  padding: 0 3pt;
+  vertical-align: 1.8pt;
+  margin-left: 4pt;
+}
+.badge.gf {
+  font:
+    600 5.6pt/1 Montserrat,
+    sans-serif;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: 0.448pt;
+  width: 15pt;
+  height: 8.2pt;
+  border: 0.75pt solid #000;
+  padding: 0;
+  vertical-align: 1.5pt;
+}
+.badge.gf > span {
+  /* Remove the trailing tracking from the centered text's advance width. */
+  margin-right: -0.448pt;
+}
+.beer-row .badge {
+  font-size: 5.2pt;
+  height: 8pt;
+  line-height: 8pt;
+}
+/* The older export leaves a full line before the final Chardonnay. */
+.flights-grid > div:first-child .flight:nth-child(2) .flight-wine:last-child {
+  margin-top: 15pt;
+}
+
+.page::before,
+.page::after {
+  content: none;
+}
+.page-frame {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  fill: none;
+  stroke: #000;
+  pointer-events: none;
+}
+/* Square dot leaders in the original are .75pt on a 1.5pt pitch. */
+.leader > .dots {
+  border: 0;
+  height: 0.75pt;
+}
+.page-food-1 .food-columns::before {
+  bottom: auto;
+  height: 576pt;
+}
+.page-food-2 .food-columns::before {
+  bottom: auto;
+  height: 444.75pt;
+}
+.two-columns::before {
+  width: 0.75pt;
+}
+.cocktail-grid::before {
+  width: 0.65pt;
+}
+/* Section rules end with their actual content, not at the page footer. */
+.spirits-grid {
+  min-height: 155.25pt;
+  height: 155.25pt;
+}
+.spirits-grid .section-heading {
+  margin-bottom: 5pt;
+}
+.spirit-pours {
+  line-height: 16.5pt;
+}
+.spirits-qr {
+  margin-top: 0;
+}
+/* The boxed flight starts at (110, 489) in v11.15. */
+.featured-flight {
+  transform: translate(4pt, -2pt);
+}
+
+.leader > .dots {
+  background: none;
+}
+/* Measured section endpoints and baseline corrections. */
+.page-heading h1 {
+  position: relative;
+  top: 0.75pt;
+}
+.page-flights .page-heading h1 {
+  top: 0;
+}
+.kitchen-header {
+  border-bottom: 0;
+  position: relative;
+}
+.kitchen-header::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.75pt;
+  height: 0.75pt;
+  background: #000;
+}
+.section-heading h2 {
+  position: relative;
+}
+.page-cocktails .seasonal > .section-heading h2,
+.beer-list.tap > .section-heading h2 {
+  top: 1.5pt;
+}
+.weekly-specials h2 {
+  letter-spacing: 1.68pt;
+}
+.weekly-specials .section-heading {
+  transform: translateY(-1.75pt);
+}
+.weekly-specials .wine-icons svg {
+  top: 7.785pt;
+}
+.weekly-specials .wine-row {
+  transform: translateY(-2.5pt);
+}
+.cocktail-footer {
+  transform: translateY(-3.5pt);
+}
+.cocktail-footer .name {
+  letter-spacing: 1.1pt;
+}
+.cocktail-footer .description {
+  font-size: 9pt;
+}
+.beer-footer {
+  transform: translateY(-3pt);
+}
+.spirits-grid {
+  border-bottom: 0;
+}
+.page-food-1 .section-small-plates {
+  margin-top: 0;
+}
+.page-food-1 .section-flatbreads {
+  margin-top: 0;
+}
+.page-food-1 .section-salads > .section-heading {
+  margin-bottom: 9.5pt;
+}
+.page-food-1 .section-tacos .food-item {
+  margin-bottom: 6.75pt;
+}
+.page-food-1 .food-legend {
+  transform: translateY(-1pt);
+}
+.page-food-2 .section-burgers .food-item {
+  margin-bottom: 15.6pt;
+}
+.page-food-2 .section-burgers .section-heading {
+  margin-bottom: 3.4pt;
+}
+.page-food-2 .section-sides {
+  margin-top: 11pt;
+}
+.page-food-2 .section-sides .section-heading {
+  margin-bottom: 7pt;
+}
+.page-food-2 .section-mains .section-heading {
+  margin-bottom: 6.5pt;
+}
+.page-food-2 .burger-offer {
+  margin-top: 22pt;
+  padding-bottom: 2pt;
+}
+.page-food-2 .burger-offer .description {
+  margin-top: 0;
+  margin-bottom: 2pt;
+}
+.page-food-2 .desserts > .section-heading h2 {
+  top: 1.5pt;
+}
+.page-food-2 .desserts .section-heading {
+  margin-bottom: 7.5pt;
+}
+.page-food-2 .food-advisory {
+  padding-top: 4.5pt;
+}
+
+.page-food-1 .food-section.section-small-plates {
+  margin-top: 10.25pt;
+}
+.page-food-1 .section-small-plates .section-heading {
+  margin-bottom: 6.25pt;
+}
+.page-food-1 .food-section.section-flatbreads {
+  margin-top: 10.25pt;
+}
+.page-food-1 .section-flatbreads .section-heading {
+  margin-bottom: 6.5pt;
+}
+.page-food-1 .food-section.section-tacos {
+  margin-top: 16.5pt;
+}
+.page-food-1 .section-tacos .section-heading {
+  margin-bottom: 5.25pt;
+}
+.page-food-1 .section-tacos .section-heading h2 {
+  letter-spacing: 1.956pt;
+}
+.kitchen-header h1 {
+  transform: translateY(0.75pt);
+}
+.favorite-star {
+  width: 8.42pt;
+}
+.page-food-2 .desserts .food-item .description {
+  font-size: 9pt;
+  letter-spacing: 0;
+  line-height: 12.6pt;
+}
+.page-food-2 .food-advisory > span {
+  transform: translateX(-11pt);
+}
+.food-legend > div:first-child {
+  font-weight: 600;
+}
+.food-legend-symbols {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14pt;
+}
+.food-legend-key {
+  display: inline-flex;
+  align-items: center;
+  gap: 5pt;
+}
+.food-legend-key > .favorite-star,
+.food-legend-key > .badge {
+  flex: none;
+  margin: 0;
+  vertical-align: initial;
+}
+
+.spirits-grid {
+  grid-template-columns: 232pt 1fr;
+  gap: 40.2pt;
+}
+.spirits-grid::before {
+  left: 245.5pt;
+}
+.spirits-qr {
+  transform: translateY(3pt);
+}
+
+.page-food-1 .section-small-plates .food-item .description {
+  max-width: 214pt;
+}
+.page-food-2 .desserts .two-columns > div:first-child .description {
+  max-width: 201pt;
+}
+.page-food-2 .desserts .two-columns::before {
+  top: -1pt;
+  height: 76.75pt;
+  bottom: auto;
+}
+/* The reference's premium box uses larger names and smaller descriptions. */
+.featured-flight .flight-wine { font-size: 9pt; line-height: 18pt; }
+.featured-flight .flight-wine .row-copy { font-size: 9pt; line-height: 18pt; }
+.featured-flight .flight-wine .name { font-size: 9pt; }
+.featured-flight .flight-wine .description { font-size: 7.8pt; line-height: normal; }
+.featured-flight .flight-price .price,
+.featured-flight .glass-size { font: normal 7.7pt/12pt Montserrat, sans-serif; }
+.featured-flight .flight-heading > .price { font-size: 10.2pt; }
+/* Preserve the weekly section position with the reference's smaller type. */
+.featured-flight { min-height: 89pt; }

@@ -1,46 +1,80 @@
-name: Generate PDF
+name: Generate PDF and Publish Menu
 
 on:
-  workflow_dispatch:  # Enables manual run via GitHub UI
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
   schedule:
-    - cron: '0 3 * * 0'  # Runs every Sunday at 3:00 AM UTC
+    - cron: '0 3 * * 0'
 
-jobs: 
+permissions:
+  contents: read
+
+# JSON, generated PDF, and Pages publish together, in order.
+concurrency:
+  group: menu-publish-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
   generate_pdf:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          fetch-depth: 0
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Generate directly from menu.json
+        run: npm run generate
+      - name: Validate pages, fonts, and overflow protection
+        run: npm test
+      - name: Save reviewed build artifacts
+        uses: actions/upload-artifact@v4
         with:
-          node-version: '20'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Generate PDF
-        run: node generatePDF.js
-
-      - name: Commit and push PDF
+          name: fourth-street-menu
+          path: |
+            menu.pdf
+            menu.json
+          retention-days: 14
+      - name: Commit the generated PDF
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git fetch origin main
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" || { echo 'Main changed during generation; a newer run will publish it.'; exit 1; }
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.name 'github-actions[bot]'
           git add menu.pdf
-          git commit -m "Update generated PDF" || echo "No changes to commit"
-          git pull --rebase
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+          if ! git diff --cached --quiet; then
+            git commit -m 'Generate menu.pdf from menu.json'
+            git push origin HEAD:main
+          fi
+      - name: Prepare public assets from this validated build
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        run: |
+          mkdir _site
+          rsync -a ./ _site/ --exclude='.git/' --exclude='.github/' --exclude='node_modules/' --exclude='_site/' --exclude='src/' --exclude='scripts/' --exclude='tests/' --exclude='public/' --exclude='package*.json' --exclude='tsconfig.json' --exclude='generatePDF.js' --exclude='sync-prices.js' --exclude='README.md' --exclude='.gitignore'
+      - uses: actions/configure-pages@v5
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+      - uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        with:
+          path: _site
+
   deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     needs: generate_pdf
-   # Call your reusable static deployment workflow as a job to deploy your JSON
-    uses: ./.github/workflows/static.yml
-    with:
-      publish_dir: '.'  # Adjust if your site builds to a specific folder
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
