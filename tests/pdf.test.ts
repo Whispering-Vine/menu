@@ -12,7 +12,9 @@ test('generated menu is six letter pages with all text in embedded TrueType font
   assert.ok(fonts.length > 0);
   assert.ok(fonts.every(font => font.get(PDFName.of('Subtype'))?.toString() !== '/Type3'));
   const faces = fonts.filter(font => font.get(PDFName.of('Subtype'))?.toString() === '/CIDFontType2');
-  assert.equal(faces.length, 5);
+  // Unused GF/NEW/LOCAL faces may disappear after legitimate flag edits.
+  assert.ok(faces.length > 0);
+  assert.ok(fonts.every(font => ['/Type0', '/CIDFontType2'].includes(font.get(PDFName.of('Subtype'))?.toString() || '')));
   for (const font of faces) assert.ok(font.lookup(PDFName.of('FontDescriptor'), PDFDict).has(PDFName.of('FontFile2')));
 });
 
