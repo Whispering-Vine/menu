@@ -1405,3 +1405,5 @@ button {
 .featured-flight .flight-heading > .price { font-size: 10.2pt; }
 /* Preserve the weekly section position with the reference's smaller type. */
 .featured-flight { min-height: 89pt; }
+/* Keep short trailing words with the preceding phrase in food descriptions. */
+.food-item .description { text-wrap: pretty; }
