@@ -45,12 +45,12 @@
               }
             },
             {
-              "abv": "4.9%",
-              "ibu": "14",
-              "name": "Pigeon Head Lager",
+              "abv": "7.0%",
+              "ibu": "28",
+              "name": "Dogfish Pumkin Ale",
               "local": true,
               "price": "$6.25",
-              "brewery": "Reno",
+              "brewery": "Delaware ",
               "toastLink": {
                 "id": "9c2777c1-31af-4323-b710-668dd54d3850",
                 "name": "Pigeon Head Lager",
@@ -189,12 +189,12 @@
               "brewery": "Ireland"
             },
             {
-              "abv": "5.5%",
-              "ibu": "30",
-              "name": "Boneyard Diablo Rojo Red",
+              "abv": "5.0%",
+              "ibu": "15",
+              "name": "Cali Squeeze Blood Orange ",
               "local": false,
-              "price": "$7.25",
-              "brewery": "Oregon"
+              "price": "$6.25",
+              "brewery": "California"
             }
           ]
         },
