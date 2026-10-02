@@ -1183,10 +1183,10 @@
                   }
                 },
                 {
-                  "name": "Gamble",
+                  "name": "Jordan",
                   "price": "19.75",
                   "variety": "Cabernet",
-                  "location": "Napa",
+                  "location": "Alexander Valley, Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "defeb5ea-b1fe-4c68-9612-e7722bb15abe",
@@ -1231,9 +1231,9 @@
                   }
                 },
                 {
-                  "name": "Robert Foley Claret",
-                  "price": "39.75",
-                  "variety": "Cabernet Blend",
+                  "name": "Lewis",
+                  "price": "27.75",
+                  "variety": "Cabernet ",
                   "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1263,7 +1263,7 @@
                   }
                 }
               ],
-              "price": "25.75",
+              "price": "24.75",
               "toastLink": {
                 "id": "f0a237dd-1c67-4f55-8fc6-e89045a6946a",
                 "name": "Premium FLIGHT",
@@ -1472,38 +1472,38 @@
         "specials": {
           "items": [
             {
-              "name": "Foley Claret",
-              "glass": "39.75",
-              "notes": "Winery $125 96pts Jeb Dunnuck",
-              "bottle": "99.99",
+              "name": "Jordan Cabernet",
+              "glass": "19.75",
+              "notes": "Winery $62 96pts Tasting Panel",
+              "bottle": "49.99",
               "favorites": false
             },
             {
-              "name": "Taittinger Champagne",
-              "glass": "18.75",
-              "notes": "Winery $70",
-              "bottle": "49.99",
+              "name": "Cristom Mt. Jefferson Pinot Noir ",
+              "glass": "16.75",
+              "notes": "Winery $50 95pts Wine Spectator Top 100",
+              "bottle": "39.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Ridge Three Valleys",
+              "name": "Quilt Chardonnay",
               "glass": "13.75",
-              "notes": "93pts Wine Spectator",
-              "bottle": "32.99"
+              "notes": "Winery $35",
+              "bottle": "29.99"
             },
             {
-              "name": "Truchard Chardonnay",
-              "glass": "12.75",
-              "notes": "Winery $35",
-              "bottle": "29.99",
+              "name": "Twomey Sauvignon Blanc",
+              "glass": "11.75",
+              "notes": "Winery $36",
+              "bottle": "26.99",
               "wineryPrice": 45
             },
             {
-              "name": "Clavesana Nebbiolo",
-              "glass": "10.75",
+              "name": "Madaudo Spumante",
+              "glass": "11.75",
               "notes": "",
-              "bottle": "22.99",
+              "bottle": "25.99",
               "favorites": false
             }
           ]
