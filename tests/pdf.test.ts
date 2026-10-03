@@ -23,3 +23,10 @@ test('overflowing edits fail instead of publishing a clipped menu', async () => 
   menu['food-2'].categories.mains.items[0].description = 'This text cannot fit on the menu. '.repeat(300);
   await assert.rejects(() => generateFourthStreetPdf(menu), /exceeds|does not fit/);
 });
+
+test('a favorite cocktail prints on six pages', async () => {
+  const { menu } = JSON.parse(await readFile('menu.json', 'utf8'));
+  menu.cocktails.categories.seasonal.items[0].favorites = true;
+  const { pdf } = await generateFourthStreetPdf(menu);
+  assert.equal((await PDFDocument.load(pdf)).getPageCount(), 6);
+});

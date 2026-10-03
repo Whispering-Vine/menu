@@ -313,6 +313,7 @@ export function FourthStreetMenuPage({
       >
         <div className="leader">
           <span className="name">
+            {item.favorites && <Favorite />}
             {field([...path, "name"], "Cocktail name")}
           </span>
           {!item.featured && <i className="dots" />}

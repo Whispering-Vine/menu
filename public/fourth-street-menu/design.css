@@ -1407,3 +1407,10 @@ button {
 .featured-flight { min-height: 89pt; }
 /* Keep short trailing words with the preceding phrase in food descriptions. */
 .food-item .description { text-wrap: pretty; }
+
+/* Flight order can change without forcing long copy into a fixed-height row. */
+.flights-grid > div {
+  grid-template-rows: none;
+  grid-auto-rows: max-content;
+  align-content: space-between;
+}
