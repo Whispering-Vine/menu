@@ -12,6 +12,6 @@ Pushes to `main`, manual runs, and the Sunday schedule generate and validate six
 
 Edit menu content/flags/order in `menu.json` or save from the Fourth Street admin. The current storage categories and Toast metadata remain intact; food `print_section` determines print placement. `featured` controls the premium flight and cocktail; `featured_offer` identifies the burger-and-bottle offer with its own bottle/price rows. Legacy special-flight `hidden: true` means shown.
 
-The shared source files under `src/` and `public/fourth-street-menu/` are synchronized from vine-admin using `scripts/sync-fourth-street-publisher.mjs` there. Change design in the admin source and sync it here to avoid editor/export drift. The PDF reference is v11.15, with the subsequent approved badge alignment and typography polish.
+The shared source files under `src/` and `public/fourth-street-menu/` are synchronized from vine-admin using `scripts/sync-fourth-street-publisher.mjs` there. Change design in the admin source and sync it here to avoid editor/export drift. The PDF reference is v11.15, with the subsequent approved badge alignment and typography polish. Gluten-free markers use the original crossed-wheat SVG. Flight rows flow independently in each column, without blank lines added to match wrapping on the other side.
 
 South Creek JSON, spirits data, and existing static menu assets retain their existing URLs. The main website reads this repository's published `menu.json` and links `menu.pdf`.

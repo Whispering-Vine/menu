@@ -1,6 +1,7 @@
 import React, { type ReactNode } from "react";
 import { BottleWine, Wine } from "lucide-react";
 import { MenuQrCode } from "./menu-qr-code";
+import { GlutenFreeIcon } from "./gluten-free-icon";
 import {
   measureMenuText as textWidth,
   wrapMenuDescription,
@@ -173,7 +174,7 @@ export function FourthStreetMenuPage({
     <>
       {item.warning && "*"}
       {item.gluten_free && (
-        <span className="badge gf"><span>GF</span></span>
+        <GlutenFreeIcon />
       )}
       {item.new && <span className="badge">NEW</span>}
     </>
@@ -617,7 +618,7 @@ export function FourthStreetMenuPage({
           <div className="food-legend-symbols">
             <span className="food-legend-key"><Favorite /><span>FAVORITES</span></span>
             <span className="food-legend-key">
-              <span className="badge gf"><span>GF</span></span>
+              <GlutenFreeIcon />
               <span>GLUTEN FREE</span>
             </span>
           </div>
