@@ -983,8 +983,8 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "Twomey",
-                  "price": "11.75",
+                  "name": "John Anthony",
+                  "price": "10.75",
                   "variety": "Sauvignon Blanc ",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1015,10 +1015,10 @@
                   }
                 },
                 {
-                  "name": "Charles Joguet Chinon",
-                  "price": "12.75",
+                  "name": "Mr. Pink",
+                  "price": "9.75",
                   "variety": "Dry Rosé ",
-                  "location": "France",
+                  "location": "Washington",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -1031,7 +1031,7 @@
                   }
                 }
               ],
-              "price": "11.75",
+              "price": "9.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1064,8 +1064,8 @@
                   }
                 },
                 {
-                  "name": "Quilt",
-                  "price": "13.75",
+                  "name": "Post & Beam By Far Niente",
+                  "price": "14.75",
                   "variety": "Chardonnay",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1096,7 +1096,7 @@
                   }
                 }
               ],
-              "price": "12.75",
+              "price": "13.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1113,10 +1113,10 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "Post & Beam By Far Niente",
-                  "price": "17.75",
+                  "name": "Klinker Brick",
+                  "price": "8.75",
                   "variety": "Cabernet",
-                  "location": "Napa",
+                  "location": "Lodi",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "821a58cf-e815-40fc-b3e6-2a0611603a75",
@@ -1129,8 +1129,8 @@
                   }
                 },
                 {
-                  "name": "Charles Krug",
-                  "price": "12.75",
+                  "name": "Elizabeth Spencer",
+                  "price": "19.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1243,10 +1243,10 @@
               "name": "Bubbles Flight",
               "items": [
                 {
-                  "name": "Madaudo",
+                  "name": "Roederer Estate",
                   "price": "11.75",
                   "variety": "Brut",
-                  "location": "Sicily, Italy",
+                  "location": "Anders",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "22b2342c-ca3a-4fbe-8198-5fb87590ff7e",
@@ -1308,10 +1308,10 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Admire",
-                  "price": "13.75",
+                  "name": "Truchard",
+                  "price": "11.75",
                   "variety": "Pinot Noir",
-                  "location": "Sonoma",
+                  "location": "Carneros",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "7f1046f0-c6ab-4e76-9440-a1be3315f224",
@@ -1324,8 +1324,8 @@
                   }
                 },
                 {
-                  "name": "Hartford Court",
-                  "price": "14.75",
+                  "name": "Barnett \"Tina Marie\"",
+                  "price": "21.75",
                   "variety": "Pinot Noir",
                   "location": "Russian River",
                   "glassSize": "8oz",
@@ -1356,7 +1356,7 @@
                   }
                 }
               ],
-              "price": "12.75",
+              "price": "14.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1373,10 +1373,10 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "Ridge Three Valleys",
-                  "price": "13.75",
-                  "variety": "Zinfandel,\nPetite Syrah",
-                  "location": "Sonoma",
+                  "name": "Unshackled by Prisoner",
+                  "price": "8.75",
+                  "variety": "Zinfandel, Malbec, Syrah",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "96864ba9-05d9-4b27-8150-bdcab1cdfffd",
@@ -1421,7 +1421,7 @@
                   }
                 }
               ],
-              "price": "17.75",
+              "price": "15.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1571,38 +1571,38 @@
         "specials": {
           "items": [
             {
-              "name": "Jordan Cabernet",
-              "glass": "19.75",
-              "notes": "Winery $62 96pts Tasting Panel",
-              "bottle": "49.99",
+              "name": "Louis Roederer Brut Rose",
+              "glass": "0000",
+              "notes": "Winery $110 95pts James Suckling ",
+              "bottle": "59.99",
               "favorites": false
             },
             {
-              "name": "Cristom Mt. Jefferson Pinot Noir ",
-              "glass": "16.75",
-              "notes": "Winery $50 95pts Wine Spectator Top 100",
-              "bottle": "39.99",
+              "name": "Barnett \"Tina Marie\" Pinot Noir",
+              "glass": "21.75",
+              "notes": "Winery $65",
+              "bottle": "54.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Quilt Chardonnay",
+              "name": "Post & Beam Chardonnay",
               "glass": "13.75",
               "notes": "Winery $35",
-              "bottle": "29.99"
+              "bottle": "34.99"
             },
             {
-              "name": "Twomey Sauvignon Blanc",
+              "name": "Truchard Pinot Noir",
               "glass": "11.75",
-              "notes": "Winery $36",
-              "bottle": "26.99",
+              "notes": "Winery $38",
+              "bottle": "25.99",
               "wineryPrice": 45
             },
             {
-              "name": "Madaudo Spumante",
-              "glass": "11.75",
-              "notes": "",
-              "bottle": "25.99",
+              "name": "John Anthony Sauvignon Blanc",
+              "glass": "10.75",
+              "notes": "Winery $40",
+              "bottle": "24.99",
               "favorites": false
             }
           ]
