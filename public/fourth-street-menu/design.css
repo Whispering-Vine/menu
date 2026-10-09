@@ -1138,7 +1138,8 @@ button {
   height: 10pt;
   border: 0;
   padding: 0;
-  vertical-align: 0;
+  /* Center the 10pt artwork on the Marcellus capital letters. */
+  vertical-align: -1.3pt;
 }
 .beer-row .badge {
   font-size: 5.2pt;

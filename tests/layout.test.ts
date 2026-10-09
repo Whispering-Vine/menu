@@ -31,7 +31,22 @@ test('flight rows flow independently and gluten-free markers use the original SV
       const icons = Array.from(document.querySelectorAll('.badge.gf'));
       return { gap, before, after, height, wrappedHeight: right.getBoundingClientRect().height,
         icons: icons.map(icon => ({ tag: icon.tagName, label: icon.getAttribute('aria-label'), path: icon.querySelector('path')?.getAttribute('d') })),
-        hasLegend: !!document.querySelector('.food-legend svg.gf') };
+        hasLegend: !!document.querySelector('.food-legend svg.gf'),
+        centerOffsets: Array.from(document.querySelectorAll('.food-name .gf')).map(icon => {
+          const style = getComputedStyle(icon.parentElement!);
+          const context = document.createElement('canvas').getContext('2d')!;
+          context.font = style.font;
+          const metrics = context.measureText('H');
+          const marker = document.createElement('span');
+          marker.style.cssText = 'display:inline-block;width:0;height:0';
+          icon.after(marker);
+          const baseline = marker.getBoundingClientRect().top;
+          const bounds = icon.getBoundingClientRect();
+          marker.remove();
+          const textCenter = baseline - metrics.actualBoundingBoxAscent / 2;
+          return (bounds.top + bounds.height / 2 - textCenter) * 0.75;
+        }) };
+
     });
     assert.ok(Math.abs(actual.gap) < 1, 'no blank line before the final Chardonnay');
     assert.ok(actual.wrappedHeight > actual.height, 'right-column description wraps');
@@ -39,6 +54,8 @@ test('flight rows flow independently and gluten-free markers use the original SV
     const path = (await readFile('images/no-gluten.svg', 'utf8')).match(/<path d="([^"]+)"/)![1];
     assert.ok(actual.icons.length > 1);
     assert.ok(actual.hasLegend);
+    for (const offset of actual.centerOffsets)
+      assert.ok(Math.abs(offset) < 0.3, `icon center differs from capital-letter center by ${offset}pt`);
     for (const icon of actual.icons) {
       assert.equal(icon.tag, 'svg');
       assert.equal(icon.label, 'Gluten free');
