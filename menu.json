@@ -443,7 +443,7 @@
               "gluten_free": false
             },
             {
-              "new": false,
+              "new": true,
               "name": "ALL AMERICAN BURGER",
               "price": "21",
               "warning": true,
@@ -782,7 +782,7 @@
               "print_section": "mains"
             },
             {
-              "new": true,
+              "new": false,
               "name": "PAN SEARED SALMON",
               "price": "26",
               "warning": true,
