@@ -47,7 +47,7 @@
             {
               "abv": "7.0%",
               "ibu": "28",
-              "name": "Dogfish Pumkin Ale",
+              "name": "Dogfish Punkin Ale",
               "local": true,
               "price": "6.25",
               "brewery": "Delaware ",
@@ -1113,10 +1113,10 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "Klinker Brick",
-                  "price": "8.75",
+                  "name": "Diamonds In Space",
+                  "price": "9.75",
                   "variety": "Cabernet",
-                  "location": "Lodi",
+                  "location": "Paso Robles",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "821a58cf-e815-40fc-b3e6-2a0611603a75",
@@ -1145,10 +1145,10 @@
                   }
                 },
                 {
-                  "name": "Jordan",
-                  "price": "19.75",
+                  "name": "Clos Du Val",
+                  "price": "16.75",
                   "variety": "Cabernet",
-                  "location": "Alexander Valley, Sonoma",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "defeb5ea-b1fe-4c68-9612-e7722bb15abe",
@@ -1161,7 +1161,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "15.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1308,10 +1308,10 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Truchard",
-                  "price": "11.75",
+                  "name": "Four Graces",
+                  "price": "9.75",
                   "variety": "Pinot Noir",
-                  "location": "Carneros",
+                  "location": "Willamette Valley, Oregon ",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "7f1046f0-c6ab-4e76-9440-a1be3315f224",
@@ -1324,10 +1324,10 @@
                   }
                 },
                 {
-                  "name": "Barnett \"Tina Marie\"",
-                  "price": "21.75",
+                  "name": "Crossbarn",
+                  "price": "12.75",
                   "variety": "Pinot Noir",
-                  "location": "Russian River",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "223bfd29-94c6-401a-9523-0392558ac9a2",
@@ -1340,10 +1340,10 @@
                   }
                 },
                 {
-                  "name": "BOEN",
-                  "price": "8.75",
+                  "name": "Twomey By Silver Oak",
+                  "price": "19.75",
                   "variety": "Pinot Noir",
-                  "location": "Monterey, Sonoma,\nSanta Barbara",
+                  "location": "Russian River",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "4b83b982-9fcc-4bb4-a70d-5ec2a50fa792",
@@ -1519,8 +1519,8 @@
                   }
                 },
                 {
-                  "name": "Lewis",
-                  "price": "27.75",
+                  "name": "Rombauer",
+                  "price": "24.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1551,7 +1551,7 @@
                   }
                 }
               ],
-              "price": "24.75",
+              "price": "22.75",
               "featured": true,
               "favorites": false,
               "toastLink": {
@@ -1571,37 +1571,37 @@
         "specials": {
           "items": [
             {
-              "name": "Louis Roederer Brut Rose",
-              "glass": "0000",
-              "notes": "Winery $110 95pts James Suckling ",
-              "bottle": "59.99",
+              "name": "Clos Du Val Cabernet",
+              "glass": "16.75",
+              "notes": "Winery $60  94pts James Suckling ",
+              "bottle": "39.99",
               "favorites": false
             },
             {
-              "name": "Barnett \"Tina Marie\" Pinot Noir",
-              "glass": "21.75",
+              "name": "G.H. Mumm Rosé",
+              "glass": "17.75",
               "notes": "Winery $65",
-              "bottle": "54.99",
+              "bottle": "39.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Post & Beam Chardonnay",
-              "glass": "13.75",
-              "notes": "Winery $35",
-              "bottle": "34.99"
+              "name": "Crossbarn Pinot Noir",
+              "glass": "12.75",
+              "notes": "Winery $40",
+              "bottle": "29.99"
             },
             {
-              "name": "Truchard Pinot Noir",
-              "glass": "11.75",
-              "notes": "Winery $38",
-              "bottle": "25.99",
+              "name": "Four Graces Pinot Noir",
+              "glass": "9.75",
+              "notes": "Winery $34",
+              "bottle": "21.99",
               "wineryPrice": 45
             },
             {
-              "name": "John Anthony Sauvignon Blanc",
-              "glass": "10.75",
-              "notes": "Winery $40",
+              "name": "Diamonds In Space",
+              "glass": "9.75",
+              "notes": "Winery $30",
               "bottle": "24.99",
               "favorites": false
             }
