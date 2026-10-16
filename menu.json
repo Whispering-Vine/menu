@@ -1454,10 +1454,10 @@
                   }
                 },
                 {
-                  "name": "Plumpjack",
-                  "price": "24.75",
-                  "variety": "Merlot",
-                  "location": "Napa",
+                  "name": "Wild Thing By Carol Shelton",
+                  "price": "9.75",
+                  "variety": "Old Vine Zinfandel",
+                  "location": "Mendocino",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "b4f52391-55cb-4d15-92be-c771672c652c",
@@ -1486,7 +1486,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "9.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
