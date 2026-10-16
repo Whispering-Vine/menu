@@ -999,7 +999,7 @@
                   }
                 },
                 {
-                  "name": "Tre Donna",
+                  "name": "Tre Donne",
                   "price": "8.75",
                   "variety": "Arneis",
                   "location": "Italy",
@@ -1599,7 +1599,7 @@
               "wineryPrice": 45
             },
             {
-              "name": "Diamonds In Space",
+              "name": "Diamonds In Space Cabernet",
               "glass": "9.75",
               "notes": "Winery $30",
               "bottle": "24.99",
