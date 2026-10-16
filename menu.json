@@ -1064,8 +1064,8 @@
                   }
                 },
                 {
-                  "name": "Post & Beam By Far Niente",
-                  "price": "14.75",
+                  "name": "Two Squared By Alpha Omega",
+                  "price": "10.75",
                   "variety": "Chardonnay",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1096,7 +1096,7 @@
                   }
                 }
               ],
-              "price": "13.75",
+              "price": "10.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
