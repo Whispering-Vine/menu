@@ -2118,11 +2118,11 @@
               "description": "Alexander Valley, Sonoma | Cabernet"
             },
             {
-              "name": "The Mill Keeper",
+              "name": "Unshackled By Prisoner Wine Co.",
               "price": {
                 "sale": false,
-                "glass": 7.75,
-                "bottle": 17.99
+                "glass": 8.75,
+                "bottle": 19.99
               },
               "toastLinks": {
                 "glass": {
@@ -2135,7 +2135,7 @@
                   "multiLocationId": "1600000002123042023"
                 }
               },
-              "description": "Napa | Cabernet, Merlot, Cab Franc"
+              "description": "Napa | Zinfandel, Malbec, Syrah"
             },
             {
               "name": "La Quercia",
