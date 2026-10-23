@@ -1015,10 +1015,10 @@
                   }
                 },
                 {
-                  "name": "Mr. Pink",
+                  "name": "Terlan",
                   "price": "9.75",
-                  "variety": "Dry Rosé ",
-                  "location": "Washington",
+                  "variety": "Pinot Grigio",
+                  "location": "Italy",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -1145,10 +1145,10 @@
                   }
                 },
                 {
-                  "name": "Clos Du Val",
-                  "price": "16.75",
+                  "name": "DAOU Reserve",
+                  "price": "18.75",
                   "variety": "Cabernet",
-                  "location": "Napa",
+                  "location": "Paso Robles",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "defeb5ea-b1fe-4c68-9612-e7722bb15abe",
