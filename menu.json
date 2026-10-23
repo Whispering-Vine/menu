@@ -1438,10 +1438,10 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Clavesana",
-                  "price": "10.75",
-                  "variety": "Nebbiolo",
-                  "location": "Italy",
+                  "name": "Petalos",
+                  "price": "12.75",
+                  "variety": "Mencia",
+                  "location": "Spain",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "47377e05-6b29-4ecc-b4ef-051eb8324520",
@@ -1486,7 +1486,7 @@
                   }
                 }
               ],
-              "price": "9.75",
+              "price": "12.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1535,10 +1535,10 @@
                   }
                 },
                 {
-                  "name": "DAOU Reserve",
-                  "price": "18.75",
+                  "name": "Double Eagle",
+                  "price": "19.75",
                   "variety": "Cabernet ",
-                  "location": "Paso Robles",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "fa9e3cff-e436-48f2-b4ea-e2ecb3f60314",
@@ -1571,37 +1571,37 @@
         "specials": {
           "items": [
             {
-              "name": "Clos Du Val Cabernet",
-              "glass": "16.75",
-              "notes": "Winery $60  94pts James Suckling ",
-              "bottle": "39.99",
+              "name": "Double Eagle Red Blend",
+              "glass": "19.75",
+              "notes": "Winery $90  94pts Wine Enthusiast",
+              "bottle": "49.99",
               "favorites": false
             },
             {
-              "name": "G.H. Mumm Rosé",
-              "glass": "17.75",
-              "notes": "Winery $65",
-              "bottle": "39.99",
+              "name": "Twomey By Silver Oak Pinot Noir",
+              "glass": "19.75",
+              "notes": "Winery $62",
+              "bottle": "49.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Crossbarn Pinot Noir",
-              "glass": "12.75",
-              "notes": "Winery $40",
-              "bottle": "29.99"
+              "name": "Details By Sinegal Cabernet",
+              "glass": "16.75",
+              "notes": "Winery $50",
+              "bottle": "39.99"
             },
             {
-              "name": "Four Graces Pinot Noir",
-              "glass": "9.75",
-              "notes": "Winery $34",
-              "bottle": "21.99",
+              "name": "Palacios Bierzo",
+              "glass": "12.75",
+              "notes": "93pts Robert Parker",
+              "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "Diamonds In Space Cabernet",
+              "name": "Terlano Pinot Grigio",
               "glass": "9.75",
-              "notes": "Winery $30",
+              "notes": "93pts Jeb Dunnuck",
               "bottle": "24.99",
               "favorites": false
             }
