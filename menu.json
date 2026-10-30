@@ -1015,10 +1015,10 @@
                   }
                 },
                 {
-                  "name": "Terlan",
-                  "price": "9.75",
-                  "variety": "Pinot Grigio",
-                  "location": "Italy",
+                  "name": "Roland Lavantureux Petit Chablis",
+                  "price": "14.75",
+                  "variety": "Chardonnay",
+                  "location": "France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -1031,7 +1031,7 @@
                   }
                 }
               ],
-              "price": "9.75",
+              "price": "11.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1246,7 +1246,7 @@
                   "name": "Roederer Estate",
                   "price": "11.75",
                   "variety": "Brut",
-                  "location": "Anders",
+                  "location": "Anderson Valley",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "22b2342c-ca3a-4fbe-8198-5fb87590ff7e",
@@ -1308,8 +1308,8 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Four Graces",
-                  "price": "9.75",
+                  "name": "Aubaine \"Jolie\"",
+                  "price": "16.75",
                   "variety": "Pinot Noir",
                   "location": "Willamette Valley, Oregon ",
                   "glassSize": "8oz",
@@ -1324,7 +1324,7 @@
                   }
                 },
                 {
-                  "name": "Crossbarn",
+                  "name": "Failla",
                   "price": "12.75",
                   "variety": "Pinot Noir",
                   "location": "Sonoma",
@@ -1356,7 +1356,7 @@
                   }
                 }
               ],
-              "price": "14.75",
+              "price": "16.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1373,9 +1373,9 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "Unshackled by Prisoner",
-                  "price": "8.75",
-                  "variety": "Zinfandel, Malbec, Syrah",
+                  "name": "Y3 Taureau",
+                  "price": "9.75",
+                  "variety": "Cabernet, Merlot, Cab Franc",
                   "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1438,10 +1438,10 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Petalos",
-                  "price": "12.75",
-                  "variety": "Mencia",
-                  "location": "Spain",
+                  "name": "Tenuta Ponte Loggia",
+                  "price": "9.75",
+                  "variety": "Aglianico",
+                  "location": "Italy",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "47377e05-6b29-4ecc-b4ef-051eb8324520",
@@ -1470,10 +1470,10 @@
                   }
                 },
                 {
-                  "name": "Jeff Runquist",
-                  "price": "13.75",
+                  "name": "Stag's Leap",
+                  "price": "14.75",
                   "variety": "Petite Syrah",
-                  "location": "Plymouth",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "dc450024-e14f-45cc-8bc6-3b93deadb1a3",
@@ -1486,7 +1486,7 @@
                   }
                 }
               ],
-              "price": "12.75",
+              "price": "11.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1571,38 +1571,38 @@
         "specials": {
           "items": [
             {
-              "name": "Double Eagle Red Blend",
-              "glass": "19.75",
-              "notes": "Winery $90  94pts Wine Enthusiast",
-              "bottle": "49.99",
+              "name": "Aubaine \"Joie\" Pinot Noir",
+              "glass": "16.75",
+              "notes": "Winery $72  94pts Wine Enthusiast",
+              "bottle": "39.99",
               "favorites": false
             },
             {
-              "name": "Twomey By Silver Oak Pinot Noir",
-              "glass": "19.75",
-              "notes": "Winery $62",
-              "bottle": "49.99",
+              "name": "Stag's Leap Petite Syrah",
+              "glass": "14.75",
+              "notes": "94pts James Suckling",
+              "bottle": "34.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Details By Sinegal Cabernet",
-              "glass": "16.75",
-              "notes": "Winery $50",
-              "bottle": "39.99"
+              "name": "Roland Lavantureux Petit Chablis",
+              "glass": "14.75",
+              "notes": "",
+              "bottle": "34.99"
             },
             {
-              "name": "Palacios Bierzo",
+              "name": "Courtier \"Spring Mountain\" Cabernet",
               "glass": "12.75",
-              "notes": "93pts Robert Parker",
+              "notes": "95pts Decanter",
               "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "Terlano Pinot Grigio",
+              "name": "Tenuta Ponte Loggia Aglianico",
               "glass": "9.75",
-              "notes": "93pts Jeb Dunnuck",
-              "bottle": "24.99",
+              "notes": "",
+              "bottle": "21.99",
               "favorites": false
             }
           ]
@@ -2039,11 +2039,11 @@
               "description": "Oregon | Pinot Noir"
             },
             {
-              "name": "Merryvale",
+              "name": "Aubaine",
               "price": {
                 "sale": false,
-                "glass": 16.75,
-                "bottle": 39.99
+                "glass": 12.75,
+                "bottle": 29.99
               },
               "toastLinks": {
                 "glass": {
@@ -2056,7 +2056,7 @@
                   "multiLocationId": "1600000002124110750"
                 }
               },
-              "description": "Sonoma Coast | Pinot Noir"
+              "description": "Oregon | Pinot Noir"
             },
             {
               "name": "Duckhorn",
@@ -2135,7 +2135,7 @@
                   "multiLocationId": "1600000002123042023"
                 }
               },
-              "description": "Napa | Zinfandel, Malbec, Syrah"
+              "description": "California | Zin, Malbec, Syrah"
             },
             {
               "name": "La Quercia",
