@@ -983,8 +983,8 @@
               "name": "White Variety Flight",
               "items": [
                 {
-                  "name": "John Anthony",
-                  "price": "10.75",
+                  "name": "Courtier",
+                  "price": "6.75",
                   "variety": "Sauvignon Blanc ",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1031,7 +1031,7 @@
                   }
                 }
               ],
-              "price": "11.75",
+              "price": "10.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
