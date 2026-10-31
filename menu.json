@@ -1129,8 +1129,8 @@
                   }
                 },
                 {
-                  "name": "Elizabeth Spencer",
-                  "price": "19.75",
+                  "name": "Coutier \"Spring Mountain\"",
+                  "price": "12.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1161,7 +1161,7 @@
                   }
                 }
               ],
-              "price": "15.75",
+              "price": "14.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
