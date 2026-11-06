@@ -1129,7 +1129,7 @@
                   }
                 },
                 {
-                  "name": "Coutier \"Spring Mountain\"",
+                  "name": "Courtier \"Spring Mountain\"",
                   "price": "12.75",
                   "variety": "Cabernet",
                   "location": "Napa",
@@ -2001,7 +2001,7 @@
             {
               "name": "Whispering Vine",
               "price": {
-                "sale": true,
+                "sale": false,
                 "glass": 7.75,
                 "bottle": 16.99
               },
@@ -2059,11 +2059,11 @@
               "description": "Oregon | Pinot Noir"
             },
             {
-              "name": "Duckhorn",
+              "name": "Educated Guess",
               "price": {
                 "sale": true,
-                "glass": 16.75,
-                "bottle": 39.99
+                "glass": 12.75,
+                "bottle": 29.99
               },
               "toastLinks": {
                 "glass": {
@@ -2098,11 +2098,11 @@
               "description": "Washington | Cabernet"
             },
             {
-              "name": "The Calling",
+              "name": "Courtier \"Rutherford\"",
               "price": {
                 "sale": false,
-                "glass": 14.75,
-                "bottle": 34.99
+                "glass": 12.75,
+                "bottle": 29.99
               },
               "toastLinks": {
                 "glass": {
@@ -2115,7 +2115,7 @@
                   "multiLocationId": "1600000002122384436"
                 }
               },
-              "description": "Alexander Valley, Sonoma | Cabernet"
+              "description": "Napa | Cabernet"
             },
             {
               "name": "Unshackled By Prisoner Wine Co.",
