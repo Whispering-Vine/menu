@@ -1015,10 +1015,10 @@
                   }
                 },
                 {
-                  "name": "Roland Lavantureux Petit Chablis",
-                  "price": "14.75",
-                  "variety": "Chardonnay",
-                  "location": "France",
+                  "name": "Illumination",
+                  "price": "16.75",
+                  "variety": "Sauvignon Blanc Blend",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -1031,7 +1031,7 @@
                   }
                 }
               ],
-              "price": "10.75",
+              "price": "11.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1064,8 +1064,8 @@
                   }
                 },
                 {
-                  "name": "Two Squared By Alpha Omega",
-                  "price": "10.75",
+                  "name": "Cakebread",
+                  "price": "17.75",
                   "variety": "Chardonnay",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1096,7 +1096,7 @@
                   }
                 }
               ],
-              "price": "10.75",
+              "price": "13.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1129,8 +1129,8 @@
                   }
                 },
                 {
-                  "name": "Courtier \"Spring Mountain\"",
-                  "price": "12.75",
+                  "name": "Gemstone \"Facets\"",
+                  "price": "18.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1161,7 +1161,7 @@
                   }
                 }
               ],
-              "price": "14.75",
+              "price": "16.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1324,10 +1324,10 @@
                   }
                 },
                 {
-                  "name": "Failla",
-                  "price": "12.75",
+                  "name": "Flowers",
+                  "price": "18.75",
                   "variety": "Pinot Noir",
-                  "location": "Sonoma",
+                  "location": "Sonoma Coast",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "223bfd29-94c6-401a-9523-0392558ac9a2",
@@ -1356,7 +1356,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "17.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1373,8 +1373,8 @@
               "name": "Red Blend Flight",
               "items": [
                 {
-                  "name": "Y3 Taureau",
-                  "price": "9.75",
+                  "name": "Chappellet Mt. Cuvee",
+                  "price": "17.75",
                   "variety": "Cabernet, Merlot, Cab Franc",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1421,7 +1421,7 @@
                   }
                 }
               ],
-              "price": "15.75",
+              "price": "17.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1535,8 +1535,8 @@
                   }
                 },
                 {
-                  "name": "Double Eagle",
-                  "price": "19.75",
+                  "name": "Groth",
+                  "price": "18.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1551,7 +1551,7 @@
                   }
                 }
               ],
-              "price": "22.75",
+              "price": "21.75",
               "featured": true,
               "favorites": false,
               "toastLink": {
@@ -1571,38 +1571,38 @@
         "specials": {
           "items": [
             {
-              "name": "Aubaine \"Joie\" Pinot Noir",
-              "glass": "16.75",
-              "notes": "Winery $72  94pts Wine Enthusiast",
-              "bottle": "39.99",
+              "name": "Gemstone \"Facets\" Cabernet",
+              "glass": "18.75",
+              "notes": "Winery $65  95pts Decanter",
+              "bottle": "44.99",
               "favorites": false
             },
             {
-              "name": "Stag's Leap Petite Syrah",
-              "glass": "14.75",
-              "notes": "94pts James Suckling",
-              "bottle": "34.99",
+              "name": "Flowers Pinot Noir",
+              "glass": "18.75",
+              "notes": "Winery $60 Jeb Dunnuck",
+              "bottle": "44.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Roland Lavantureux Petit Chablis",
-              "glass": "14.75",
-              "notes": "",
-              "bottle": "34.99"
+              "name": "Chappellet Mountain Cuvee",
+              "glass": "17.75",
+              "notes": "Winery $50",
+              "bottle": "43.99"
             },
             {
-              "name": "Courtier \"Spring Mountain\" Cabernet",
-              "glass": "12.75",
-              "notes": "95pts Decanter",
-              "bottle": "29.99",
+              "name": "Illumination By Quintessa Sauvignon Blanc",
+              "glass": "16.75",
+              "notes": "Winery $65",
+              "bottle": "39.99",
               "wineryPrice": 45
             },
             {
-              "name": "Tenuta Ponte Loggia Aglianico",
-              "glass": "9.75",
-              "notes": "",
-              "bottle": "21.99",
+              "name": "Cakebread Chardonnay ",
+              "glass": "17.75",
+              "notes": "Winery $50",
+              "bottle": "41.99",
               "favorites": false
             }
           ]
