@@ -10,16 +10,16 @@
         "id": "foothill",
         "rows": [
           {
-            "price": 16.75,
+            "price": 17.75,
             "style": "Bubbles Brut Rosé",
-            "region": "Sonoma",
-            "producer": "MARTIN RAY"
+            "region": "Champagne",
+            "producer": "G.H. Mumm"
           },
           {
-            "price": 17.75,
+            "price": 16.75,
             "style": "Bubbles Brut",
             "region": "Champagne",
-            "producer": "Perrier Jouet"
+            "producer": "G.H. Mumm"
           },
           {
             "price": 5.75,
@@ -28,21 +28,15 @@
             "producer": "Whispering Vine"
           },
           {
-            "price": 6.75,
-            "style": "N/A Sauvignon Blanc",
-            "region": "Germany",
-            "producer": "Fritz Muller"
-          },
-          {
-            "price": 8.75,
+            "price": 14.75,
             "style": "Sauvignon Blanc",
             "region": "Napa",
-            "producer": "Honig"
+            "producer": "Silver Oak"
           },
           {
             "price": 7.75,
             "style": "Rose",
-            "region": "France",
+            "region": "Oregon",
             "producer": "Whispering Vine"
           },
           {
@@ -54,8 +48,8 @@
           {
             "price": 8.75,
             "style": "Chardonnay",
-            "region": "Santa Lucia Highlands",
-            "producer": "Boen"
+            "region": "Oregon",
+            "producer": "Whispering Vine"
           },
           {
             "price": 13.75,
@@ -64,10 +58,10 @@
             "producer": "Admire"
           },
           {
-            "price": 8.75,
+            "price": 9.75,
             "style": "Pinot Noir",
-            "region": "Oregon",
-            "producer": "Whispering Vine"
+            "region": "Sonoma Coast",
+            "producer": "Director’s Cut"
           },
           {
             "price": 16.75,
@@ -76,22 +70,34 @@
             "producer": "Mauritson"
           },
           {
-            "price": 13.75,
-            "style": "Bagadiu Red Blend",
-            "region": "Italy",
-            "producer": "Sardinia"
+            "price": 14.75,
+            "style": "Red Blend",
+            "region": "California ",
+            "producer": "Leviathan"
           },
           {
-            "price": 16.75,
+            "price": 17.75,
             "style": "Cabernet Sauvignon",
-            "region": "Cabernet",
-            "producer": "My Favorite Neighbor"
+            "region": "Napa Valley",
+            "producer": "Frank Family"
           },
           {
-            "price": 10.75,
+            "price": 8.75,
             "style": "Cabernet Sauvignon",
-            "region": "Argentina",
-            "producer": "ZAHA"
+            "region": "Sonoma County",
+            "producer": "Ferrari Carano"
+          },
+          {
+            "price": 6.75,
+            "style": "N/A Sauvignon Blanc",
+            "region": "Germany",
+            "producer": "Fritz Muller"
+          },
+          {
+            "price": 9.75,
+            "style": "N/A Sparkling Brut",
+            "region": "Austria",
+            "producer": "Layla "
           }
         ],
         "image": "images/wine_glass.svg",
@@ -105,41 +111,14 @@
         "title": "Flights",
         "sections": [
           {
-            "name": "White Variety Flight",
-            "items": [
-              {
-                "wine": "Drylands",
-                "region": "New Zealand",
-                "varietal": "Sauvignon Blanc",
-                "glassSize": "8oz",
-                "glassPrice": 7.75
-              },
-              {
-                "wine": "Elk Cove",
-                "region": "Oregon ",
-                "varietal": "Pinot Gris",
-                "glassSize": "8oz",
-                "glassPrice": 7.75
-              },
-              {
-                "wine": "Von Buhl",
-                "region": "Germany",
-                "varietal": "Bone Dry Riesling",
-                "glassSize": "8oz",
-                "glassPrice": 9.75
-              }
-            ],
-            "flightPrice": 7.75
-          },
-          {
             "name": "Bubbles Flight",
             "items": [
               {
-                "wine": "Alfred Gratien",
-                "region": "Champagne, France",
+                "wine": "Oriol Rossell",
+                "region": "Cava, Spain",
                 "varietal": "Brut",
                 "glassSize": "8oz",
-                "glassPrice": 16.75
+                "glassPrice": 9.75
               },
               {
                 "wine": "Taittinger",
@@ -149,176 +128,203 @@
                 "glassPrice": 17.75
               },
               {
-                "wine": "Pierre Gimonnet",
+                "wine": "Perrier Jouet",
                 "region": "Champagne, France",
                 "varietal": "Brut",
                 "glassSize": "8oz",
-                "glassPrice": 26.75
+                "glassPrice": 18.75
               }
             ],
-            "flightPrice": 18.75
+            "flightPrice": 15.75
+          },
+          {
+            "name": "White Variety Flight",
+            "items": [
+              {
+                "wine": "Terlano",
+                "region": "Alto Adige, Italy",
+                "varietal": "Pinot Grigio",
+                "glassSize": "8oz",
+                "glassPrice": 10.75
+              },
+              {
+                "wine": "Dry Creek Vineyards",
+                "region": "Clarksburg, Cali.",
+                "varietal": "Chenin Blanc",
+                "glassSize": "8oz",
+                "glassPrice": 8.75
+              },
+              {
+                "wine": "Dom. Du Salvard",
+                "region": "Cheverny, France",
+                "varietal": "Sauv Blanc/Chard",
+                "glassSize": "8oz",
+                "glassPrice": 9.75
+              }
+            ],
+            "flightPrice": 9.75
           },
           {
             "name": "Chardonnay Flight",
             "items": [
               {
-                "wine": "Hartford Court",
-                "region": "Russian River",
+                "wine": "Regnard",
+                "region": "Chablis, France",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
-                "glassPrice": 11.75
+                "glassPrice": 10.75
               },
               {
                 "wine": "Frank Family",
-                "region": "Napa",
+                "region": "Carneros, Cali.",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
                 "glassPrice": 11.75
               },
               {
-                "wine": "Flowers",
-                "region": "Sonoma",
+                "wine": "Lloyd Cellars",
+                "region": "Carneros, Cali.",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
-                "glassPrice": 16.75
+                "glassPrice": 15.75
               }
             ],
-            "flightPrice": 13.75
+            "flightPrice": 12.75
           },
           {
             "name": "Pinot Noir Flight",
             "items": [
               {
-                "wine": "Broadley",
-                "region": "Willamette Valley",
-                "varietal": "Pinot Noir",
-                "glassSize": "8oz",
-                "glassPrice": 8.75
-              },
-              {
-                "wine": "Cristom",
-                "region": "Willamette Valley",
+                "wine": "Aubaine",
+                "region": "Eola Amity, Ore.",
                 "varietal": "Pinot Noir",
                 "glassSize": "8oz",
                 "glassPrice": 16.75
               },
               {
-                "wine": "Flowers",
+                "wine": "Crossbarn",
                 "region": "Sonoma Coast",
                 "varietal": "Pinot Noir",
                 "glassSize": "8oz",
-                "glassPrice": 17.75
+                "glassPrice": 12.75
+              },
+              {
+                "wine": "Twomey",
+                "region": "Russian River Valley",
+                "varietal": "Pinot Noir",
+                "glassSize": "8oz",
+                "glassPrice": 16.75
               }
             ],
-            "flightPrice": 14.75
+            "flightPrice": 15.75
           },
           {
             "name": "Red Variety Flight",
             "items": [
               {
-                "wine": "Fradiles",
-                "region": "Italy",
-                "varietal": "Bovale",
-                "glassSize": "8oz",
-                "glassPrice": 9.75
-              },
-              {
-                "wine": "Duckhorn",
-                "region": "Napa",
+                "wine": "Educated Guess",
+                "region": "Napa Valley, Cali. ",
                 "varietal": "Merlot",
                 "glassSize": "8oz",
-                "glassPrice": 17.75
+                "glassPrice": 12.75
               },
               {
-                "wine": "Saldo",
-                "region": "Napa",
-                "varietal": "Zinfandel",
+                "wine": "Juan Gil",
+                "region": "Jumilla, Spain",
+                "varietal": "Monastrell",
                 "glassSize": "8oz",
-                "glassPrice": 12.75
+                "glassPrice": 7.75
+              },
+              {
+                "wine": "Stags’ Leap",
+                "region": "Napa",
+                "varietal": "Petite Sirah",
+                "glassSize": "8oz",
+                "glassPrice": 14.75
               }
             ],
-            "flightPrice": 13.75
+            "flightPrice": 11.75
           },
           {
             "name": "Red Blend Flight",
             "items": [
               {
-                "wine": "Stags Leap The Investor",
+                "wine": "Unshackled by Prisoner",
                 "region": "Napa Valley",
-                "varietal": "Cab | Merlot | Cab Franc",
+                "varietal": "Zin-Based",
                 "glassSize": "8oz",
-                "glassPrice": 17.75
+                "glassPrice": 8.75
               },
               {
-                "wine": "Leviathan",
-                "region": "Napa Valley",
-                "varietal": "Cab | Merlot | Petite Syrah",
+                "wine": "Chappellet “Mtn. Cuvée”",
+                "region": "Napa/Sonoma",
+                "varietal": "Bordeaux style ",
                 "glassSize": "8oz",
-                "glassPrice": 14.75
+                "glassPrice": 18.75
               },
               {
-                "wine": "Sardinia",
-                "region": "Italy",
-                "varietal": "Bagadiu Red Blend",
+                "wine": "Hourglass",
+                "region": "Napa Valley",
+                "varietal": "Petite sirah / Merlot/ Cab",
                 "glassSize": "8oz",
-                "glassPrice": 13.75
+                "glassPrice": 16.75
               }
             ],
-            "flightPrice": 16.75
+            "flightPrice": 14.75
           },
           {
             "name": "International Red Flight",
             "items": [
               {
-                "wine": "Ruffino",
+                "wine": "Ca Di Pian",
                 "region": "Italy",
-                "varietal": "Sangiovese",
+                "varietal": "Barbera",
                 "glassSize": "8oz",
-                "glassPrice": 8.75
+                "glassPrice": 14.75
               },
               {
-                "wine": "Brecca",
-                "region": "Spain",
-                "varietal": "Grenache ",
-                "glassSize": "8oz",
-                "glassPrice": 7.75
-              },
-              {
-                "wine": "Pigeoulet",
+                "wine": "St Cosme",
                 "region": "France",
                 "varietal": "Grenache,Syrah,Mourvedre",
                 "glassSize": "8oz",
                 "glassPrice": 8.75
+              },
+              {
+                "wine": "Bramare",
+                "region": "Argentina",
+                "varietal": "Malbec",
+                "glassSize": "8oz",
+                "glassPrice": 16.75
               }
             ],
-            "flightPrice": 8.75
+            "flightPrice": 13.75
           },
           {
             "name": "Cabernet Sauvignon Flight",
             "items": [
               {
-                "wine": "Coquerel",
-                "region": "Napa",
+                "wine": "Bezel",
+                "region": "Paso Robles",
+                "varietal": "Cabernet",
+                "glassSize": "8oz",
+                "glassPrice": 10.75
+              },
+              {
+                "wine": "Clos du Val",
+                "region": "Napa Valley",
                 "varietal": "Cabernet",
                 "glassSize": "8oz",
                 "glassPrice": 16.75
               },
               {
-                "wine": "Ink Grade",
-                "region": "Napa",
+                "wine": "Groth",
+                "region": "Napa Valley",
                 "varietal": "Cabernet",
                 "glassSize": "8oz",
-                "glassPrice": 23.75
-              },
-              {
-                "wine": "Prisoner",
-                "region": "Napa",
-                "varietal": "Cabernet",
-                "glassSize": "8oz",
-                "glassPrice": 17.75
+                "glassPrice": 19.75
               }
             ],
-            "flightPrice": 17.75
+            "flightPrice": 15.75
           }
         ],
         "subtitle": "Three 3oz pours, or enjoy an 8oz glass",
@@ -332,7 +338,7 @@
             {
               "name": "Vine Manhattan",
               "serve": "Up",
-              "ingredients": "Whole Creek Rye | Sweet Vermouth | Bitters"
+              "ingredients": "Rye |  Sweet Vermouth | Bitters |  Cherry"
             },
             {
               "name": "Blue Cheese Stuffed Dirty Martini",
@@ -357,40 +363,40 @@
           "image": "images/seasonal_cocktail.svg",
           "items": [
             {
-              "name": "Aperol Spritz",
-              "price": 12,
+              "name": "Pear Mule",
+              "price": 14,
               "serve": "Rocks",
-              "ingredients": "Aperol | Prosecco | Soda Water"
+              "ingredients": "Pear Infused Vodka |  Lemon Juice |   Ginger Beer"
             },
             {
-              "name": "Highball",
-              "price": 11,
+              "name": "Cranberry Spritz",
+              "price": 14,
               "serve": "Rocks",
-              "ingredients": "Whiskey | Ginger Beer | Orange Bitters"
+              "ingredients": "Cranberry Vodka | Limoncello | Sparkling Wine | Soda Water"
             },
             {
-              "name": "Negroni",
+              "name": "Last of the Leaves",
               "price": 12,
-              "serve": "Clear Ice Co Clear Cube",
-              "ingredients": "Gin | Campari | Sweet Vermouth"
+              "serve": "Up",
+              "ingredients": "Gin | Fontbonne | lemon juice | Rosemary Syrup "
             },
             {
-              "name": "French 75",
+              "name": "Precursor",
+              "price": 14,
+              "serve": "Rocks",
+              "ingredients": "Reposado Tequila | lime juice | persimmon agave syrup | Habanero bitters | Tajin rim"
+            },
+            {
+              "name": "Dark Nights ",
               "price": 14,
               "serve": "Up",
-              "ingredients": "Gin | Lemon Juice | Simple Syrup | Bubbles"
+              "ingredients": "Sazerac Rye | Cynar | Sweet vermouth   | Walnut Bitters | Orange bitters"
             },
             {
-              "name": "Fall Back Fashioned",
+              "name": "N/A Desert Sunset ",
               "price": 14,
-              "serve": "Clear Ice Co Clear Cube",
-              "ingredients": "Bourbon | Montenegro | Grapefruit Bitters | Nut Bitters"
-            },
-            {
-              "name": "WV Espresso Martini",
-              "price": 12,
-              "serve": "",
-              "ingredients": "Vodka | Cardamaro | Coffee Grind Espresso | Simple Syrup"
+              "serve": "Rocks",
+              "ingredients": "Lyres agave blanco N/A | lime juice | grapefruit soda"
             }
           ],
           "title": "Seasonal Cocktails"
@@ -406,9 +412,9 @@
             "brewery": "North Coast"
           },
           {
-            "beer": "White Rascal Ale",
-            "price": 6.25,
-            "brewery": "Avery"
+            "beer": "Mind Circus Hazy IPA",
+            "price": 8.25,
+            "brewery": "Russian River "
           },
           {
             "beer": "IPA",
@@ -418,28 +424,28 @@
           },
           {
             "beer": "Stout",
-            "price": 9,
+            "price": 6.25,
             "brewery": "Guinness"
           },
           {
-            "beer": "Peanut Butter Milk Stout",
-            "price": 6.25,
-            "brewery": "Belching Beaver"
-          },
-          {
-            "beer": "IPA",
+            "beer": "Saison",
             "price": 7.25,
-            "brewery": "Sculpin"
+            "brewery": "Boulevard Tank 7"
           },
           {
-            "beer": "Radler Aperitif",
+            "beer": "Hefeweizen",
+            "price": 6.25,
+            "brewery": "Tenaya Creek "
+          },
+          {
+            "beer": "Radler Grapefruit",
             "price": 5.25,
             "brewery": "Stiegl"
           },
           {
-            "beer": "Detour Red",
+            "beer": "IPA",
             "price": 6.25,
-            "brewery": "Parlay 6"
+            "brewery": "Russian River Happy Hops"
           }
         ],
         "image": "images/beer.svg",
