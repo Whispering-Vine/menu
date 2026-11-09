@@ -310,11 +310,11 @@
                 "glassPrice": 10.75
               },
               {
-                "wine": "Clos du Val",
+                "wine": "Gemstone \"Facets\"",
                 "region": "Napa Valley",
                 "varietal": "Cabernet",
                 "glassSize": "8oz",
-                "glassPrice": 16.75
+                "glassPrice": 18.75
               },
               {
                 "wine": "Groth",
@@ -324,7 +324,7 @@
                 "glassPrice": 19.75
               }
             ],
-            "flightPrice": 15.75
+            "flightPrice": 16.75
           }
         ],
         "subtitle": "Three 3oz pours, or enjoy an 8oz glass",
