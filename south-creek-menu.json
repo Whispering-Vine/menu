@@ -182,14 +182,14 @@
                 "glassPrice": 11.75
               },
               {
-                "wine": "Lloyd Cellars",
-                "region": "Carneros, Cali.",
+                "wine": "Cakebread",
+                "region": "Napa",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
-                "glassPrice": 15.75
+                "glassPrice": 17.75
               }
             ],
-            "flightPrice": 12.75
+            "flightPrice": 13.75
           },
           {
             "name": "Pinot Noir Flight",
@@ -202,11 +202,11 @@
                 "glassPrice": 16.75
               },
               {
-                "wine": "Crossbarn",
-                "region": "Sonoma Coast",
+                "wine": "Cakebread",
+                "region": "Napa",
                 "varietal": "Pinot Noir",
                 "glassSize": "8oz",
-                "glassPrice": 12.75
+                "glassPrice": 17.75
               },
               {
                 "wine": "Twomey",
@@ -216,7 +216,7 @@
                 "glassPrice": 16.75
               }
             ],
-            "flightPrice": 15.75
+            "flightPrice": 16.75
           },
           {
             "name": "Red Variety Flight",
