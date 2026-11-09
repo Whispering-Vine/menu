@@ -155,14 +155,14 @@
                 "glassPrice": 8.75
               },
               {
-                "wine": "Dom. Du Salvard",
-                "region": "Cheverny, France",
-                "varietal": "Sauv Blanc/Chard",
+                "wine": "Illumination",
+                "region": "Napa",
+                "varietal": "Sauvignon Blanc",
                 "glassSize": "8oz",
-                "glassPrice": 9.75
+                "glassPrice": 16.75
               }
             ],
-            "flightPrice": 9.75
+            "flightPrice": 12.75
           },
           {
             "name": "Chardonnay Flight",
