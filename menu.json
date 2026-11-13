@@ -1007,7 +1007,7 @@
                   }
                 },
                 {
-                  "name": "Meyer Nakel",
+                  "name": "Meyer Näkel",
                   "price": "14.75",
                   "variety": "Dry Rosé",
                   "location": "Germany",
@@ -1238,7 +1238,7 @@
                   "name": "Fratelli Cosmo",
                   "price": "7.75",
                   "variety": "Prosecco",
-                  "location": "italy",
+                  "location": "Italy",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "22b2342c-ca3a-4fbe-8198-5fb87590ff7e",
@@ -1300,7 +1300,7 @@
               "name": "Pinot Noir Flight",
               "items": [
                 {
-                  "name": "Aubaine \"Jolie\"",
+                  "name": "Aubaine \"Joie\"",
                   "price": "16.75",
                   "variety": "Pinot Noir",
                   "location": "Willamette Valley, Oregon ",
