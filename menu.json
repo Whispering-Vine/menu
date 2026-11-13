@@ -991,9 +991,9 @@
                   }
                 },
                 {
-                  "name": "Tre Donne",
-                  "price": "8.75",
-                  "variety": "Arneis",
+                  "name": "Tenuta Ponte Ianni",
+                  "price": "9.75",
+                  "variety": "Falanghina",
                   "location": "Italy",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1007,10 +1007,10 @@
                   }
                 },
                 {
-                  "name": "Illumination",
-                  "price": "16.75",
-                  "variety": "Sauvignon Blanc Blend",
-                  "location": "Napa",
+                  "name": "Meyer Nakel",
+                  "price": "14.75",
+                  "variety": "Dry Rosé",
+                  "location": "Germany",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -1056,8 +1056,8 @@
                   }
                 },
                 {
-                  "name": "Cakebread",
-                  "price": "17.75",
+                  "name": "Peju",
+                  "price": "14.75",
                   "variety": "Chardonnay",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1105,10 +1105,10 @@
               "name": "Cabernet Flight",
               "items": [
                 {
-                  "name": "Diamonds In Space",
-                  "price": "9.75",
+                  "name": "Martin Ray",
+                  "price": "8.75",
                   "variety": "Cabernet",
-                  "location": "Paso Robles",
+                  "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "821a58cf-e815-40fc-b3e6-2a0611603a75",
@@ -1235,10 +1235,10 @@
               "name": "Bubbles Flight",
               "items": [
                 {
-                  "name": "Roederer Estate",
-                  "price": "11.75",
-                  "variety": "Brut",
-                  "location": "Anderson Valley",
+                  "name": "Fratelli Cosmo",
+                  "price": "7.75",
+                  "variety": "Prosecco",
+                  "location": "italy",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "22b2342c-ca3a-4fbe-8198-5fb87590ff7e",
@@ -1283,7 +1283,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "15.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1381,9 +1381,9 @@
                   }
                 },
                 {
-                  "name": "Hourglass",
-                  "price": "16.75",
-                  "variety": "Petite Syrah, Cabernet,\nMerlot",
+                  "name": "Leviathan",
+                  "price": "14.75",
+                  "variety": "Cabernet, Petite Syrah, Merlot",
                   "location": "Napa",
                   "glassSize": "8oz",
                   "toastLink": {
@@ -1413,7 +1413,7 @@
                   }
                 }
               ],
-              "price": "17.75",
+              "price": "16.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1511,8 +1511,8 @@
                   }
                 },
                 {
-                  "name": "Rombauer",
-                  "price": "24.75",
+                  "name": "Duckhorn",
+                  "price": "21.75",
                   "variety": "Cabernet ",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1563,38 +1563,38 @@
         "specials": {
           "items": [
             {
-              "name": "Gemstone \"Facets\" Cabernet",
-              "glass": "18.75",
-              "notes": "Winery $65  95pts Decanter",
-              "bottle": "44.99",
+              "name": "Duckhorn Cabernet",
+              "glass": "21.75",
+              "notes": "Winery $65  ",
+              "bottle": "52.99",
               "favorites": false
             },
             {
-              "name": "Flowers Pinot Noir",
-              "glass": "18.75",
-              "notes": "Winery $60 Jeb Dunnuck",
-              "bottle": "44.99",
+              "name": "Leviathan Red Blend",
+              "glass": "14.75",
+              "notes": "94pts James Suckling",
+              "bottle": "34.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Chappellet Mountain Cuvee",
-              "glass": "17.75",
-              "notes": "Winery $50",
-              "bottle": "43.99"
+              "name": "Meyer Nakel Rosé",
+              "glass": "14.75",
+              "notes": "",
+              "bottle": "34.99"
             },
             {
-              "name": "Illumination By Quintessa Sauvignon Blanc",
-              "glass": "16.75",
-              "notes": "Winery $65",
-              "bottle": "39.99",
+              "name": "Aubaine Anahata Pinot Noir",
+              "glass": "12.75",
+              "notes": "Winery $60",
+              "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "Cakebread Chardonnay ",
-              "glass": "17.75",
-              "notes": "Winery $50",
-              "bottle": "41.99",
+              "name": "Fratelli Cosmo Prosecco",
+              "glass": "7.75",
+              "notes": "",
+              "bottle": "16.99",
               "favorites": false
             }
           ]
