@@ -375,8 +375,8 @@
             "name": "Chardonnay Flight",
             "items": [
               {
-                "wine": "Mer Soleil ",
-                "region": "Monterey County",
+                "wine": "Reynard",
+                "region": "Chablis, France",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
                 "toastLink": {
@@ -388,11 +388,11 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 7.75
+                "glassPrice": 12.75
               },
               {
-                "wine": "Ramey ",
-                "region": "Russian River",
+                "wine": "Mer Soleil",
+                "region": "Monterey",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
                 "toastLink": {
@@ -404,11 +404,11 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 19.75
+                "glassPrice": 7.75
               },
               {
-                "wine": "Cakebread",
-                "region": "Napa",
+                "wine": "Ramey",
+                "region": "Russian River",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
                 "toastLink": {
@@ -420,7 +420,7 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 17.75
+                "glassPrice": 19.75
               }
             ],
             "toastLink": {
@@ -432,7 +432,7 @@
               "locationName": null,
               "multiLocationId": null
             },
-            "flightPrice": 15.75
+            "flightPrice": 13.75
           },
           {
             "name": "Pinot Noir Flight",
@@ -598,7 +598,7 @@
               {
                 "wine": "Andronicus",
                 "region": "Napa Valley",
-                "varietal": "Cab-petite verdot",
+                "varietal": "Cab-Petite verdot",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "7b6f95f7-9925-4099-899b-b2e6d374f06e",
@@ -656,7 +656,7 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 15.75
+                "glassPrice": 19.75
               },
               {
                 "wine": "Ultreia",
@@ -684,7 +684,7 @@
               "locationName": null,
               "multiLocationId": null
             },
-            "flightPrice": 13.75
+            "flightPrice": 15.75
           },
           {
             "name": "Cabernet Sauvignon Flight",
