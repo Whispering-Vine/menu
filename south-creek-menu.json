@@ -147,8 +147,8 @@
           {
             "price": 16.75,
             "style": "Zinfandel",
-            "region": "Dry Creek",
-            "producer": "Mauritson",
+            "region": "Napa ",
+            "producer": "Titus",
             "toastLink": {
               "id": "f1e226a7-1760-4f3e-9c5b-aa8d99c32d1d",
               "name": "Mauritson Zin 8oz.",
@@ -249,9 +249,9 @@
             "name": "Bubbles Flight",
             "items": [
               {
-                "wine": "Oriol Rossell",
-                "region": "Cava, Spain",
-                "varietal": "Brut",
+                "wine": "Fratelli Cosmo",
+                "region": "Italy",
+                "varietal": "Prosecco ",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "718dc835-941f-44a5-86c4-4f057030d72a",
@@ -262,7 +262,7 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 9.75
+                "glassPrice": 7.75
               },
               {
                 "wine": "Taittinger",
@@ -281,9 +281,9 @@
                 "glassPrice": 17.75
               },
               {
-                "wine": "Perrier Jouet",
-                "region": "Champagne, France",
-                "varietal": "Brut",
+                "wine": "Lytle Barnett ",
+                "region": "Eola-Amity, Oregon",
+                "varietal": "Blanc de Noir ",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "34677efd-619d-4b1e-b2a2-9969262a069d",
@@ -294,7 +294,7 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 18.75
+                "glassPrice": 15.75
               }
             ],
             "toastLink": {
@@ -306,7 +306,7 @@
               "locationName": null,
               "multiLocationId": null
             },
-            "flightPrice": 15.75
+            "flightPrice": 14.75
           },
           {
             "name": "White Variety Flight",
@@ -328,9 +328,9 @@
                 "glassPrice": 10.75
               },
               {
-                "wine": "Dry Creek Vineyards",
-                "region": "Clarksburg, Cali.",
-                "varietal": "Chenin Blanc",
+                "wine": "Dom. de la Prebende Beaujolais Blanc",
+                "region": "France",
+                "varietal": "Chardonnay",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "1a7ad69a-67a5-4214-977f-2120807281fd",
@@ -341,12 +341,12 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 8.75
+                "glassPrice": 9.75
               },
               {
-                "wine": "Illumination",
-                "region": "Napa",
-                "varietal": "Sauvignon Blanc",
+                "wine": "Meyer Nakel",
+                "region": "Germany",
+                "varietal": "Dry Rosé",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "40ed236c-3399-4dde-89fb-4bc230b87068",
@@ -357,7 +357,7 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 16.75
+                "glassPrice": 14.75
               }
             ],
             "toastLink": {
@@ -375,8 +375,8 @@
             "name": "Chardonnay Flight",
             "items": [
               {
-                "wine": "Regnard",
-                "region": "Chablis, France",
+                "wine": "Mer Soleil ",
+                "region": "Monterey County",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
                 "toastLink": {
@@ -388,11 +388,11 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 10.75
+                "glassPrice": 7.75
               },
               {
-                "wine": "Frank Family",
-                "region": "Carneros, Cali.",
+                "wine": "Ramey ",
+                "region": "Russian River",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
                 "toastLink": {
@@ -404,7 +404,7 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 11.75
+                "glassPrice": 19.75
               },
               {
                 "wine": "Cakebread",
@@ -432,7 +432,7 @@
               "locationName": null,
               "multiLocationId": null
             },
-            "flightPrice": 13.75
+            "flightPrice": 15.75
           },
           {
             "name": "Pinot Noir Flight",
@@ -517,9 +517,9 @@
                 "glassPrice": 12.75
               },
               {
-                "wine": "Juan Gil",
-                "region": "Jumilla, Spain",
-                "varietal": "Monastrell",
+                "wine": "Saldo",
+                "region": "California",
+                "varietal": "Zin",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "8b9bc508-f99a-4adf-87c4-9c62003dea21",
@@ -530,11 +530,11 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 7.75
+                "glassPrice": 10.75
               },
               {
-                "wine": "Stags’ Leap",
-                "region": "Napa",
+                "wine": "Caymus Grand Durif",
+                "region": "Suisun",
                 "varietal": "Petite Sirah",
                 "glassSize": "8oz",
                 "toastLink": {
@@ -546,7 +546,7 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 14.75
+                "glassPrice": 19.75
               }
             ],
             "toastLink": {
@@ -558,7 +558,7 @@
               "locationName": null,
               "multiLocationId": null
             },
-            "flightPrice": 11.75
+            "flightPrice": 14.75
           },
           {
             "name": "Red Blend Flight",
@@ -596,9 +596,9 @@
                 "glassPrice": 18.75
               },
               {
-                "wine": "Hourglass",
+                "wine": "Andronicus",
                 "region": "Napa Valley",
-                "varietal": "Petite sirah / Merlot/ Cab",
+                "varietal": "Cab-petite verdot",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "7b6f95f7-9925-4099-899b-b2e6d374f06e",
@@ -609,7 +609,7 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 16.75
+                "glassPrice": 15.75
               }
             ],
             "toastLink": {
@@ -624,7 +624,7 @@
             "flightPrice": 14.75
           },
           {
-            "name": "International Red Flight",
+            "name": "Thanksgiving-Friendly International Red Flight",
             "items": [
               {
                 "wine": "Ca Di Pian",
@@ -643,25 +643,9 @@
                 "glassPrice": 14.75
               },
               {
-                "wine": "St Cosme",
-                "region": "France",
-                "varietal": "Grenache,Syrah,Mourvedre",
-                "glassSize": "8oz",
-                "toastLink": {
-                  "id": "38d9c5af-13fe-42d5-a548-a0e8ef432d95",
-                  "name": "FH Import 2",
-                  "price": 8.75,
-                  "categoryPath": "Glasses",
-                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
-                  "locationName": null,
-                  "multiLocationId": null
-                },
-                "glassPrice": 8.75
-              },
-              {
-                "wine": "Bramare",
-                "region": "Argentina",
-                "varietal": "Malbec",
+                "wine": "Albert Bichot Secret ",
+                "region": "Burgundy, France",
+                "varietal": "Pinot Noir",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "c01f81e0-9880-4a3d-b7a9-017fb9fa461a",
@@ -672,7 +656,23 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 16.75
+                "glassPrice": 15.75
+              },
+              {
+                "wine": "Ultreia",
+                "region": "Bierzo, Spain",
+                "varietal": "Mencia",
+                "glassSize": "8oz",
+                "toastLink": {
+                  "id": "38d9c5af-13fe-42d5-a548-a0e8ef432d95",
+                  "name": "FH Import 2",
+                  "price": 8.75,
+                  "categoryPath": "Glasses",
+                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
+                  "locationName": null,
+                  "multiLocationId": null
+                },
+                "glassPrice": 10.75
               }
             ],
             "toastLink": {
@@ -690,8 +690,8 @@
             "name": "Cabernet Sauvignon Flight",
             "items": [
               {
-                "wine": "Bezel",
-                "region": "Paso Robles",
+                "wine": "Courtier ",
+                "region": "Spring Mtn, Napa",
                 "varietal": "Cabernet",
                 "glassSize": "8oz",
                 "toastLink": {
@@ -703,7 +703,7 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 10.75
+                "glassPrice": 12.75
               },
               {
                 "wine": "Gemstone \"Facets\"",
@@ -747,7 +747,7 @@
               "locationName": null,
               "multiLocationId": null
             },
-            "flightPrice": 16.75
+            "flightPrice": 17.75
           }
         ],
         "subtitle": "Three 3oz pours, or enjoy an 8oz glass",
@@ -760,6 +760,7 @@
           "items": [
             {
               "name": "Vine Manhattan",
+              "price": 14,
               "serve": "Up",
               "toastLink": {
                 "id": "5df11b72-1130-4235-a061-0a4053e7f300",
@@ -774,6 +775,7 @@
             },
             {
               "name": "Blue Cheese Stuffed Dirty Martini",
+              "price": 14,
               "serve": "Up",
               "toastLink": {
                 "id": "e9ad258c-fa3d-4df9-be41-2b0af49b36cf",
@@ -788,6 +790,7 @@
             },
             {
               "name": "Vine Old Fashioned",
+              "price": 14,
               "serve": "Clear Ice Co Clear Cube",
               "toastLink": {
                 "id": "b4fb9178-43d4-424b-96b3-6dffeb8f4d27",
@@ -802,6 +805,7 @@
             },
             {
               "name": "Can't Beat A Classic Marg",
+              "price": 14,
               "serve": "Rocks & Salt",
               "toastLink": {
                 "id": "fc307e17-7ba5-44d5-9f28-24b1bce74703",
@@ -853,7 +857,7 @@
             },
             {
               "name": "Last of the Leaves",
-              "price": 12,
+              "price": 14,
               "serve": "Up",
               "toastLink": {
                 "id": "7dc8deaf-8826-4c91-abca-78820d83d815",
@@ -1070,7 +1074,7 @@
             },
             {
               "name": "Can of Peanuts",
-              "price": 7
+              "price": 10.99
             }
           ],
           "title": "Snacks"
@@ -1078,9 +1082,37 @@
         "bottled": {
           "items": [
             {
-              "meta": "Double IPA",
-              "name": "Pliny the Elder",
-              "price": 5.99,
+              "meta": "IPA",
+              "name": "N/A Deschutes Fresh Squeeze",
+              "price": 4.99,
+              "toastLink": {
+                "id": "8df19094-a160-4113-8392-f4b14b7e93f7",
+                "name": "Russian River Brewing",
+                "price": 5.99,
+                "categoryPath": "Beer",
+                "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
+                "locationName": null,
+                "multiLocationId": null
+              }
+            },
+            {
+              "meta": "",
+              "name": "N/A Heineken 0.0",
+              "price": 4.99,
+              "toastLink": {
+                "id": "8df19094-a160-4113-8392-f4b14b7e93f7",
+                "name": "Russian River Brewing",
+                "price": 5.99,
+                "categoryPath": "Beer",
+                "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
+                "locationName": null,
+                "multiLocationId": null
+              }
+            },
+            {
+              "meta": "",
+              "name": "Russian River Velvet Glow Pilsner ",
+              "price": 3.99,
               "toastLink": {
                 "id": "8df19094-a160-4113-8392-f4b14b7e93f7",
                 "name": "Russian River Brewing",
@@ -1093,35 +1125,7 @@
             },
             {
               "meta": "IPA",
-              "name": "Blind Pig",
-              "price": 5.99,
-              "toastLink": {
-                "id": "8df19094-a160-4113-8392-f4b14b7e93f7",
-                "name": "Russian River Brewing",
-                "price": 5.99,
-                "categoryPath": "Beer",
-                "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
-                "locationName": null,
-                "multiLocationId": null
-              }
-            },
-            {
-              "meta": "IPA",
-              "name": "Citra Flash Mob",
-              "price": 5.99,
-              "toastLink": {
-                "id": "8df19094-a160-4113-8392-f4b14b7e93f7",
-                "name": "Russian River Brewing",
-                "price": 5.99,
-                "categoryPath": "Beer",
-                "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
-                "locationName": null,
-                "multiLocationId": null
-              }
-            },
-            {
-              "meta": "IPA",
-              "name": "Happy Hops",
+              "name": "Russian River Damnation Pilsner",
               "price": 5.99,
               "toastLink": {
                 "id": "8df19094-a160-4113-8392-f4b14b7e93f7",
