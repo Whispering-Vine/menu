@@ -151,7 +151,7 @@
             "producer": "Titus",
             "toastLink": {
               "id": "f1e226a7-1760-4f3e-9c5b-aa8d99c32d1d",
-              "name": "Mauritson Zin 8oz.",
+              "name": "Titus Zin 8oz.",
               "price": 16.75,
               "categoryPath": "Signature",
               "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
@@ -256,7 +256,7 @@
                 "toastLink": {
                   "id": "718dc835-941f-44a5-86c4-4f057030d72a",
                   "name": "FH Bubs 1",
-                  "price": 9.75,
+                  "price": 7.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -288,7 +288,7 @@
                 "toastLink": {
                   "id": "34677efd-619d-4b1e-b2a2-9969262a069d",
                   "name": "FH Bubs 3",
-                  "price": 18.75,
+                  "price": 15.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -300,7 +300,7 @@
             "toastLink": {
               "id": "70c5d0d7-7aa6-4a40-8ada-ebe2371e747a",
               "name": "FH Champagne Flight",
-              "price": 15.75,
+              "price": 14.75,
               "categoryPath": "Flights",
               "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
               "locationName": null,
@@ -335,7 +335,7 @@
                 "toastLink": {
                   "id": "1a7ad69a-67a5-4214-977f-2120807281fd",
                   "name": "FH WV 2",
-                  "price": 8.75,
+                  "price": 9.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -351,7 +351,7 @@
                 "toastLink": {
                   "id": "40ed236c-3399-4dde-89fb-4bc230b87068",
                   "name": "FH WV 3",
-                  "price": 16.75,
+                  "price": 14.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -375,14 +375,14 @@
             "name": "Chardonnay Flight",
             "items": [
               {
-                "wine": "Reynard",
+                "wine": "Regnard",
                 "region": "Chablis, France",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "8dbd5bc5-fc88-4691-b061-69d3caabf671",
                   "name": "FH Chard 1",
-                  "price": 10.75,
+                  "price": 12.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -398,7 +398,7 @@
                 "toastLink": {
                   "id": "fbcf52f7-61f4-4200-9f6c-698a129b952b",
                   "name": "FH Chard 2",
-                  "price": 11.75,
+                  "price": 7.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -414,7 +414,7 @@
                 "toastLink": {
                   "id": "1a00dc00-fc0a-48c0-bbeb-5fc040c8a34b",
                   "name": "FH Chard 3",
-                  "price": 17.75,
+                  "price": 19.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -524,7 +524,7 @@
                 "toastLink": {
                   "id": "8b9bc508-f99a-4adf-87c4-9c62003dea21",
                   "name": "FH RV 2",
-                  "price": 7.75,
+                  "price": 10.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -540,7 +540,7 @@
                 "toastLink": {
                   "id": "180119a8-ab0d-4ba7-9fd7-8e909202ff3b",
                   "name": "FH RV 3",
-                  "price": 14.75,
+                  "price": 19.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -552,7 +552,7 @@
             "toastLink": {
               "id": "f31f78d0-aea1-44c2-9745-daa77c744bb6",
               "name": "FH Red Variety Flight",
-              "price": 11.75,
+              "price": 14.75,
               "categoryPath": "Flights",
               "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
               "locationName": null,
@@ -603,7 +603,7 @@
                 "toastLink": {
                   "id": "7b6f95f7-9925-4099-899b-b2e6d374f06e",
                   "name": "FH RB 3",
-                  "price": 16.75,
+                  "price": 15.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -624,7 +624,7 @@
             "flightPrice": 14.75
           },
           {
-            "name": "Thanksgiving-Friendly International Red Flight",
+            "name": "Thanksgiving-Friendly Int. Red Flight",
             "items": [
               {
                 "wine": "Ca Di Pian",
@@ -650,7 +650,7 @@
                 "toastLink": {
                   "id": "c01f81e0-9880-4a3d-b7a9-017fb9fa461a",
                   "name": "FH Import 3",
-                  "price": 16.75,
+                  "price": 19.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -666,7 +666,7 @@
                 "toastLink": {
                   "id": "38d9c5af-13fe-42d5-a548-a0e8ef432d95",
                   "name": "FH Import 2",
-                  "price": 8.75,
+                  "price": 10.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -678,7 +678,7 @@
             "toastLink": {
               "id": "b573e4d5-82eb-4761-8fa6-6e213b687e33",
               "name": "FH Import Flight",
-              "price": 13.75,
+              "price": 15.75,
               "categoryPath": "Flights",
               "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
               "locationName": null,
@@ -697,7 +697,7 @@
                 "toastLink": {
                   "id": "bd7d65d2-ac6d-4017-bccc-5da90df72245",
                   "name": "FH Cab 1",
-                  "price": 10.75,
+                  "price": 12.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -741,7 +741,7 @@
             "toastLink": {
               "id": "9a22360d-80c4-438c-bf72-8f15ad22ebfb",
               "name": "FH Cab Flight",
-              "price": 16.75,
+              "price": 17.75,
               "categoryPath": "Flights",
               "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
               "locationName": null,
@@ -765,7 +765,7 @@
               "toastLink": {
                 "id": "5df11b72-1130-4235-a061-0a4053e7f300",
                 "name": "Vine Manhattan",
-                "price": 13,
+                "price": 14,
                 "categoryPath": "Cocktails",
                 "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                 "locationName": null,
@@ -780,7 +780,7 @@
               "toastLink": {
                 "id": "e9ad258c-fa3d-4df9-be41-2b0af49b36cf",
                 "name": "Blue Cheese Stuffed Martini",
-                "price": 13,
+                "price": 14,
                 "categoryPath": "Cocktails",
                 "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                 "locationName": null,
@@ -795,7 +795,7 @@
               "toastLink": {
                 "id": "b4fb9178-43d4-424b-96b3-6dffeb8f4d27",
                 "name": "Vine Old Fashioned",
-                "price": 13,
+                "price": 14,
                 "categoryPath": "Cocktails",
                 "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                 "locationName": null,
@@ -810,7 +810,7 @@
               "toastLink": {
                 "id": "fc307e17-7ba5-44d5-9f28-24b1bce74703",
                 "name": "MARG",
-                "price": 13,
+                "price": 14,
                 "categoryPath": "Cocktails",
                 "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                 "locationName": null,
@@ -830,8 +830,8 @@
               "price": 14,
               "serve": "Rocks",
               "toastLink": {
-                "id": "f4aac222-20ad-423b-a1ce-e995ff5bc76f",
-                "name": "Pear Mule",
+                "id": "198d89a7-b187-4c1f-8ea2-012d7e7a7700",
+                "name": "Cran Mule",
                 "price": 14,
                 "categoryPath": "Cocktails",
                 "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
@@ -845,8 +845,8 @@
               "price": 14,
               "serve": "Up",
               "toastLink": {
-                "id": "198d89a7-b187-4c1f-8ea2-012d7e7a7700",
-                "name": "Cranberry-Orange Spritz",
+                "id": "f4aac222-20ad-423b-a1ce-e995ff5bc76f",
+                "name": "spiced pear 75",
                 "price": 14,
                 "categoryPath": "Cocktails",
                 "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
@@ -862,7 +862,7 @@
               "toastLink": {
                 "id": "7dc8deaf-8826-4c91-abca-78820d83d815",
                 "name": "Last of the Leaves",
-                "price": 12,
+                "price": 14,
                 "categoryPath": "Cocktails",
                 "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                 "locationName": null,
@@ -1074,7 +1074,16 @@
             },
             {
               "name": "Can of Peanuts",
-              "price": 10.99
+              "price": 10.99,
+              "toastLink": {
+                "id": "50a92c91-978c-4b50-b789-711d81a75f14",
+                "name": "Peanuts",
+                "price": 10.99,
+                "categoryPath": "Basic",
+                "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
+                "locationName": null,
+                "multiLocationId": null
+              }
             }
           ],
           "title": "Snacks"
@@ -1086,9 +1095,9 @@
               "name": "N/A Deschutes Fresh Squeeze",
               "price": 4.99,
               "toastLink": {
-                "id": "8df19094-a160-4113-8392-f4b14b7e93f7",
-                "name": "Russian River Brewing",
-                "price": 5.99,
+                "id": "cdc219f4-9bbf-4145-8595-94d0c06fed71",
+                "name": "Deschutes fresh squeeze NA",
+                "price": 4.99,
                 "categoryPath": "Beer",
                 "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                 "locationName": null,
@@ -1100,9 +1109,9 @@
               "name": "N/A Heineken 0.0",
               "price": 4.99,
               "toastLink": {
-                "id": "8df19094-a160-4113-8392-f4b14b7e93f7",
-                "name": "Russian River Brewing",
-                "price": 5.99,
+                "id": "62d71e46-611a-4789-ab93-f89b79d710c5",
+                "name": "N/A Beer Bottle",
+                "price": 4.99,
                 "categoryPath": "Beer",
                 "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                 "locationName": null,
@@ -1114,9 +1123,9 @@
               "name": "Russian River Velvet Glow Pilsner ",
               "price": 3.99,
               "toastLink": {
-                "id": "8df19094-a160-4113-8392-f4b14b7e93f7",
-                "name": "Russian River Brewing",
-                "price": 5.99,
+                "id": "534666f8-9f50-4bd8-a021-5d06badae6f2",
+                "name": "velvet glow special",
+                "price": 3.99,
                 "categoryPath": "Beer",
                 "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                 "locationName": null,
