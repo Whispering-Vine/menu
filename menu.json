@@ -48,7 +48,7 @@
               "abv": "5.0%",
               "ibu": "15",
               "name": "Cali Squeeze Blood Orange Hefeweizen",
-              "local": true,
+              "local": false,
               "price": "6.25",
               "brewery": "Paso Robles",
               "toastLink": {
@@ -166,7 +166,7 @@
             {
               "abv": "4.5%",
               "ibu": "18",
-              "name": "Pacifico",
+              "name": "Modelo",
               "local": false,
               "price": "6.25",
               "brewery": "Mexico",
@@ -192,7 +192,7 @@
               "abv": "4.9%",
               "ibu": "28",
               "name": "Pigeon Head Pilsner",
-              "local": false,
+              "local": true,
               "price": "7.25",
               "brewery": "Reno"
             }
