@@ -45,12 +45,12 @@
               }
             },
             {
-              "abv": "7.0%",
-              "ibu": "28",
-              "name": "Dogfish Punkin Ale",
+              "abv": "5.0%",
+              "ibu": "15",
+              "name": "Cali Squeeze Blood Orange Hefeweizen",
               "local": true,
               "price": "6.25",
-              "brewery": "Delaware ",
+              "brewery": "Paso Robles",
               "toastLink": {
                 "id": "9c2777c1-31af-4323-b710-668dd54d3850",
                 "name": "Pigeon Head Lager",
@@ -187,6 +187,14 @@
               "local": false,
               "price": "7.25",
               "brewery": "Ireland"
+            },
+            {
+              "name": "Pigeon Head Pilsner",
+              "brewery": "Reno",
+              "abv": "4.9%",
+              "ibu": "28",
+              "price": "7.25",
+              "local": false
             }
           ]
         },
@@ -1007,10 +1015,10 @@
                   }
                 },
                 {
-                  "name": "Meyer Näkel",
-                  "price": "14.75",
-                  "variety": "Dry Rosé",
-                  "location": "Germany",
+                  "name": "Martinelli",
+                  "price": "12.75",
+                  "variety": "Dry Rosé of Pinot Noir",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "f60957aa-04ec-4f65-a008-4756cecd3667",
@@ -1040,10 +1048,10 @@
               "name": "Chardonnay Flight",
               "items": [
                 {
-                  "name": "Seghesio",
+                  "name": "Pio Cesare",
                   "price": "8.75",
                   "variety": "Chardonnay",
-                  "location": "Sonoma",
+                  "location": "Italy",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "082b932f-8c0f-46bd-b6e9-c892246237ca",
@@ -1121,8 +1129,8 @@
                   }
                 },
                 {
-                  "name": "Gemstone \"Facets\"",
-                  "price": "18.75",
+                  "name": "Ink Grade",
+                  "price": "24.75",
                   "variety": "Cabernet",
                   "location": "Napa",
                   "glassSize": "8oz",
@@ -1153,7 +1161,7 @@
                   }
                 }
               ],
-              "price": "16.75",
+              "price": "17.75",
               "featured": false,
               "favorites": false,
               "toastLink": {
@@ -1316,10 +1324,10 @@
                   }
                 },
                 {
-                  "name": "Flowers",
-                  "price": "18.75",
+                  "name": "Bricoleur",
+                  "price": "19.75",
                   "variety": "Pinot Noir",
-                  "location": "Sonoma Coast",
+                  "location": "Russian River, Sonoma ",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "223bfd29-94c6-401a-9523-0392558ac9a2",
@@ -1381,10 +1389,10 @@
                   }
                 },
                 {
-                  "name": "Leviathan",
-                  "price": "14.75",
-                  "variety": "Cabernet, Petite Syrah, Merlot",
-                  "location": "Napa",
+                  "name": "Ridge Three Valleys",
+                  "price": "13.75",
+                  "variety": "Zinfandel, Carignane, Petite Syrah",
+                  "location": "Sonoma",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "b628c3de-925f-4788-bc39-21fe550b14d3",
@@ -1430,10 +1438,10 @@
               "name": "Red Variety Flight",
               "items": [
                 {
-                  "name": "Tenuta Ponte Loggia",
-                  "price": "9.75",
-                  "variety": "Aglianico",
-                  "location": "Italy",
+                  "name": "Domaine Dupeuble",
+                  "price": "8.75",
+                  "variety": "Gamey",
+                  "location": "Beaujolais, France",
                   "glassSize": "8oz",
                   "toastLink": {
                     "id": "47377e05-6b29-4ecc-b4ef-051eb8324520",
@@ -1563,38 +1571,38 @@
         "specials": {
           "items": [
             {
-              "name": "Duckhorn Cabernet",
-              "glass": "21.75",
+              "name": "Bricoleur Pinot Noir",
+              "glass": "19.75",
               "notes": "Winery $65  ",
-              "bottle": "52.99",
+              "bottle": "49.99",
               "favorites": false
             },
             {
-              "name": "Leviathan Red Blend",
-              "glass": "14.75",
-              "notes": "94pts James Suckling",
-              "bottle": "34.99",
+              "name": "Ridge Three Valleys Red Blend",
+              "glass": "13.75",
+              "notes": "93pts James Suckling",
+              "bottle": "32.99",
               "favorites": false,
               "wineryPrice": 85
             },
             {
-              "name": "Meyer Nakel Rosé",
-              "glass": "14.75",
+              "name": "Martinelli Rosé",
+              "glass": "12.75",
               "notes": "",
-              "bottle": "34.99"
+              "bottle": "29.99"
             },
             {
-              "name": "Aubaine Anahata Pinot Noir",
+              "name": "Courtier \"Rutherford\" Cabernet",
               "glass": "12.75",
-              "notes": "Winery $60",
+              "notes": "",
               "bottle": "29.99",
               "wineryPrice": 45
             },
             {
-              "name": "Fratelli Cosmo Prosecco",
-              "glass": "7.75",
+              "name": "Domaine Dupeuble Beaujolais ",
+              "glass": "8.75",
               "notes": "",
-              "bottle": "16.99",
+              "bottle": "19.99",
               "favorites": false
             }
           ]
