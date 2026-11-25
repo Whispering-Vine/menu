@@ -85,10 +85,10 @@
             }
           },
           {
-            "price": 12.75,
+            "price": 11.75,
             "style": "Chardonnay",
-            "region": "Napa",
-            "producer": "Quilt",
+            "region": "Russian River",
+            "producer": "Hartford Court",
             "toastLink": {
               "id": "4fb03bf9-c764-4b24-8aeb-4f7c2b9ee485",
               "name": "Quilt Chard 8oz",
@@ -115,10 +115,10 @@
             }
           },
           {
-            "price": 17.75,
+            "price": 13.75,
             "style": "Pinot Noir",
-            "region": "Sonoma Coast",
-            "producer": "Flowers",
+            "region": "Oregon",
+            "producer": "Prince Hill",
             "toastLink": {
               "id": "7c7200db-ca75-4373-b7d0-3d6a010b4bb2",
               "name": "Flowers Pinot Noir 8oz",
@@ -132,8 +132,8 @@
           {
             "price": 9.75,
             "style": "Pinot Noir",
-            "region": "Sonoma Coast",
-            "producer": "Director’s Cut",
+            "region": "Oregon",
+            "producer": "In Sheep’s Clothing",
             "toastLink": {
               "id": "2d4d2989-98c1-462e-8e26-1f9b105148e0",
               "name": "Director's Cut Pinot Noir 8oz",
@@ -162,7 +162,7 @@
           {
             "price": 14.75,
             "style": "Red Blend",
-            "region": "California ",
+            "region": "California",
             "producer": "Leviathan",
             "toastLink": {
               "id": "aa2fd28e-3a2d-44f4-a4fd-5def4b13211f",
@@ -249,20 +249,20 @@
             "name": "Bubbles Flight",
             "items": [
               {
-                "wine": "Fratelli Cosmo",
-                "region": "Italy",
-                "varietal": "Prosecco ",
+                "wine": "Lytle Barnett ",
+                "region": "Eola-Amity, Oregon",
+                "varietal": "Blanc de Noir ",
                 "glassSize": "8oz",
                 "toastLink": {
-                  "id": "718dc835-941f-44a5-86c4-4f057030d72a",
-                  "name": "FH Bubs 1",
-                  "price": 7.75,
+                  "id": "34677efd-619d-4b1e-b2a2-9969262a069d",
+                  "name": "FH Bubs 3",
+                  "price": 15.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 7.75
+                "glassPrice": 15.75
               },
               {
                 "wine": "Taittinger",
@@ -281,20 +281,20 @@
                 "glassPrice": 17.75
               },
               {
-                "wine": "Lytle Barnett ",
-                "region": "Eola-Amity, Oregon",
-                "varietal": "Blanc de Noir ",
+                "wine": "Fratelli Cosmo",
+                "region": "Italy",
+                "varietal": "Prosecco ",
                 "glassSize": "8oz",
                 "toastLink": {
-                  "id": "34677efd-619d-4b1e-b2a2-9969262a069d",
-                  "name": "FH Bubs 3",
-                  "price": 15.75,
+                  "id": "718dc835-941f-44a5-86c4-4f057030d72a",
+                  "name": "FH Bubs 1",
+                  "price": 7.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 15.75
+                "glassPrice": 7.75
               }
             ],
             "toastLink": {
@@ -312,9 +312,9 @@
             "name": "White Variety Flight",
             "items": [
               {
-                "wine": "Terlano",
-                "region": "Alto Adige, Italy",
-                "varietal": "Pinot Grigio",
+                "wine": "La Cana",
+                "region": "Spain",
+                "varietal": "Albarino",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "ff09f13d-a1b3-4940-a103-990a684730ec",
@@ -325,28 +325,12 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 10.75
+                "glassPrice": 11.75
               },
               {
-                "wine": "Dom. de la Prebende Beaujolais Blanc",
+                "wine": "Attitude by Pascal Jolivet",
                 "region": "France",
-                "varietal": "Chardonnay",
-                "glassSize": "8oz",
-                "toastLink": {
-                  "id": "1a7ad69a-67a5-4214-977f-2120807281fd",
-                  "name": "FH WV 2",
-                  "price": 9.75,
-                  "categoryPath": "Glasses",
-                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
-                  "locationName": null,
-                  "multiLocationId": null
-                },
-                "glassPrice": 9.75
-              },
-              {
-                "wine": "Meyer Nakel",
-                "region": "Germany",
-                "varietal": "Dry Rosé",
+                "varietal": "Sauvignon Blanc ",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "40ed236c-3399-4dde-89fb-4bc230b87068",
@@ -357,7 +341,23 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 14.75
+                "glassPrice": 10.75
+              },
+              {
+                "wine": "Martinelli",
+                "region": "Sonoma Coast",
+                "varietal": "Rose of Pinot",
+                "glassSize": "8oz",
+                "toastLink": {
+                  "id": "1a7ad69a-67a5-4214-977f-2120807281fd",
+                  "name": "FH WV 2",
+                  "price": 9.75,
+                  "categoryPath": "Glasses",
+                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
+                  "locationName": null,
+                  "multiLocationId": null
+                },
+                "glassPrice": 13.75
               }
             ],
             "toastLink": {
@@ -375,8 +375,8 @@
             "name": "Chardonnay Flight",
             "items": [
               {
-                "wine": "Regnard",
-                "region": "Chablis, France",
+                "wine": "Albert Bichot ",
+                "region": "Burgundy, France",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
                 "toastLink": {
@@ -388,11 +388,11 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 12.75
+                "glassPrice": 11.75
               },
               {
-                "wine": "Mer Soleil",
-                "region": "Monterey",
+                "wine": "Lloyd",
+                "region": "Carneros",
                 "varietal": "Chardonnay",
                 "glassSize": "8oz",
                 "toastLink": {
@@ -404,7 +404,7 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 7.75
+                "glassPrice": 15.75
               },
               {
                 "wine": "Ramey",
@@ -432,14 +432,14 @@
               "locationName": null,
               "multiLocationId": null
             },
-            "flightPrice": 13.75
+            "flightPrice": 15.75
           },
           {
             "name": "Pinot Noir Flight",
             "items": [
               {
-                "wine": "Aubaine",
-                "region": "Eola Amity, Ore.",
+                "wine": "Cristom",
+                "region": "Willamette Valley",
                 "varietal": "Pinot Noir",
                 "glassSize": "8oz",
                 "toastLink": {
@@ -451,26 +451,10 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 16.75
+                "glassPrice": 17.75
               },
               {
-                "wine": "Sinegal",
-                "region": "Sonoma ",
-                "varietal": "Pinot Noir",
-                "glassSize": "8oz",
-                "toastLink": {
-                  "id": "e8b61b32-8fb4-4a31-9a7f-fe9d680b4c6d",
-                  "name": "FH Pinot 2",
-                  "price": 18.75,
-                  "categoryPath": "Glasses",
-                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
-                  "locationName": null,
-                  "multiLocationId": null
-                },
-                "glassPrice": 18.75
-              },
-              {
-                "wine": "Twomey",
+                "wine": "Bricoleur",
                 "region": "Russian River Valley",
                 "varietal": "Pinot Noir",
                 "glassSize": "8oz",
@@ -483,7 +467,23 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 16.75
+                "glassPrice": 20.75
+              },
+              {
+                "wine": "Walt Blue Jay",
+                "region": "Anderson Valley",
+                "varietal": "Pinot Noir",
+                "glassSize": "8oz",
+                "toastLink": {
+                  "id": "e8b61b32-8fb4-4a31-9a7f-fe9d680b4c6d",
+                  "name": "FH Pinot 2",
+                  "price": 18.75,
+                  "categoryPath": "Glasses",
+                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
+                  "locationName": null,
+                  "multiLocationId": null
+                },
+                "glassPrice": 15.75
               }
             ],
             "toastLink": {
@@ -495,31 +495,15 @@
               "locationName": null,
               "multiLocationId": null
             },
-            "flightPrice": 16.75
+            "flightPrice": 18.75
           },
           {
             "name": "Red Variety Flight",
             "items": [
               {
-                "wine": "Educated Guess",
-                "region": "Napa Valley, Cali. ",
-                "varietal": "Merlot",
-                "glassSize": "8oz",
-                "toastLink": {
-                  "id": "1efc1678-4811-4d80-9a4d-06d22045327e",
-                  "name": "FH RV 1",
-                  "price": 12.75,
-                  "categoryPath": "Glasses",
-                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
-                  "locationName": null,
-                  "multiLocationId": null
-                },
-                "glassPrice": 12.75
-              },
-              {
-                "wine": "Saldo",
-                "region": "California",
-                "varietal": "Zin",
+                "wine": "Domaine Dupueble ",
+                "region": "Beaujolais, France",
+                "varietal": "Gamay",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "8b9bc508-f99a-4adf-87c4-9c62003dea21",
@@ -530,7 +514,23 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 10.75
+                "glassPrice": 9.75
+              },
+              {
+                "wine": "Marimar Estate",
+                "region": "Russian River",
+                "varietal": "Tempranillo",
+                "glassSize": "8oz",
+                "toastLink": {
+                  "id": "1efc1678-4811-4d80-9a4d-06d22045327e",
+                  "name": "FH RV 1",
+                  "price": 12.75,
+                  "categoryPath": "Glasses",
+                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
+                  "locationName": null,
+                  "multiLocationId": null
+                },
+                "glassPrice": 13.75
               },
               {
                 "wine": "Caymus Grand Durif",
@@ -564,8 +564,8 @@
             "name": "Red Blend Flight",
             "items": [
               {
-                "wine": "Unshackled by Prisoner",
-                "region": "Napa Valley",
+                "wine": "Ridge Three Valleys",
+                "region": "California",
                 "varietal": "Zin-Based",
                 "glassSize": "8oz",
                 "toastLink": {
@@ -577,23 +577,7 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 8.75
-              },
-              {
-                "wine": "Chappellet “Mtn. Cuvée”",
-                "region": "Napa/Sonoma",
-                "varietal": "Bordeaux style ",
-                "glassSize": "8oz",
-                "toastLink": {
-                  "id": "4455eed5-1fc8-4525-a493-8997935021dc",
-                  "name": "FH RB 2",
-                  "price": 18.75,
-                  "categoryPath": "Glasses",
-                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
-                  "locationName": null,
-                  "multiLocationId": null
-                },
-                "glassPrice": 18.75
+                "glassPrice": 14.75
               },
               {
                 "wine": "Andronicus",
@@ -610,6 +594,22 @@
                   "multiLocationId": null
                 },
                 "glassPrice": 15.75
+              },
+              {
+                "wine": "Eschol  by Trefethen",
+                "region": "Napa/Sonoma",
+                "varietal": "Cab Sauv-based",
+                "glassSize": "8oz",
+                "toastLink": {
+                  "id": "4455eed5-1fc8-4525-a493-8997935021dc",
+                  "name": "FH RB 2",
+                  "price": 18.75,
+                  "categoryPath": "Glasses",
+                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
+                  "locationName": null,
+                  "multiLocationId": null
+                },
+                "glassPrice": 11.75
               }
             ],
             "toastLink": {
@@ -624,24 +624,8 @@
             "flightPrice": 14.75
           },
           {
-            "name": "Thanksgiving-Friendly Int. Red Flight",
+            "name": " International Red Flight",
             "items": [
-              {
-                "wine": "Ca Di Pian",
-                "region": "Italy",
-                "varietal": "Barbera",
-                "glassSize": "8oz",
-                "toastLink": {
-                  "id": "df3bd0d1-34d4-4b67-b9f7-d7ca030e5f4f",
-                  "name": "FH Import 1",
-                  "price": 14.75,
-                  "categoryPath": "Glasses",
-                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
-                  "locationName": null,
-                  "multiLocationId": null
-                },
-                "glassPrice": 14.75
-              },
               {
                 "wine": "Albert Bichot Secret ",
                 "region": "Burgundy, France",
@@ -659,9 +643,25 @@
                 "glassPrice": 19.75
               },
               {
-                "wine": "Ultreia",
-                "region": "Bierzo, Spain",
-                "varietal": "Mencia",
+                "wine": "GD Vajra ",
+                "region": "Italy",
+                "varietal": "Barolo",
+                "glassSize": "8oz",
+                "toastLink": {
+                  "id": "df3bd0d1-34d4-4b67-b9f7-d7ca030e5f4f",
+                  "name": "FH Import 1",
+                  "price": 14.75,
+                  "categoryPath": "Glasses",
+                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
+                  "locationName": null,
+                  "multiLocationId": null
+                },
+                "glassPrice": 17.75
+              },
+              {
+                "wine": "Saint Cosme “Les Deux Albion”",
+                "region": "Cote du Rhône, France",
+                "varietal": "Grenache Syrah blend",
                 "glassSize": "8oz",
                 "toastLink": {
                   "id": "38d9c5af-13fe-42d5-a548-a0e8ef432d95",
@@ -672,7 +672,7 @@
                   "locationName": null,
                   "multiLocationId": null
                 },
-                "glassPrice": 10.75
+                "glassPrice": 11.75
               }
             ],
             "toastLink": {
@@ -684,14 +684,14 @@
               "locationName": null,
               "multiLocationId": null
             },
-            "flightPrice": 15.75
+            "flightPrice": 16.75
           },
           {
             "name": "Cabernet Sauvignon Flight",
             "items": [
               {
                 "wine": "Courtier ",
-                "region": "Spring Mtn, Napa",
+                "region": "Rutherford",
                 "varietal": "Cabernet",
                 "glassSize": "8oz",
                 "toastLink": {
@@ -706,23 +706,7 @@
                 "glassPrice": 12.75
               },
               {
-                "wine": "Gemstone \"Facets\"",
-                "region": "Napa Valley",
-                "varietal": "Cabernet",
-                "glassSize": "8oz",
-                "toastLink": {
-                  "id": "09d46631-1264-465e-a65b-3c142a04a037",
-                  "name": "FH Cab 2",
-                  "price": 18.75,
-                  "categoryPath": "Glasses",
-                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
-                  "locationName": null,
-                  "multiLocationId": null
-                },
-                "glassPrice": 18.75
-              },
-              {
-                "wine": "Groth",
+                "wine": "Clos du Val ",
                 "region": "Napa Valley",
                 "varietal": "Cabernet",
                 "glassSize": "8oz",
@@ -730,6 +714,22 @@
                   "id": "36482c6e-f772-4490-ab60-8e9ca059ac9e",
                   "name": "FH Cab 3",
                   "price": 19.75,
+                  "categoryPath": "Glasses",
+                  "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
+                  "locationName": null,
+                  "multiLocationId": null
+                },
+                "glassPrice": 17.75
+              },
+              {
+                "wine": "Auctioneer",
+                "region": "Napa Valley",
+                "varietal": "Cabernet",
+                "glassSize": "8oz",
+                "toastLink": {
+                  "id": "09d46631-1264-465e-a65b-3c142a04a037",
+                  "name": "FH Cab 2",
+                  "price": 18.75,
                   "categoryPath": "Glasses",
                   "locationGuid": "ae72c70c-b39a-4292-b669-2b9555797bd5",
                   "locationName": null,
@@ -747,7 +747,7 @@
               "locationName": null,
               "multiLocationId": null
             },
-            "flightPrice": 17.75
+            "flightPrice": 16.75
           }
         ],
         "subtitle": "Three 3oz pours, or enjoy an 8oz glass",
@@ -1084,6 +1084,10 @@
                 "locationName": null,
                 "multiLocationId": null
               }
+            },
+            {
+              "name": "San Carlo Truffle Potato Chips",
+              "price": 0
             }
           ],
           "title": "Snacks"
@@ -1145,6 +1149,11 @@
                 "locationName": null,
                 "multiLocationId": null
               }
+            },
+            {
+              "meta": "Hard Cider",
+              "name": "Blake’s Blood Orange & Cranberry ",
+              "price": 4.99
             }
           ],
           "title": "Bottled Beers"
