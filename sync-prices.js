@@ -1,7 +1,9 @@
 #!/usr/bin/env node
 
 const DEFAULT_ADMIN_BASE_URL = "https://admin.wvwine.co";
-const ENDPOINT_PATH = "/api/toast/menu/fourth-linked-prices";
+const ENDPOINT_PATH =
+  process.env.TOAST_PRICE_SYNC_ENDPOINT_PATH?.trim() || "/api/toast/menu/fourth-linked-prices";
+const LOCATION_LABEL = process.env.TOAST_PRICE_SYNC_LOCATION?.trim() || "Fourth Street";
 
 function readRequiredEnv(name) {
   const value = process.env[name]?.trim();
@@ -35,7 +37,7 @@ function summarizeResult(payload) {
   const updated = Array.isArray(payload.updated) ? payload.updated : [];
   const skipped = Array.isArray(payload.skipped) ? payload.skipped : [];
 
-  console.log("Fourth Street Toast price sync complete.");
+  console.log(`${LOCATION_LABEL} Toast price sync complete.`);
   console.log(`Applied: ${payload.applied === true}`);
   console.log(`Dry run: ${payload.dryRun === true}`);
   console.log(`Linked prices: ${payload.linkedPriceCount ?? payload.itemCount ?? 0}`);
